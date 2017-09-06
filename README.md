@@ -1,2 +1,2 @@
 # DCPL
-Mostly Python. Some PHP. Enjoy.
+Mostly XML. Some Python, some PHP. Enjoy.
