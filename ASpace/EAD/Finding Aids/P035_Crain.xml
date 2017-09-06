@@ -1,0 +1,309 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type="text/xml" href="I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/eadcbs6rev.xsl"?><!DOCTYPE ead PUBLIC "-//Society of American Archivists//DTD ead.dtd (Encoded Archival Description (EAD) Version 1.0)//EN" "I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/ead.dtd">
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" repositoryencoding="iso15511" relatedencoding="MARC21">
+	<eadid mainagencycode="DWP" countrycode="US" url="http://washingtoniana.dclibrary.org">P035_Crain</eadid>
+<filedesc>
+<titlestmt>
+    <titleproper encodinganalog="245$a">Dr. Darrell Clayton Crain Jr.</titleproper>
+    <subtitle>An inventory of the Dr. Darrell Clayton Crain Jr. Photograph Collection at DC Public Library</subtitle>
+    <author encodinganalog="245$c">Finding aid prepared by Ayana Reed.</author>
+</titlestmt>
+<publicationstmt>
+<publisher encodinganalog="260$b">DC Public Library, Special Collections</publisher>
+    <date type="publication" encodinganalog="260$c" normal="2015-08">2015-08</date>
+<address><addressline>901 G Street NW</addressline><addressline>DC Public Library</addressline><addressline>Washington, D.C. 20009</addressline></address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation encodinganalog="500">EAD encoded by Paul Kelly on
+	<date normal="2017-07-20">2017-07-20</date>
+</creation>
+<langusage>English</langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory" relatedencoding="MARC21">
+<did id="a1">
+<head>Descriptive Summary</head>
+<repository label="Repository:" encodinganalog="852$a"><corpname>DC Public Library, Special Collections</corpname></repository>
+    <unitdate encodinganalog="260$c" label="Dates:" type="inclusive" normal="1949/1989">1949-1989</unitdate>
+    <unittitle label="Title:" encodinganalog="245$a">Dr. Darrell Clayton Crain Jr. Photograph Collection</unittitle>
+<physdesc label="Extent:" encodinganalog="300$a"><extent>2 boxes</extent></physdesc>
+<unitid encodinganalog="090" label="Collection Number:" countrycode="US" repositorycode="dwp">P035</unitid>
+<langmaterial encodinganalog="041" label="Language:"><language langcode="eng">English</language></langmaterial>
+</did>
+	
+<dsc type="combined" id="a23">
+<head>Detailed Description of the Collection</head>
+<c01 level="series">
+   <did>
+       <unittitle>Series 1</unittitle>
+   </did>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">1</container>
+            <unittitle>Tidal Basin Cherry Blossoms</unittitle>
+            <unitdate type="inclusive" normal="1949-04">1949 April</unitdate>
+        </did>
+        
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">2</container>
+            <unittitle>Children's Day at Northminster Presbyterian Church</unittitle>
+            <unitdate type="inclusive" normal="1950">1950</unitdate>
+        </did>
+        
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">3</container>
+            <unittitle>Glen Echo Park Crystal Pool</unittitle>
+            <unitdate type="inclusive" normal="06-1950">June 1950</unitdate>
+        </did>
+        
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">4</container>
+            <unittitle>Christmas - Georgetown University Hospital</unittitle>
+            <unitdate type="inclusive" normal="1954">1954</unitdate>
+        </did>
+        
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">5</container>
+            <unittitle>Georgetown University Construction of St. Mary's Hall</unittitle>
+            <unitdate type="inclusive" normal="1955/1958">1955-1958</unitdate>
+        </did>
+        
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">6</container>
+            <unittitle>Duke University Homecoming - Durham - North Carolina</unittitle>
+            <unitdate type="inclusive" normal="10-1956">October 1956</unitdate>
+        </did>
+        
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">7</container>
+            <unittitle>Cherry Blossoms and Easter Monday - Tidal Basin and White House</unittitle>
+            <unitdate type="inclusive" normal="1958">1958</unitdate>
+        </did>
+        
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">8</container>
+            <unittitle>Nevada /Las Vegas/Hoover Dam</unittitle>
+            <unitdate type="inclusive" normal="1958">1958</unitdate>
+        </did>
+        
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">9</container>
+            <unittitle>Bermuda/Hamilton/various other locations</unittitle>
+            <unitdate type="inclusive" normal="1960">1960</unitdate>
+        </did>
+        
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">10</container>
+            <unittitle>Civil Rights March on Washington for Jobs and Freedom</unittitle>
+            <unitdate type="inclusive" normal="1963-08-28">August 28 1963</unitdate>
+        </did>
+        
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">11</container>
+            <unittitle>Inauguration Parade for President Lyndon Johnson</unittitle>
+            <unitdate type="inclusive" normal="1965">1965</unitdate>
+        </did>
+        
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">12</container>
+            <unittitle>Hotel Hershey in Hershey - Pennsylvania</unittitle>
+            <unitdate type="inclusive" normal="06-1965">June 1965</unitdate>
+        </did>
+        
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">13</container>
+            <unittitle>Razing Stoneleigh Court Apartments - Connecticut Ave. NW</unittitle>
+            <unitdate type="inclusive" normal="1965">1965</unitdate>
+        </did>
+        
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">14</container>
+            <unittitle>Big Snow</unittitle>
+            <unitdate type="inclusive" normal="1966">1966</unitdate>
+        </did>
+        
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">15</container>
+            <unittitle>Tents in Lafayette Square</unittitle>
+            <unitdate type="inclusive" normal="04-1966">April 1966</unitdate>
+        </did>
+        
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">16</container>
+            <unittitle>Western USA - Utah and Colorado</unittitle>
+            <unitdate type="inclusive" normal="1966">1966</unitdate>
+        </did>
+        
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">17</container>
+            <unittitle>Aftermath of DC Riots following assassination of Martin Luther King</unittitle>
+            <unitdate type="inclusive" normal="1968">1968</unitdate>
+        </did>
+        
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">18</container>
+            <unittitle>Resurrection City and Solidarity Day</unittitle>
+            <unitdate type="inclusive" normal="1968">1968</unitdate>
+        </did>
+        
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">19</container>
+            <unittitle>Monaco</unittitle>
+            <unitdate type="inclusive" normal="1973">1973</unitdate>
+        </did>
+        
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">20</container>
+            <unittitle>New Orleans (Jackson Square and French Quarter)</unittitle>
+            <unitdate type="inclusive" normal="1975">1975</unitdate>
+        </did>
+        
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">21</container>
+            <unittitle>Bicentennial Fireworks on the National Mall</unittitle>
+            <unitdate type="inclusive" normal="1976">1976</unitdate>
+        </did>
+        
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">22</container>
+            <unittitle>Chatham - Massachusetts</unittitle>
+            <unitdate type="inclusive" normal="08-1976">August 1976</unitdate>
+        </did>
+        
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">23</container>
+            <unittitle>Inauguration Parade for President Jimmy Carter</unittitle>
+            <unitdate type="inclusive" normal="1977">1977</unitdate>
+        </did>
+        
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">24</container>
+            <unittitle>Maine and Upstate NY (Bar Harbor -Maine/Ausable Chasm - NY/Mirror Lake - NY)</unittitle>
+            <unitdate type="inclusive" normal="1977">1977</unitdate>
+        </did>
+        
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">25</container>
+            <unittitle>Death Valley National Park - California</unittitle>
+            <unitdate type="inclusive" normal="03-1978">March 1978</unitdate>
+        </did>
+        
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">26</container>
+            <unittitle>Vermont (Plymouth and Woodstock - Vermont)</unittitle>
+            <unitdate type="inclusive" normal="10-1988">October 1988</unitdate>
+        </did>
+        
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">27</container>
+            <unittitle>Statuary in Washington DC</unittitle>
+            <unitdate type="inclusive" normal="01-1989">January 1989</unitdate>
+        </did>
+        
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">28</container>
+            <unittitle>Residences of Dr. Darrell C. Crain Jr.</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+        </did>
+        <scopecontent>
+            <p>(digital only for 1919, 1926, and 1941 images)</p>
+        </scopecontent>
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">2</container>
+            <container type="Folder">1</container>
+            <unittitle>One 8x10 black and white photograph taken in the living room of Dr. Crain’s home at 1619 Roxanna Road NW Washington D.C. during an organizational meeting of the DC Rheumatism Society</unittitle>
+            <unitdate type="inclusive" normal="1946-06-04">June 4 1946</unitdate>
+        </did>
+        
+    </c02>
+</c01>
+</dsc>
+</archdesc>
+</ead>

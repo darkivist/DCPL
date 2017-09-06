@@ -1,0 +1,430 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type="text/xml" href="I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/eadcbs6rev.xsl"?><!DOCTYPE ead PUBLIC "-//Society of American Archivists//DTD ead.dtd (Encoded Archival Description (EAD) Version 1.0)//EN" "I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/ead.dtd">
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" repositoryencoding="iso15511" relatedencoding="MARC21">
+	<eadid mainagencycode="DWP" countrycode="US" url="http://washingtoniana.dclibrary.org">P013_MtZion</eadid>
+<filedesc>
+<titlestmt>
+    <titleproper encodinganalog="245$a">Mount Zion United Methodist Church</titleproper>
+    <subtitle>An inventory of the Mount Zion United Methodist Church Photograph Collection at DC Public Library</subtitle>
+    <author encodinganalog="245$c">Finding aid prepared by Mark S. Greek.</author>
+</titlestmt>
+<publicationstmt>
+<publisher encodinganalog="260$b">DC Public Library, Special Collections</publisher>
+    <date type="publication" encodinganalog="260$c" normal="2006-03">2006-03</date>
+<address><addressline>901 G Street NW</addressline><addressline>DC Public Library</addressline><addressline>Washington, D.C. 20009</addressline></address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation encodinganalog="500">EAD encoded by Paul Kelly on
+	<date normal="2017-07-20">2017-07-20</date>
+</creation>
+<langusage>English</langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory" relatedencoding="MARC21">
+<did id="a1">
+<head>Descriptive Summary</head>
+<repository label="Repository:" encodinganalog="852$a"><corpname>DC Public Library, Special Collections</corpname></repository>
+    <unitdate encodinganalog="260$c" label="Dates:" type="inclusive" normal="1984">1984</unitdate>
+    <unittitle label="Title:" encodinganalog="245$a">Mount Zion United Methodist Church Photograph Collection</unittitle>
+<physdesc label="Extent:" encodinganalog="300$a"><extent>1 box</extent></physdesc>
+<unitid encodinganalog="090" label="Collection Number:" countrycode="US" repositorycode="DCU">P013</unitid>
+<langmaterial encodinganalog="041" label="Language:"><language langcode="eng">English</language></langmaterial>
+</did>
+	
+<dsc type="combined" id="a23">
+<head>Detailed Description of the Collection</head>
+<c01 level="series">
+   <did>
+       <unittitle>Series 1</unittitle>
+   </did>
+    	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">1</container>
+			<unittitle>Exterior of Community House</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">2</container>
+			<unittitle>Construction/restoration sign</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">3</container>
+			<unittitle>Exterior of Community House with sign in foreground</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">4</container>
+			<unittitle>Exterior of Community House</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">5</container>
+			<unittitle>Exterior of Community House</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">6</container>
+			<unittitle>Rear of Community House taken from handicap ramp </unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">7</container>
+			<unittitle>Rear of Community House taken from handicap ramp</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">8</container>
+			<unittitle>Church handicap ramp</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">9</container>
+			<unittitle>Church handicap ramp</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">10</container>
+			<unittitle>Rear of Community House taken from handicap ramp</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">11</container>
+			<unittitle>Rear of Community House and handicap ramp</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">12</container>
+			<unittitle>Church handicap ramp</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">13</container>
+			<unittitle>Rear of Community House taken from handicap ramp</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">14</container>
+			<unittitle>Church handicap ramp</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">15</container>
+			<unittitle>Church handicap ramp</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">16</container>
+			<unittitle>Church handicap ramp</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">17</container>
+			<unittitle>Bathroom sink and mirror</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">18</container>
+			<unittitle>Bathroom toilet </unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">19</container>
+			<unittitle>Bathroom toilet</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">20</container>
+			<unittitle>Main room with folding chairs </unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">21</container>
+			<unittitle>Main room with folding chairs and chalkboard</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">22</container>
+			<unittitle>Main room with folding chairs</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">23</container>
+			<unittitle>Main room with folding chairs</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">24</container>
+			<unittitle>Main room with folding chairs</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">25</container>
+			<unittitle>Floor of upper room</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">26</container>
+			<unittitle>Stairs to upper room</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">27</container>
+			<unittitle>Floor of upper room</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">28</container>
+			<unittitle>Stairs to upper room</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">29</container>
+			<unittitle>Side door from interior</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">30</container>
+			<unittitle>Ceiling and wall of main room</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">31</container>
+			<unittitle>Rear Window</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">32</container>
+			<unittitle>Side door from interior</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">33</container>
+			<unittitle>Window latch on rear window</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">34</container>
+			<unittitle>Rear window and wall</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">35</container>
+			<unittitle>Rear room fireplace</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">36</container>
+			<unittitle>Bathroom sink and mirror</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">37</container>
+			<unittitle>Bathroom toilet</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">38</container>
+			<unittitle>Light fixture</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">39</container>
+			<unittitle>Front door and gas meter (interior)</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">40</container>
+			<unittitle>Gas meter and pipes going into ceiling</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">41</container>
+			<unittitle>Furnace in upper room</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">42</container>
+			<unittitle>Smoke alarm</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">43</container>
+			<unittitle>Duct work in lower room ceiling </unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">44</container>
+			<unittitle>Furnace in upper room </unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">45</container>
+			<unittitle>Roof of community house</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">46</container>
+			<unittitle>Exterior of community house</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">47</container>
+			<unittitle>Exterior view of the rear of the community house</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">48</container>
+			<unittitle>Window in the upper room</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+</c01>
+</dsc>
+</archdesc>
+</ead>

@@ -1,0 +1,534 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type="text/xml" href="I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/eadcbs6rev.xsl"?><!DOCTYPE ead PUBLIC "-//Society of American Archivists//DTD ead.dtd (Encoded Archival Description (EAD) Version 1.0)//EN" "I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/ead.dtd">
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" repositoryencoding="iso15511" relatedencoding="MARC21">
+	<eadid mainagencycode="DWP" countrycode="US" url="http://washingtoniana.dclibrary.org">P018_NavyYard</eadid>
+<filedesc>
+<titlestmt>
+    <titleproper encodinganalog="245$a">Washington Navy Yard</titleproper>
+    <subtitle>An inventory of the Washington Navy Yard Photograph Collection at DC Public Library</subtitle>
+    <author encodinganalog="245$c">Finding aid prepared by Mark S. Greek.</author>
+</titlestmt>
+<publicationstmt>
+<publisher encodinganalog="260$b">DC Public Library, Special Collections</publisher>
+    <date type="publication" encodinganalog="260$c" normal="2006-05">2006-05</date>
+<address><addressline>901 G Street NW</addressline><addressline>DC Public Library</addressline><addressline>Washington, D.C. 20009</addressline></address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation encodinganalog="500">EAD encoded by Paul Kelly on
+	<date normal="2017-07-20">2017-07-20</date>
+</creation>
+<langusage>English</langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory" relatedencoding="MARC21">
+<did id="a1">
+<head>Descriptive Summary</head>
+<repository label="Repository:" encodinganalog="852$a"><corpname>DC Public Library, Special Collections</corpname></repository>
+    <unitdate encodinganalog="260$c" label="Dates:" type="inclusive" normal="1975">1975</unitdate>
+    <unittitle label="Title:" encodinganalog="245$a">Washington Navy Yard Photograph Collection</unittitle>
+<physdesc label="Extent:" encodinganalog="300$a"><extent>1 box</extent></physdesc>
+<unitid encodinganalog="090" label="Collection Number:" countrycode="US" repositorycode="dwp">P018</unitid>
+<langmaterial encodinganalog="041" label="Language:"><language langcode="eng">English</language></langmaterial>
+</did>
+	
+<dsc type="combined" id="a23">
+<head>Detailed Description of the Collection</head>
+<c01 level="series">
+   <did>
+       <unittitle>Series 1</unittitle>
+   </did>
+    	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">1</container>
+			<unittitle>Exterior of Building 137 – General Foundry and Laboratory</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">2</container>
+			<unittitle>Exterior of Building 137 – General Foundry and Laboratory</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">3</container>
+			<unittitle>Exterior of Building 137 – General Foundry and Laboratory</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">4</container>
+			<unittitle>Exterior of Building 137 – General Foundry and Laboratory</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">5</container>
+			<unittitle>Exterior of Building 137 – General Foundry and Laboratory</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">6</container>
+			<unittitle>Exterior of Building 137 – General Foundry and Laboratory</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">7</container>
+			<unittitle>Exterior of Building 137 – General Foundry and Laboratory</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">8</container>
+			<unittitle>Exterior of Building 137 – General Foundry and Laboratory</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">9</container>
+			<unittitle>Exterior of Building 137 – General Foundry and Laboratory</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">10</container>
+			<unittitle>Exterior of Building 137 – General Foundry and Laboratory</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">11</container>
+			<unittitle>Exterior of Building 137 – General Foundry and Laboratory</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">12</container>
+			<unittitle>Interior of Building 137 – General Foundry and Laboratory</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">13</container>
+			<unittitle>Interior of Building 137 – General Foundry and Laboratory</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">14</container>
+			<unittitle>Interior of Building 137 – General Foundry and Laboratory</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">15</container>
+			<unittitle>Interior of Building 137 – General Foundry and Laboratory</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">16</container>
+			<unittitle>Exterior of Building 167 - Boiler Makers shop</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">17</container>
+			<unittitle>Exterior of Building 167 - Boiler Makers shop</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">18</container>
+			<unittitle>Exterior of Building 167 - Boiler Makers shop</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">19</container>
+			<unittitle>Exterior of Building 167 - Boiler Makers shop</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">20</container>
+			<unittitle>Exterior of Building 167 - Boiler Makers shop</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">21</container>
+			<unittitle>Exterior of Building 167 - Boiler Makers shop</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">22</container>
+			<unittitle>Exterior of Building 167 - Boiler Makers shop</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">23</container>
+			<unittitle>Exterior of Building 167 - Boiler Makers shop</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">24</container>
+			<unittitle>Exterior of Building 167 - Boiler Makers shop</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">25</container>
+			<unittitle>Exterior of Building 167 - Boiler Makers shop</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">26</container>
+			<unittitle>Exterior of Building 167 - Boiler Makers shop</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">27</container>
+			<unittitle>Interior of Building 167 - Boiler Makers shop</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">28</container>
+			<unittitle>Interior of Building 167 - Boiler Makers shop</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">29</container>
+			<unittitle>Interior of Building 167 - Boiler Makers shop</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">30</container>
+			<unittitle>Interior of Building 167 - Boiler Makers shop</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">31</container>
+			<unittitle>Interior of Building 167 - Boiler Makers shop</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">32</container>
+			<unittitle>Architectural drawing of building 137 – Foundation plan</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">33</container>
+			<unittitle>Architectural drawing of building 137 – Interior foundation plan</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">34</container>
+			<unittitle>Architectural drawing of building 137 – Detail of casting pits</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">35</container>
+			<unittitle>Architectural drawing of building 137 – Foundation and framing plans</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">36</container>
+			<unittitle>Architectural drawing of building 137 – Foundation plan for crucible furnaces</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">37</container>
+			<unittitle>Architectural drawing of building 137 – Crane runway cols.</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">38</container>
+			<unittitle>Architectural drawing of building 137 – Addition to general foundry </unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">39</container>
+			<unittitle>Architectural drawing of building 137 – Trusses</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">40</container>
+			<unittitle>Architectural drawing of building 137 – Longitudinal trusses</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">41</container>
+			<unittitle>Architectural drawing of building 137 – Columns</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">42</container>
+			<unittitle>Architectural drawing of building 137 – Making diagram</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">43</container>
+			<unittitle>Architectural drawing of building 137 – Annealing furnace No 12 foundation plan</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">44</container>
+			<unittitle>Architectural drawing of building 137 – Hopper and casting for sand conveyor</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">45</container>
+			<unittitle>Architectural drawing of building 137 – Showing material bins</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">46</container>
+			<unittitle>Architectural drawing of building 137 – Column foundation enlargement</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">47</container>
+			<unittitle>Architectural drawing of building 137 – Jib crane for core setting</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">48</container>
+			<unittitle>Architectural drawing of building 137 – Enlargement of north door</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">49</container>
+			<unittitle>Architectural drawing of building 137 – Building alterations/sandblast equipment</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">50</container>
+			<unittitle>Architectural drawing of building 137 – 25R electric furnace</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">51</container>
+			<unittitle>Architectural drawing of building 137 – Floor plan</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">52</container>
+			<unittitle>Architectural drawing of building 167 – General design</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">53</container>
+			<unittitle>Architectural drawing of building 167 – Location and foundations for equipment</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">54</container>
+			<unittitle>Architectural drawing of building 167 – Supports for jib cranes</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">55</container>
+			<unittitle>Architectural drawing of building 167 – New sliding door in east end</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">56</container>
+			<unittitle>Architectural drawing of building 167 – Crane door operating gear</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">57</container>
+			<unittitle>Architectural drawing of building 167 – Extension-sewer, water, air and R.R. tracks</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">58</container>
+			<unittitle>Architectural drawing of building 167 – Extension heating and electric work</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">59</container>
+			<unittitle>Architectural drawing of building 167 – Shelter for stress relieving furnace</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">60</container>
+			<unittitle>Architectural drawing of building 167 – Ventilating plan and section</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">61</container>
+			<unittitle>Architectural drawing of building 167 – Proposed enclosure of crane runway</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+</c01>
+</dsc>
+</archdesc>
+</ead>

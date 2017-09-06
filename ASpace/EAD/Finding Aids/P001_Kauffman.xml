@@ -1,0 +1,518 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type="text/xml" href="I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/eadcbs6rev.xsl"?><!DOCTYPE ead PUBLIC "-//Society of American Archivists//DTD ead.dtd (Encoded Archival Description (EAD) Version 1.0)//EN" "I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/ead.dtd">
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" repositoryencoding="iso15511" relatedencoding="MARC21">
+	<eadid mainagencycode="DWP" countrycode="US" url="http://washingtoniana.dclibrary.org">P001_Kauffman</eadid>
+<filedesc>
+<titlestmt>
+    <titleproper encodinganalog="245$a">Samuel Hay Kauffmann</titleproper>
+    <subtitle>An inventory of the Samuel Hay Kauffmann Family Photographs Collection at DC Public Library</subtitle>
+    <author encodinganalog="245$c">Finding aid prepared by Susan G. Anderson.</author>
+</titlestmt>
+<publicationstmt>
+<publisher encodinganalog="260$b">DC Public Library, Special Collections</publisher>
+    <date type="publication" encodinganalog="260$c" normal="1988-10">1988-10</date>
+<address><addressline>901 G Street NW</addressline><addressline>DC Public Library</addressline><addressline>Washington, D.C. 20009</addressline></address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation encodinganalog="500">EAD encoded by Paul Kelly on
+	<date normal="2017-07-20">2017-07-20</date>
+</creation>
+<langusage>English</langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory" relatedencoding="MARC21">
+<did id="a1">
+<head>Descriptive Summary</head>
+<repository label="Repository:" encodinganalog="852$a"><corpname>DC Public Library, Special Collections</corpname></repository>
+    <unitdate encodinganalog="260$c" label="Dates:" type="inclusive" normal="1844/1916">1844-1916</unitdate>
+    <unittitle label="Title:" encodinganalog="245$a">Samuel Hay Kauffmann Family Photographs Collection</unittitle>
+<physdesc label="Extent:" encodinganalog="300$a"><extent>1 Linear Foot</extent></physdesc>
+<unitid encodinganalog="090" label="Collection Number:" countrycode="US" repositorycode="DCU">P001</unitid>
+<langmaterial encodinganalog="041" label="Language:"><language langcode="eng">English</language></langmaterial>
+</did>
+	
+<dsc type="combined" id="a23">
+<head>Detailed Description of the Collection</head>
+<c01 level="series">
+   <did>
+       <unittitle>Series 1: S.H. Kauffmann portraits</unittitle>
+   </did>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">1</container>
+            <unittitle>Daguerreotype - uncased</unittitle>
+            <unitdate type="inclusive" normal="1844/1849">ca. 1844-1849</unitdate>
+        </did>
+        <scopecontent>
+            <p>(Glass deteriorating - store glass side down)</p>
+        </scopecontent>
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">2</container>
+            <unittitle>Tintype in Union Case</unittitle>
+            <unitdate type="inclusive" normal="1855">ca. 1855</unitdate>
+        </did>
+        <scopecontent>
+            <p>(Photocopy of Union Case patent info enclosed)</p>
+        </scopecontent>
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">3</container>
+            <unittitle>Gelatin silver developing out paper print copy of tintype</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+        </did>
+        
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">4</container>
+            <unittitle>Cartes-de-visite (4) - albumen</unittitle>
+            <unitdate type="inclusive" normal="1862/1865">ca. 1862-1865</unitdate>
+        </did>
+        <scopecontent>
+            <p>Photographers: Ulke, Brady (Note: c.d.v. by Brady has photocopy of caricature of S.H.K. on verso.)</p>
+        </scopecontent>
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">5</container>
+            <unittitle>Cartes-de-visite (5) - albumen</unittitle>
+            <unitdate type="inclusive" normal="1870/1874">ca. 1870-1874</unitdate>
+        </did>
+        <scopecontent>
+            <p>Photographer: Goldier (sp?)</p>
+        </scopecontent>
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">6</container>
+            <unittitle>Cartes-de-visite (4) - albumen</unittitle>
+            <unitdate type="inclusive" normal="1876">ca. 1876</unitdate>
+        </did>
+        <scopecontent>
+            <p>Photographer: M.P. Simons</p>
+        </scopecontent>
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">7</container>
+            <unittitle>Cabinet cards (4) - albumen</unittitle>
+            <unitdate type="inclusive" normal="1876/1880">ca. 1876-early 1880s</unitdate>
+        </did>
+        <scopecontent>
+            <p>Photographers; Reichmann, Rice</p>
+        </scopecontent>
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">8</container>
+            <unittitle>Cabinet cards (4)</unittitle>
+            <unitdate type="inclusive" normal="1880">albumen - ca. early 1880s</unitdate>
+        </did>
+        <scopecontent>
+            <p>Photographer: Rice</p>
+        </scopecontent>
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">9</container>
+            <unittitle>Cartes-de-visite (4) - albumen</unittitle>
+            <unitdate type="inclusive" normal="1893">ca. 1893</unitdate>
+        </did>
+        <scopecontent>
+            <p>Photographer: Charles Parker</p>
+        </scopecontent>
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">10</container>
+            <unittitle>Cabinet card - albumen</unittitle>
+            <unitdate type="inclusive" normal="1893">ca. 1893</unitdate>
+        </did>
+        <scopecontent>
+            <p>Photographer: Charles Parker</p>
+        </scopecontent>
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">11</container>
+            <unittitle>Albumen photo of bas relief profile</unittitle>
+            <unitdate type="inclusive" normal="1890">ca. 1890s</unitdate>
+        </did>
+        
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">12</container>
+            <unittitle>Cabinet card - platinum</unittitle>
+            <unitdate type="inclusive" normal="1900/1905">ca. 1900-1905</unitdate>
+        </did>
+        
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">13</container>
+            <unittitle>Platinum print</unittitle>
+            <unitdate type="inclusive" normal="1900/1905">ca. 1900-1905</unitdate>
+        </did>
+        <scopecontent>
+            <p> (brittle paper)</p>
+        </scopecontent>
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">14</container>
+            <unittitle>Platinum print</unittitle>
+            <unitdate type="inclusive" normal="1900/1905">ca. 1900-1905</unitdate>
+        </did>
+        <scopecontent>
+            <p> (torn paper, no mount)</p>
+        </scopecontent>
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">15</container>
+            <unittitle>Platinum print</unittitle>
+            <unitdate type="inclusive" normal="1900/1905">ca. 1900-1905</unitdate>
+        </did>
+        <scopecontent>
+            <p>(from same negative as item 9)</p>
+        </scopecontent>
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">16</container>
+            <unittitle>Platinum print</unittitle>
+            <unitdate type="inclusive" normal="1900/1905">ca. 1900-1905</unitdate>
+        </did>
+        <scopecontent>
+            <p>(from same sitting as item 9)</p>
+        </scopecontent>
+    </c02>
+</c01>
+<c01 level="series">
+   <did>
+       <unittitle>Series 2: Louise Kauffmann Simpson portraits</unittitle>
+   </did>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">17</container>
+            <unittitle>Cartes-de-visite (7) - albumen</unittitle>
+            <unitdate type="inclusive" normal="1870/1876">ca. 1870-1876</unitdate>
+        </did>
+        <scopecontent>
+            <p>Photographers: R. Reichmann, Gardner</p>
+        </scopecontent>
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">18</container>
+            <unittitle>Cabinet cards (4) - albumen</unittitle>
+            <unitdate type="inclusive" normal="1872">ca. 1872</unitdate>
+        </did>
+        <scopecontent>
+            <p>Photographer: R.W. Addis</p>
+        </scopecontent>
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">19</container>
+            <unittitle>Cabinet card - albumen - Western studio scene</unittitle>
+            <unitdate type="inclusive" normal="1875">ca. 1875</unitdate>
+        </did>
+        <scopecontent>
+            <p>Photographer: Morse (San Francisco)</p>
+        </scopecontent>
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">20</container>
+            <unittitle>Cabinet cards (3) - albumen</unittitle>
+            <unitdate type="inclusive" normal="1876">ca. 1876</unitdate>
+        </did>
+        <scopecontent>
+            <p>Photographer: R. Reichmann</p>
+        </scopecontent>
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">21</container>
+            <unittitle>Tintype in paper mat with Mary Chambers</unittitle>
+            <unitdate type="inclusive" normal="1876">ca. 1876</unitdate>
+        </did>
+        <scopecontent>
+            <p>Photographer: Johnson’s National Gallery</p>
+        </scopecontent>
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">22</container>
+            <unittitle>Cabinet cards (3) - albumen</unittitle>
+            <unitdate type="inclusive" normal="1877">ca. 1877</unitdate>
+        </did>
+        <scopecontent>
+            <p>Photographer: Rice</p>
+        </scopecontent>
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">23</container>
+            <unittitle>Cabinet cards (3) - albumen</unittitle>
+            <unitdate type="inclusive" normal="1880/1889">ca. 1880-1889</unitdate>
+        </did>
+        <scopecontent>
+            <p>Photographers: Rice, Prince</p>
+        </scopecontent>
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">24</container>
+            <unittitle>Cabinet card with trimmed print with Alma Johnson - albumen</unittitle>
+            <unitdate type="inclusive" normal="1889">ca. 1889</unitdate>
+        </did>
+        <scopecontent>
+            <p>Photographers: Marceau (S.F.,CA), Jacoby (Minn., MN)</p>
+        </scopecontent>
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">25</container>
+            <unittitle>Interior of Washington Cottage - Nantucket - Mass. - albumen</unittitle>
+            <unitdate type="inclusive" normal="1883">ca. 1883</unitdate>
+        </did>
+        <scopecontent>
+            <p>broken card mount. Photographer: J. Freeman</p>
+        </scopecontent>
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">26</container>
+            <unittitle>Cabinet cards (2) - albumen</unittitle>
+            <unitdate type="inclusive" normal="1890">ca. 1890.</unitdate>
+        </did>
+        <scopecontent>
+            <p>Photographer: C.M. Gilbert</p>
+        </scopecontent>
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">27</container>
+            <unittitle>Cabinet cards (2 - dup.) - albumen</unittitle>
+            <unitdate type="inclusive" normal="1890">ca. 1890</unitdate>
+        </did>
+        <scopecontent>
+            <p>Photographer: C.M. Gilbert</p>
+        </scopecontent>
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">28</container>
+            <unittitle>Cabinet cards (2 - dup.) - albumen</unittitle>
+            <unitdate type="inclusive" normal="1893">ca. 1893</unitdate>
+        </did>
+        <scopecontent>
+            <p>one with broken card mount,Photographer: C.M. Gilbert</p>
+        </scopecontent>
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">29</container>
+            <unittitle>Japanese studio print - albumen cabinet card with hand-applied color</unittitle>
+            <unitdate type="inclusive" normal="1894">ca. 1894</unitdate>
+        </did>
+        <scopecontent>
+            <p>Photographer: A. Farsari (Yokohama, Japan)</p>
+        </scopecontent>
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">30</container>
+            <unittitle>Duplicate of item 29</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+        </did>
+        
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">31</container>
+            <unittitle>Japanese studio print - albumen cabinet card with hand-applied color</unittitle>
+            <unitdate type="inclusive" normal="1894">ca. 1894</unitdate>
+        </did>
+        <scopecontent>
+            <p>with Miranda Noyes. Photographer: A. Farsari (Yokohama, Japan)</p>
+        </scopecontent>
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">32</container>
+            <unittitle>Gelatin silver developing out paper copy photo</unittitle>
+            <unitdate type="inclusive" normal="1900">ca. 1900</unitdate>
+        </did>
+        
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">33</container>
+            <unittitle>Portrait - platinum print</unittitle>
+            <unitdate type="inclusive" normal="1908">ca. 1908</unitdate>
+        </did>
+        <scopecontent>
+            <p>print surface damaged - silverfish?</p>
+        </scopecontent>
+    </c02>
+    </c01>
+    <c01 level="series">
+        <did>
+            <unittitle>Series 3: Victor Kauffmann Photographs</unittitle>
+        </did>
+        <c02 level="file">
+            <did>
+                <container type="Box">1</container>
+                <container type="Folder">34</container>
+                <unittitle>Cartes-de-visite - albumen - with Mary Downey (Irish servant)</unittitle>
+                <unitdate type="inclusive" normal="1870">ca. 1870</unitdate>
+            </did>
+            <scopecontent>
+                <p>Photographer: Goldier (sp.?)</p>
+            </scopecontent>
+        </c02>
+        <c02 level="file">
+            <did>
+                <container type="Box">1</container>
+                <container type="Folder">35</container>
+                <unittitle>Cabinet card - albumen</unittitle>
+                <unitdate type="inclusive" normal="1886">ca. 1886</unitdate>
+            </did>
+            <scopecontent>
+                <p>Photographer: Geo. Prince</p>
+            </scopecontent>
+        </c02>
+        <c02 level="file">
+            <did>
+                <container type="Box">1</container>
+                <container type="Folder">36</container>
+                <unittitle>Cabinet card - albumen</unittitle>
+                <unitdate type="inclusive" normal="1889">ca. 1889</unitdate>
+            </did>
+            <scopecontent>
+                <p>Photographer: Pach Bros. (NY)</p>
+            </scopecontent>
+        </c02>
+        <c02 level="file">
+            <did>
+                <container type="Box">1</container>
+                <container type="Folder">37</container>
+                <unittitle>Cartes-de-visite - albumen - with Louise Kauffmann</unittitle>
+                <unitdate type="inclusive" normal="1889">ca. 1889</unitdate>
+            </did>
+            <scopecontent>
+                <p>Photographer: Rice</p>
+            </scopecontent>
+        </c02>
+    </c01>
+    <c01 level="series">
+        <did>
+            <unittitle>Series 4: Related Photographs and Papers</unittitle>
+        </did>
+        <c02 level="file">
+            <did>
+                <container type="Box">1</container>
+                <container type="Folder">38</container>
+                <unittitle>Pencil and watercolor caricature of S.H. Kauffmann at easel</unittitle>
+                <unitdate type="inclusive" normal="1880">ca. late 1880s</unitdate>
+            </did>
+            
+        </c02>
+        <c02 level="file">
+            <did>
+                <container type="Box">1</container>
+                <container type="Folder">39</container>
+                <unittitle>Handwritten - signed will from S.H. Kauffmann to wife</unittitle>
+                <unitdate type="inclusive" normal="1878-11-23">November 23 1878</unitdate>
+            </did>
+            
+        </c02>
+        <c02 level="file">
+            <did>
+                <container type="Box">1</container>
+                <container type="Folder">40</container>
+                <unittitle>Philip Christopher Kauffmann (son of Victor and Jessie Christopher Kauffmann; grandson of S.H. Kauffmann) - platinum print</unittitle>
+                <unitdate type="inclusive" normal="1901">ca. 1901</unitdate>
+            </did>
+            <scopecontent>
+                <p>(fragile, torn)</p>
+            </scopecontent>
+        </c02>
+        <c02 level="file">
+            <did>
+                <container type="Box">1</container>
+                <container type="Folder">41</container>
+                <unittitle>Samuel Hay Kauffmann (son of Victor and Jessie Christopher Kauffmann; grandson of S.H. Kauffmann) - platinum print</unittitle>
+                <unitdate type="inclusive" normal="1901">ca. 1901</unitdate>
+            </did>
+            <scopecontent>
+                <p>(extremely fragile, separated into pieces)</p>
+            </scopecontent>
+        </c02>
+        <c02 level="file">
+            <did>
+                <container type="Box">1</container>
+                <container type="Folder">42</container>
+                <unittitle>Jessie Christopher Kauffmann with sons Philip Christopher Kauffmann and Samuel Hay Kauffmann - gelatin printing out paper (?)</unittitle>
+                <unitdate type="inclusive" normal="1916">ca. 1916</unitdate>
+            </did>
+            
+        </c02>
+        <c02 level="file">
+            <did>
+                <container type="Box">1</container>
+                <container type="Folder">43</container>
+                <unittitle>Portrait of unidentified early 19th century man with white hair - possibly painted photograph of original painting or painted paper mounted on board</unittitle>
+                <unitdate type="inclusive">undated</unitdate>
+            </did>
+            <scopecontent>
+                <p>EXTREMELY FRAGILE</p>
+            </scopecontent>
+        </c02>
+    </c01>
+</dsc>
+</archdesc>
+</ead>

@@ -1,0 +1,1608 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type="text/xml" href="I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/eadcbs6rev.xsl"?><!DOCTYPE ead PUBLIC "-//Society of American Archivists//DTD ead.dtd (Encoded Archival Description (EAD) Version 1.0)//EN" "I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/ead.dtd">
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" repositoryencoding="iso15511" relatedencoding="MARC21">
+	<eadid mainagencycode="DWP" countrycode="US" url="http://washingtoniana.dclibrary.org">P002_DCHPD</eadid>
+<filedesc>
+<titlestmt>
+    <titleproper encodinganalog="245$a">D. C. Historic Preservation Division</titleproper>
+    <subtitle>An inventory of the D. C. Historic Preservation Division Photograph Collection at DC Public Library</subtitle>
+    <author encodinganalog="245$c">Finding aid prepared by Faye Haskins and Mark S. Greek.</author>
+</titlestmt>
+<publicationstmt>
+<publisher encodinganalog="260$b">DC Public Library, Special Collections</publisher>
+    <date type="publication" encodinganalog="260$c" normal="2014-04">2014-04</date>
+<address><addressline>901 G Street NW</addressline><addressline>DC Public Library</addressline><addressline>Washington, D.C. 20009</addressline></address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation encodinganalog="500">EAD encoded by Paul Kelly on
+	<date normal="2017-07-20">2017-07-20</date>
+</creation>
+<langusage>English</langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory" relatedencoding="MARC21">
+<did id="a1">
+<head>Descriptive Summary</head>
+<repository label="Repository:" encodinganalog="852$a"><corpname>DC Public Library, Special Collections</corpname></repository>
+    <unitdate encodinganalog="260$c" label="Dates:" type="inclusive" normal="1970/1987">1970-1987</unitdate>
+    <unittitle label="Title:" encodinganalog="245$a">D. C. Historic Preservation Division Photograph Collection</unittitle>
+<physdesc label="Extent:" encodinganalog="300$a"><extent>3 Linear Feet</extent></physdesc>
+<unitid encodinganalog="090" label="Collection Number:" countrycode="US" repositorycode="DCU">P002</unitid>
+<langmaterial encodinganalog="041" label="Language:"><language langcode="eng">English</language></langmaterial>
+</did>
+	
+<dsc type="combined" id="a23">
+<head>Detailed Description of the Collection</head>
+<c01 level="series">
+   <did>
+       <unittitle>Series 1: Neighborhoods</unittitle>
+   </did>
+    	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">1</container>
+			<unittitle>Anacostia - General</unittitle>
+			<unitdate type="inclusive" normal="1975/1985">ca. 1975-1985</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">2</container>
+			<unittitle>Anacostia - Named and Lettered Streets - Chester Street</unittitle>
+			<unitdate type="inclusive" normal="1975/1985">ca. 1975-1985</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">3</container>
+			<unittitle>Anacostia - Named and Lettered Streets - Mapleview Place</unittitle>
+			<unitdate type="inclusive" normal="1975/1985">ca. 1975-1985</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">4</container>
+			<unittitle>Anacostia - Named and Lettered Streets - Martin Luther King Avenue</unittitle>
+			<unitdate type="inclusive" normal="1975/1985">ca. 1975-1985</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">5</container>
+			<unittitle>Anacostia - Named and Lettered Streets - Mount View Place</unittitle>
+			<unitdate type="inclusive" normal="1975/1985">ca. 1975-1985</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">6</container>
+			<unittitle>Anacostia - Named and Lettered Streets - Pleasant Street</unittitle>
+			<unitdate type="inclusive" normal="1975/1985">ca. 1975-1985</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">7</container>
+			<unittitle>Anacostia - Named and Lettered Streets - U Street</unittitle>
+			<unitdate type="inclusive" normal="1975/1985">ca. 1975-1985</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">8</container>
+			<unittitle>Anacostia - Named and Lettered Streets - V Street</unittitle>
+			<unitdate type="inclusive" normal="1975/1985">ca. 1975-1985</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">9</container>
+			<unittitle>Anacostia - Named and Lettered Streets - Valley Place</unittitle>
+			<unitdate type="inclusive" normal="1975/1985">ca. 1975-1985</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">10</container>
+			<unittitle>Anacostia - Named and Lettered Streets - W Street</unittitle>
+			<unitdate type="inclusive" normal="1975/1985">ca. 1975-1985</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">11</container>
+			<unittitle>Anacostia - Numbered Streets - 14th Street</unittitle>
+			<unitdate type="inclusive" normal="1975/1985">ca. 1975-1985</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">12</container>
+			<unittitle>Anacostia - Avondale Cooperative Apartments (ca. 1980)</unittitle>
+			<unitdate type="inclusive" normal="1975/1985">ca. 1975-1985</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">13</container>
+			<unittitle>Capitol Hill - General</unittitle>
+			<unitdate type="inclusive" normal="1976/1987">1976-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">14</container>
+			<unittitle>Capitol Hill - Eastern Market</unittitle>
+			<unitdate type="inclusive" normal="1976/1987">1976-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">15</container>
+			<unittitle>Capitol Hill - Named and Lettered Streets - A Street</unittitle>
+			<unitdate type="inclusive" normal="1976/1987">1976-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">16</container>
+			<unittitle>Capitol Hill - Named and Lettered Streets - Acker Place</unittitle>
+			<unitdate type="inclusive" normal="1976/1987">1976-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">17</container>
+			<unittitle>Capitol Hill - Named and Lettered Streets - Brown’s Court</unittitle>
+			<unitdate type="inclusive" normal="1976/1987">1976-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">18</container>
+			<unittitle>Capitol Hill - Named and Lettered Streets - C Street</unittitle>
+			<unitdate type="inclusive" normal="1976/1987">1976-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">19</container>
+			<unittitle>Capitol Hill - Named and Lettered Streets - Constitution Avenue</unittitle>
+			<unitdate type="inclusive" normal="1976/1987">1976-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">20</container>
+			<unittitle>Capitol Hill - Named and Lettered Streets - D Street</unittitle>
+			<unitdate type="inclusive" normal="1976/1987">1976-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">21</container>
+			<unittitle>Capitol Hill - Named and Lettered Streets - E Street</unittitle>
+			<unitdate type="inclusive" normal="1976/1987">1976-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">1</container>
+			<unittitle>Capitol Hill - Named and Lettered Streets - East Capitol Street</unittitle>
+			<unitdate type="inclusive" normal="1976/1987">1976-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">2</container>
+			<unittitle>Capitol Hill - Named and Lettered Streets - F Street</unittitle>
+			<unitdate type="inclusive" normal="1976/1987">1976-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">3</container>
+			<unittitle>Capitol Hill - Named and Lettered Streets - G Street</unittitle>
+			<unitdate type="inclusive" normal="1976/1987">1976-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">4</container>
+			<unittitle>Capitol Hill - Named and Lettered Streets - Independence Avenue</unittitle>
+			<unitdate type="inclusive" normal="1976/1987">1976-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">5</container>
+			<unittitle>Capitol Hill - Named and Lettered Streets - Kentucky Avenue</unittitle>
+			<unitdate type="inclusive" normal="1976/1987">1976-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">6</container>
+			<unittitle>Capitol Hill - Named and Lettered Streets - Lexington Place</unittitle>
+			<unitdate type="inclusive" normal="1976/1987">1976-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">7</container>
+			<unittitle>Capitol Hill - Named and Lettered Streets - Maryland Avenue</unittitle>
+			<unitdate type="inclusive" normal="1976/1987">1976-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">8</container>
+			<unittitle>Capitol Hill - Named and Lettered Streets - Massachusetts Avenue</unittitle>
+			<unitdate type="inclusive" normal="1976/1987">1976-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">9</container>
+			<unittitle>Capitol Hill - Named and Lettered Streets - North Carolina Avenue</unittitle>
+			<unitdate type="inclusive" normal="1976/1987">1976-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">10</container>
+			<unittitle>Capitol Hill - Named and Lettered Streets - O Street</unittitle>
+			<unitdate type="inclusive" normal="1976/1987">1976-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">11</container>
+			<unittitle>Capitol Hill - Named and Lettered Streets - Pennsylvania Avenue</unittitle>
+			<unitdate type="inclusive" normal="1976/1987">1976-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">12</container>
+			<unittitle>Capitol Hill - Numbered Streets - 1st Street</unittitle>
+			<unitdate type="inclusive" normal="1976/1987">1976-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">13</container>
+			<unittitle>Capitol Hill - Numbered Streets - 2nd Street</unittitle>
+			<unitdate type="inclusive" normal="1976/1987">1976-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">14</container>
+			<unittitle>Capitol Hill - Numbered Streets - 3rd Street</unittitle>
+			<unitdate type="inclusive" normal="1976/1987">1976-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">15</container>
+			<unittitle>Capitol Hill - Numbered Streets - 4th Street</unittitle>
+			<unitdate type="inclusive" normal="1976/1987">1976-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">16</container>
+			<unittitle>Capitol Hill - Numbered Streets - 7th Street</unittitle>
+			<unitdate type="inclusive" normal="1976/1987">1976-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">17</container>
+			<unittitle>Capitol Hill - Numbered Streets - 8th Street</unittitle>
+			<unitdate type="inclusive" normal="1976/1987">1976-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">18</container>
+			<unittitle>Capitol Hill - Numbered Streets - 9th Street</unittitle>
+			<unitdate type="inclusive" normal="1976/1987">1976-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">19</container>
+			<unittitle>Capitol Hill - Numbered Streets - 10th Street</unittitle>
+			<unitdate type="inclusive" normal="1976/1987">1976-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">20</container>
+			<unittitle>Capitol Hill - Numbered Streets - 11th Street</unittitle>
+			<unitdate type="inclusive" normal="1976/1987">1976-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">21</container>
+			<unittitle>Capitol Hill - Numbered Streets - 12th Street</unittitle>
+			<unitdate type="inclusive" normal="1976/1987">1976-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">22</container>
+			<unittitle>Cleveland Park</unittitle>
+			<unitdate type="inclusive" normal="1988">1988</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">23</container>
+			<unittitle>Downtown - Named and Lettered Streets - E Street</unittitle>
+			<unitdate type="inclusive" normal="1901/1986">1901, 1917, 1980-1986</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">24</container>
+			<unittitle>Downtown - Named and Lettered Streets - F Street</unittitle>
+			<unitdate type="inclusive" normal="1901/1986">1901, 1917, 1980-1986</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">25</container>
+			<unittitle>Downtown - Named and Lettered Streets - G Street</unittitle>
+			<unitdate type="inclusive" normal="1901/1986">1901, 1917, 1980-1986</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">26</container>
+			<unittitle>Downtown - Named and Lettered Streets - New York Avenue</unittitle>
+			<unitdate type="inclusive" normal="1901/1986">1901, 1917, 1980-1986</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">27</container>
+			<unittitle>Downtown - Named and Lettered Streets - Pennsylvania Avenue</unittitle>
+			<unitdate type="inclusive" normal="1980/1986">1980-1986</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">28</container>
+			<unittitle>Downtown - Numbered Streets - 6th Street</unittitle>
+			<unitdate type="inclusive" normal="1980/1986">1980-1986</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">29</container>
+			<unittitle>Downtown - Numbered Streets - 7th Street *</unittitle>
+			<unitdate type="inclusive" normal="1980/1986">1980-1986</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">1</container>
+			<unittitle>Downtown - Numbered Streets - 8th Street</unittitle>
+			<unitdate type="inclusive" normal="1980/1986">1980-1986</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">2</container>
+			<unittitle>Downtown - Numbered Streets - 9th Street</unittitle>
+			<unitdate type="inclusive" normal="1980/1986">1980-1986</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">3</container>
+			<unittitle>Downtown - Numbered Streets - 10th Street</unittitle>
+			<unitdate type="inclusive" normal="1980/1986">1980-1986</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">4</container>
+			<unittitle>Downtown - Numbered Streets - 11th Street</unittitle>
+			<unitdate type="inclusive" normal="1980/1986">1980-1986</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">5</container>
+			<unittitle>Downtown - Numbered Streets - 13th Street</unittitle>
+			<unitdate type="inclusive" normal="1980/1986">1980-1986</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">6</container>
+			<unittitle>Downtown - Numbered Streets - 15th Street</unittitle>
+			<unitdate type="inclusive" normal="1980/1986">1980-1986</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">7</container>
+			<unittitle>Dupont Circle - General</unittitle>
+			<unitdate type="inclusive" normal="1980/1987">1980-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">8</container>
+			<unittitle>Dupont Circle - Named and Lettered Streets - Connecticut Avenue</unittitle>
+			<unitdate type="inclusive" normal="1980/1987">1980-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">9</container>
+			<unittitle>Dupont Circle - Named and Lettered Streets - Corcoran Street</unittitle>
+			<unitdate type="inclusive" normal="1980/1987">1980-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">10</container>
+			<unittitle>Dupont Circle - Named and Lettered Streets - Church Street</unittitle>
+			<unitdate type="inclusive" normal="1980/1987">1980-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">11</container>
+			<unittitle>Dupont Circle - Named and Lettered Streets - Dupont Circle</unittitle>
+			<unitdate type="inclusive" normal="1980/1987">1980-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">12</container>
+			<unittitle>Dupont Circle - Named and Lettered Streets - Florida Avenue</unittitle>
+			<unitdate type="inclusive" normal="1980/1987">1980-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">13</container>
+			<unittitle>Dupont Circle - Named and Lettered Streets - Hillyer Place</unittitle>
+			<unitdate type="inclusive" normal="1980/1987">1980-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">14</container>
+			<unittitle>Dupont Circle - Named and Lettered Streets - N Street</unittitle>
+			<unitdate type="inclusive" normal="1980/1987">1980-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">15</container>
+			<unittitle>Dupont Circle - Named and Lettered Streets - New Hampshire Avenue *</unittitle>
+			<unitdate type="inclusive" normal="1980/1987">1980-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">16</container>
+			<unittitle>Dupont Circle - Named and Lettered Streets - O Street</unittitle>
+			<unitdate type="inclusive" normal="1980/1987">1980-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">17</container>
+			<unittitle>Dupont Circle - Named and Lettered Streets - P Street</unittitle>
+			<unitdate type="inclusive" normal="1980/1987">1980-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">18</container>
+			<unittitle>Dupont Circle - Named and Lettered Streets - Q Street</unittitle>
+			<unitdate type="inclusive" normal="1980/1987">1980-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">19</container>
+			<unittitle>Dupont Circle - Named and Lettered Streets - Riggs Place</unittitle>
+			<unitdate type="inclusive" normal="1980/1987">1980-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">20</container>
+			<unittitle>Dupont Circle - Named and Lettered Streets - S Street *</unittitle>
+			<unitdate type="inclusive" normal="1980/1987">1980-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">21</container>
+			<unittitle>Dupont Circle - Named and Lettered Streets - Swann Street</unittitle>
+			<unitdate type="inclusive" normal="1980/1987">1980-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">1</container>
+			<unittitle>Dupont Circle - Numbered Streets - 17th Street</unittitle>
+			<unitdate type="inclusive" normal="1980/1987">1980-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">2</container>
+			<unittitle>Dupont Circle - Numbered Streets - 18th Street</unittitle>
+			<unitdate type="inclusive" normal="1980/1987">1980-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">3</container>
+			<unittitle>Dupont Circle - Numbered Streets-19th Street *</unittitle>
+			<unitdate type="inclusive" normal="1980/1987">1980-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">4</container>
+			<unittitle>Dupont Circle - Numbered Streets - 20th Street</unittitle>
+			<unitdate type="inclusive" normal="1980/1987">1980-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">5</container>
+			<unittitle>Dupont Circle - Numbered Streets - 21st Street</unittitle>
+			<unitdate type="inclusive" normal="1980/1987">1980-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">6</container>
+			<unittitle>Dupont Circle - Numbered Streets - 22nd Street</unittitle>
+			<unitdate type="inclusive" normal="1980/1987">1980-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">7</container>
+			<unittitle>Dupont Circle - Numbered Streets - Gallaudet College (1985)</unittitle>
+			<unitdate type="inclusive" normal="1980/1987">1980-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">8</container>
+			<unittitle>Georgetown - General * **</unittitle>
+			<unitdate type="inclusive" normal="1978/1994">1978-1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">9</container>
+			<unittitle>Georgetown - Georgetown University</unittitle>
+			<unitdate type="inclusive" normal="1978/1994">1978-1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">10</container>
+			<unittitle>Georgetown - Named and Lettered Streets - Bank Street</unittitle>
+			<unitdate type="inclusive" normal="1978/1994">1978-1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">11</container>
+			<unittitle>Georgetown - Named and Lettered Streets - Canal Street</unittitle>
+			<unitdate type="inclusive" normal="1978/1994">1978-1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">12</container>
+			<unittitle>Georgetown - Named and Lettered Streets - Dent Place</unittitle>
+			<unitdate type="inclusive" normal="1978/1994">1978-1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">13</container>
+			<unittitle>Georgetown - Named and Lettered Streets - Dumbarton Street</unittitle>
+			<unitdate type="inclusive" normal="1978/1994">1978-1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">14</container>
+			<unittitle>Georgetown - Named and Lettered Streets - Grace Street</unittitle>
+			<unitdate type="inclusive" normal="1978/1994">1978-1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">15</container>
+			<unittitle>Georgetown - Named and Lettered Streets - K Street</unittitle>
+			<unitdate type="inclusive" normal="1978/1994">1978-1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">16</container>
+			<unittitle>Georgetown - Named and Lettered Streets - M Street</unittitle>
+			<unitdate type="inclusive" normal="1978/1994">1978-1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">17</container>
+			<unittitle>Georgetown - Named and Lettered Streets - N Street</unittitle>
+			<unitdate type="inclusive" normal="1978/1994">1978-1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">18</container>
+			<unittitle>Georgetown - Named and Lettered Streets - O Street</unittitle>
+			<unitdate type="inclusive" normal="1978/1994">1978-1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">19</container>
+			<unittitle>Georgetown - Named and Lettered Streets - P Street</unittitle>
+			<unitdate type="inclusive" normal="1978/1994">1978-1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">20</container>
+			<unittitle>Georgetown - Named and Lettered Streets - Q Street</unittitle>
+			<unitdate type="inclusive" normal="1978/1994">1978-1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">21</container>
+			<unittitle>Georgetown - Named and Lettered Streets - R Street *</unittitle>
+			<unitdate type="inclusive" normal="1978/1994">1978-1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">22</container>
+			<unittitle>Georgetown - Named and Lettered Streets - Reservoir Road</unittitle>
+			<unitdate type="inclusive" normal="1978/1994">1978-1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">23</container>
+			<unittitle>Georgetown - Named and Lettered Streets - Thomas Jefferson Street</unittitle>
+			<unitdate type="inclusive" normal="1978/1994">1978-1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">1</container>
+			<unittitle>Georgetown - Named and Lettered Streets - Water Street</unittitle>
+			<unitdate type="inclusive" normal="1978/1994">1978-1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">2</container>
+			<unittitle>Georgetown - Named and Lettered Streets - Wisconsin Avenue *</unittitle>
+			<unitdate type="inclusive" normal="1978/1994">1978-1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">3</container>
+			<unittitle>Georgetown - Numbered Streets - 28th Street</unittitle>
+			<unitdate type="inclusive" normal="1978/1994">1978-1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">4</container>
+			<unittitle>Georgetown - Numbered Streets - 30th Street</unittitle>
+			<unitdate type="inclusive" normal="1978/1994">1978-1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">5</container>
+			<unittitle>Georgetown - Numbered Streets - 31st Street *</unittitle>
+			<unitdate type="inclusive" normal="1978/1994">1978-1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">6</container>
+			<unittitle>Georgetown - Numbered Streets - 32nd Street **</unittitle>
+			<unitdate type="inclusive" normal="1978/1994">1978-1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">7</container>
+			<unittitle>Georgetown - Numbered Streets - 34th Street</unittitle>
+			<unitdate type="inclusive" normal="1978/1994">1978-1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">8</container>
+			<unittitle>Georgetown - Numbered Streets - 35th Street *</unittitle>
+			<unitdate type="inclusive" normal="1978/1994">1978-1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">9</container>
+			<unittitle>Oak Hill Cemetery *</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">10</container>
+			<unittitle>LeDroit Park - Named and Lettered Streets - Elm Street</unittitle>
+			<unitdate type="inclusive" normal="1978/1981">1978-1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">11</container>
+			<unittitle>LeDroit Park - Named and Lettered Streets - Florida Avenue</unittitle>
+			<unitdate type="inclusive" normal="1978/1981">1978-1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">12</container>
+			<unittitle>LeDroit Park - Named and Lettered Streets - T Street</unittitle>
+			<unitdate type="inclusive" normal="1978/1981">1978-1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">13</container>
+			<unittitle>LeDroit Park - Numbered Streets - 3rd Street</unittitle>
+			<unitdate type="inclusive" normal="1978/1981">1978-1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">14</container>
+			<unittitle>LeDroit Park - Numbered Streets - 5th Street</unittitle>
+			<unitdate type="inclusive" normal="1978/1981">1978-1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">15</container>
+			<unittitle>Logan Circle - Bound Volume: “Number Seven Logan Circle”</unittitle>
+			<unitdate type="inclusive" normal="1976/1980">1976-1980</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">16</container>
+			<unittitle>Logan Circle - Bound Volume: “Number Seven Logan Circle”</unittitle>
+			<unitdate type="inclusive" normal="1976/1980">1976-1980</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">17</container>
+			<unittitle>Logan Circle - General</unittitle>
+			<unitdate type="inclusive" normal="1976/1980">1976-1980</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">18</container>
+			<unittitle>Logan Circle - Corcoran Street</unittitle>
+			<unitdate type="inclusive" normal="1976/1980">1976-1980</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">19</container>
+			<unittitle>Logan Circle - Rhode Island Avenue</unittitle>
+			<unitdate type="inclusive" normal="1976/1980">1976-1980</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">20</container>
+			<unittitle>Logan Circle - Vermont Avenue *</unittitle>
+			<unitdate type="inclusive" normal="1976/1980">1976-1980</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">21</container>
+			<unittitle>The Maples</unittitle>
+			<unitdate type="inclusive" normal="1937">1937</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">1</container>
+			<unittitle>Massachusetts Avenue - 2027 Massachusetts Avenue</unittitle>
+			<unitdate type="inclusive" normal="1981/1985">1981-1985</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">2</container>
+			<unittitle>Mount Pleasant - Named and Lettered Streets - Adams Mill Road</unittitle>
+			<unitdate type="inclusive" normal="1981/1984">1981-1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">3</container>
+			<unittitle>Mount Pleasant - Named and Lettered Streets - Newton Street</unittitle>
+			<unitdate type="inclusive" normal="1981/1984">1981-1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">4</container>
+			<unittitle>Mount Pleasant - Named and Lettered Streets - Park Road</unittitle>
+			<unitdate type="inclusive" normal="1981/1984">1981-1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">5</container>
+			<unittitle>Mount Pleasant - Numbered Streets - 18th Street</unittitle>
+			<unitdate type="inclusive" normal="1981/1984">1981-1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">6</container>
+			<unittitle>Schneider Triangle Square 38</unittitle>
+			<unitdate type="inclusive" normal="1979">1979</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">7</container>
+			<unittitle>Takoma Park</unittitle>
+			<unitdate type="inclusive" normal="1970">ca. 1970</unitdate>
+		</did>
+	</c02>
+</c01>
+<c01 level="series">
+   <did>
+       <unittitle>Series 2: Geographic Quadrants</unittitle>
+   </did>
+    	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">8</container>
+			<unittitle>Northeast - Named and Lettered Streets - A Street</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">9</container>
+			<unittitle>Northeast - Named and Lettered Streets - C Street</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">10</container>
+			<unittitle>Northeast - Named and Lettered Streets - D Street</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">11</container>
+			<unittitle>Northeast - Named and Lettered Streets - E Street</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">12</container>
+			<unittitle>Northeast - Named and Lettered Streets - East Capitol</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">13</container>
+			<unittitle>Northeast - Named and Lettered Streets - F Street</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">14</container>
+			<unittitle>Northeast - Named and Lettered Streets - Massachusetts Avenue</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">15</container>
+			<unittitle>Northeast - Named and Lettered Streets - North Carolina Avenue</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">16</container>
+			<unittitle>Northeast - Numbered Streets - 7th Street</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">17</container>
+			<unittitle>Northeast - Numbered Streets - 8th Street</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">18</container>
+			<unittitle>Northeast - Numbered Streets - 11th Street</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">19</container>
+			<unittitle>Northeast - Numbered Streets - 14th Street</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">20</container>
+			<unittitle>Northwest - Named and Lettered Streets - Cathedral Avenue</unittitle>
+			<unitdate type="inclusive" normal="1970/1987">1970-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">21</container>
+			<unittitle>Northwest - Named and Lettered Streets - East Capitol</unittitle>
+			<unitdate type="inclusive" normal="1970/1987">1970-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">22</container>
+			<unittitle>Northwest - Named and Lettered Streets - Grace Street</unittitle>
+			<unitdate type="inclusive" normal="1970/1987">1970-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">23</container>
+			<unittitle>Northwest - Named and Lettered Streets - Highland Place</unittitle>
+			<unitdate type="inclusive" normal="1970/1987">1970-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">24</container>
+			<unittitle>Northwest - Named and Lettered Streets - I Street</unittitle>
+			<unitdate type="inclusive" normal="1970/1987">1970-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">25</container>
+			<unittitle>Northwest - Named and Lettered Streets - K Street</unittitle>
+			<unitdate type="inclusive" normal="1970/1987">1970-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">26</container>
+			<unittitle>Northwest - Named and Lettered Streets - L Street</unittitle>
+			<unitdate type="inclusive" normal="1970/1987">1970-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">27</container>
+			<unittitle>Northwest - Named and Lettered Streets - M Street *</unittitle>
+			<unitdate type="inclusive" normal="1970/1987">1970-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">28</container>
+			<unittitle>Northwest - Named and Lettered Streets - N Street</unittitle>
+			<unitdate type="inclusive" normal="1970/1987">1970-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">29</container>
+			<unittitle>Northwest - Named and Lettered Streets - O Street</unittitle>
+			<unitdate type="inclusive" normal="1970/1987">1970-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">30</container>
+			<unittitle>Northwest - Named and Lettered Streets - P Street</unittitle>
+			<unitdate type="inclusive" normal="1970/1987">1970-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">31</container>
+			<unittitle>Northwest - Named and Lettered Streets - Park Road</unittitle>
+			<unitdate type="inclusive" normal="1970/1987">1970-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">32</container>
+			<unittitle>Northwest - Named and Lettered Streets - Pennsylvania Avenue</unittitle>
+			<unitdate type="inclusive" normal="1970/1987">1970-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">33</container>
+			<unittitle>Northwest - Named and Lettered Streets - Prospect Street</unittitle>
+			<unitdate type="inclusive" normal="1970/1987">1970-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">34</container>
+			<unittitle>Northwest - Named and Lettered Streets - Reservoir Road</unittitle>
+			<unitdate type="inclusive" normal="1970/1987">1970-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">35</container>
+			<unittitle>Northwest - Named and Lettered Streets - Roadmen Street</unittitle>
+			<unitdate type="inclusive" normal="1970/1987">1970-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">36</container>
+			<unittitle>Northwest - Named and Lettered Streets - U Street</unittitle>
+			<unitdate type="inclusive" normal="1970/1987">1970-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">37</container>
+			<unittitle>Northwest - Named and Lettered Streets - Volta Place</unittitle>
+			<unitdate type="inclusive" normal="1970/1987">1970-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">38</container>
+			<unittitle>Northwest - Named and Lettered Streets - Wisconsin Avenue</unittitle>
+			<unitdate type="inclusive" normal="1970/1987">1970-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">39</container>
+			<unittitle>Northwest - Numbered Streets - 9th Street</unittitle>
+			<unitdate type="inclusive" normal="1970/1987">1970-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">40</container>
+			<unittitle>Northwest - Numbered Streets - 16th Street *</unittitle>
+			<unitdate type="inclusive" normal="1970/1987">1970-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">1</container>
+			<unittitle>Northwest - Numbered Streets-19th Street</unittitle>
+			<unitdate type="inclusive" normal="1970/1987">1970-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">2</container>
+			<unittitle>Northwest - Numbered Streets - 29th Street</unittitle>
+			<unitdate type="inclusive" normal="1970/1987">1970-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">3</container>
+			<unittitle>Northwest - Numbered Streets - 30th Street</unittitle>
+			<unitdate type="inclusive" normal="1970/1987">1970-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">4</container>
+			<unittitle>Northwest - Numbered Streets - 31st Street</unittitle>
+			<unitdate type="inclusive" normal="1970/1987">1970-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">5</container>
+			<unittitle>Northwest - Numbered Streets - 33rd Street</unittitle>
+			<unitdate type="inclusive" normal="1970/1987">1970-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">6</container>
+			<unittitle>Northwest - Numbered Streets - 33rd Place</unittitle>
+			<unitdate type="inclusive" normal="1970/1987">1970-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">7</container>
+			<unittitle>Northwest - Numbered Streets - 34th Street</unittitle>
+			<unitdate type="inclusive" normal="1970/1987">1970-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">8</container>
+			<unittitle>Northwest - Numbered Streets - 35th Street</unittitle>
+			<unitdate type="inclusive" normal="1970/1987">1970-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">9</container>
+			<unittitle>Northwest - Numbered Streets - 36th Street</unittitle>
+			<unitdate type="inclusive" normal="1970/1987">1970-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">10</container>
+			<unittitle>Southeast - Named and Lettered Streets - A Street</unittitle>
+			<unitdate type="inclusive" normal="1980/1987">1980-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">11</container>
+			<unittitle>Southeast - Named and Lettered Streets - E Street</unittitle>
+			<unitdate type="inclusive" normal="1980/1987">1980-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">12</container>
+			<unittitle>Southeast - Named and Lettered Streets - East Capitol Street</unittitle>
+			<unitdate type="inclusive" normal="1980/1987">1980-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">13</container>
+			<unittitle>Southeast - Named and Lettered Streets - G Street</unittitle>
+			<unitdate type="inclusive" normal="1980/1987">1980-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">14</container>
+			<unittitle>Southeast - Named and Lettered Streets - Pennsylvania Avenue</unittitle>
+			<unitdate type="inclusive" normal="1980/1987">1980-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">15</container>
+			<unittitle>Southeast - Numbered Streets - 6th Street</unittitle>
+			<unitdate type="inclusive" normal="1980/1987">1980-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">16</container>
+			<unittitle>Southeast - Numbered Streets - 8th Street</unittitle>
+			<unitdate type="inclusive" normal="1980/1987">1980-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">17</container>
+			<unittitle>Southeast - Numbered Streets - 9th Street</unittitle>
+			<unitdate type="inclusive" normal="1980/1987">1980-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">18</container>
+			<unittitle>Southeast - Numbered Streets - 11th Street</unittitle>
+			<unitdate type="inclusive" normal="1980/1987">1980-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">19</container>
+			<unittitle>Southeast - Numbered Streets - 12th Street</unittitle>
+			<unitdate type="inclusive" normal="1980/1987">1980-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">20</container>
+			<unittitle>Southeast - Numbered Streets - 13th Street</unittitle>
+			<unitdate type="inclusive" normal="1980/1987">1980-1987</unitdate>
+		</did>
+	</c02>
+    </c01>
+    <c01 level="series">
+        <did>
+            <unittitle>Series 3: Landmarks</unittitle>
+        </did>
+        <c02 level="file">
+            <did>
+                <container type="Box">7</container>
+                <container type="Folder">21</container>
+                <unittitle>Bacon House</unittitle>
+                <unitdate type="inclusive">undated</unitdate>
+            </did>
+        </c02>
+        <c02 level="file">
+            <did>
+                <container type="Box">7</container>
+                <container type="Folder">22</container>
+                <unittitle>Bond Building</unittitle>
+                <unitdate type="inclusive">undated</unitdate>
+            </did>
+        </c02>
+        <c02 level="file">
+            <did>
+                <container type="Box">7</container>
+                <container type="Folder">23</container>
+                <unittitle>Carnegie Library</unittitle>
+                <unitdate type="inclusive">undated</unitdate>
+            </did>
+        </c02>
+        <c02 level="file">
+            <did>
+                <container type="Box">7</container>
+                <container type="Folder">24</container>
+                <unittitle>Colorado Building</unittitle>
+                <unitdate type="inclusive">undated</unitdate>
+            </did>
+        </c02>
+        <c02 level="file">
+            <did>
+                <container type="Box">7</container>
+                <container type="Folder">25</container>
+                <unittitle>Grace Episcopal Church</unittitle>
+                <unitdate type="inclusive">undated</unitdate>
+            </did>
+        </c02>
+        <c02 level="file">
+            <did>
+                <container type="Box">7</container>
+                <container type="Folder">26</container>
+                <unittitle>Howard Theater</unittitle>
+                <unitdate type="inclusive">undated</unitdate>
+            </did>
+        </c02>
+        <c02 level="file">
+            <did>
+                <container type="Box">7</container>
+                <container type="Folder">27</container>
+                <unittitle>Masonic Temple (National Museum of Women in the Arts)</unittitle>
+                <unitdate type="inclusive">undated</unitdate>
+            </did>
+        </c02>
+        <c02 level="file">
+            <did>
+                <container type="Box">7</container>
+                <container type="Folder">28</container>
+                <unittitle>National Bank of Washington</unittitle>
+                <unitdate type="inclusive">undated</unitdate>
+            </did>
+        </c02>
+        <c02 level="file">
+            <did>
+                <container type="Box">7</container>
+                <container type="Folder">29</container>
+                <unittitle>National Cathedral School</unittitle>
+                <unitdate type="inclusive">undated</unitdate>
+            </did>
+        </c02>
+        <c02 level="file">
+            <did>
+                <container type="Box">7</container>
+                <container type="Folder">30</container>
+                <unittitle>Renwick Gallery of Art **</unittitle>
+                <unitdate type="inclusive">undated</unitdate>
+            </did>
+        </c02>
+        <c02 level="file">
+            <did>
+                <container type="Box">7</container>
+                <container type="Folder">31</container>
+                <unittitle>Riggs Bank</unittitle>
+                <unitdate type="inclusive">undated</unitdate>
+            </did>
+        </c02>
+        <c02 level="file">
+            <did>
+                <container type="Box">7</container>
+                <container type="Folder">32</container>
+                <unittitle>St. Albans School</unittitle>
+                <unitdate type="inclusive">undated</unitdate>
+            </did>
+        </c02>
+        <c02 level="file">
+            <did>
+                <container type="Box">7</container>
+                <container type="Folder">33</container>
+                <unittitle>Tivoli Theater</unittitle>
+                <unitdate type="inclusive">undated</unitdate>
+            </did>
+        </c02>
+        <c02 level="file">
+            <did>
+                <container type="Box">7</container>
+                <container type="Folder">34</container>
+                <unittitle>USS Williamsburg</unittitle>
+                <unitdate type="inclusive">undated</unitdate>
+            </did>
+        </c02>
+        <c02 level="file">
+            <did>
+                <container type="Box">7</container>
+                <container type="Folder">35</container>
+                <unittitle>Warner Theater</unittitle>
+                <unitdate type="inclusive">undated</unitdate>
+            </did>
+        </c02>
+        <c02 level="file">
+            <did>
+                <container type="Box">7</container>
+                <container type="Folder">36</container>
+                <unittitle>Washington National Cathedral</unittitle>
+                <unitdate type="inclusive">undated</unitdate>
+            </did>
+        </c02>
+        <c02 level="file">
+            <did>
+                <container type="Box">7</container>
+                <container type="Folder">37</container>
+                <unittitle>Western Union Building</unittitle>
+                <unitdate type="inclusive">undated</unitdate>
+            </did>
+        </c02>
+        <c02 level="file">
+            <did>
+                <container type="Box">7</container>
+                <container type="Folder">38</container>
+                <unittitle>Woodward and Lothrup Building</unittitle>
+                <unitdate type="inclusive">undated</unitdate>
+            </did>
+        </c02>
+        <c02 level="file">
+            <did>
+                <container type="Box">7</container>
+                <container type="Folder">39</container>
+                <unittitle>Unidentified Materials</unittitle>
+                <unitdate type="inclusive">undated</unitdate>
+            </did>
+        </c02>
+    </c01>
+</dsc>
+</archdesc>
+</ead>

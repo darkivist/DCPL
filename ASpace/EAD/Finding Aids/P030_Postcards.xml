@@ -1,0 +1,3294 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type="text/xml" href="I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/eadcbs6rev.xsl"?><!DOCTYPE ead PUBLIC "-//Society of American Archivists//DTD ead.dtd (Encoded Archival Description (EAD) Version 1.0)//EN" "I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/ead.dtd">
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" repositoryencoding="iso15511" relatedencoding="MARC21">
+	<eadid mainagencycode="DWP" countrycode="US" url="http://washingtoniana.dclibrary.org">P030_Postcards</eadid>
+<filedesc>
+<titlestmt>
+    <titleproper encodinganalog="245$a">Washington, D.C. Postcard Collection</titleproper>
+    <subtitle>An inventory of the Washington, D.C. Postcard Collection at DC Public Library</subtitle>
+    <author encodinganalog="245$c">Finding aid prepared by Jerry A. McCoy.</author>
+</titlestmt>
+<publicationstmt>
+<publisher encodinganalog="260$b">DC Public Library, Special Collections</publisher>
+    <date type="publication" encodinganalog="260$c" normal="2007-03">2007-03</date>
+<address><addressline>901 G Street NW</addressline><addressline>DC Public Library</addressline><addressline>Washington, D.C. 20009</addressline></address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation encodinganalog="500">EAD encoded by Paul Kelly on
+	<date normal="2017-07-20">2017-07-20</date>
+</creation>
+<langusage>English</langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory" relatedencoding="MARC21">
+<did id="a1">
+<head>Descriptive Summary</head>
+<repository label="Repository:" encodinganalog="852$a"><corpname>DC Public Library, Special Collections</corpname></repository>
+    <unitdate encodinganalog="260$c" label="Dates:" type="inclusive" normal="1848/1940">1848-1940</unitdate>
+    <unittitle label="Title:" encodinganalog="245$a">Washington, D.C. Postcard Collection</unittitle>
+<physdesc label="Extent:" encodinganalog="300$a"><extent>7 boxes</extent></physdesc>
+<unitid encodinganalog="090" label="Collection Number:" countrycode="US" repositorycode="dwp">P030</unitid>
+<langmaterial encodinganalog="041" label="Language:"><language langcode="eng">English</language></langmaterial>
+</did>
+	
+<dsc type="combined" id="a23">
+<head>Detailed Description of the Collection</head>
+<c01 level="series">
+   <did>
+       <unittitle>Series 1</unittitle>
+   </did>
+    	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">1</container>
+			<unittitle>Aerial Views</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">2</container>
+			<unittitle>Agriculture, Dept. of</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">3</container>
+			<unittitle>Airports – National</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">4</container>
+			<unittitle>American Red Cross</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">5</container>
+			<unittitle>Archives Building</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">6</container>
+			<unittitle>Arlington Cemetery</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">7</container>
+			<unittitle>Army War College</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">8</container>
+			<unittitle>Art Galleries - Corcoran</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">9</container>
+			<unittitle>Art Galleries - Freer</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">10</container>
+			<unittitle>Art Galleries - National</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">11</container>
+			<unittitle>Art Galleries - Phillips</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">12</container>
+			<unittitle>Auditoriums – Washington</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">13</container>
+			<unittitle>Banks – American Security and Trust Co.</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">14</container>
+			<unittitle>Baseball</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">15</container>
+			<unittitle>Botanical Gardens</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">16</container>
+			<unittitle>Bridges - Arlington Memorial</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">17</container>
+			<unittitle>Bridges - Cabin John</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">18</container>
+			<unittitle>Bridges - Connecticut Avenue</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">19</container>
+			<unittitle>Bridges - Key</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">20</container>
+			<unittitle>Businesses - Acacia Mutual Life Insurance Building</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">21</container>
+			<unittitle>Businesses - Arcade</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">22</container>
+			<unittitle>Businesses - Draughon’s Practical Business College</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">23</container>
+			<unittitle>Businesses - Evening Star</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">24</container>
+			<unittitle>Businesses - Greyhound</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">25</container>
+			<unittitle>Businesses - Realty Title Insurance Co. Inc.</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">26</container>
+			<unittitle>Businesses - Smith, F.G. Piano Co.</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">27</container>
+			<unittitle>Businesses - Southern Railway</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">28</container>
+			<unittitle>Businesses - Taylor’s Drugstore</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">29</container>
+			<unittitle>Businesses - Towles Studio, Photographer</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">30</container>
+			<unittitle>Businesses - Velatis</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">31</container>
+			<unittitle>Businesses - Washington, Baltimore and Annapolis Electrical Railway Co.</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">32</container>
+			<unittitle>Businesses - White Cross Milk Co.</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">33</container>
+			<unittitle>Businesses - Wilson Line Steamer</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">34</container>
+			<unittitle>Canals - C and O</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">35</container>
+			<unittitle>Canals - Great Falls</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">36</container>
+			<unittitle>Capitol - Art</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">37</container>
+			<unittitle>Capitol - Bronze Doors</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">38</container>
+			<unittitle>Capitol - Dome</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">39</container>
+			<unittitle>Capitol - East Elevation</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">40</container>
+			<unittitle>Capitol - House Chamber</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">41</container>
+			<unittitle>Capitol - Old Supreme Court Chamber</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">42</container>
+			<unittitle>Capitol - President’s Room</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">43</container>
+			<unittitle>Capitol - Senate Chamber</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">44</container>
+			<unittitle>Capitol - Statuary Hall</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">45</container>
+			<unittitle>Capitol - West Elevation</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">46</container>
+			<unittitle>Cherry Trees</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">47</container>
+			<unittitle>Churches - Baptist- Calvary</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">48</container>
+			<unittitle>Churches - Catholic - Franciscan Monastery</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">49</container>
+			<unittitle>Churches - Catholic - Holy Trinity</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">50</container>
+			<unittitle>Churches - Catholic - National Shrine</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">51</container>
+			<unittitle>Churches - Catholic - Sacred Heart</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">52</container>
+			<unittitle>Churches - Catholic - St. Matthew’s</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">53</container>
+			<unittitle>Churches - Catholic - St. Patrick’s</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">54</container>
+			<unittitle>Churches - Catholic - St. Stephen Martyr</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">1</container>
+			<unittitle>Churches - Christian - National</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">2</container>
+			<unittitle>Churches - Christian Science - First Church</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">3</container>
+			<unittitle>Churches - Christian Science - Fourth Church of Christ</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">4</container>
+			<unittitle>Churches - Episcopal - St. Alban’s</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">5</container>
+			<unittitle>Churches - Episcopal - St John’s (Lafayette Square)</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">6</container>
+			<unittitle>Churches - Episcopal - St. Thomas</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">7</container>
+			<unittitle>Churches - Episcopal - Washington Cathedral - Exterior</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">8</container>
+			<unittitle>Churches - Episcopal - Washington Cathedral - Grounds</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">9</container>
+			<unittitle>Churches - Episcopal - Washington Cathedral - Interior</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">10</container>
+			<unittitle>Churches - Lutheran - First Trinity</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">11</container>
+			<unittitle>Churches - Lutheran - Georgetown</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">12</container>
+			<unittitle>Churches - Lutheran - Luther Place Memorial</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">13</container>
+			<unittitle>Churches - Methodist - Foundry</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">14</container>
+			<unittitle>Churches - Methodist - Metropolitan</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">15</container>
+			<unittitle>Churches - Methodist - Mount Vernon</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">16</container>
+			<unittitle>Churches - Mormon (Church of Jesus Christ of Latter Day Saints)</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">17</container>
+			<unittitle>Churches - Presbyterian - Central</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">18</container>
+			<unittitle>Churches - Presbyterian - Church of the Covenant</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">19</container>
+			<unittitle>Churches - Presbyterian - First</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">20</container>
+			<unittitle>Churches - Presbyterian - New York Avenue</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">21</container>
+			<unittitle>Churches - Presbyterian - Sixth</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">22</container>
+			<unittitle>Churches - Unitarian - All Souls</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">23</container>
+			<unittitle>Churches - United Church of Christ - First Congregational</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">24</container>
+			<unittitle>Churches - United Church of Christ - Graced Reformed</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">25</container>
+			<unittitle>Circles - Dupont</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">26</container>
+			<unittitle>Circles - Thomas</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">27</container>
+			<unittitle>City Hall</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">28</container>
+			<unittitle>Colleges and Universities - American</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">29</container>
+			<unittitle>Colleges and Universities - Catholic</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">30</container>
+			<unittitle>Colleges and Universities - Georgetown</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">31</container>
+			<unittitle>Colleges and Universities - Howard</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">32</container>
+			<unittitle>Colleges and Universities - Trinity</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">33</container>
+			<unittitle>Colleges and Universities - War College</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">34</container>
+			<unittitle>Commerce, Dept. of.</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">35</container>
+			<unittitle>Constitution Hall</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">36</container>
+			<unittitle>Continental Memorial Hall - Exterior</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">37</container>
+			<unittitle>Continental Memorial Hall - Interior</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">38</container>
+			<unittitle>District Building</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">39</container>
+			<unittitle>Embassies - China</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">40</container>
+			<unittitle>Embassies - Germany</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">41</container>
+			<unittitle>Embassies - Great Britain</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">42</container>
+			<unittitle>Embassies - Japan</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">43</container>
+			<unittitle>Embassies - Russia</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">44</container>
+			<unittitle>Engraving and Printing, Bureau of</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">45</container>
+			<unittitle>Events - Bonus Expeditionary Force, 1932</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">46</container>
+			<unittitle>Events - Misc.</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">47</container>
+			<unittitle>Exhibits - Santa Maria on Washington Waterfront, Maine Ave., and M St., SW</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">48</container>
+			<unittitle>Federal Reserve</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">49</container>
+			<unittitle>Federal Trade Commission</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">50</container>
+			<unittitle>Federal Triangle</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">51</container>
+			<unittitle>Folger Shakespeare Library - Exterior</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">52</container>
+			<unittitle>Folger Shakespeare Library - Interior</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">53</container>
+			<unittitle>Food Administration Building, U.S.</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">54</container>
+			<unittitle>Fountains - Bartholdi</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">55</container>
+			<unittitle>Fountains - Capitol Plaza</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">56</container>
+			<unittitle>Fountains - Columbus</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">57</container>
+			<unittitle>Fountains - Court of Neptune (Library of Congress)</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">58</container>
+			<unittitle>Georgetown</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">59</container>
+			<unittitle>Government Printing Office (GPO)</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">60</container>
+			<unittitle>“Greetings From Washington”</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">61</container>
+			<unittitle>Hospitals – Walter Reed</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">62</container>
+			<unittitle>Hotels - Annapolis</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">63</container>
+			<unittitle>Hotels - Great Falls (MD side)</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">64</container>
+			<unittitle>Hotels - Hamilton</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">65</container>
+			<unittitle>Hotels - Madison</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">66</container>
+			<unittitle>Hotels - Quality Inn (Pentagon City)</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">67</container>
+			<unittitle>Hotels - Shoreham</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">68</container>
+			<unittitle>Hotels - Washington</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">69</container>
+			<unittitle>House Office Building – Exterior</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">70</container>
+			<unittitle>Houses - </unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">71</container>
+			<unittitle>Houses - Dolly Madison</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">72</container>
+			<unittitle>Houses - Dumbarton Oaks (Georgetown)</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">73</container>
+			<unittitle>Houses - Girl Scouts “Little House” (1750 NY Ave.)</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">74</container>
+			<unittitle>Houses - Key Mansion (Georgetown)</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">75</container>
+			<unittitle>Houses - “Little White House” (21 Madison Pl., NW, Congressional Union Headquarters</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">76</container>
+			<unittitle>Houses - Mount Vernon</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">77</container>
+			<unittitle>Houses - Octagon</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">78</container>
+			<unittitle>Houses - Old Stone (Georgetown)</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">79</container>
+			<unittitle>Houses - Petersen (House Where Lincoln Died)</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">80</container>
+			<unittitle>Houses - Rhode Island Ave. (Scott Statue in Background; 1700 Block, North Side of R.I. Ave.?)</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">81</container>
+			<unittitle>Houses - White House - </unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">82</container>
+			<unittitle>Houses - White House - Blue Room</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">83</container>
+			<unittitle>Houses - White House - Corridor</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">84</container>
+			<unittitle>Houses - White House - East Elevation</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">85</container>
+			<unittitle>Houses - White House - East Room</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">86</container>
+			<unittitle>Houses - White House - Green Room</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">87</container>
+			<unittitle>Houses - White House - Lobby</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">88</container>
+			<unittitle>Houses - White House - North Elevation</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">1</container>
+			<unittitle>Houses - White House - President’s Dining Room</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">2</container>
+			<unittitle>Houses - White House - President’s Office</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">3</container>
+			<unittitle>Houses - White House - President’s Telephone/Telegraph Bureau</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">4</container>
+			<unittitle>Houses - White House - Red Room</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">5</container>
+			<unittitle>Houses - White House - South Elevation</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">6</container>
+			<unittitle>Houses - White House - State Dining Room</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">7</container>
+			<unittitle>Houses - White House - Treaty Room</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">8</container>
+			<unittitle>Houses - White House - West Elevation</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">9</container>
+			<unittitle>Houses - Wilson, Woodrow</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">10</container>
+			<unittitle>Inaugurations - Warren G. Harding</unittitle>
+			<unitdate type="inclusive" normal="1921">1921</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">11</container>
+			<unittitle>Inaugurations - Abraham Lincoln</unittitle>
+			<unitdate type="inclusive" normal="1891">1891</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">12</container>
+			<unittitle>Inaugurations - William McKinley</unittitle>
+			<unitdate type="inclusive" normal="1901">1901</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">13</container>
+			<unittitle>Inaugurations - Franklin D. Roosevelt</unittitle>
+			<unitdate type="inclusive" normal="1933">1933</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">14</container>
+			<unittitle>Inaugurations - Theodore Roosevelt</unittitle>
+			<unitdate type="inclusive" normal="1905">1905</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">15</container>
+			<unittitle>Inaugurations - William Howard Taft</unittitle>
+			<unitdate type="inclusive" normal="1909">1909</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">16</container>
+			<unittitle>Inaugurations - Woodrow Wilson</unittitle>
+			<unitdate type="inclusive" normal="1913">1913</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">17</container>
+			<unittitle>Inaugurations - Woodrow Wilson</unittitle>
+			<unitdate type="inclusive" normal="1913/1917">1913 or 1917</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">18</container>
+			<unittitle>Inaugurations - Unknown</unittitle>
+			<unitdate type="inclusive" normal="1913/1917">1913 or 1917</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">19</container>
+			<unittitle>Interior, Dept. of</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">20</container>
+			<unittitle>Internal Revenue, Bureau of</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">21</container>
+			<unittitle>Interstate Commerce Commission</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">22</container>
+			<unittitle>Justice, Dept. of</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">23</container>
+			<unittitle>Labor, Dept. of</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">24</container>
+			<unittitle>Library of Congress - </unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">25</container>
+			<unittitle>Library of Congress - Annex (Adams Building)</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">26</container>
+			<unittitle>Library of Congress - Exterior</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">27</container>
+			<unittitle>Library of Congress - Interior - </unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">28</container>
+			<unittitle>Library of Congress - Interior - Exhibits</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">29</container>
+			<unittitle>Library of Congress - Interior - Misc.</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">30</container>
+			<unittitle>Library of Congress - Interior - Mosaics - Minerva</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">31</container>
+			<unittitle>Library of Congress - Interior - Mosaics - Achilles</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">32</container>
+			<unittitle>Library of Congress - Interior - Mosaics - Adonis</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">33</container>
+			<unittitle>Library of Congress - Interior - Mosaics - Bellerophon</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">34</container>
+			<unittitle>Library of Congress - Interior - Mosaics - Boy of Winandar</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">35</container>
+			<unittitle>Library of Congress - Interior - Mosaics - Cairn</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">36</container>
+			<unittitle>Library of Congress - Interior - Mosaics - Clio</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">37</container>
+			<unittitle>Library of Congress - Interior - Mosaics - Comus</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">38</container>
+			<unittitle>Library of Congress - Interior - Mosaics - Endymion</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">39</container>
+			<unittitle>Library of Congress - Interior - Mosaics - Ganymede</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">40</container>
+			<unittitle>Library of Congress - Interior - Mosaics - Hieroglyphics</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">41</container>
+			<unittitle>Library of Congress - Interior - Mosaics - History</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">42</container>
+			<unittitle>Library of Congress - Interior - Mosaics - Jason</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">43</container>
+			<unittitle>Library of Congress - Interior - Mosaics - Labor</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">44</container>
+			<unittitle>Library of Congress - Interior - Mosaics - Law</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">45</container>
+			<unittitle>Library of Congress - Interior - Mosaics - Lyric Poetry</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">46</container>
+			<unittitle>Library of Congress - Interior - Mosaics - Manuscript</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">47</container>
+			<unittitle>Library of Congress - Interior - Mosaics - Melpomene</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">48</container>
+			<unittitle>Library of Congress - Interior - Mosaics - Oral Tradition</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">49</container>
+			<unittitle>Library of Congress - Interior - Mosaics - Orpheus</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">50</container>
+			<unittitle>Library of Congress - Interior - Mosaics - Paris</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">51</container>
+			<unittitle>Library of Congress - Interior - Mosaics - Perseus</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">52</container>
+			<unittitle>Library of Congress - Interior - Mosaics - Pictograph</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">53</container>
+			<unittitle>Library of Congress - Interior - Mosaics - Printing Press</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">54</container>
+			<unittitle>Library of Congress - Interior - Mosaics - Prometheus</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">55</container>
+			<unittitle>Library of Congress - Interior - Mosaics - Religion</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">56</container>
+			<unittitle>Library of Congress - Interior - Mosaics - Seasons</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">57</container>
+			<unittitle>Library of Congress - Interior - Reading Room</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">58</container>
+			<unittitle>Library of Congress - Interior - Second Floor Central Hall</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">59</container>
+			<unittitle>Library of Congress - Interior - Stairway</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">60</container>
+			<unittitle>Library - Public - Carnegie</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">61</container>
+			<unittitle>Library - Public - Martin Luther King, Jr. Memorial</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">62</container>
+			<unittitle>Mall</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">63</container>
+			<unittitle>Markets – Center</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">64</container>
+			<unittitle>Masonic Temple</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">65</container>
+			<unittitle>Memorials - </unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">66</container>
+			<unittitle>Memorials - Barry, John</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">67</container>
+			<unittitle>Memorials - Columbus, Christopher</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">68</container>
+			<unittitle>Memorials - Ericsson, John</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">69</container>
+			<unittitle>Memorials - Farrugut, David G.</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">70</container>
+			<unittitle>Memorials - Founders (Daughters of the American Revolution)</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">71</container>
+			<unittitle>Memorials - Frederick the Great</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">72</container>
+			<unittitle>Memorials - Garfield, James A.</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">73</container>
+			<unittitle>Memorials - Gibbons, James Cardinal</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">74</container>
+			<unittitle>Memorials - Grant, Ulysses S.</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">75</container>
+			<unittitle>Memorials - Greene, Nathanael</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">76</container>
+			<unittitle>Memorials - Grief</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">77</container>
+			<unittitle>Memorials - Hahnemann, Dr. Samuel</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">78</container>
+			<unittitle>Memorials - Hamilton, Alexander</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">79</container>
+			<unittitle>Memorials - Hancock, John</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">80</container>
+			<unittitle>Memorials - Jackson, Andrew</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">81</container>
+			<unittitle>Memorials - Jefferson, Thomas</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">82</container>
+			<unittitle>Memorials - Joan of Arc</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">83</container>
+			<unittitle>Memorials - Jones, John Paul</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">84</container>
+			<unittitle>Memorials - Kosciuszko Thaddeus</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">85</container>
+			<unittitle>Memorials - Lafayette, Marquis Gilbert de</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">86</container>
+			<unittitle>Memorials - Lincoln, Abraham - Exterior</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">87</container>
+			<unittitle>Memorials - Lincoln, Abraham - Interior</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">88</container>
+			<unittitle>Memorials - Lincoln, Abraham - Misc.</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">89</container>
+			<unittitle>Memorials - Logan, John A.</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">90</container>
+			<unittitle>Memorials - Marine Corps War Memorial (Iwo Jima)</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">91</container>
+			<unittitle>Memorials - McClellan, George B.</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">92</container>
+			<unittitle>Memorials - McPherson, James B.</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">93</container>
+			<unittitle>Memorials - Payne, John Howard</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">94</container>
+			<unittitle>Memorials - Peace</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">95</container>
+			<unittitle>Memorials - Pike, Albert</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">96</container>
+			<unittitle>Memorials - Pulaski, Casimir</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">97</container>
+			<unittitle>Memorials - Rochambeau, Comte Jean de</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">98</container>
+			<unittitle>Memorials - Scott, Winfield</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">99</container>
+			<unittitle>Memorials - Sherman, William Tecumseh</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">100</container>
+			<unittitle>Memorials - Thomas, George H.</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">101</container>
+			<unittitle>Memorials - Washington, George (Monument) - Misc.</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">102</container>
+			<unittitle>Memorials - Webster, Daniel</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">103</container>
+			<unittitle>National Geographic</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">104</container>
+			<unittitle>Naval Observatory, U.S.</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">105</container>
+			<unittitle>Navy Yard, U.S.</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">106</container>
+			<unittitle>Neighborhoods - Chevy Chase</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">107</container>
+			<unittitle>Neighborhoods - Cleveland Park</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">108</container>
+			<unittitle>Neighborhoods - NE (Corcoran’s Hill)</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">109</container>
+			<unittitle>Organizations - American Association of University Women (AAUW)</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">110</container>
+			<unittitle>Organizations - Famous Womens’ Club</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">111</container>
+			<unittitle>Organizations - International Brotherhood of Teamsters</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">112</container>
+			<unittitle>Organizations - Masonic and Eastern Star Home</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">113</container>
+			<unittitle>Organizations - Methodist Building</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">114</container>
+			<unittitle>Organizations - National Housing Center</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">115</container>
+			<unittitle>Organizations - National Press Club</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">116</container>
+			<unittitle>Organizations - National Society Daughters of the American Revolution </unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">117</container>
+			<unittitle>Organizations - YMCA</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">118</container>
+			<unittitle>Organizations - YWCA</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">1</container>
+			<unittitle>Pan-American Union - Exterior</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">2</container>
+			<unittitle>Pan-American Union - Interior</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">3</container>
+			<unittitle>Parades – Preparedness</unittitle>
+			<unitdate type="inclusive" normal="1916-06-14">June 14 1916</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">4</container>
+			<unittitle>Parks - Potomac</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">5</container>
+			<unittitle>Parks - Rock Creek</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">6</container>
+			<unittitle>Patent Office</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">7</container>
+			<unittitle>Pension Building - Exterior</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">8</container>
+			<unittitle>Pension Building - Interior</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">9</container>
+			<unittitle>Pentagon</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">10</container>
+			<unittitle>Post Office - City - 12th and Pa. Ave.</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">11</container>
+			<unittitle>Post Office - City - N. Capitol and Mass. Ave.</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">12</container>
+			<unittitle>Post Office Dept. – 12th and Pa. Ave.</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">13</container>
+			<unittitle>Potomac River</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">14</container>
+			<unittitle>Presidents, U.S. - Johnson, Lyndon B.</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">15</container>
+			<unittitle>Presidents, U.S. - Kennedy, John F.</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">16</container>
+			<unittitle>Presidents, U.S. - Lincoln, Abraham</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">17</container>
+			<unittitle>Public Health Service Building, U.S.</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">18</container>
+			<unittitle>Restaurants - Also Café</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">19</container>
+			<unittitle>Restaurants - Alex Stuart’s</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">20</container>
+			<unittitle>Restaurants - Alfio’s la Trattoria</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">21</container>
+			<unittitle>Restaurants - Allies’ Inn</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">22</container>
+			<unittitle>Restaurants - Balalaika</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">23</container>
+			<unittitle>Restaurants - Blackie’s House of Beef</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">24</container>
+			<unittitle>Restaurants - Blue Mirror</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">25</container>
+			<unittitle>Restaurants - Bonat French-American Café</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">26</container>
+			<unittitle>Restaurants - Café Burgundy</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">27</container>
+			<unittitle>Restaurants - Cannon’s</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">28</container>
+			<unittitle>Restaurants - Casino Royal</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">29</container>
+			<unittitle>Restaurants - Cathay</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">30</container>
+			<unittitle>Restaurants - China Doll</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">31</container>
+			<unittitle>Restaurants - Chinese Lantern</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">32</container>
+			<unittitle>Restaurants - Colony Lounge</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">33</container>
+			<unittitle>Restaurants - Crown</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">34</container>
+			<unittitle>Restaurants - Duke Zeibert’s</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">35</container>
+			<unittitle>Restaurants - Flagship</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">36</container>
+			<unittitle>Restaurants - France’s</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">37</container>
+			<unittitle>Restaurants - Golden Parrot</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">38</container>
+			<unittitle>Restaurants - Good Earth</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">39</container>
+			<unittitle>Restaurants - Gung Ho</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">40</container>
+			<unittitle>Restaurants - Gusti’s</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">41</container>
+			<unittitle>Restaurants - Hall’s</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">42</container>
+			<unittitle>Restaurants - Hammel’s</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">43</container>
+			<unittitle>Restaurants - Harvey’s</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">44</container>
+			<unittitle>Restaurants - Herzog’s</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">45</container>
+			<unittitle>Restaurants - Hogate’s</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">46</container>
+			<unittitle>Restaurants - Hot Shoppes</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">47</container>
+			<unittitle>Restaurants - Linda</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">48</container>
+			<unittitle>Restaurants - Mayfair</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">49</container>
+			<unittitle>Restaurants - Napoleon’s</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">50</container>
+			<unittitle>Restaurants - Naylor’s</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">51</container>
+			<unittitle>Restaurants - New Smorgasbord</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">52</container>
+			<unittitle>Restaurants - O’Donnell’s</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">53</container>
+			<unittitle>Restaurants - Old New Orleans</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">54</container>
+			<unittitle>Restaurants - Olmstead</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">55</container>
+			<unittitle>Restaurants - Pierre</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">56</container>
+			<unittitle>Restaurants - Purple Tree Lounge</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">57</container>
+			<unittitle>Restaurants - Reeves Coffe Shop</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">58</container>
+			<unittitle>Restaurants - Restaurant 823</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">59</container>
+			<unittitle>Restaurants - Restaurant Longchamps</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">60</container>
+			<unittitle>Restaurants - Restaurant Madrillon</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">61</container>
+			<unittitle>Restaurants - Rib Room</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">62</container>
+			<unittitle>Restaurants - Roma</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">63</container>
+			<unittitle>Restaurants - Ruby Foo’s Den</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">64</container>
+			<unittitle>Restaurants - Schneider’s</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">65</container>
+			<unittitle>Restaurants - Seafare Restaurant and Lounge</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">66</container>
+			<unittitle>Restaurants - Scholl’s</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">67</container>
+			<unittitle>Restaurants - Silver Fox</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">68</container>
+			<unittitle>Restaurants - Surf Room Lounge</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">69</container>
+			<unittitle>Restaurants - Syriana</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">70</container>
+			<unittitle>Restaurants - Tai Tung</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">71</container>
+			<unittitle>Restaurants - Tally Ho</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">72</container>
+			<unittitle>Restaurants - Ted Lewis</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">73</container>
+			<unittitle>Restaurants - Thompson’s Cafeteria</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">74</container>
+			<unittitle>Restaurants - Tokyo Sukiyaki</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">75</container>
+			<unittitle>Restaurants - Torino Italian Restaurant</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">76</container>
+			<unittitle>Restaurants - Touchdown Club</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">77</container>
+			<unittitle>Restaurants - Water Gate Inn</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">78</container>
+			<unittitle>Schools - Private - Academy of Sacred Heart</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">79</container>
+			<unittitle>Schools - Private - Arlington Hall</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">80</container>
+			<unittitle>Schools - Private - Washington Cathedral School for Girls</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">81</container>
+			<unittitle>Schools - Public - Dunbar</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">82</container>
+			<unittitle>Schools - Public - Eastern</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">83</container>
+			<unittitle>Schools - Public - Roosevelt</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">84</container>
+			<unittitle>Scottish Rite Temple</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">85</container>
+			<unittitle>Senate Office Building - Exterior</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">86</container>
+			<unittitle>Senate Office Building - Interior</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">87</container>
+			<unittitle>Series - Evening Star - Murals</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">88</container>
+			<unittitle>Series - George Washington Bicentennial</unittitle>
+			<unitdate type="inclusive" normal="1732/1932">1732-1932</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">89</container>
+			<unittitle>Series - Minnie E. Brooke (Photographer)</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">90</container>
+			<unittitle>Series - Roundabout Prints (Lesley Jackson, artist)</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">91</container>
+			<unittitle>Series - Washington Post</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">92</container>
+			<unittitle>Smithsonian - Castle</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">93</container>
+			<unittitle>Smithsonian - History and Technology</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">94</container>
+			<unittitle>Smithsonian - National Museum  (New)</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">95</container>
+			<unittitle>Smithsonian - National Museum (Old)</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">96</container>
+			<unittitle>Smithsonian - Postcard Set with Envelope</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">97</container>
+			<unittitle>Soldier’s Home</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">98</container>
+			<unittitle>Treasury, Dept. of</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">99</container>
+			<unittitle>State, War and Navy</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">1</container>
+			<unittitle>Stores - Garfinckels</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">2</container>
+			<unittitle>Stores - Woodridge Rug and Carpet Co., Inc. </unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">3</container>
+			<unittitle>Stores - Woodward and Lothrop - Bethesda/Chevy Chase</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">4</container>
+			<unittitle>Stores - Woodward and Lothrop - North Building (DC)</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">5</container>
+			<unittitle>Stores - Woodward and Lothrop - Series #1 (DC)</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">6</container>
+			<unittitle>Stores - Woodward and Lothrop - Series #2 (DC)</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">7</container>
+			<unittitle>Stores - Woodward and Lothrop - Series #3 (DC)</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">8</container>
+			<unittitle>Stores - Woodward and Lothrop - Series #4 (DC)</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">9</container>
+			<unittitle>Stores - Woodward and Lothrop - Series #5 (DC)</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">10</container>
+			<unittitle>Streets - 7th NW</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">11</container>
+			<unittitle>Streets - 9th NW</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">12</container>
+			<unittitle>Streets - 13th NW</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">13</container>
+			<unittitle>Streets - Connecticut Avenue</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">14</container>
+			<unittitle>Streets - Constitution Avenue</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">15</container>
+			<unittitle>Streets - F NW</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">16</container>
+			<unittitle>Streets - Pennsylvania Avenue</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">17</container>
+			<unittitle>Supreme Court</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">18</container>
+			<unittitle>Theaters - Arena Stage</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">19</container>
+			<unittitle>Theaters - Belasco</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">20</container>
+			<unittitle>Theaters - Ford’s</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">21</container>
+			<unittitle>Treasury - Exterior - East Elevation</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">22</container>
+			<unittitle>Treasury - Exterior - North Elevation</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">23</container>
+			<unittitle>Treasury - Exterior - South Elevation</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">24</container>
+			<unittitle>Treasury - Exterior - West Elevation</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">25</container>
+			<unittitle>Treasury - Interior</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">26</container>
+			<unittitle>Union Station - Exterior</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">27</container>
+			<unittitle>Union Station - Interior - Concourse</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">28</container>
+			<unittitle>Union Station - Interior - Main Waiting Room</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">29</container>
+			<unittitle>Union Station - Interior - President’s Room</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">30</container>
+			<unittitle>Union Station - Misc.</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">31</container>
+			<unittitle>Veterans Administration Building</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">32</container>
+			<unittitle>Virginia - Alexandria</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">33</container>
+			<unittitle>Virginia - Great Falls - Potomac River</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">34</container>
+			<unittitle>Virginia - Great Falls - Structures</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">35</container>
+			<unittitle>War Dept. Building</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">36</container>
+			<unittitle>War and Navy Building</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">37</container>
+			<unittitle>War Risk Insurance Building</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">38</container>
+			<unittitle>Zoo - Animals</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">39</container>
+			<unittitle>Zoo - Structures</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">1</container>
+			<unittitle>Post Card Folders - Folger Shakespeare Library (1)</unittitle>
+			<unitdate type="inclusive" normal="1920/1940">ca. 1920s-1940s</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">2</container>
+			<unittitle>Post Card Folders - Franciscan Monastery (1)</unittitle>
+			<unitdate type="inclusive" normal="1920/1940">ca. 1920s-1940s</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">3</container>
+			<unittitle>Post Card Folders - Library of Congress (1)</unittitle>
+			<unitdate type="inclusive" normal="1920/1940">ca. 1920s-1940s</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">4</container>
+			<unittitle>Post Card Folders - National Historical Wax Museum – circa 1960s (1)</unittitle>
+			<unitdate type="inclusive" normal="1920/1940">ca. 1920s-1940s</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">5</container>
+			<unittitle>Post Card Folders - National Shrine of the Immaculate Conception (1)</unittitle>
+			<unitdate type="inclusive" normal="1920/1940">ca. 1920s-1940s</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">6</container>
+			<unittitle>Post Card Folders - Virginia – Arlington (4)</unittitle>
+			<unitdate type="inclusive" normal="1920/1940">ca. 1920s-1940s</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">7</container>
+			<unittitle>Post Card Folders - Washington, DC - generic tourist views (15)</unittitle>
+			<unitdate type="inclusive" normal="1920/1940">ca. 1920s-1940s</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">1</container>
+			<unittitle>Oversize Postcards</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+</c01>
+</dsc>
+</archdesc>
+</ead>

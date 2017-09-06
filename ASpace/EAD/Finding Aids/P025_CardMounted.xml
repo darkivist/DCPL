@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xml" href="I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/eadcbs6rev.xsl"?>
+<!DOCTYPE ead PUBLIC "-//Society of American Archivists//DTD ead.dtd (Encoded Archival Description (EAD) Version 1.0)//EN" "I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/ead.dtd">
+
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" repositoryencoding="iso15511" relatedencoding="MARC21">
+	<eadid mainagencycode="DWP" countrycode="US" url="http://washingtoniana.dclibrary.org">P025_CardMounted</eadid>
+<filedesc>
+<titlestmt>
+<titleproper encodinganalog="245$a">Card Mounted Photographs</titleproper>
+	<subtitle>An inventory of Card Mounted Photograph Collection at DC Public Library</subtitle>
+	<author encodinganalog="245$c">Finding aid prepared by Mark S. Greek.</author>
+</titlestmt>
+<publicationstmt>
+<publisher encodinganalog="260$b">DC Public Library Special Collections</publisher>
+	<date type="publication" encodinganalog="260$c" normal="2006-08">2006-08</date>
+<address><addressline>901 G Street NW</addressline><addressline>DC Public Library</addressline><addressline>Washington, D.C. 20009</addressline></address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation encodinganalog="500">EAD encoded by Paul Kelly on
+	<date normal="2017-08-11">2017-08-11</date>
+</creation>
+<langusage>English</langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory" relatedencoding="MARC21">
+<did id="a1">
+<head>Descriptive Summary</head>
+<repository label="Repository:" encodinganalog="852$a"><corpname>DC Public Library, Special Collections</corpname></repository>
+	<unitdate encodinganalog="260$c" label="Dates:" type="inclusive" normal="1883/1889">1883-1889</unitdate>
+	<unittitle label="Title:" encodinganalog="245$a">Card Mounted Photograph Collection</unittitle>
+<physdesc label="Extent:" encodinganalog="300$a"><extent>1 box</extent></physdesc>
+<unitid encodinganalog="090" label="Collection Number:" countrycode="US" repositorycode="DWP">P025</unitid>
+<langmaterial encodinganalog="041" label="Language:"><language langcode="eng">English</language></langmaterial>
+</did>
+	
+<dsc type="combined" id="a23">
+<head>Detailed Description of the Collection</head>
+<c01 level="series">
+   <did>
+	<unittitle>Series 1</unittitle>
+    </did>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">1</container>
+			<unittitle>Allen, Clarence G. </unittitle>
+			<unitdate type="inclusive" normal="1883">1883</unitdate>
+		</did>
+		<scopecontent>
+			<p>Negative Number: 519</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">2</container>
+			<unittitle>Beall, Seward - With bicycle</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Negative Number: 848</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">3</container>
+			<unittitle>Bontelle, John</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Negative Number: 846</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">4</container>
+			<unittitle>Bowerman, Mrs. George F.</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">5</container>
+			<unittitle>Burnett, Charles - With bicycle</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Negative Number: 847</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">6</container>
+			<unittitle>Byrnes, Ed</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Negative Number: 844</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">7</container>
+			<unittitle>Caldwell, Charles H. - Baby</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Negative Number: 822</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">8</container>
+			<unittitle>Cleveland, Grover - With Allen Thurman and US Capitol</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">9</container>
+			<unittitle>Dean, E. C.</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Negative Number: 794</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">10</container>
+			<unittitle>Dodge, Charles R.</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Negative Number: 795</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">11</container>
+			<unittitle>Evans, John A. - In uniform</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Negative Number: 796</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">12</container>
+			<unittitle>Fellows, H. A. - In uniform</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Negative Number: 717</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">13</container>
+			<unittitle>Gill, Lancey W.</unittitle>
+			<unitdate type="inclusive" normal="1885">1885</unitdate>
+		</did>
+		<scopecontent>
+			<p>Negative Number: 687</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">14</container>
+			<unittitle>Grannis, Charles G. - In uniform</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Negative Number: 683</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">15</container>
+			<unittitle>Greeley, A. W. - In uniform</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">16</container>
+			<unittitle>Hawley, C. E. </unittitle>
+			<unitdate type="inclusive" normal="1882">1882</unitdate>
+		</did>
+		<scopecontent>
+			<p>Negative Number: 953</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">17</container>
+			<unittitle>Jenkins, Fred</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Negative Number: 989</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">18</container>
+			<unittitle>Johnson, Fred L. - With bicycle</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Negative Number: 988</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">19</container>
+			<unittitle>Johnson, Fred L. - With bicycle</unittitle>
+			<unitdate type="inclusive" normal="1887">1887</unitdate>
+		</did>
+		<scopecontent>
+			<p>Negative Number: 990</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">20</container>
+			<unittitle>Kelly, Ivan - CDV</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">21</container>
+			<unittitle>Killetts, J. M.</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Negative Number: 1022</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">22</container>
+			<unittitle>Leaming, Joseph E.</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Negative Number: 1035</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">23</container>
+			<unittitle>Littell, J. Reed</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Negative Number: 1037</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">24</container>
+			<unittitle>Manners, E. C.</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Negative Number: 1161</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">25</container>
+			<unittitle>McCook, Charles M.</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Negative Number: 1167</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">26</container>
+			<unittitle>Moran, T. Pling</unittitle>
+			<unitdate type="inclusive" normal="1887">1887</unitdate>
+		</did>
+		<scopecontent>
+			<p>Negative Number: 1160</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">27</container>
+			<unittitle>Newman, Ed</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Negative Number: 8080</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">28</container>
+			<unittitle>Noyes, Theodore W.</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Negative Number: 1188</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">29</container>
+			<unittitle>Owen, Fred D.</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Negative Number: 1189</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">30</container>
+			<unittitle>Quinn, M. J. - In uniform</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Negative Number: 1199</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">31</container>
+			<unittitle>Rule, James F.</unittitle>
+			<unitdate type="inclusive" normal="1883">1883</unitdate>
+		</did>
+		<scopecontent>
+			<p>Negative Number: 1256</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">32</container>
+			<unittitle>Schnider, F. F.</unittitle>
+			<unitdate type="inclusive" normal="1885">1885</unitdate>
+		</did>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">33</container>
+			<unittitle>Sturmey, Henry</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">34</container>
+			<unittitle>Todd, Weber - In uniform</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Negative Number: 1283</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">35</container>
+			<unittitle>Tyler, Edward Royall</unittitle>
+			<unitdate type="inclusive" normal="1889">1889</unitdate>
+		</did>
+		<scopecontent>
+			<p>Negative Number: 1284</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">36</container>
+			<unittitle>Way, Will H. - In uniform</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Negative Number: 1166</p>
+		</scopecontent>
+	</c02>
+
+</c01>
+</dsc>
+</archdesc>
+</ead>

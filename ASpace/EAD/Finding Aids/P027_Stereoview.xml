@@ -1,0 +1,472 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type="text/xml" href="I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/eadcbs6rev.xsl"?><!DOCTYPE ead PUBLIC "-//Society of American Archivists//DTD ead.dtd (Encoded Archival Description (EAD) Version 1.0)//EN" "I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/ead.dtd">
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" repositoryencoding="iso15511" relatedencoding="MARC21">
+	<eadid mainagencycode="DWP" countrycode="US" url="http://washingtoniana.dclibrary.org">P027_Stereoview</eadid>
+<filedesc>
+<titlestmt>
+    <titleproper encodinganalog="245$a">Stereoview Collection</titleproper>
+    <subtitle>An inventory of the Stereoview Photograph Collection at DC Public Library</subtitle>
+    <author encodinganalog="245$c">Finding aid prepared by Mark S. Greek.</author>
+</titlestmt>
+<publicationstmt>
+<publisher encodinganalog="260$b">DC Public Library, Special Collections</publisher>
+    <date type="publication" encodinganalog="260$c" normal="2006-08">2006-08</date>
+<address><addressline>901 G Street NW</addressline><addressline>DC Public Library</addressline><addressline>Washington, D.C. 20009</addressline></address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation encodinganalog="500">EAD encoded by Paul Kelly on
+	<date normal="2017-07-20">2017-07-20</date>
+</creation>
+<langusage>English</langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory" relatedencoding="MARC21">
+<did id="a1">
+<head>Descriptive Summary</head>
+<repository label="Repository:" encodinganalog="852$a"><corpname>DC Public Library, Special Collections</corpname></repository>
+    <unitdate encodinganalog="260$c" label="Dates:" type="inclusive">Undated</unitdate>
+    <unittitle label="Title:" encodinganalog="245$a">Stereoview Photograph Collection</unittitle>
+<physdesc label="Extent:" encodinganalog="300$a"><extent>1 box</extent></physdesc>
+<unitid encodinganalog="090" label="Collection Number:" countrycode="US" repositorycode="dwp">P027</unitid>
+<langmaterial encodinganalog="041" label="Language:"><language langcode="eng">English</language></langmaterial>
+</did>
+	
+<dsc type="combined" id="a23">
+<head>Detailed Description of the Collection</head>
+<c01 level="series">
+   <did>
+       <unittitle>Series 1</unittitle>
+   </did>
+    	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">1</container>
+			<unittitle>Man next to boat with Long Bridge in background</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">2</container>
+			<unittitle>Three children near old capitol prison building</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">3</container>
+			<unittitle>Carriage near Chain Bridge </unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Negative Number: 7752</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">4</container>
+			<unittitle>Pennsylvania Avenue and US Capitol from Treasury Building</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">5</container>
+			<unittitle>Washington Monument </unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">6</container>
+			<unittitle>Railroad tracks on Long Bridge</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">7</container>
+			<unittitle>Graves at Arlington National Cemetery</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">8</container>
+			<unittitle>Women of the Food Administration during World War I</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">9</container>
+			<unittitle>Soldiers’ Home</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Negative Number: 6406</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">10</container>
+			<unittitle>First Presbyterian Church</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">11</container>
+			<unittitle>Arlington House in Arlington National Cemetery</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">12</container>
+			<unittitle>West Front of US Capitol and Botanic Garden</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">13</container>
+			<unittitle>President William McKinley</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">14</container>
+			<unittitle>Policeman near Andrew Jackson statue in Lafayette Park</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">15</container>
+			<unittitle>Carriage outside War Department building</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">16</container>
+			<unittitle>Department of Agriculture building</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">17</container>
+			<unittitle>Interior of Smithsonian Institution</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Negative Number: 8079</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">18</container>
+			<unittitle>Botanic Garden with west front of US Capitol in background</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">19</container>
+			<unittitle>Smithsonian Institution</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">20</container>
+			<unittitle>Washington Monument from Tidal Basin (colorized) </unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">21</container>
+			<unittitle>Cannons on the US Arsenal grounds</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">22</container>
+			<unittitle>US Patent Office building</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Negative Number: 4422</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">23</container>
+			<unittitle>Interior of US Patent Office building</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">24</container>
+			<unittitle>US Patent Office building</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">25</container>
+			<unittitle>Treasury Department building</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">26</container>
+			<unittitle>US Post Office building</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">27</container>
+			<unittitle>Interior of White House – East Room</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">28</container>
+			<unittitle>White House – South side</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">29</container>
+			<unittitle>White house – North front</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Negative Number: 7319</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">30</container>
+			<unittitle>White House – South side</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">31</container>
+			<unittitle>Aerial View of US Capitol looking toward Potomac River</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">32</container>
+			<unittitle>US Capitol – East side</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">33</container>
+			<unittitle>US Capitol and proposed Lincoln monument (never built)</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">34</container>
+			<unittitle>Statue of Civilization – East Portico, US Capitol</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">35</container>
+			<unittitle>US Capitol – East side</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">36</container>
+			<unittitle>US Capitol rotunda – Brumidi’s Allegorical Painting </unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">37</container>
+			<unittitle>US Capitol rotunda – Brumidi’s Allegorical Painting</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">38</container>
+			<unittitle>House of Representatives Chamber – US Capitol</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">39</container>
+			<unittitle>House of Representatives Chamber – US Capitol</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">40</container>
+			<unittitle>US Capitol – East side</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">41</container>
+			<unittitle>Embarkation of the Pilgrams – US Capitol rotunda</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">42</container>
+			<unittitle>Senate Chamber – US Capitol</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">43</container>
+			<unittitle>US Capitol and proposed Lincoln monument (never built)</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">44</container>
+			<unittitle>US Capitol – East side</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">45</container>
+			<unittitle>East entrance to US Capitol </unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">46</container>
+			<unittitle>Pennsylvania Avenue, with US Capitol in background</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Negative Number: 7742</p>
+		</scopecontent>
+	</c02>
+</c01>
+</dsc>
+</archdesc>
+</ead>

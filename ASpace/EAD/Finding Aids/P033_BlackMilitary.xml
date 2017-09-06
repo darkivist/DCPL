@@ -1,0 +1,236 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type="text/xml" href="I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/eadcbs6rev.xsl"?><!DOCTYPE ead PUBLIC "-//Society of American Archivists//DTD ead.dtd (Encoded Archival Description (EAD) Version 1.0)//EN" "I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/ead.dtd">
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" repositoryencoding="iso15511" relatedencoding="MARC21">
+	<eadid mainagencycode="DWP" countrycode="US" url="http://washingtoniana.dclibrary.org">P033_BlackMilitary</eadid>
+<filedesc>
+<titlestmt>
+    <titleproper encodinganalog="245$a">Black Military Photograph Collection</titleproper>
+    <subtitle>An inventory of the Black Military Photograph Collection at DC Public Library</subtitle>
+    <author encodinganalog="245$c">Finding aid prepared by David Edmonds.</author>
+</titlestmt>
+<publicationstmt>
+<publisher encodinganalog="260$b">DC Public Library, Special Collections</publisher>
+    <date type="publication" encodinganalog="260$c" normal="2009-07">2009-07</date>
+<address><addressline>901 G Street NW</addressline><addressline>DC Public Library</addressline><addressline>Washington, D.C. 20009</addressline></address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation encodinganalog="500">EAD encoded by Paul Kelly on
+	<date normal="2017-07-20">2017-07-20</date>
+</creation>
+<langusage>English</langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory" relatedencoding="MARC21">
+<did id="a1">
+<head>Descriptive Summary</head>
+<repository label="Repository:" encodinganalog="852$a"><corpname>DC Public Library, Special Collections</corpname></repository>
+    <unitdate encodinganalog="260$c" label="Dates:" type="inclusive" normal="1848/1940">1848-1940</unitdate>
+    <unittitle label="Title:" encodinganalog="245$a">Black Military Photograph Collection</unittitle>
+<physdesc label="Extent:" encodinganalog="300$a"><extent>1 boxes</extent></physdesc>
+<unitid encodinganalog="090" label="Collection Number:" countrycode="US" repositorycode="dwp">P033</unitid>
+<langmaterial encodinganalog="041" label="Language:"><language langcode="eng">English</language></langmaterial>
+</did>
+	
+<dsc type="combined" id="a23">
+<head>Detailed Description of the Collection</head>
+<c01 level="series">
+   <did>
+       <unittitle>Series 1</unittitle>
+   </did>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">1</container>
+            <unittitle>Leisure  </unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+        </did>
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">2</container>
+            <unittitle>Honors/Awards</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+        </did>
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">3</container>
+            <unittitle>Individual and group pictures</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+        </did>
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">4</container>
+            <unittitle>Individual and group pictures </unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+        </did>
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">5</container>
+            <unittitle>Patient/Hospitals </unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+        </did>
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">6</container>
+            <unittitle>Soldiers at work</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+        </did>
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">7</container>
+            <unittitle>Soldiers at work</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+        </did>
+    </c02>
+</c01>
+    <c01 level="series">
+        <did>
+            <unittitle>Series 2</unittitle>
+        </did>
+        <c02 level="file">
+            <did>
+                <container type="Box">1</container>
+                <container type="Folder">8</container>
+                <unittitle>Individual and group pictures </unittitle>
+                <unitdate type="inclusive">undated</unitdate>
+            </did>
+        </c02>
+        <c02 level="file">
+            <did>
+                <container type="Box">1</container>
+                <container type="Folder">9</container>
+                <unittitle>Individual and group pictures</unittitle>
+                <unitdate type="inclusive">undated</unitdate>
+            </did>
+        </c02>
+        <c02 level="file">
+            <did>
+                <container type="Box">1</container>
+                <container type="Folder">10</container>
+                <unittitle>Training/Battle </unittitle>
+                <unitdate type="inclusive">undated</unitdate>
+            </did>
+        </c02>
+        <c02 level="file">
+            <did>
+                <container type="Box">1</container>
+                <container type="Folder">11</container>
+                <unittitle>Training/Battle</unittitle>
+                <unitdate type="inclusive">undated</unitdate>
+            </did>
+        </c02>
+        <c02 level="file">
+            <did>
+                <container type="Box">1</container>
+                <container type="Folder">12</container>
+                <unittitle>Leisure </unittitle>
+                <unitdate type="inclusive">undated</unitdate>
+            </did>
+        </c02>
+        <c02 level="file">
+            <did>
+                <container type="Box">1</container>
+                <container type="Folder">13</container>
+                <unittitle>Soldiers at work</unittitle>
+                <unitdate type="inclusive">undated</unitdate>
+            </did>
+        </c02>
+        <c02 level="file">
+            <did>
+                <container type="Box">1</container>
+                <container type="Folder">14</container>
+                <unittitle> Honors/Awards</unittitle>
+                <unitdate type="inclusive">undated</unitdate>
+            </did>
+        </c02>
+        <c02 level="file">
+            <did>
+                <container type="Box">1</container>
+                <container type="Folder">15</container>
+                <unittitle>Honors/Awards</unittitle>
+                <unitdate type="inclusive">undated</unitdate>
+            </did>
+        </c02>
+    </c01>
+    <c01 level="series">
+        <did>
+            <unittitle>Series 3</unittitle>
+        </did>
+        <c02 level="file">
+            <did>
+                <container type="Box">1</container>
+                <container type="Folder">16</container>
+                <unittitle>Individual and group pictures</unittitle>
+                <unitdate type="inclusive">undated</unitdate>
+            </did>
+        </c02>
+    </c01>
+    <c01 level="series">
+        <did>
+            <unittitle>Series 4</unittitle>
+        </did>
+        <c02 level="file">
+            <did>
+                <container type="Box">1</container>
+                <container type="Folder">17</container>
+                <unittitle>Leisure </unittitle>
+                <unitdate type="inclusive">undated</unitdate>
+            </did>
+        </c02>
+    </c01>
+    <c01 level="series">
+        <did>
+            <unittitle>Series 5</unittitle>
+        </did>
+        <c02 level="file">
+            <did>
+                <container type="Box">1</container>
+                <container type="Folder">18</container>
+                <unittitle>Leisure</unittitle>
+                <unitdate type="inclusive">undated</unitdate>
+            </did>
+        </c02>
+    </c01>
+    <c01 level="series">
+        <did>
+            <unittitle>Series 6</unittitle>
+        </did>
+        <c02 level="file">
+            <did>
+                <container type="Box">1</container>
+                <container type="Folder">19</container>
+                <unittitle>Correspondence</unittitle>
+                <unitdate type="inclusive">undated</unitdate>
+            </did>
+        </c02>
+    </c01>
+    <c01 level="series">
+        <did>
+            <unittitle>Series 7</unittitle>
+        </did>
+        <c02 level="file">
+            <did>
+                <container type="Box">1</container>
+                <container type="Folder">20</container>
+                <unittitle>Miscellaneous</unittitle>
+                <unitdate type="inclusive">undated</unitdate>
+            </did>
+        </c02>
+    </c01>
+</dsc>
+</archdesc>
+</ead>

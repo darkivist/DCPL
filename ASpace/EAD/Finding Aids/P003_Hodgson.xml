@@ -1,0 +1,394 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type="text/xml" href="I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/eadcbs6rev.xsl"?><!DOCTYPE ead PUBLIC "-//Society of American Archivists//DTD ead.dtd (Encoded Archival Description (EAD) Version 1.0)//EN" "I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/ead.dtd">
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" repositoryencoding="iso15511" relatedencoding="MARC21">
+	<eadid mainagencycode="DWP" countrycode="US" url="http://washingtoniana.dclibrary.org">P003_Hodgson</eadid>
+<filedesc>
+<titlestmt>
+    <titleproper encodinganalog="245$a">Marilyn Smithson Hodgson’s School of Dance and Expression</titleproper>
+    <subtitle>An inventory of the Marilyn Smithson Hodgson’s School of Dance and Expression Photograph Collection at DC Public Library</subtitle>
+    <author encodinganalog="245$c">Finding aid prepared by Faye Haskins.</author>
+</titlestmt>
+<publicationstmt>
+<publisher encodinganalog="260$b">DC Public Library, Special Collections</publisher>
+    <date type="publication" encodinganalog="260$c" normal="2000-03">2000-03</date>
+<address><addressline>901 G Street NW</addressline><addressline>DC Public Library</addressline><addressline>Washington, D.C. 20009</addressline></address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation encodinganalog="500">EAD encoded by Paul Kelly on
+	<date normal="2017-07-20">2017-07-20</date>
+</creation>
+<langusage>English</langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory" relatedencoding="MARC21">
+<did id="a1">
+<head>Descriptive Summary</head>
+<repository label="Repository:" encodinganalog="852$a"><corpname>DC Public Library, Special Collections</corpname></repository>
+    <unitdate encodinganalog="260$c" label="Dates:" type="inclusive" normal="1913/1941">1913-1941</unitdate>
+    <unittitle label="Title:" encodinganalog="245$a">Marilyn Smithson Hodgson’s School of Dance and Expression Photograph Collection</unittitle>
+<physdesc label="Extent:" encodinganalog="300$a"><extent>5 Boxes</extent></physdesc>
+<unitid encodinganalog="090" label="Collection Number:" countrycode="US" repositorycode="DCU">P003</unitid>
+<langmaterial encodinganalog="041" label="Language:"><language langcode="eng">English</language></langmaterial>
+</did>
+	
+<dsc type="combined" id="a23">
+<head>Detailed Description of the Collection</head>
+<c01 level="series">
+   <did>
+       <unittitle>Series 1: Singles</unittitle>
+   </did>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">1</container>
+            <unittitle>Lilla Smithson</unittitle>
+            <unitdate type="inclusive" normal="1910">ca. 1910s</unitdate>
+        </did>
+        
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">2</container>
+            <unittitle>Girls - miscellaneous</unittitle>
+            <unitdate type="inclusive" normal="1920">ca. 1920s</unitdate>
+        </did>
+        <scopecontent>
+            <p> (2 envelopes)</p>
+        </scopecontent>
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">3</container>
+            <unittitle>Women</unittitle>
+            <unitdate type="inclusive" normal="1920/1930">ca. 1920s-1930s</unitdate>
+        </did>
+        
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">4</container>
+            <unittitle>Boys and men only</unittitle>
+            <unitdate type="inclusive" normal="1930/1940">ca. 1930-1940s</unitdate>
+        </did>
+        
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">5</container>
+            <unittitle>Individual women dancers</unittitle>
+            <unitdate type="inclusive" normal="1940">ca. 1940s</unitdate>
+        </did>
+        <scopecontent>
+            <p> (4 envelopes)</p>
+        </scopecontent>
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">6</container>
+            <unittitle>Women - similar design/performance</unittitle>
+            <unitdate type="inclusive" normal="1940">ca. 1940s</unitdate>
+        </did>
+        <scopecontent>
+            <p> (5 envelopes)</p>
+        </scopecontent>
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">1</container>
+            <container type="Folder">7</container>
+            <unittitle>Girls - similar design/performance</unittitle>
+            <unitdate type="inclusive" normal="1940">ca. 1940s</unitdate>
+        </did>
+        <scopecontent>
+            <p> (6 envelopes)</p>
+        </scopecontent>
+    </c02>
+</c01>
+<c01 level="series">
+   <did>
+       <unittitle>Series 2: Groups</unittitle>
+   </did>
+    <c02 level="file">
+        <did>
+            <container type="Box">2</container>
+            <container type="Folder">1</container>
+            <unittitle>Womens’ ensembles</unittitle>
+            <unitdate type="inclusive" normal="1930">ca. 1930s</unitdate>
+        </did>
+        
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">2</container>
+            <container type="Folder">2</container>
+            <unittitle>Couples and trios with boys and girls</unittitle>
+            <unitdate type="inclusive" normal="1920/1930">ca. 1920s-1930s</unitdate>
+        </did>
+        
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">2</container>
+            <container type="Folder">3</container>
+            <unittitle>Women’s ballet</unittitle>
+            <unitdate type="inclusive" normal="1930">ca. 1930s</unitdate>
+        </did>
+        
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">2</container>
+            <container type="Folder">4</container>
+            <unittitle>Wedding scenes with children</unittitle>
+            <unitdate type="inclusive" normal="1920">ca. 1920s</unitdate>
+        </did>
+        
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">2</container>
+            <container type="Folder">5</container>
+            <unittitle>Groups with similar design/performance</unittitle>
+            <unitdate type="inclusive" normal="1920/1930">ca. 1920s-1930s</unitdate>
+        </did>
+        
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">2</container>
+            <container type="Folder">6</container>
+            <unittitle>Tap</unittitle>
+            <unitdate type="inclusive" normal="1930/1940">ca. 1930s-1940s</unitdate>
+        </did>
+        
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">2</container>
+            <container type="Folder">7</container>
+            <unittitle>Girls’ ballet</unittitle>
+            <unitdate type="inclusive" normal="1930/1940">ca. 1930s-1940s</unitdate>
+        </did>
+        
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">3</container>
+            <container type="Folder">8</container>
+            <unittitle>Groups with similar design/performance</unittitle>
+            <unitdate type="inclusive" normal="1940">ca. 1940s</unitdate>
+        </did>
+        <scopecontent>
+            <p> (11 envelopes)</p>
+        </scopecontent>
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">3</container>
+            <container type="Folder">9</container>
+            <unittitle>Children</unittitle>
+            <unitdate type="inclusive" normal="1940">ca. 1940s</unitdate>
+        </did>
+        
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">3</container>
+            <container type="Folder">10</container>
+            <unittitle>Ethnic dance</unittitle>
+            <unitdate type="inclusive" normal="1940">ca. 1940s</unitdate>
+        </did>
+        
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">3</container>
+            <container type="Folder">11</container>
+            <unittitle>Modern and miscellaneous</unittitle>
+            <unitdate type="inclusive" normal="1940">ca. 1940s</unitdate>
+        </did>
+        
+    </c02>
+    <c02 level="file">
+        <did>
+            <container type="Box">3</container>
+            <container type="Folder">12</container>
+            <unittitle>Couples</unittitle>
+            <unitdate type="inclusive" normal="1940">ca. 1940s</unitdate>
+        </did>
+        
+    </c02>
+    </c01>
+    <c01 level="series">
+        <did>
+            <unittitle>Series 3: Non-Dance</unittitle>
+        </did>
+        <c02 level="file">
+            <did>
+                <container type="Box">3</container>
+                <container type="Folder">13</container>
+                <unittitle>Portraits</unittitle>
+                <unitdate type="inclusive" normal="1920/1930">ca. 1920s-1930s</unitdate>
+            </did>
+        </c02>
+        <c02 level="file">
+            <did>
+                <container type="Box">3</container>
+                <container type="Folder">14</container>
+                <unittitle>Portraits</unittitle>
+                <unitdate type="inclusive" normal="1940">ca. 1940s</unitdate>
+            </did>
+        </c02>
+        <c02 level="file">
+            <did>
+                <container type="Box">3</container>
+                <container type="Folder">15</container>
+                <unittitle>Miscellaneous</unittitle>
+                <unitdate type="inclusive" normal="1940">ca. 1940s</unitdate>
+            </did>
+        </c02>
+        <c02 level="file">
+            <did>
+                <container type="Box">3</container>
+                <container type="Folder">16</container>
+                <unittitle>Snapshots</unittitle>
+                <unitdate type="inclusive" normal="1940">ca. 1940s</unitdate>
+            </did>
+        </c02>
+        <c02 level="file">
+            <did>
+                <container type="Box">3</container>
+                <container type="Folder">17</container>
+                <unittitle>Wedding portrait</unittitle>
+                <unitdate type="inclusive" normal="1940">ca. 1940s</unitdate>
+            </did>
+        </c02>
+    </c01>
+    <c01 level="series">
+        <did>
+            <unittitle>Series 4: Painted Photographs</unittitle>
+        </did>
+        <c02 level="file">
+            <did>
+                <container type="Box">4</container>
+                <container type="Folder">1</container>
+                <unittitle>Groups</unittitle>
+                <unitdate type="inclusive" normal="1920/1930">ca. 1920s-1930s</unitdate>
+            </did>
+            
+        </c02>
+        <c02 level="file">
+            <did>
+                <container type="Box">4</container>
+                <container type="Folder">2</container>
+                <unittitle>Groups</unittitle>
+                <unitdate type="inclusive" normal="1940">ca. 1940s</unitdate>
+            </did>
+            <scopecontent>
+                <p> (2 envelopes)</p>
+            </scopecontent>
+        </c02>
+        <c02 level="file">
+            <did>
+                <container type="Box">4</container>
+                <container type="Folder">3</container>
+                <unittitle>Singles - girls’ toe</unittitle>
+                <unitdate type="inclusive" normal="1930/1940">ca. 1930s-1940s</unitdate>
+            </did>
+            <scopecontent>
+                <p> (3 envelopes)</p>
+            </scopecontent>
+        </c02>
+        <c02 level="file">
+            <did>
+                <container type="Box">4</container>
+                <container type="Folder">4</container>
+                <unittitle>Singes - girls’ tape and other</unittitle>
+                <unitdate type="inclusive" normal="1930/1949" certainty="approximate">1930s-1940s</unitdate>
+            </did>
+            
+        </c02>
+        <c02 level="file">
+            <did>
+                <container type="Box">4</container>
+                <container type="Folder">5</container>
+                <unittitle>Singles - Women’s tap</unittitle>
+                <unitdate type="inclusive" normal="1930">ca. 1930s</unitdate>
+            </did>
+            
+        </c02>
+        <c02 level="file">
+            <did>
+                <container type="Box">4</container>
+                <container type="Folder">6</container>
+                <unittitle>Singles - Women’s toe</unittitle>
+                <unitdate type="inclusive" normal="1940">ca. 1940s</unitdate>
+            </did>
+            <scopecontent>
+                <p> (4 envelopes)</p>
+            </scopecontent>
+        </c02>
+        <c02 level="file">
+            <did>
+                <container type="Box">4</container>
+                <container type="Folder">7</container>
+                <unittitle>Original pages with painted photographs from album</unittitle>
+                <unitdate type="inclusive" normal="1920/1940">ca. 1920s-1940s</unitdate>
+            </did>
+            
+        </c02>
+    </c01>
+    <c01 level="series">
+        <did>
+            <unittitle>Series 5: Clippings and Programs</unittitle>
+        </did>
+        <c02 level="file">
+            <did>
+                <container type="Box">5</container>
+                <container type="Folder">1</container>
+                <unittitle>Programs</unittitle>
+                <unitdate type="inclusive" normal="1913/1941">1913-1941</unitdate>
+            </did>
+            
+        </c02>
+        <c02 level="file">
+            <did>
+                <container type="Box">5</container>
+                <container type="Folder">2</container>
+                <unittitle>Copies of clippings</unittitle>
+                <unitdate type="inclusive" normal="1907/1942">ca. 1907-1942</unitdate>
+            </did>
+            
+        </c02>
+        <c02 level="file">
+            <did>
+                <container type="Box">5</container>
+                <container type="Folder">3</container>
+                <unittitle>Original scrapbook pages</unittitle>
+                <unitdate type="inclusive" normal="1907/1942">ca. 1907-1942</unitdate>
+            </did>
+            <scopecontent>
+                <p> (2 folders)</p>
+            </scopecontent>
+        </c02>
+        <c02 level="file">
+            <did>
+                <container type="Box">5</container>
+                <container type="Folder">4</container>
+                <unittitle>Original cover to scrapbook</unittitle>
+                <unitdate type="inclusive">undated</unitdate>
+            </did>
+            
+        </c02>
+    </c01>
+</dsc>
+</archdesc>
+</ead>

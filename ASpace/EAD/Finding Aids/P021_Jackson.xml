@@ -1,0 +1,383 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type="text/xml" href="I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/eadcbs6rev.xsl"?><!DOCTYPE ead PUBLIC "-//Society of American Archivists//DTD ead.dtd (Encoded Archival Description (EAD) Version 1.0)//EN" "I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/ead.dtd">
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" repositoryencoding="iso15511" relatedencoding="MARC21">
+	<eadid mainagencycode="DWP" countrycode="US" url="http://washingtoniana.dclibrary.org">P021_Jackson</eadid>
+<filedesc>
+<titlestmt>
+    <titleproper encodinganalog="245$a">Jackson Place Complex</titleproper>
+    <subtitle>An inventory of the Jackson Place Complex Photograph Collection at DC Public Library</subtitle>
+    <author encodinganalog="245$c">Finding aid prepared by Mark S. Greek.</author>
+</titlestmt>
+<publicationstmt>
+<publisher encodinganalog="260$b">DC Public Library, Special Collections</publisher>
+    <date type="publication" encodinganalog="260$c" normal="2006-05">2006-05</date>
+<address><addressline>901 G Street NW</addressline><addressline>DC Public Library</addressline><addressline>Washington, D.C. 20009</addressline></address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation encodinganalog="500">EAD encoded by Paul Kelly on
+	<date normal="2017-07-20">2017-07-20</date>
+</creation>
+<langusage>English</langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory" relatedencoding="MARC21">
+<did id="a1">
+<head>Descriptive Summary</head>
+<repository label="Repository:" encodinganalog="852$a"><corpname>DC Public Library, Special Collections</corpname></repository>
+    <unitdate encodinganalog="260$c" label="Dates:" type="inclusive" normal="1988">1988</unitdate>
+    <unittitle label="Title:" encodinganalog="245$a">Jackson Place Complex Photograph Collection</unittitle>
+<physdesc label="Extent:" encodinganalog="300$a"><extent>1 box</extent></physdesc>
+<unitid encodinganalog="090" label="Collection Number:" countrycode="US" repositorycode="dwp">P021</unitid>
+<langmaterial encodinganalog="041" label="Language:"><language langcode="eng">English</language></langmaterial>
+</did>
+	
+<dsc type="combined" id="a23">
+<head>Detailed Description of the Collection</head>
+<c01 level="series">
+   <did>
+       <unittitle>Series 1</unittitle>
+   </did>
+    	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">1</container>
+			<unittitle>Architectural model of the Jackson Place Complex </unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>(Photocopy, 3 copies)</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">2</container>
+			<unittitle>General view of Jackson Place from Lafayette square </unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>(3 copies)</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">3</container>
+			<unittitle>General view of Jackson Place upper floors and roofs from Lafayette square </unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">4</container>
+			<unittitle>General view of Jackson Place from Lafayette square </unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>(3 copies)</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">5</container>
+			<unittitle>General view of the rear of Jackson Place </unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>(3 copies)</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">6</container>
+			<unittitle>General view of plaza behind Jackson Place </unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>(3 copies)</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">7</container>
+			<unittitle>Rear steps of building #734 </unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>(3 copies)</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">8</container>
+			<unittitle>Detail and planter box behind #722 </unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>(3 copies)</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">9</container>
+			<unittitle>Typical interior wall damage caused by leaking gutters </unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>(3 copies)</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">10</container>
+			<unittitle>East half of #708 parapet wall</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p> (3 copies)</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">11</container>
+			<unittitle>Detail of paint on parapet wall </unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>(3 copies)</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">12</container>
+			<unittitle>“Walking parapet of #708 from roof of #712 </unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>(3 copies)</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">13</container>
+			<unittitle>Failed parging at truncated chimney of #712 </unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>(3 copies)</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">14</container>
+			<unittitle>Metal barrel dormers at #712 </unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>(3 copies)</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">15</container>
+			<unittitle>Detail of typical patching and repair of #712 </unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>(3 copies)</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">16</container>
+			<unittitle>South face of parapet between #708 and #712 </unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>(3 copies)</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">17</container>
+			<unittitle>South face of #716 chimney </unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>(3 copies)</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">18</container>
+			<unittitle>East facing dormers of #718 </unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>(3 copies)</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">19</container>
+			<unittitle>Detail of gutter intersection between #716 and #718 </unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>(3 copies)</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">20</container>
+			<unittitle>West-facing mansard roof of #726-A </unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>(3 copies)</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">21</container>
+			<unittitle>Typical sealant joint failure of cast stone </unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>(3 copies)</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">22</container>
+			<unittitle>East facing dormer cladding at #736 </unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>(3 copies)</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">23</container>
+			<unittitle>Built in gutter and gravel-stop details at #734 and #736 </unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>(3 copies)</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">24</container>
+			<unittitle>Early surface-rusting at #740</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">25</container>
+			<unittitle>Roof of #744 looking northeast </unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>(3 copies)</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">26</container>
+			<unittitle>South end of Jackson Place</unittitle>
+			<unitdate type="inclusive" normal="1920">ca. 1920</unitdate>
+		</did>
+		<scopecontent>
+			<p>(photocopy, 3 copies)</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">27</container>
+			<unittitle>Blair-Lee Houses and Renwick Gallery </unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>(photocopy, 3 copies)</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">28</container>
+			<unittitle>North face of building #736</unittitle>
+			<unitdate type="inclusive" normal="1902">ca. 1902</unitdate>
+		</did>
+		<scopecontent>
+			<p>(photocopy, 3 copies)</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">29</container>
+			<unittitle>Building #734 and #736</unittitle>
+			<unitdate type="inclusive" normal="1920">ca. 1920</unitdate>
+		</did>
+		<scopecontent>
+			<p>(photocopy, 3 copies)</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">30</container>
+			<unittitle>Building #722</unittitle>
+			<unitdate type="inclusive" normal="1930">ca. 1930 </unitdate>
+		</did>
+		<scopecontent>
+			<p>(photocopy, 3 copies)</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">31</container>
+			<unittitle>Jackson Place looking southwest</unittitle>
+			<unitdate type="inclusive" normal="1934">ca. 1934 </unitdate>
+		</did>
+		<scopecontent>
+			<p>(photocopy, 3 copies)</p>
+		</scopecontent>
+	</c02>
+</c01>
+</dsc>
+</archdesc>
+</ead>

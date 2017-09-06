@@ -1,0 +1,4555 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type="text/xml" href="I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/eadcbs6rev.xsl"?><!DOCTYPE ead PUBLIC "-//Society of American Archivists//DTD ead.dtd (Encoded Archival Description (EAD) Version 1.0)//EN" "I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/ead.dtd">
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" repositoryencoding="iso15511" relatedencoding="MARC21">
+	<eadid mainagencycode="DWP" countrycode="US" url="http://washingtoniana.dclibrary.org">P015_Mitchell</eadid>
+<filedesc>
+<titlestmt>
+  <titleproper encodinganalog="245$a">Mary Mitchell</titleproper>
+  <subtitle>An inventory of the Mary Mitchell Collection at DC Public Library</subtitle>
+  <author encodinganalog="245$c">Finding aid prepared by Mark S. Greek.</author>
+</titlestmt>
+<publicationstmt>
+<publisher encodinganalog="260$b">DC Public Library, Special Collections</publisher>
+  <date type="publication" encodinganalog="260$c" normal="2006-05">2006-05</date>
+<address><addressline>901 G Street NW</addressline><addressline>DC Public Library</addressline><addressline>Washington, D.C. 20009</addressline></address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation encodinganalog="500">EAD encoded by Paul Kelly on
+	<date normal="2017-07-20">2017-07-20</date>
+</creation>
+<langusage>English</langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory" relatedencoding="MARC21">
+<did id="a1">
+<head>Descriptive Summary</head>
+<repository label="Repository:" encodinganalog="852$a"><corpname>DC Public Library, Special Collections</corpname></repository>
+  <unitdate encodinganalog="260$c" label="Dates:" type="inclusive" normal="1960/1975">1960-1975</unitdate>
+  <unittitle label="Title:" encodinganalog="245$a">Mary Mitchell Collection</unittitle>
+<physdesc label="Extent:" encodinganalog="300$a"><extent>1 box</extent></physdesc>
+<unitid encodinganalog="090" label="Collection Number:" countrycode="US" repositorycode="dwp">P015</unitid>
+<langmaterial encodinganalog="041" label="Language:"><language langcode="eng">English</language></langmaterial>
+</did>
+	
+<dsc type="combined" id="a23">
+<head>Detailed Description of the Collection</head>
+<c01 level="series">
+  <did>
+    <unittitle>Series 1</unittitle>
+  </did>
+  	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">1</container>
+			<unittitle>Bush the old fire dog (tombstone) </unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>Bush the old fire dog (tombstone) </unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">2</container>
+			<unittitle>Unknown building</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>Unknown building</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			
+		</c03>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">3</container>
+			<unittitle>Union Hotel – Georgetown </unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>Union Hotel – Georgetown </unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			
+		</c03>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">4</container>
+			<unittitle>Surratt Boarding House – 604 H Street, NW</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>Surratt Boarding House – 604 H Street, NW</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>View from parking lot across the street</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>Surratt Boarding House – 604 H Street, NW</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>View from parking lot across the street</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>Surratt Boarding House – 604 H Street, NW</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>View from parking lot across the street</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">5</container>
+			<unittitle>Lincoln Memorial</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>Lincoln Memorial</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Close view of Daniel Chester French’s Lincoln statue</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>Lincoln Memorial</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Close view of Daniel Chester French’s Lincoln statue</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">6</container>
+			<unittitle>Treasury Department</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>Treasury Department</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Alexander Hamilton statue – South entrance</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>Treasury Department</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Alexander Hamilton statue – South entrance</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">7</container>
+			<unittitle>Lafayette Square</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>Lafayette Square</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Rochambeau statue</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>Lafayette Square</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Metro bus with “exact fare” sign</p>
+			</scopecontent>
+		</c03>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">8</container>
+			<unittitle>US Capitol</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>US Capitol</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Group of people near lamppost – East side</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>US Capitol</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Lampposts on east side – Capitol in background</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">9</container>
+			<unittitle>US Capitol – Window detail </unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>US Capitol – Window detail </unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">10</container>
+			<unittitle>US Capitol dome and John Marshall Statue</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>US Capitol dome and John Marshall Statue</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">11</container>
+			<unittitle>US Capitol – west steps</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>US Capitol – west steps</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Detail of handrail with man coming down steps</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>US Capitol – west steps</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Looking down the west steps toward the National Mall</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">12</container>
+			<unittitle>View of St. John’s Church – Lafayette Square </unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>View of St. John’s Church – Lafayette Square </unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>View of Church on a rainy day</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>View of St. John’s Church – Lafayette Square </unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>View of Church on a rainy day</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">13</container>
+			<unittitle>Organization of American States Building</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>Organization of American States Building</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Statue of Isabella Catolica</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>Organization of American States Building</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Statue of Isabella Catolica (negative damaged)</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>Organization of American States Building</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Statue of Isabella Catolica (negative damaged)</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">14</container>
+			<unittitle>Lafayette Square</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>Lafayette Square</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Bird on park bench in Lafayette Square</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>Lafayette Square</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>People walking on path in Lafayette Square</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">15</container>
+			<unittitle>Old Patent Office (National Portrait Gallery)</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>Old Patent Office (National Portrait Gallery)</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Exterior view of Old Patent Office from inside store window</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>Old Patent Office (National Portrait Gallery)</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Exterior view of Old Patent Office from intersection of 9th and F Streets</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">16</container>
+			<unittitle>Henderson Castle</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>Henderson Castle</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Children playing on/near gates to Henderson Castle</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>Henderson Castle</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Children playing on/near gates to Henderson Castle</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">17</container>
+			<unittitle>1013-1021 7th Street, NW</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>1013-1021 7th Street, NW</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Looking south along 7th Street</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>1013-1021 7th Street, NW</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Looking north along 7th Street at intersection with New York Avenue</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>1013-1021 7th Street, NW</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Looking north along 7th Street at intersection with New York Avenue</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">18</container>
+			<unittitle>US Capitol</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>US Capitol</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Corncob toped column at US Capitol </p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>US Capitol</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Corncob toped column at US Capitol</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">19</container>
+			<unittitle>Old Pan-American Building</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>Old Pan-American Building</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Column with face on corner </p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>Old Pan-American Building</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Column with face on corner</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>Old Pan-American Building</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Column with face on corner</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">20</container>
+			<unittitle>Howard University</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>Howard University</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Mural on Howard University Campus</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>Howard University</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Campus view with Founders Library in background</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">21</container>
+			<unittitle>Dupont Circle</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>Dupont Circle</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>View of the circle taken from atop a building</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>Dupont Circle</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>View of the circle taken from atop a building</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>Dupont Circle</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>View of the circle taken from atop a building</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">22</container>
+			<unittitle>Kennedy Center</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>Kennedy Center</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>View of the Grand Foyer</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>Kennedy Center</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>View of the Grand Foyer</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>Kennedy Center</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Kennedy bust in Grand Foyer</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">23</container>
+			<unittitle>Library of Congress</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>Library of Congress</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Main reading room in Jefferson Building taken from observation room</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>Library of Congress</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Main reading room in Jefferson Building taken from observation room</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>Library of Congress</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Main reading room in Jefferson Building taken from observation room</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">24</container>
+			<unittitle>National Mall</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>National Mall</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Independence Avenue – Construction of Hirshhorn Museum </p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>National Mall</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Constitution Avenue – National Archives</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>National Mall</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Constitution Avenue – National Archives</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">25</container>
+			<unittitle>St. Elizabeth’s Hospital</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>St. Elizabeth’s Hospital</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>View from St. Elizabeth’s looking west</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>St. Elizabeth’s Hospital</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>View from St. Elizabeth’s looking west</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>St. Elizabeth’s Hospital</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Independence Avenue – Construction of Hirshhorn Museum</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">26</container>
+			<unittitle>Indonesian Embassy – 2020 Massachusetts Avenue</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>Indonesian Embassy – 2020 Massachusetts Avenue</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>View of embassy from park across the street</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>Indonesian Embassy – 2020 Massachusetts Avenue</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>View of embassy from park across the street</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>Indonesian Embassy – 2020 Massachusetts Avenue</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>View of embassy from park across the street</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">27</container>
+			<unittitle>White House</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>White House</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Chandelier in North portico at White House </p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>White House</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>People standing outside north entrance to the White House</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>White House</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>People standing outside north entrance to the White House</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">4</container>
+				<unittitle>White House</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>North entrance of the White House with portico pillars in foreground</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">5</container>
+				<unittitle>White House</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>North entrance of the White House with portico pillars in foreground</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">28</container>
+			<unittitle>US Capitol</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>US Capitol</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Wheat topped columns inside US Capitol </p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>US Capitol</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Wheat topped columns inside US Capitol</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>US Capitol</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Wheat topped columns inside US Capitol</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">4</container>
+				<unittitle>US Capitol</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Wheat topped columns inside US Capitol</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">29</container>
+			<unittitle>St. John’s Church</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>St. John’s Church</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Cupola of St. John’s Church in Lafayette Square </p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>St. John’s Church</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Cupola of St. John’s Church in Lafayette Square</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>St. John’s Church</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Cupola of St. John’s Church in Lafayette Square</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">4</container>
+				<unittitle>St. John’s Church</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Cupola of St. John’s Church in Lafayette Square</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">5</container>
+				<unittitle>St. John’s Church</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Cupola of St. John’s Church in Lafayette Square</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">6</container>
+				<unittitle>St. John’s Church</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Cupola of St. John’s Church in Lafayette Square</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">30</container>
+			<unittitle>US Supreme Court</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>US Supreme Court</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>North side of Supreme Court with flag and Capitol Dome</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>US Supreme Court</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>North side of Supreme Court with flag and Capitol Dome</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>US Supreme Court</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>North side of Supreme Court with flag and Capitol Dome</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">4</container>
+				<unittitle>US Supreme Court</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>North side of Supreme Court with flag and Capitol Dome</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">5</container>
+				<unittitle>US Supreme Court</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>West pediment of Supreme Court building </p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">6</container>
+				<unittitle>US Supreme Court</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>West pediment of Supreme Court building</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">31</container>
+			<unittitle>Congressional Cemetery</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>Congressional Cemetery</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Latrobe designed monuments for members of congress who died in office </p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>Congressional Cemetery</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Latrobe designed monuments for members of congress who died in office</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>Congressional Cemetery</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Latrobe designed monuments for members of congress who died in office</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">4</container>
+				<unittitle>Congressional Cemetery</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Detail of Congressional monument dedicated to William Thornton</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">5</container>
+				<unittitle>Congressional Cemetery</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>General view of cemetery with chapel in background</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">6</container>
+				<unittitle>Congressional Cemetery</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Latrobe designed monuments for members of congress who died in office</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">32</container>
+			<unittitle>St. Elizabeth’s Hospital</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>St. Elizabeth’s Hospital</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Looking west at Washington from St. Elizabeth’s</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>St. Elizabeth’s Hospital</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Looking west at Washington from St. Elizabeth’s</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>St. Elizabeth’s Hospital</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Looking west at Washington from St. Elizabeth’s</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">4</container>
+				<unittitle>St. Elizabeth’s Hospital</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Looking west at Washington from St. Elizabeth’s</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">5</container>
+				<unittitle>St. Elizabeth’s Hospital</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Looking west at Washington from St. Elizabeth’s</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">6</container>
+				<unittitle>US Navy Yard Quarters</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+		</c03>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">33</container>
+			<unittitle>Christ Church – Capitol Hill</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>Christ Church – Capitol Hill</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Christ Church on Capital Hill</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>Christ Church – Capitol Hill</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Christ Church on Capital Hill</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>Christ Church – Capitol Hill</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Fenced in pond – National Zoo?</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">4</container>
+				<unittitle>Christ Church – Capitol Hill</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Fenced in pond – National Zoo?</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">34</container>
+			<unittitle>Congressional Cemetery</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>Congressional Cemetery</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Detail of Congressional monument dedicated to Henry Clay</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>Congressional Cemetery</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Detail of Congressional monument dedicated to Henry Clay</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>Congressional Cemetery</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Detail of Congressional monument dedicated to Henry Clay</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">4</container>
+				<unittitle>Congressional Cemetery</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Detail of Congressional monument dedicated to Henry Clay</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">35</container>
+			<unittitle>Women’s Democratic Club</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>Women’s Democratic Club</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>British Embassy</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>Women’s Democratic Club</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Women’s Democratic Club</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>Women’s Democratic Club</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Women’s Democratic Club</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">4</container>
+				<unittitle>Women’s Democratic Club</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Volta Laboratory and Bureau Building</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">36</container>
+			<unittitle>US Marine Corps band </unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>US Marine Corps band </unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>US Marine Corps band </p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>US Marine Corps band </unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>US Marine Corps color guard </p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>US Marine Corps band </unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>US Marine Corps color guard</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">4</container>
+				<unittitle>US Marine Corps band </unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>US Marine Corps band – Parade </p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">5</container>
+				<unittitle>US Marine Corps band </unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>US Marine Corps band – Parade </p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">6</container>
+				<unittitle>US Marine Corps band </unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>US Marine Corps band – Parade </p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">37</container>
+			<unittitle>US Marine Corps Band</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>US Marine Corps Band</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>US Marine Corps band – Parade</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>US Marine Corps Band</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>US Marine Corps band – Parade</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>US Marine Corps Band</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>US Marine Corps band – Parade</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">4</container>
+				<unittitle>US Marine Corps Band</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>US Marine Corps band – Parade</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">5</container>
+				<unittitle>US Marine Corps Band</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>US Marine Corps band – Parade</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">38</container>
+			<unittitle>Streets Scenes</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>Streets Scenes</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Unknown street scene</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>Streets Scenes</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Unknown street scene</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>Streets Scenes</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Unknown street scene</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">4</container>
+				<unittitle>Streets Scenes</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Unknown street scene</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">5</container>
+				<unittitle>Streets Scenes</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Unknown street scene</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">39</container>
+			<unittitle>New Hampshire Avenue, NW (Near Dupont Circle)</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>New Hampshire Avenue, NW (Near Dupont Circle)</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Street scene - New Hampshire Avenue</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>New Hampshire Avenue, NW (Near Dupont Circle)</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Street scene - New Hampshire Avenue</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>New Hampshire Avenue, NW (Near Dupont Circle)</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>House doorway (Middle East House)</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">4</container>
+				<unittitle>New Hampshire Avenue, NW (Near Dupont Circle)</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>House doorway (Middle East House)</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">5</container>
+				<unittitle>New Hampshire Avenue, NW (Near Dupont Circle)</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>House doorway (Middle East House)</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">6</container>
+				<unittitle>New Hampshire Avenue, NW (Near Dupont Circle)</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>People walking along sidewalk</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">40</container>
+			<unittitle>Howard University</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>Howard University</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>View of university from across McMillan Reservoir </p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>Howard University</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>View of university from across McMillan Reservoir</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>Howard University</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>View of university from across McMillan Reservoir</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">4</container>
+				<unittitle>Howard University</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>View of university from across McMillan Reservoir</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">41</container>
+			<unittitle>Middle East House – New Hampshire Avenue</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>Middle East House – New Hampshire Avenue</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Three men with fishing rods and caught fish</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>Middle East House – New Hampshire Avenue</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>People sitting on park benches in Dupont Circle</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>Middle East House – New Hampshire Avenue</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>House doorway (Middle East House)</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">4</container>
+				<unittitle>Middle East House – New Hampshire Avenue</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>House doorway (Middle East House)</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">42</container>
+			<unittitle>R Street Porte Cochere</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>R Street Porte Cochere</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>House on R Street?</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>R Street Porte Cochere</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>House on R Street?</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>R Street Porte Cochere</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Porte Cochere on R Street house</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">4</container>
+				<unittitle>R Street Porte Cochere</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Porte Cochere on R Street house</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">5</container>
+				<unittitle>R Street Porte Cochere</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Porte Cochere on R Street house</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">43</container>
+			<unittitle>Kennedy Center</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>Kennedy Center</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>People at art show</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>Kennedy Center</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Ceiling/chandeliers at the Kennedy Center</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>Kennedy Center</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>John Kennedy bust at Kennedy Center</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">4</container>
+				<unittitle>Kennedy Center</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>People in the lobby of the Kennedy Center near bust</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">44</container>
+			<unittitle>US Capitol</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>US Capitol</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>“Bowl and Board” sign</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>US Capitol</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Statue of Kosciuszko?</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>US Capitol</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Columns with wheat tops in US Capitol </p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">4</container>
+				<unittitle>US Capitol</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Columns with wheat tops in US Capitol</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">45</container>
+			<unittitle>US Supreme Court</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>US Supreme Court</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Figure of Justice, west entrance </p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>US Supreme Court</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Figure of Justice, west entrance</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>US Supreme Court</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Figure of Justice, west entrance</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">4</container>
+				<unittitle>US Supreme Court</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Figure of Justice, west entrance</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">46</container>
+			<unittitle>Howard University</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>Howard University</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Oliver Otis Howard House</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>Howard University</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Oliver Otis Howard House</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>Howard University</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Oliver Otis Howard House and School of Social Work</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">4</container>
+				<unittitle>Howard University</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Oliver Otis Howard House and School of Social Work</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">47</container>
+			<unittitle>Bishop Francis Asbury Statue – 16th and Harvard Streets</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>Bishop Francis Asbury Statue – 16th and Harvard Streets</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Kids playing in park near Asbury statue</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>Bishop Francis Asbury Statue – 16th and Harvard Streets</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Kids playing in park near Asbury statue</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>Bishop Francis Asbury Statue – 16th and Harvard Streets</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Kids playing in park near Asbury statue</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">4</container>
+				<unittitle>Bishop Francis Asbury Statue – 16th and Harvard Streets</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Kids playing in park near Asbury statue</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">48</container>
+			<unittitle>Fountain in courtyard</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>Fountain in courtyard</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Fountain in courtyard</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>Fountain through iron gate</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Fountain through iron gate</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>Fountain through open iron gate</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Fountain through open iron gate</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">49</container>
+			<unittitle>Sheridan Circle</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>Sheridan Circle</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Statue of General Philip Sheridan</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>Sheridan Circle</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Statue of General Philip Sheridan</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>Sheridan Circle</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Dupont Circle fountain</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">4</container>
+				<unittitle>Sheridan Circle</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Dupont Circle fountain</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">5</container>
+				<unittitle>Sheridan Circle</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Dupont Circle fountain</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">50</container>
+			<unittitle>Cedar Hill</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>Cedar Hill</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Home of Frederick Douglass </p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>Cedar Hill</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Home of Frederick Douglass</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>Cedar Hill</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Home of Frederick Douglass</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">51</container>
+			<unittitle>Albert Gallatin Statue</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>Albert Gallatin Statue</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Statue of Gallatin north entrance Treasury building through construction barrier </p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>Albert Gallatin Statue</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Statue of Gallatin north entrance Treasury building through construction barrier</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>Albert Gallatin Statue</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Columns of US Treasury building</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">52</container>
+			<unittitle>Parks</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>Parks</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Bishop Francis Asbury Statue – 16th and Harvard Streets</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>Parks</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>People sitting on park bench (16th and Columbia Road)</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>Parks</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>People playing chess on park bench in Dupont Circle</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">53</container>
+			<unittitle>Fort Stevens</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>Fort Stevens</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Cannon and boy at Fort Stevens</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>Fort Stevens</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Cannon and boy at Fort Stevens</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>Fort Stevens</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Cannons at Fort Stevens</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">54</container>
+			<unittitle>Meridian Hill Park</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>Meridian Hill Park</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Joan of Arc Statue</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>Meridian Hill Park</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Joan of Arc Statue</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>Meridian Hill Park</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Joan of Arc Statue</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">55</container>
+			<unittitle>Meridian Hill Park</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>Meridian Hill Park</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>View of Fountain – from lower level </p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>Meridian Hill Park</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>View of Fountain – from lower level</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>Meridian Hill Park</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Detail of cupid figure – part of fountain</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">4</container>
+				<unittitle>Meridian Hill Park</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Detail of cupid figure – part of fountain</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">56</container>
+			<unittitle>Pakistan Embassy (Various Views)</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>Pakistan Embassy (Various Views)</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>2313 Massachusetts Avenue</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>Pakistan Embassy (Various Views)</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>2313 Massachusetts Avenue</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>Pakistan Embassy (Various Views)</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>2313 Massachusetts Avenue</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">4</container>
+				<unittitle>Pakistan Embassy (Various Views)</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>2313 Massachusetts Avenue</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">57</container>
+			<unittitle>General Philip Sheridan Statue – Sheridan Circle</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>General Philip Sheridan Statue – Sheridan Circle</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Sheridan Statue</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>General Philip Sheridan Statue – Sheridan Circle</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Sheridan Statue</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>General Philip Sheridan Statue – Sheridan Circle</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Sheridan Statue</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">58</container>
+			<unittitle>National Portrait Gallery</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>National Portrait Gallery</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Lincoln Gallery</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>National Portrait Gallery</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Lincoln Gallery</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>National Portrait Gallery</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Lincoln Gallery</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">4</container>
+				<unittitle>National Portrait Gallery</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Lincoln Gallery</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">5</container>
+				<unittitle>National Portrait Gallery</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Lincoln Gallery</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">59</container>
+			<unittitle>Jefferson Memorial</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>Jefferson Memorial</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Boy looking up at statue</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>Jefferson Memorial</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Man walking by statue</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>Jefferson Memorial</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Statue</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">60</container>
+			<unittitle>Ledroit Park</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>Ledroit Park</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>House on T Street</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>Ledroit Park</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>House on T Street</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>Ledroit Park</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>House on T Street</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">4</container>
+				<unittitle>Ledroit Park</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>House on T Street</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">5</container>
+				<unittitle>Ledroit Park</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>House on T Street</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">6</container>
+				<unittitle>Ledroit Park</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>House on T Street</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">61</container>
+			<unittitle>Edward Hopkins Gallaudet Statue</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>Edward Hopkins Gallaudet Statue</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Close view of the statue</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>Edward Hopkins Gallaudet Statue</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Close view of the statue</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>Edward Hopkins Gallaudet Statue</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Close view of the statue</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">4</container>
+				<unittitle>Edward Hopkins Gallaudet Statue</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Close view of the statue</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">5</container>
+				<unittitle>Edward Hopkins Gallaudet Statue</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Close view of the statue</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">62</container>
+			<unittitle>Adams Memorial</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>Adams Memorial</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>“Grief” statue – Rock Creek Cemetery </p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>Adams Memorial</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>“Grief” statue – Rock Creek Cemetery</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>Adams Memorial</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>“Grief” statue – Rock Creek Cemetery</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">63</container>
+			<unittitle>US Marine Corps Barracks </unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>US Marine Corps Barracks </unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Parade Ground </p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>US Marine Corps Barracks </unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Parade Ground</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>US Marine Corps Barracks </unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Parade Ground</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">64</container>
+			<unittitle>Chinatown</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>Chinatown</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Plate in store window</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>Chinatown</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Phone booths</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>Chinatown</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Buildings on H Street, NW</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">4</container>
+				<unittitle>Chinatown</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Buildings on H Street, NW</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">5</container>
+				<unittitle>Chinatown</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Buildings on H Street, NW</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">6</container>
+				<unittitle>Chinatown</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Buddha statue in store window</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">65</container>
+			<unittitle>Chinatown</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>Chinatown</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Display in Chinatown</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>Chinatown</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Swords in dojo </p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>Chinatown</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Karate lesson</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">4</container>
+				<unittitle>Chinatown</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Karate lesson</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">5</container>
+				<unittitle>Chinatown</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Buildings on H Street, NW</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">6</container>
+				<unittitle>Chinatown</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Statues in store window</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">66</container>
+			<unittitle>Chinatown</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>Chinatown</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Jade Palace Restaurant </p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>Chinatown</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Jade Palace Restaurant</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>Chinatown</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Jade Palace Restaurant</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">4</container>
+				<unittitle>Chinatown</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Jade Palace Restaurant</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">5</container>
+				<unittitle>Chinatown</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Buildings on H Street, NW</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">6</container>
+				<unittitle>Chinatown</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Phone booths</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">67</container>
+			<unittitle>Chinatown</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>Chinatown</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Buildings on H Street, NW</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>Chinatown</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Jade Palace Restaurant</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>Chinatown</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Buildings on H Street, NW</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">4</container>
+				<unittitle>Chinatown</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Phone booths</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">5</container>
+				<unittitle>Chinatown</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Phone booths</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">6</container>
+				<unittitle>Chinatown</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Phone booths</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">68</container>
+			<unittitle>Chinatown</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>Chinatown</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Items in store window</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>Chinatown</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Chinatown Tropicals store </p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>Chinatown</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Jade Palace Restaurant</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">4</container>
+				<unittitle>Chinatown</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Jade Palace Restaurant</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">5</container>
+				<unittitle>Chinatown</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Jade Palace Restaurant</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">6</container>
+				<unittitle>Chinatown</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>China Inn</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">69</container>
+			<unittitle>Chinatown</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>Chinatown</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Chinese Community Church</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>Chinatown</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Chinese Community Church</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>Chinatown</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Webster School</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">4</container>
+				<unittitle>Chinatown</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Buildings on H Street, NW</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">5</container>
+				<unittitle>Chinatown</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Calvary Baptist Church</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">6</container>
+				<unittitle>Chinatown</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Calvary Baptist Church</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">70</container>
+			<unittitle>Chinatown</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>Chinatown</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Ho Yung Chop Suey</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>Chinatown</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Chinatown Market</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>Chinatown</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Buildings on H Street, NW</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">4</container>
+				<unittitle>Chinatown</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Buildings on H Street, NW</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">5</container>
+				<unittitle>Chinatown</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Chinese-American Legion</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">6</container>
+				<unittitle>Chinatown</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Chinese banners</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">71</container>
+			<unittitle>Chinatown</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>Chinatown</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Buildings on H Street, NW</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>Chinatown</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Buildings on H Street, NW</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>Chinatown</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Buildings on H Street, NW</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">4</container>
+				<unittitle>Chinatown</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Store window</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">72</container>
+			<unittitle>Chinatown</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>Chinatown</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Buildings on H Street, NW</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>Chinatown</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>On Leong Chinese Merchants Association</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>Chinatown</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>On Leong Chinese Merchants Association</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">4</container>
+				<unittitle>Chinatown</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>On Leong Chinese Merchants Association</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">5</container>
+				<unittitle>Chinatown</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Buildings on H Street, NW</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">6</container>
+				<unittitle>Chinatown</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Buildings on H Street, NW</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">73</container>
+			<unittitle>Chinatown</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>Chinatown</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Ho Yung Chop Suey</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>Chinatown</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Chinese Imports store</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>Chinatown</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Ho Yung Chop Suey</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">4</container>
+				<unittitle>Chinatown</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Buildings on H Street, NW</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">5</container>
+				<unittitle>Chinatown</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Buildings on H Street, NW</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">6</container>
+				<unittitle>Chinatown</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>China Inn</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">74</container>
+			<unittitle>Chinatown</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>Chinatown</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Buildings on H Street, NW</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>Chinatown</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Buildings on H Street, NW</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>Chinatown</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Buildings on H Street, NW</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">4</container>
+				<unittitle>Chinatown</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Buildings on H Street, NW</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">5</container>
+				<unittitle>Chinatown</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Buildings on H Street, NW</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">6</container>
+				<unittitle>Chinatown</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Buildings on H Street, NW</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">75</container>
+			<unittitle>Chinatown</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>Chinatown</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>People in an office</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>Chinatown</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Man sitting at a desk</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>Chinatown</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Buildings on H Street, NW</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">4</container>
+				<unittitle>Chinatown</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Chinese Community Church</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">76</container>
+			<unittitle>Reflecting Pool</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>Reflecting Pool</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>People ice skating – Washington Monument in background</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>Reflecting Pool</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>People ice skating – Lincoln Memorial in background</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>Reflecting Pool</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>People ice skating – Lincoln Memorial in background</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">4</container>
+				<unittitle>Reflecting Pool</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>People ice skating – Lincoln Memorial in background</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">77</container>
+			<unittitle>C and O Canal </unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>C and O Canal </unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Paddle boat on Tidal Basin</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>C and O Canal </unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>People sitting on folding chairs on National Mall</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>C and O Canal </unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Barge on C and O Canal – Georgetown</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">4</container>
+				<unittitle>C and O Canal </unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Barge on C and O Canal – Georgetown</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">78</container>
+			<unittitle>Grant Memorial</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>Grant Memorial</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Cavalry group on memorial </p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>Grant Memorial</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Cavalry group on memorial</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>Grant Memorial</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Cavalry group on memorial</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">4</container>
+				<unittitle>Grant Memorial</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Cavalry group on memorial</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">79</container>
+			<unittitle>The Summer House (Olmsted Grotto)</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>The Summer House (Olmsted Grotto)</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Capitol Summer House</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>The Summer House (Olmsted Grotto)</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Capitol Summer House</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>The Summer House (Olmsted Grotto)</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Capitol Summer House</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">4</container>
+				<unittitle>The Summer House (Olmsted Grotto)</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Steps and iron railing (location unknown)</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">80</container>
+			<unittitle>US Supreme Court</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>US Supreme Court</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>House (unknown location)</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>US Supreme Court</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>View of East Pediment from Terrace Court</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>US Supreme Court</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>View of East Pediment from Terrace Court</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">4</container>
+				<unittitle>US Supreme Court</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>View of East Pediment from Terrace Court</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">81</container>
+			<unittitle>Law House – 1252 6th Street, SW</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>Law House – 1252 6th Street, SW</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>People on swings in park across from Thomas Law House</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>Law House – 1252 6th Street, SW</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Children on slide across from Thomas Law House</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>Law House – 1252 6th Street, SW</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Children on slide across from Thomas Law House</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">4</container>
+				<unittitle>Law House – 1252 6th Street, SW</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Thomas Law house and park with playground</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">82</container>
+			<unittitle>Washington Navy Yard</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>Washington Navy Yard</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Tennis Courts near penitentiary on Fort McNair</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>Washington Navy Yard</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Cannons in Leutze Park, Washington Navy Yard</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>Washington Navy Yard</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Cannons in Leutze Park, Washington Navy Yard</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">4</container>
+				<unittitle>Washington Navy Yard</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Cannons in Leutze Park, Washington Navy Yard</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">83</container>
+			<unittitle>Washington Navy Yard</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>Washington Navy Yard</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Officers Quarters – Fort McNair</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>Washington Navy Yard</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Officers Quarters – Fort McNair </p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>Washington Navy Yard</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Tennis Courts near penitentiary on Fort McNair</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">4</container>
+				<unittitle>Washington Navy Yard</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Tennis Courts near penitentiary on Fort McNair</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">84</container>
+			<unittitle>Southwest Washington</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>Southwest Washington</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Apartment house</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>Southwest Washington</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>House in Southwest</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>Southwest Washington</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>House in Southwest</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">4</container>
+				<unittitle>Southwest Washington</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>House in Southwest</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">85</container>
+			<unittitle>Carrolsburg Place</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>Carrolsburg Place</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Houses along Carrolsburg Place</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>Carrolsburg Place</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Houses along Carrolsburg Place</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>Carrolsburg Place</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Apartment house</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">4</container>
+				<unittitle>Carrolsburg Place</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Apartment house</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">86</container>
+			<unittitle>Renwick Gallery (Pennsylvania Avenue)</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>Renwick Gallery (Pennsylvania Avenue)</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>View of Renwick Gallery from Eisenhower Executive Office Building</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>Renwick Gallery (Pennsylvania Avenue)</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>View of Renwick Gallery from Eisenhower Executive Office Building</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>Renwick Gallery (Pennsylvania Avenue)</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>View of Renwick Gallery from Eisenhower Executive Office Building</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">4</container>
+				<unittitle>Renwick Gallery (Pennsylvania Avenue)</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>People standing on street near Renwick Gallery</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">87</container>
+			<unittitle>Decatur House</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>Decatur House</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>View of Decatur House from Lafayette Park</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>Decatur House</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>View of Decatur House from Lafayette Park</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>Decatur House</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>View of Decatur House from Lafayette Park</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">4</container>
+				<unittitle>Decatur House</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Children playing at Lincoln Memorial</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">88</container>
+			<unittitle>Corcoran Gallery of Art</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>Corcoran Gallery of Art</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Lion outside the Corcoran with Eisenhower Executive Office Building in background</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>Corcoran Gallery of Art</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Lion outside the Corcoran with Eisenhower Executive Office Building in background</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>Corcoran Gallery of Art</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Lion outside the Corcoran with Eisenhower Executive Office Building in background</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">4</container>
+				<unittitle>Corcoran Gallery of Art</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Lion outside the Corcoran with Eisenhower Executive Office Building in background</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">89</container>
+			<unittitle>Lafayette Park</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>Lafayette Park</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>President Andrew Jackson statue</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>Lafayette Park</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>President Andrew Jackson statue</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>Lafayette Park</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>President Andrew Jackson statue</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">4</container>
+				<unittitle>Lafayette Park</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>President Andrew Jackson statue</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">90</container>
+			<unittitle>National Cathedral </unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>National Cathedral </unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Steps and iron handrail</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>National Cathedral </unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>National Cathedral through the trees</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>National Cathedral </unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>National Cathedral through the trees</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">4</container>
+				<unittitle>National Cathedral </unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>George Washington statue at National Cathedral </p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">91</container>
+			<unittitle>Peterson House</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>Peterson House</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Peterson House, taken from Ford’s Theatre </p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>Peterson House</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Peterson House, taken from Ford’s Theatre</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>Peterson House</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Peterson House, taken from Ford’s Theatre</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">4</container>
+				<unittitle>Peterson House</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Julius Garfinckel and Company store</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">92</container>
+			<unittitle>Ford’s Theatre</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>Ford’s Theatre</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Lincoln’s presidential box</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>Ford’s Theatre</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Lincoln’s presidential box</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>Ford’s Theatre</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Lincoln’s presidential box</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">4</container>
+				<unittitle>Ford’s Theatre</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Lincoln’s presidential box</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">93</container>
+			<unittitle>Madison House</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>Madison House</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Dolly Madison House taken from Lafayette Park</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>Madison House</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Dolly Madison House taken from Lafayette Park</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>Madison House</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>People in Lafayette Park</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">4</container>
+				<unittitle>Madison House</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>People walking in Lafayette Park</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">94</container>
+			<unittitle>Washington Statue</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>Washington Statue</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Horatio Greenough’s sculpture of George Washington </p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>Washington Statue</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Horatio Greenough’s sculpture of George Washington</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>Washington Statue</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Elephant in Smithsonian Museum of Natural History </p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">4</container>
+				<unittitle>Washington Statue</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Smithsonian Museum of Natural History</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">95</container>
+			<unittitle>Benjamin Franklin Statue</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>Benjamin Franklin Statue</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>People walking past south side of the White House</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>Benjamin Franklin Statue</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Benjamin Franklin statue – Old Post Office Building</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>Benjamin Franklin Statue</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Benjamin Franklin statue – Old Post Office Building</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">4</container>
+				<unittitle>Benjamin Franklin Statue</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Benjamin Franklin statue – Old Post Office Building</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">96</container>
+			<unittitle>Colder Sculpture</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>Colder Sculpture</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Alexander Colder sculpture at Smithsonian Museum</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>Colder Sculpture</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Alexander Colder sculpture at Smithsonian Museum</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>Colder Sculpture</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Alexander Colder sculpture at Smithsonian Museum</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">4</container>
+				<unittitle>Colder Sculpture</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Horatio Greenough’s sculpture of George Washington</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">97</container>
+			<unittitle>Octagon House</unittitle>
+		</did>
+		<c03 level="item">
+			<did>
+				<container type="item">1</container>
+				<unittitle>Octagon House</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Table on which President James Madison signed the Treaty of Ghent in 1815</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">2</container>
+				<unittitle>Octagon House</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Table on which President James Madison signed the Treaty of Ghent in 1815</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">3</container>
+				<unittitle>Octagon House</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Table on which President James Madison signed the Treaty of Ghent in 1815</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">4</container>
+				<unittitle>Octagon House</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Table on which President James Madison signed the Treaty of Ghent in 1815</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">5</container>
+				<unittitle>Octagon House</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Table on which President James Madison signed the Treaty of Ghent in 1815</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">6</container>
+				<unittitle>Octagon House</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Table on which President James Madison signed the Treaty of Ghent in 1815</p>
+			</scopecontent>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="item">7</container>
+				<unittitle>Octagon House</unittitle>
+				<unitdate type="inclusive">undated</unitdate>
+			</did>
+			<scopecontent>
+				<p>Table on which President James Madison signed the Treaty of Ghent in 1815</p>
+			</scopecontent>
+		</c03>
+		
+	</c02>
+</c01>
+</dsc>
+</archdesc>
+</ead>

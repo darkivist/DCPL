@@ -1,0 +1,1760 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type="text/xml" href="I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/eadcbs6rev.xsl"?><!DOCTYPE ead PUBLIC "-//Society of American Archivists//DTD ead.dtd (Encoded Archival Description (EAD) Version 1.0)//EN" "I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/ead.dtd">
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" repositoryencoding="iso15511" relatedencoding="MARC21">
+	<eadid mainagencycode="DWP" countrycode="US" url="http://washingtoniana.dclibrary.org">P024_Bachrach</eadid>
+<filedesc>
+<titlestmt>
+    <titleproper encodinganalog="245$a">Bachrach</titleproper>
+    <subtitle>An inventory of the Bachrach Photograph Collection at DC Public Library</subtitle>
+    <author encodinganalog="245$c">Finding aid prepared by Mark S. Greek.</author>
+</titlestmt>
+<publicationstmt>
+<publisher encodinganalog="260$b">DC Public Library, Special Collections</publisher>
+    <date type="publication" encodinganalog="260$c" normal="2006-08">2006-08</date>
+<address><addressline>901 G Street NW</addressline><addressline>DC Public Library</addressline><addressline>Washington, D.C. 20009</addressline></address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation encodinganalog="500">EAD encoded by Paul Kelly on
+	<date normal="2017-07-20">2017-07-20</date>
+</creation>
+<langusage>English</langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory" relatedencoding="MARC21">
+<did id="a1">
+<head>Descriptive Summary</head>
+<repository label="Repository:" encodinganalog="852$a"><corpname>DC Public Library, Special Collections</corpname></repository>
+    <unitdate encodinganalog="260$c" label="Dates:" type="inclusive" normal="2002">2002</unitdate>
+    <unittitle label="Title:" encodinganalog="245$a">Bachrach Photograph Collection</unittitle>
+<physdesc label="Extent:" encodinganalog="300$a"><extent>12 boxes</extent></physdesc>
+<unitid encodinganalog="090" label="Collection Number:" countrycode="US" repositorycode="dwp">P024</unitid>
+<langmaterial encodinganalog="041" label="Language:"><language langcode="eng">English</language></langmaterial>
+</did>
+	
+<dsc type="combined" id="a23">
+<head>Detailed Description of the Collection</head>
+<c01 level="series">
+   <did>
+       <unittitle>Series 1</unittitle>
+   </did>
+    	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">1</container>
+			<unittitle>Abrahams, Gary R. </unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>CEO Execustay by Marriott</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">2</container>
+			<unittitle>Allard, Bill</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>SFX Sports Group</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">3</container>
+			<unittitle>Allen, Doug</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>NFL Players Assoc.</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">4</container>
+			<unittitle>Armacost, Michael</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Ambassador</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">5</container>
+			<unittitle>Armstrong, Alexandra</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Armstrong, MacIntyre and Severns, Inc.</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">6</container>
+			<unittitle>Asim, Waheed</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Domino’s Fastest Pizza Maker </p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">7</container>
+			<unittitle>Barthello, Andrea and Bill Ritche</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Co-Founders Binary Arts</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">8</container>
+			<unittitle>Bell, T. David</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>DC Preservation League</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">9</container>
+			<unittitle>Belser, Burkey</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Greenfield, Belser Ltd.</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">10</container>
+			<unittitle>Bersoff, Dr. Edward H. </unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>BTG, Inc.</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">11</container>
+			<unittitle>Bilski, Nanine</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>America the Beautiful Fund</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">12</container>
+			<unittitle>Bloom, John</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>National Press Club</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">13</container>
+			<unittitle>Bohan, Gloria</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>CEO of Cruise.com</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">14</container>
+			<unittitle>Bonsack, Deborah</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>America’s Athletes with Disabilities </p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">15</container>
+			<unittitle>Broun, Elizabeth</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Smithsonian American Art Museum</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">1</container>
+			<unittitle>Brown, J. Carter</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>US Commission of Fine Arts</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">2</container>
+			<unittitle>Buchanan, Patrick J. </unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Presidential Candidate </p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">3</container>
+			<unittitle>Burson, Bunny Cornell</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>President’s Committee for the Arts and the Humanities</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">4</container>
+			<unittitle>Carr, Carolyn K.</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>National Portrait Gallery</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">5</container>
+			<unittitle>Carr, Kathleen Walsh</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Adam’s National Bank</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">6</container>
+			<unittitle>Casey, Mrs. Eugene B. </unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Eugene B. Casey Foundation</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">7</container>
+			<unittitle>Causey, Mike</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>The Washington Post</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">8</container>
+			<unittitle>Chandoff, Bruce</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>The Sabre Group</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">9</container>
+			<unittitle>Chao, Elaine L.</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Secretary of Labor</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">10</container>
+			<unittitle>Clark, Kathy</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Landmark Systems Corp.</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">11</container>
+			<unittitle>Clift, Eleanor</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Political Commentator</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">12</container>
+			<unittitle>Collins, William L., III</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Metrocall, Inc.</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">13</container>
+			<unittitle>Combest, Larry</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Congressman</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">14</container>
+			<unittitle>Coughlin, Timothy C. </unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Riggs National Corp.</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">15</container>
+			<unittitle>Cropp, Linda W.</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Chairman DC City Council </p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">1</container>
+			<unittitle>Curley, Thomas</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>USA Today</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">2</container>
+			<unittitle>Cutlet, Walter</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Meridian House International</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">3</container>
+			<unittitle>Daly, Leo A.</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Leo A. Daly Company</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">4</container>
+			<unittitle>Darenblum, Jamie</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Ambassador of Costa Rica</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">5</container>
+			<unittitle>Dean, Arthur</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>CAC of America</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">6</container>
+			<unittitle>Denton, Jane</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>The American Arts Alliance</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">7</container>
+			<unittitle>Derrick, John M., Jr.</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>PEPCO</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">8</container>
+			<unittitle>Didden George</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>National Capital Bank of Washington</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">9</container>
+			<unittitle>Dine, Thomas A.</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Radio Free Europe/Radio Liberty</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">10</container>
+			<unittitle>Dollar, Dennis</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>NCUA</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">11</container>
+			<unittitle>Downs, Thomas</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>National Home Builders Assoc.</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">12</container>
+			<unittitle>Driskell, David C. </unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>University of Maryland</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">13</container>
+			<unittitle>Drumheller, Dan</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Mercury Publishing Services</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">14</container>
+			<unittitle>Edelman, Ric</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Edelman Financial Services</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">15</container>
+			<unittitle>Eliasson, Jan</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Ambassador of Sweden</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">1</container>
+			<unittitle>Faulkner, Patricia</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Citizens for Faulkner</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">2</container>
+			<unittitle>Federspiel, Ulrik A.</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Ambassador of Denmark</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">3</container>
+			<unittitle>Fenn, Scott A.</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Investor Responsibility Research Center</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">4</container>
+			<unittitle>Fernandez, Marlene</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Ambassador of Bolivia</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">5</container>
+			<unittitle>Feulner, Edwin J. </unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>The Heritage Foundation</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">6</container>
+			<unittitle>Floyd, Aaron B. </unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>A B Floyd Enterprises, Inc.</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">7</container>
+			<unittitle>Fowler, Dr. Raymond D.</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>American Psychological Assn.</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">8</container>
+			<unittitle>Fox, Jan</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Consumer Reporter, WUSA TV 9</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">9</container>
+			<unittitle>Frank, Barney</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>US Representative </p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">10</container>
+			<unittitle>Frost, Brig. Gen. Kathryn G. </unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>U S Army</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">11</container>
+			<unittitle>Frost, Martin</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Congressman</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">12</container>
+			<unittitle>Ginsburg, Justice Ruth Bader</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>US Supreme Court</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">13</container>
+			<unittitle>Gomez, Douglas</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Mastercraft Interiors, Ltd.</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">14</container>
+			<unittitle>Gretschel, Mike</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Market Development Group, Inc.</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">15</container>
+			<unittitle>Gundersheimer, Werner</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Folger Shakespeare Library </p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">1</container>
+			<unittitle>Halpin, Jerry</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>West Group</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">2</container>
+			<unittitle>Hammer, John</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>National Humanities Alliance</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">3</container>
+			<unittitle>Hannibalsson, Jon Baldwin</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Ambassador of Iceland</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">4</container>
+			<unittitle>Hartzog, General William</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Burdeshaw and Associates </p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">5</container>
+			<unittitle>Heller, Roderick</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>NHP, Inc.</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">6</container>
+			<unittitle>Henderson, Laura</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>The Prospect Center of the American Institute for Research</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">7</container>
+			<unittitle>Hickey, Cardinal James</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Archdiocese of Washington </p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">8</container>
+			<unittitle>Hishmeh, Suhail</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Universal Enterprises, Inc. </p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">9</container>
+			<unittitle>Holmer, Alan</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Pharmaceutical Research and Manufactures of America</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">10</container>
+			<unittitle>Hurwitz, Mark</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>American National Standards Institute </p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">11</container>
+			<unittitle>Jeszenszky, Geza</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Ambassador of Hungary</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">12</container>
+			<unittitle>Jones, Elizabeth F. “Penny”</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>American Institute for Conservation of Historic and Artistic Works</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">13</container>
+			<unittitle>Jones, Terrence</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Wolftrap Foundation for the Performing Arts</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">14</container>
+			<unittitle>Jordan, I. King</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Gallaudet University</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">1</container>
+			<unittitle>Kanjorski, Paul</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Congressman</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">2</container>
+			<unittitle>Kaufman, Rob</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>PMA Properties</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">3</container>
+			<unittitle>Kautt, Glenn</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>The Monitor Group, Inc.</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">4</container>
+			<unittitle>Kay, Jack</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Kay Management, Inc.</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">5</container>
+			<unittitle>Keehan, Sister Carol</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Providence Hospital</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">6</container>
+			<unittitle>Kelly, James F.</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Kelly, Anderson and Assoc., Inc.</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">7</container>
+			<unittitle>Kennedy, Karen Syence</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>KSK Communications </p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">8</container>
+			<unittitle>Kiplinger, Knight</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Editor</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">9</container>
+			<unittitle>Kirkpatrick, Jeane</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Georgetown University</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">10</container>
+			<unittitle>Klemm, Rebecca</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Klemm Analysis Group</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">11</container>
+			<unittitle>Kozakou-Marcoullis, Erato</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Ambassador of Cyprus</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">12</container>
+			<unittitle>Krumsiek, Barbara J. </unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>The Calvert Group</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">1</container>
+			<unittitle>Lahat, Marla</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Home Care Partners</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">2</container>
+			<unittitle>Levy, David C. </unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Corcoran Gallery of Art</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">3</container>
+			<unittitle>Lichstrahl, Howard</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>H L Lichstrahl and Company</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">4</container>
+			<unittitle>Ljungholm, Lars</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Band Master, Salvation Army</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">5</container>
+			<unittitle>Lockhart-Boyd, Mildred</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Edu Tech, Ltd.</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">6</container>
+			<unittitle>Luce, Bryan R. </unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Medtrap International</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">7</container>
+			<unittitle>Malbin, Susan L. </unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Washingtoniana, DC Public Library</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">8</container>
+			<unittitle>Marriott, Bill</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Marriott International</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">9</container>
+			<unittitle>Matthews, James</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Merchants</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">10</container>
+			<unittitle>McCorkindale, Douglas</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Gannett Co. Inc.</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">11</container>
+			<unittitle>McCracken, Ursula</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>The Textile Museum</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">12</container>
+			<unittitle>McEnearney, John</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>McEnaerney and Associates</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">1</container>
+			<unittitle>Meade, Barbara</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Politics and Prose Bookstore</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">2</container>
+			<unittitle>Meeks Frank</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Domino’s Pizza</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">3</container>
+			<unittitle>Mendouga, Jerome</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Ambassador of Cameroon</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">4</container>
+			<unittitle>Merten, Alan G.</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>George Mason University</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">5</container>
+			<unittitle>Michaux, Richard</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Avalon Bay Communities </p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">6</container>
+			<unittitle>Millender-McDonald, Juanita</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Congresswoman </p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">7</container>
+			<unittitle>Mink, Patsy</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Congresswoman</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">8</container>
+			<unittitle>Morris, Susan</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Equals Three Communications</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">9</container>
+			<unittitle>Mosley, Mark</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>NFL Player</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">10</container>
+			<unittitle>Mowry, Clayton</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>SIA</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">11</container>
+			<unittitle>Murphy, L. Christian</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Standard Supplies</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">1</container>
+			<unittitle>Nicholson, Jim</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Republican National Committee</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">2</container>
+			<unittitle>Novak, Robert</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Evans and Novak</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">3</container>
+			<unittitle>O’Connell, Father David M. </unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>The Catholic University of America</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">4</container>
+			<unittitle>O’Huiginn, Sean</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Ambassador of Ireland</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">5</container>
+			<unittitle>Paone, Louis</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Houlihan, Lokey, Howard and Zukin</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">6</container>
+			<unittitle>Petrou, David</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Eisner, Petrou and Associates</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">7</container>
+			<unittitle>Putnam, Adam H.</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Congressman</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">8</container>
+			<unittitle>Ramsey, Chief Charles</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>DC Police Department</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">9</container>
+			<unittitle>Raphael, Molly</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Director, DC Public Library</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">10</container>
+			<unittitle>Ridings, Dorothy S.</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Counsel on Foundation</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">11</container>
+			<unittitle>Rieger, Wendy</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>TV Anchor</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">12</container>
+			<unittitle>Rinaldi, Joseph F., III</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Quantum Financial Advisors, Inc.</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">13</container>
+			<unittitle>Roeltgen, Kenneth</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Monsignor</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">14</container>
+			<unittitle>Rove, Karl C. </unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Assistant to the President</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">15</container>
+			<unittitle>Ryan, Karen</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Anchor – Business Now</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">1</container>
+			<unittitle>Schapiro, Mary L.</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>NASD Regulation</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">2</container>
+			<unittitle>Shane, Francis J.</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>National Genealogical Society</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">3</container>
+			<unittitle>Shefrin, Ivan Hart</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Response Networks</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">4</container>
+			<unittitle>Shrivastava, Satyendra</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>ANSTEC</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">5</container>
+			<unittitle>Singer, Maxine</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Carnegie Institution of Washington</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">6</container>
+			<unittitle>Skeen, Joe</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Congressman</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">7</container>
+			<unittitle>Smith, Arthur L.</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Management Analysis, Inc.</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">8</container>
+			<unittitle>Smith, Gordon</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>US Senator</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">9</container>
+			<unittitle>Smith, Robert</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Charles E. Smith Realty Companies</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">10</container>
+			<unittitle>Soza, William</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Soza and Company</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">1</container>
+			<unittitle>Spilhaus, Dr. Fred</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>American Geophysical Union</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">2</container>
+			<unittitle>Stampfli, Sheila</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Courtesy Association, Inc.</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">3</container>
+			<unittitle>Stearns, Cliff</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Congressman</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">4</container>
+			<unittitle>Storm, Al</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>DBI Architects, PC</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">5</container>
+			<unittitle>Stroud, Dr. Franklin</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">6</container>
+			<unittitle>Sweeney, Patrick</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Server Vault</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">7</container>
+			<unittitle>Theisman, Joe</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Washington Redskins/Sportscaster</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">8</container>
+			<unittitle>Thompson, W. Fred</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>American Professional Services, Inc.</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">9</container>
+			<unittitle>Townsend, Ann Van DeVanter</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Trust for Museum Exhibitions</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">10</container>
+			<unittitle>Trachtenberg, Stephen J.</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>George Washington University</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">11</container>
+			<unittitle>Valenti, Jack</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Motion Picture Association</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">1</container>
+			<unittitle>Vos, Joris</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Ambassador of the Netherlands</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">2</container>
+			<unittitle>Wallace, Lorraine</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Choral Arts Society</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">3</container>
+			<unittitle>Warner, John</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>US Senator</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">4</container>
+			<unittitle>Watson, Alexander</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Ambassador</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">5</container>
+			<unittitle>Weinberger, Caspar Willard</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Forbes/Former Secretary of Defense</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">6</container>
+			<unittitle>Widmeyer, Scott D.</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Widmeyer Communication</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">7</container>
+			<unittitle>Wilker, Lawrence J.</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Kennedy Center for the Performing Arts</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">8</container>
+			<unittitle>Williams, Anthony</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Mayor of Washington DC</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">9</container>
+			<unittitle>Williams, Eddie</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Joint Center for Political and Economic Studies</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">10</container>
+			<unittitle>Woolanin, Barbara</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>Curator, Architect of the Capitol</p>
+		</scopecontent>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">11</container>
+			<unittitle>Wulf, William</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>National Academy of Engineering</p>
+		</scopecontent>
+	</c02>
+</c01>
+</dsc>
+</archdesc>
+</ead>
