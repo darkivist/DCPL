@@ -1,0 +1,414 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type="text/xml" href="I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/eadcbs6rev.xsl"?><!DOCTYPE ead PUBLIC "-//Society of American Archivists//DTD ead.dtd (Encoded Archival Description (EAD) Version 1.0)//EN" "I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/ead.dtd">
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" repositoryencoding="iso15511" relatedencoding="MARC21">
+	<eadid mainagencycode="DWP" countrycode="US" url="http://washingtoniana.dclibrary.org">125Capozzi</eadid>
+<filedesc>
+<titlestmt>
+	<titleproper encodinganalog="245$a">John Capozzi</titleproper>
+	<subtitle>An inventory of John Capozzi at DC Public Library</subtitle>
+	<author encodinganalog="245$c">Finding aid prepared by Carrie McNeal.</author>
+</titlestmt>
+<publicationstmt>
+<publisher encodinganalog="260$b">DC Public Library, Special Collections</publisher>
+	<date type="publication" encodinganalog="260$c" normal="2013-01">2013-01</date>
+<address><addressline>901 G Street NW</addressline><addressline>DC Public Library</addressline><addressline>Washington, D.C. 20009</addressline></address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation encodinganalog="500">EAD encoded by Paul Kelly on
+	<date normal="2017-04-21">2017-04-21</date>
+</creation>
+<langusage>English</langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory" relatedencoding="MARC21">
+<did id="a1">
+<head>Descriptive Summary</head>
+<repository label="Repository:" encodinganalog="852$a"><corpname>DC Public Library, Special Collections</corpname></repository>
+	<unitdate encodinganalog="260$c" label="Dates:" type="inclusive" normal="1978/2001">1978-2001</unitdate>
+	<unittitle label="Title:" encodinganalog="245$a">John Capozzi Papers</unittitle>
+<physdesc label="Extent:" encodinganalog="300$a"><extent>2.5 linear feet; 5 boxes</extent></physdesc>
+<unitid encodinganalog="090" label="Collection Number:" countrycode="US" repositorycode="DCU">125</unitid>
+<langmaterial encodinganalog="041" label="Language:"><language langcode="eng">English</language></langmaterial>
+</did>
+	
+<dsc type="combined" id="a23">
+<head>Detailed Description of the Collection</head>
+<c01 level="series">
+   <did>
+   	<unittitle>Series 1: D.C. Statehood, 1989-2000</unittitle>
+    </did>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">1</container>
+			<unittitle>Media</unittitle>
+			<unitdate type="inclusive" normal="1993">1993</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">2</container>
+			<unittitle>Press</unittitle>
+			<unitdate type="inclusive" normal="1991/1998">1991-1998</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">3</container>
+			<unittitle>Correspondence</unittitle>
+			<unitdate type="inclusive" normal="1992/1996">1992-1996</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">4</container>
+			<unittitle>Financial</unittitle>
+			<unitdate type="inclusive" normal="1994/1996">1994-1996</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">5</container>
+			<unittitle>Retrocession</unittitle>
+			<unitdate type="inclusive" normal="1995/1996">1995-1996</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">6</container>
+			<unittitle>Peanuts</unittitle>
+			<unitdate type="inclusive" normal="1991/1994">1991-1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">7</container>
+			<unittitle>Human Rights</unittitle>
+			<unitdate type="inclusive" normal="1993/1995">1993-1995</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">8</container>
+			<unittitle>Alaska</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">9</container>
+			<unittitle>Puerto Rico</unittitle>
+			<unitdate type="inclusive" normal="1990/1996">1990-1996</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">10</container>
+			<unittitle>Background and Literature</unittitle>
+			<unitdate type="inclusive" normal="01/1992-08">January-August 1992</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">1</container>
+			<unittitle>Background and Literature</unittitle>
+			<unitdate type="inclusive" normal="1992-09/1996">September 1992-1996</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">2</container>
+			<unittitle>Background and Literature</unittitle>
+			<unitdate type="inclusive" normal="1995">1995</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">3</container>
+			<unittitle>Commission Meetings</unittitle>
+			<unitdate type="inclusive" normal="1989/1994-06">1989-June 1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">4</container>
+			<unittitle>Commission Meetings</unittitle>
+			<unitdate type="inclusive" normal="07/1994-08">July-August 1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">5</container>
+			<unittitle>Commission Meetings</unittitle>
+			<unitdate type="inclusive" normal="09/1994-12">September-December 1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">6</container>
+			<unittitle>Commission Meetings</unittitle>
+			<unitdate type="inclusive" normal="1995/2000">1995-2000</unitdate>
+		</did>
+	</c02>
+</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 2: Barney Circle Freeway Fight, 1978-1997</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">1</container>
+				<unittitle>Correspondence</unittitle>
+				<unitdate type="inclusive" normal="1991/1993-07">1991-July 1993</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">2</container>
+				<unittitle>Correspondence</unittitle>
+				<unitdate type="inclusive" normal="1993-08/1997">August 1993-1997</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">3</container>
+				<unittitle>Citizens’ Letters</unittitle>
+				<unitdate type="inclusive" normal="1991/1995">1991-1995</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">4</container>
+				<unittitle>Citizens’ Letters</unittitle>
+				<unitdate type="inclusive" normal="1995">1995</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">5</container>
+				<unittitle>Citizens’ Letters</unittitle>
+				<unitdate type="inclusive" normal="1996">1996</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">1</container>
+				<unittitle>Legal</unittitle>
+				<unitdate type="inclusive" normal="1992/1994-01">1992-January 1994</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">2</container>
+				<unittitle>Legal</unittitle>
+				<unitdate type="inclusive" normal="1994-03/1996">March 1994-1996</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">3</container>
+				<unittitle>Background and Literature</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">4</container>
+				<unittitle>Background and Literature</unittitle>
+				<unitdate type="inclusive" normal="1987/1997">1987-1997</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">5</container>
+				<unittitle>Environmental Assessment</unittitle>
+				<unitdate type="inclusive">34912</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">6</container>
+				<unittitle>Stadium</unittitle>
+				<unitdate type="inclusive" normal="1993">1993</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">7</container>
+				<unittitle>Press</unittitle>
+				<unitdate type="inclusive" normal="1978/1997">1978-1997</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">8</container>
+				<unittitle>Passonneau</unittitle>
+				<unitdate type="inclusive" normal="1996/1997">1996-1997</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 3: Barney Circle Neighborhood Watch, 1989-2001</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">5</container>
+				<container type="Folder">1</container>
+				<unittitle>Meetings</unittitle>
+				<unitdate type="inclusive" normal="1991/1994">1991-1994</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">5</container>
+				<container type="Folder">2</container>
+				<unittitle>Orange Hat Patrol</unittitle>
+				<unitdate type="inclusive" normal="1991/2001">1991-2001</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">5</container>
+				<container type="Folder">3</container>
+				<unittitle>Background and Literature</unittitle>
+				<unitdate type="inclusive" normal="1989/1994">1989-1994</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 4: Campaign, 1992-1996</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">5</container>
+				<container type="Folder">4</container>
+				<unittitle>Campaign</unittitle>
+				<unitdate type="inclusive" normal="1992/1996">1992-1996</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 5: D.C. Politics, 1993-1995</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">5</container>
+				<container type="Folder">5</container>
+				<unittitle>D.C. Politics</unittitle>
+				<unitdate type="inclusive" normal="1993/1995">1993-1995</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 6: Pollution, 1994</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">5</container>
+				<container type="Folder">6</container>
+				<unittitle>Pollution</unittitle>
+				<unitdate type="inclusive" normal="1994">1994</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 7: General Press, 1990-2000</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">5</container>
+				<container type="Folder">7</container>
+				<unittitle>Press: General</unittitle>
+				<unitdate type="inclusive" normal="1990/2000">1990-2000</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 8: General Correspondence, 1990-2000</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">5</container>
+				<container type="Folder">8</container>
+				<unittitle>Correspondence: General</unittitle>
+				<unitdate type="inclusive" normal="1992/1998">1992-1998</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">5</container>
+				<container type="Folder">9</container>
+				<unittitle>Letterhead</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">5</container>
+				<container type="Folder">10</container>
+				<unittitle>Letterhead</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">5</container>
+				<container type="Folder">11</container>
+				<unittitle>Letterhead</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 9: Personal Ephemera, 1993-2000</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">5</container>
+				<container type="Folder">12</container>
+				<unittitle>Personal Ephemera</unittitle>
+				<unitdate type="inclusive" normal="1993/2000">1993-2000</unitdate>
+			</did>
+		</c02>
+	</c01>
+</dsc>
+</archdesc>
+</ead>

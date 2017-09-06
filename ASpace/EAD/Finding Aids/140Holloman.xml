@@ -1,0 +1,4083 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type="text/xml" href="I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/eadcbs6rev.xsl"?><!DOCTYPE ead PUBLIC "-//Society of American Archivists//DTD ead.dtd (Encoded Archival Description (EAD) Version 1.0)//EN" "I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/ead.dtd">
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" repositoryencoding="iso15511" relatedencoding="MARC21">
+	<eadid mainagencycode="DWP" countrycode="US" url="http://washingtoniana.dclibrary.org">140Holloman</eadid>
+<filedesc>
+<titlestmt>
+	<titleproper encodinganalog="245$a">Charlotte Wesley Holloman</titleproper>
+	<subtitle>An inventory of Charlotte Wesley Holloman at DC Public Library</subtitle>
+	<author encodinganalog="245$c">Finding aid prepared by Lauren Algee and Paul Kelly.</author>
+</titlestmt>
+<publicationstmt>
+<publisher encodinganalog="260$b">DC Public Library Special Collections</publisher>
+	<date type="publication" encodinganalog="260$c" normal="2017-02">2017-02</date>
+<address><addressline>901 G Street NW</addressline><addressline>DC Public Library</addressline><addressline>Washington, D.C. 20009</addressline></address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation encodinganalog="500">EAD encoded by Paul Kelly on
+	<date normal="2017-05-09">2017-05-09</date>
+</creation>
+<langusage><language encodinganalog="546" langcode="eng">English</language></langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory" relatedencoding="MARC21">
+<did id="a1">
+<head>Descriptive Summary</head>
+<repository label="Repository:" encodinganalog="852$a"><corpname>DC Public Library, Special Collections</corpname></repository>
+	<unitdate encodinganalog="260$c" label="Dates:" type="inclusive" normal="1797/2013">1797-2013</unitdate>
+	<unittitle label="Title:" encodinganalog="245$a">Charlotte Wesley Holloman Papers</unittitle>
+<physdesc label="Extent:" encodinganalog="300$a"><extent>68 boxes</extent></physdesc>
+<unitid encodinganalog="090" label="Collection Number:" countrycode="US" repositorycode="DCU">140</unitid>
+<langmaterial encodinganalog="041" label="Language:"><language langcode="eng">English</language></langmaterial>
+</did>
+	
+<dsc type="combined" id="a23">
+<head>Detailed Description of the Collection</head>
+<c01 level="series">
+   <did>
+	<unittitle>Series 1</unittitle>
+    </did>
+	<c02 level="file">
+		<did>
+			<container type="box">1</container>
+			<container type="folder">1</container>
+			<unittitle>Recordings/Albums</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">2</container>
+			<container type="folder">1</container>
+			<unittitle>Soprano Performance Program</unittitle>
+			<unitdate type="inclusive" normal="1955">1955</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">2</container>
+			<container type="folder">2</container>
+			<unittitle>Town Hall Program</unittitle>
+			<unitdate type="inclusive" normal="1954">1954</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">2</container>
+			<container type="folder">3</container>
+			<unittitle>New York Herald Tribune</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">2</container>
+			<container type="folder">4</container>
+			<unittitle>Howard University Concert Series</unittitle>
+			<unitdate type="inclusive" normal="1940">1940</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">2</container>
+			<container type="folder">5</container>
+			<unittitle>Fire Routs Roland Hayes From Stage Article</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">2</container>
+			<container type="folder">6</container>
+			<unittitle>Gerald Alphenwaar Artists Representative Correspondence</unittitle>
+			<unitdate type="inclusive" normal="1955">1955</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">2</container>
+			<container type="folder">7</container>
+			<unittitle>Scrapbook</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">2</container>
+			<container type="folder">8</container>
+			<unittitle>Cd-1750 Compact Disc Player Manual</unittitle>
+			<unitdate type="inclusive" normal="1989">1989</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">2</container>
+			<container type="folder">9</container>
+			<unittitle>Pepsi Cola Company Audio Visual Aids</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">2</container>
+			<container type="folder">10</container>
+			<unittitle>Chamber Music At The Library Of Congress Poster</unittitle>
+			<unitdate type="inclusive" normal="1989">1989</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">2</container>
+			<container type="folder">11</container>
+			<unittitle>Schirmer'S Library Of Musical Classics</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">2</container>
+			<container type="folder">12</container>
+			<unittitle>Duetunes For Piano For Two Equal Players By Mary B. Merrill</unittitle>
+			<unitdate type="inclusive" normal="1941">1941</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">2</container>
+			<container type="folder">13</container>
+			<unittitle>The Children'S Own Book Of Folk Song</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">2</container>
+			<container type="folder">14</container>
+			<unittitle>First Grade Piano Pieces</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">2</container>
+			<container type="folder">15</container>
+			<unittitle>Schirmer'S Library Of Musical Classics - Chopin</unittitle>
+			<unitdate type="inclusive" normal="1894">1894</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">3</container>
+			<container type="folder">1</container>
+			<unittitle>First Book Of Technical Studies By Elizabeth Quaile</unittitle>
+			<unitdate type="inclusive" normal="1925">1925</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">3</container>
+			<container type="folder">2</container>
+			<unittitle>The Concord Piano Books</unittitle>
+			<unitdate type="inclusive" normal="1954">1954</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">3</container>
+			<container type="folder">3</container>
+			<unittitle>Michael Aaron Piano Course Grade 2</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">3</container>
+			<container type="folder">4</container>
+			<unittitle>Concored Duet Books</unittitle>
+			<unitdate type="inclusive" normal="1933">1933</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">3</container>
+			<container type="folder">5</container>
+			<unittitle>Diller-Quaile Music Book</unittitle>
+			<unitdate type="inclusive" normal="1921">1921</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">3</container>
+			<container type="folder">6</container>
+			<unittitle>A Dozen A Day By Edna Mae-Burnam</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">3</container>
+			<container type="folder">7</container>
+			<unittitle>The Caliph Of Bagdad By Bernice Benson Bentley</unittitle>
+			<unitdate type="inclusive" normal="1929">1929</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">3</container>
+			<container type="folder">8</container>
+			<unittitle>Solo And Duet Books For The Piano</unittitle>
+			<unitdate type="inclusive" normal="1923">1923</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">3</container>
+			<container type="folder">9</container>
+			<unittitle>In Days Of Old: Ten Folk Tunes</unittitle>
+			<unitdate type="inclusive" normal="1923">1923</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">3</container>
+			<container type="folder">10</container>
+			<unittitle>Easy Classics To Moderns</unittitle>
+			<unitdate type="inclusive" normal="1956">1956</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">3</container>
+			<container type="folder">11</container>
+			<unittitle>Joh. Sebastian Bach</unittitle>
+			<unitdate type="inclusive" normal="1797">1797</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">3</container>
+			<container type="folder">12</container>
+			<unittitle>Two Musical Impressions For The Piano By Jane Mattingly</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">3</container>
+			<container type="folder">13</container>
+			<unittitle>Hi-Lili, Hi-Lo: Simplified Piano Solo</unittitle>
+			<unitdate type="inclusive" normal="1953">1953</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">3</container>
+			<container type="folder">14</container>
+			<unittitle>Tones And Overtones Spring 1955</unittitle>
+			<unitdate type="inclusive" normal="1955">1955</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">3</container>
+			<container type="folder">15</container>
+			<unittitle>Frederic Chopin Works For The Pianoforte</unittitle>
+			<unitdate type="inclusive" normal="1944">1944</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">3</container>
+			<container type="folder">16</container>
+			<unittitle>Brahms - Three Intermezzi</unittitle>
+			<unitdate type="inclusive" normal="1926">1926</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">3</container>
+			<container type="folder">17</container>
+			<unittitle>Beethoven - Sonaten Music Book</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">3</container>
+			<container type="folder">1</container>
+			<unittitle>Beethoven Sheet Music</unittitle>
+			<unitdate type="inclusive" normal="1934">1934</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">3</container>
+			<container type="folder">2</container>
+			<unittitle>Felix Mendelssohn</unittitle>
+			<unitdate type="inclusive" normal="1930/1939" certainty="approximate">1930s</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">3</container>
+			<container type="folder">3</container>
+			<unittitle>Back Choral Works</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">3</container>
+			<container type="folder">4</container>
+			<unittitle>Delta Sigma Theta Sorority Sheet Music</unittitle>
+			<unitdate type="inclusive" normal="1952">1952</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">3</container>
+			<container type="folder">5</container>
+			<unittitle>The Beatitudes Sheet Music</unittitle>
+			<unitdate type="inclusive" normal="1899">1899</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">3</container>
+			<container type="folder">6</container>
+			<unittitle>Douglas Moore Sheet Music</unittitle>
+			<unitdate type="inclusive" normal="1939">1939</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">3</container>
+			<container type="folder">7</container>
+			<unittitle>Douglas Moore Sheet Music</unittitle>
+			<unitdate type="inclusive" normal="1939">1939</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">3</container>
+			<container type="folder">8</container>
+			<unittitle>Ernst Toch Sheet Music</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">3</container>
+			<container type="folder">9</container>
+			<unittitle>Great Songs Of The Sixties Sheet Music</unittitle>
+			<unitdate type="inclusive" normal="1970">1970</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">5</container>
+			<container type="folder">1</container>
+			<unittitle>Unsorted Sheet Music</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">6</container>
+			<container type="folder">1</container>
+			<unittitle>Recordings/Albums</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">7</container>
+			<container type="folder">1</container>
+			<unittitle>Recordings/Albums</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">8</container>
+			<container type="folder">1</container>
+			<unittitle>Cue Cards For Director'S Speeches</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">8</container>
+			<container type="folder">2</container>
+			<unittitle>Black Cloth Personal University Black Book</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">8</container>
+			<container type="folder">3</container>
+			<unittitle>Programs And Ads</unittitle>
+			<unitdate type="inclusive" normal="1949/1957">1949-1957</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">8</container>
+			<container type="folder">4</container>
+			<unittitle>Invitations, Letters, Correspondence</unittitle>
+			<unitdate type="inclusive" normal="1931/2010">1931-2010</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">8</container>
+			<container type="folder">5</container>
+			<unittitle>Newspaper Clippings</unittitle>
+			<unitdate type="inclusive" normal="1939">1939</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">8</container>
+			<container type="folder">6</container>
+			<unittitle>Clarice Smith Performing Arts Center 2006-2007 Season</unittitle>
+			<unitdate type="inclusive" normal="2007">2007</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">8</container>
+			<container type="folder">7</container>
+			<unittitle>Holloman Apt. Copy (1 Of 2)</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">8</container>
+			<container type="folder">8</container>
+			<unittitle>Holloman Apt. Copy (2 Of 2)</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">8</container>
+			<container type="folder">9</container>
+			<unittitle>Charlottle Holloman Ad Cards</unittitle>
+			<unitdate type="inclusive" normal="1956">1956</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">8</container>
+			<container type="folder">10</container>
+			<unittitle>Bulletins</unittitle>
+			<unitdate type="inclusive" normal="2002/2007">2002-2007</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">8</container>
+			<container type="folder">11</container>
+			<unittitle>Black History 2012 Discovery And Reflection</unittitle>
+			<unitdate type="inclusive" normal="2012">2012</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">8</container>
+			<container type="folder">12</container>
+			<unittitle>Programs, Correspondence, Newspaper Clippings, Cards (1 Of 2)</unittitle>
+			<unitdate type="inclusive" normal="1955/1957">1955-1957</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">8</container>
+			<container type="folder">13</container>
+			<unittitle>Programs, Correspondence, Newspaper Clippings, Cards (2 Of 2)</unittitle>
+			<unitdate type="inclusive" normal="1954/1957">1954-1957</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">8</container>
+			<container type="folder">14</container>
+			<unittitle>Metropolitan Opera Forms And Correspondence</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">8</container>
+			<container type="folder">15</container>
+			<unittitle>Mini Photo Album</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">8</container>
+			<container type="folder">16</container>
+			<unittitle>Correspondence</unittitle>
+			<unitdate type="inclusive" normal="1954/1957">1954-1957</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">8</container>
+			<container type="folder">17</container>
+			<unittitle>Letters</unittitle>
+			<unitdate type="inclusive" normal="1993">1993</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">8</container>
+			<container type="folder">18</container>
+			<unittitle>Bulletins, Newsletters, Magazines</unittitle>
+			<unitdate type="inclusive" normal="1967/1996">1967-1996</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">8</container>
+			<container type="folder">19</container>
+			<unittitle>Scrapbook - Newspaper Clippings And Correspondence (1 Of 2)</unittitle>
+			<unitdate type="inclusive" normal="1953/1969">1953-1969</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">8</container>
+			<container type="folder">20</container>
+			<unittitle>Scrapbook - Newspaper Clippings And Correspondence (2 Of 2)</unittitle>
+			<unitdate type="inclusive" normal="1953/1969">1953-1969</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">9</container>
+			<container type="folder">1</container>
+			<unittitle>Military Portrait</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">9</container>
+			<container type="folder">2</container>
+			<unittitle>Scrapbook: Newspaper Clippings</unittitle>
+			<unitdate type="inclusive" normal="1961/1965">1961-1965</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">9</container>
+			<container type="folder">3</container>
+			<unittitle>Evening Star - A New Star In Music'S Firmament</unittitle>
+			<unitdate type="inclusive" normal="1954">1954</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">9</container>
+			<container type="folder">4</container>
+			<unittitle>Mmc Foundation Notes</unittitle>
+			<unitdate type="inclusive" normal="1991/1992">1991-1992</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">9</container>
+			<container type="folder">5</container>
+			<unittitle>Prep For Wic '95 Notes</unittitle>
+			<unitdate type="inclusive" normal="1994">1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">9</container>
+			<container type="folder">6</container>
+			<unittitle>Narrations For Hines-Lee Spring Concert</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">9</container>
+			<container type="folder">7</container>
+			<unittitle>Opera And Recital Criticisms And Biography</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">9</container>
+			<container type="folder">8</container>
+			<unittitle>Holloman'S Biographies</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">9</container>
+			<container type="folder">9</container>
+			<unittitle>Charlotte Wesley Holloman Biography And Cv</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">9</container>
+			<container type="folder">10</container>
+			<unittitle>Memoribilia, Cards, Photographs</unittitle>
+			<unitdate type="inclusive" normal="2009/2014">2009-2014</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">9</container>
+			<container type="folder">11</container>
+			<unittitle>Performance Programs</unittitle>
+			<unitdate type="inclusive" normal="2009/2014">2009-2014</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">10</container>
+			<container type="folder">1</container>
+			<unittitle>Photograph</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">10</container>
+			<container type="folder">2</container>
+			<unittitle>Jet Magazine</unittitle>
+			<unitdate type="inclusive" normal="1961">1961</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">10</container>
+			<container type="folder">3</container>
+			<unittitle>Book Of Performance Ads</unittitle>
+			<unitdate type="inclusive" normal="1954">1954</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">10</container>
+			<container type="folder">4</container>
+			<unittitle>Holloman Newspaper Ads</unittitle>
+			<unitdate type="inclusive" normal="1941/1961">1941-1961</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">10</container>
+			<container type="folder">5</container>
+			<unittitle>Howard University Bulletin</unittitle>
+			<unitdate type="inclusive" normal="1942">1942</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">10</container>
+			<container type="folder">6</container>
+			<unittitle>Howard University Charter Day Observance</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">10</container>
+			<container type="folder">7</container>
+			<unittitle>Experimental Program In Thematic Studies</unittitle>
+			<unitdate type="inclusive" normal="1972">1972</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">10</container>
+			<container type="folder">8</container>
+			<unittitle>Holloman Photograph Film</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">10</container>
+			<container type="folder">9</container>
+			<unittitle>Concert Ads And Criticisms</unittitle>
+			<unitdate type="inclusive" normal="1956/1979">1956-1979</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">10</container>
+			<container type="folder">10</container>
+			<unittitle>D.C. Commission On The Arts And Humanities</unittitle>
+			<unitdate type="inclusive" normal="1979/1982">1979-1982</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">10</container>
+			<container type="folder">11</container>
+			<unittitle>Licenses, Teaching Contracts, Transcripts</unittitle>
+			<unitdate type="inclusive" normal="1943/1970">1943-1970</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">10</container>
+			<container type="folder">12</container>
+			<unittitle>Teaching File, Employment File, Letters Of Recommendation, Etc.</unittitle>
+			<unitdate type="inclusive" normal="1970/1987">1970-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">10</container>
+			<container type="folder">13</container>
+			<unittitle>Autograph Books</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">10</container>
+			<container type="folder">14</container>
+			<unittitle>Award From Junior High School</unittitle>
+			<unitdate type="inclusive" normal="1934">1934</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">10</container>
+			<container type="folder">15</container>
+			<unittitle>National Visionary Leadership Project And Biographical Information</unittitle>
+			<unitdate type="inclusive" normal="1954/2010">1954-2010</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">10</container>
+			<container type="folder">16</container>
+			<unittitle>First New York Recital Ad And Second Convo Appearance</unittitle>
+			<unitdate type="inclusive" normal="1955">1955</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">10</container>
+			<container type="folder">17</container>
+			<unittitle>Repetoire</unittitle>
+			<unitdate type="inclusive" normal="1950/1993">1950-1993</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">10</container>
+			<container type="folder">18</container>
+			<unittitle>2011 Appointment Book</unittitle>
+			<unitdate type="inclusive" normal="2011">2011</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">10</container>
+			<container type="folder">19</container>
+			<unittitle>2009 Appointment Book</unittitle>
+			<unitdate type="inclusive" normal="2009">2009</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">10</container>
+			<container type="folder">20</container>
+			<unittitle>2008 Appointment Book</unittitle>
+			<unitdate type="inclusive" normal="2008">2008</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">10</container>
+			<container type="folder">21</container>
+			<unittitle>Photo Album</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">10</container>
+			<container type="folder">22</container>
+			<unittitle>1999 Appointment Book</unittitle>
+			<unitdate type="inclusive" normal="1999">1999</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">10</container>
+			<container type="folder">23</container>
+			<unittitle>2013 Appointment Book</unittitle>
+			<unitdate type="inclusive" normal="2013">2013</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">10</container>
+			<container type="folder">24</container>
+			<unittitle>2006 Appointment Book</unittitle>
+			<unitdate type="inclusive" normal="2006">2006</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">11</container>
+			<container type="folder">1</container>
+			<unittitle>Happy Birthday And Thank You Notes</unittitle>
+			<unitdate type="inclusive" normal="2012">2012</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">11</container>
+			<container type="folder">2</container>
+			<unittitle>Guest Book</unittitle>
+			<unitdate type="inclusive" normal="2010">2010</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">11</container>
+			<container type="folder">3</container>
+			<unittitle>2007 Appointment Books</unittitle>
+			<unitdate type="inclusive" normal="2007">2007</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">11</container>
+			<container type="folder">4</container>
+			<unittitle>Europe - Your Custom-Planned Itinerary</unittitle>
+			<unitdate type="inclusive" normal="1956">1956</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">11</container>
+			<container type="folder">5</container>
+			<unittitle>Cv, Biography, Repetoire</unittitle>
+			<unitdate type="inclusive" normal="2008">2008</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">11</container>
+			<container type="folder">6</container>
+			<unittitle>Photographs</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">11</container>
+			<container type="folder">7</container>
+			<unittitle>Auditioning In Europe</unittitle>
+			<unitdate type="inclusive" normal="1991">1991</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">11</container>
+			<container type="folder">8</container>
+			<unittitle>Washington International Competition Notes</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">11</container>
+			<container type="folder">9</container>
+			<unittitle>Hines-Lee Opera Ensemble</unittitle>
+			<unitdate type="inclusive" normal="1992/2004">1992-2004</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">11</container>
+			<container type="folder">10</container>
+			<unittitle>Dawn Magazine</unittitle>
+			<unitdate type="inclusive" normal="1978">1978</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">11</container>
+			<container type="folder">11</container>
+			<unittitle>Correspondence</unittitle>
+			<unitdate type="inclusive" normal="1999/2009">1999-2009</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">11</container>
+			<container type="folder">12</container>
+			<unittitle>Biographies And Interview Transcripts</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">11</container>
+			<container type="folder">13</container>
+			<unittitle>Howard Employment</unittitle>
+			<unitdate type="inclusive" normal="2011">2011</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">11</container>
+			<container type="folder">14</container>
+			<unittitle>George Shirley</unittitle>
+			<unitdate type="inclusive" normal="1979">1979</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">11</container>
+			<container type="folder">15</container>
+			<unittitle>Performance Ads, Flyers, And Programs</unittitle>
+			<unitdate type="inclusive" normal="2009/2012">2009-2012</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">11</container>
+			<container type="folder">16</container>
+			<unittitle>Photographs</unittitle>
+			<unitdate type="inclusive" normal="2014">2014</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">11</container>
+			<container type="folder">17</container>
+			<unittitle>Roll Book</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">11</container>
+			<container type="folder">18</container>
+			<unittitle>Newsletter - St. Philip'S Church</unittitle>
+			<unitdate type="inclusive" normal="1959">1959</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">11</container>
+			<container type="folder">19</container>
+			<unittitle>Performing Arts Ads</unittitle>
+			<unitdate type="inclusive" normal="2011">2011</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">11</container>
+			<container type="folder">20</container>
+			<unittitle>Blacks In Classical Music - A Personal History By Raoul Abdul</unittitle>
+			<unitdate type="inclusive" normal="1977">1977</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">11</container>
+			<container type="folder">21</container>
+			<unittitle>Newspaper Clippings</unittitle>
+			<unitdate type="inclusive" normal="1965/2012">1965-2012</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">11</container>
+			<container type="folder">22</container>
+			<unittitle>Cv</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">11</container>
+			<container type="folder">23</container>
+			<unittitle>Programs</unittitle>
+			<unitdate type="inclusive" normal="1953/1963">1953-1963</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">11</container>
+			<container type="folder">24</container>
+			<unittitle>Student Schedule 2014</unittitle>
+			<unitdate type="inclusive" normal="2014">2014</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">11</container>
+			<container type="folder">25</container>
+			<unittitle>Correspondence (1 Of 2)</unittitle>
+			<unitdate type="inclusive" normal="1950/2004">1950-2004</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">11</container>
+			<container type="folder">26</container>
+			<unittitle>Correspondence (2 Of 2)</unittitle>
+			<unitdate type="inclusive" normal="1953/1963">1953-1963</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">11</container>
+			<container type="folder">27</container>
+			<unittitle>Agreements And Contracts</unittitle>
+			<unitdate type="inclusive" normal="1953/1956">1953-1956</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">11</container>
+			<container type="folder">28</container>
+			<unittitle>Department Of Health And Physical Examination</unittitle>
+			<unitdate type="inclusive" normal="1937">1937</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">11</container>
+			<container type="folder">29</container>
+			<unittitle>Flight Information</unittitle>
+			<unitdate type="inclusive" normal="1970/1973">1970-1973</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">11</container>
+			<container type="folder">30</container>
+			<unittitle>Newsletter - Paul Laurence Dunbar</unittitle>
+			<unitdate type="inclusive" normal="1937">1937</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">11</container>
+			<container type="folder">31</container>
+			<unittitle>Newspaper Articles</unittitle>
+			<unitdate type="inclusive" normal="1957">1957</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">11</container>
+			<container type="folder">32</container>
+			<unittitle>Negro History Bulletin</unittitle>
+			<unitdate type="inclusive">19815</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">11</container>
+			<container type="folder">33</container>
+			<unittitle>2005 Appointment Book</unittitle>
+			<unitdate type="inclusive" normal="2005">2005</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">11</container>
+			<container type="folder">34</container>
+			<unittitle>Howard University</unittitle>
+			<unitdate type="inclusive" normal="2011">2011</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">12</container>
+			<container type="folder">1</container>
+			<unittitle>Kennedy Center Jazz</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">12</container>
+			<container type="folder">2</container>
+			<unittitle>Porgy And Bess</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">12</container>
+			<container type="folder">3</container>
+			<unittitle>Notes From Duncan'S Studio</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">12</container>
+			<container type="folder">4</container>
+			<unittitle>Opera And Recital Criticism</unittitle>
+			<unitdate type="inclusive" normal="1954">1954</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">12</container>
+			<container type="folder">5</container>
+			<unittitle>Focus On Lehman College</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">12</container>
+			<container type="folder">6</container>
+			<unittitle>Black Enterprise</unittitle>
+			<unitdate type="inclusive" normal="1975">1975</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">12</container>
+			<container type="folder">7</container>
+			<unittitle>Afro American Newspaper</unittitle>
+			<unitdate type="inclusive" normal="2005">2005</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">12</container>
+			<container type="folder">8</container>
+			<unittitle>Opera Department Auditions Paperwork</unittitle>
+			<unitdate type="inclusive" normal="1955">1955</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">12</container>
+			<container type="folder">9</container>
+			<unittitle>Brooks United States Senator</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">12</container>
+			<container type="folder">10</container>
+			<unittitle>Correspondence</unittitle>
+			<unitdate type="inclusive" normal="1968/2007">1968-2007</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">12</container>
+			<container type="folder">11</container>
+			<unittitle>Department Of Motor Vehicles Info</unittitle>
+			<unitdate type="inclusive" normal="2014">2014</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">12</container>
+			<container type="folder">12</container>
+			<unittitle>Musical Toronto - Issachah Savage</unittitle>
+			<unitdate type="inclusive" normal="2015">2015</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">12</container>
+			<container type="folder">13</container>
+			<unittitle>Biographies</unittitle>
+			<unitdate type="inclusive" normal="2009/2013">2009-2013</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">12</container>
+			<container type="folder">14</container>
+			<unittitle>Vocal Arts Society</unittitle>
+			<unitdate type="inclusive" normal="2000/2001">2000-2001</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">12</container>
+			<container type="folder">15</container>
+			<unittitle>Howard University Faculty Information</unittitle>
+			<unitdate type="inclusive" normal="2010/2013">2010-2013</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">12</container>
+			<container type="folder">16</container>
+			<unittitle>Programs, Performance Ads, Certificates (1 Of 2)</unittitle>
+			<unitdate type="inclusive" normal="1950/2004">1950-2004</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">12</container>
+			<container type="folder">17</container>
+			<unittitle>Programs, Performance Ads, Certificates (2 Of 2)</unittitle>
+			<unitdate type="inclusive" normal="1950/2004">1950-2004</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">12</container>
+			<container type="folder">18</container>
+			<unittitle>Photographs</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">12</container>
+			<container type="folder">19</container>
+			<unittitle>Newspapers</unittitle>
+			<unitdate type="inclusive" normal="1993/2000">1993-2000</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">12</container>
+			<container type="folder">20</container>
+			<unittitle>Manhattan United Church Women May Fellowship Luncheon</unittitle>
+			<unitdate type="inclusive" normal="1961">1961</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">12</container>
+			<container type="folder">21</container>
+			<unittitle>Black American Choral Song And Music Of The Black American Composer</unittitle>
+			<unitdate type="inclusive" normal="1984/1988">1984-1988</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">12</container>
+			<container type="folder">22</container>
+			<unittitle>United States Army Chorus</unittitle>
+			<unitdate type="inclusive" normal="2006">2006</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">12</container>
+			<container type="folder">23</container>
+			<unittitle>Correspondence</unittitle>
+			<unitdate type="inclusive" normal="1976/2009">1976-2009</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">12</container>
+			<container type="folder">24</container>
+			<unittitle>Articles</unittitle>
+			<unitdate type="inclusive" normal="1954/1991">1954-1991</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">12</container>
+			<container type="folder">25</container>
+			<unittitle>Programs, Certificates, Ads</unittitle>
+			<unitdate type="inclusive" normal="1956/2009">1956-2009</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">12</container>
+			<container type="folder">26</container>
+			<unittitle>Black History 2012 Discovery And Reflection</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">12</container>
+			<container type="folder">27</container>
+			<unittitle>John L.S. Holloman Memorial</unittitle>
+			<unitdate type="inclusive" normal="2002">2002</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">12</container>
+			<container type="folder">28</container>
+			<unittitle>Wilma Shakesnider</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">12</container>
+			<container type="folder">29</container>
+			<unittitle>2010 Appointment Book</unittitle>
+			<unitdate type="inclusive" normal="2010">2010</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">12</container>
+			<container type="folder">30</container>
+			<unittitle>Press Book For Todd Duncan</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">12</container>
+			<container type="folder">31</container>
+			<unittitle>Letters To Charlotte'S Parents Sent From Europe</unittitle>
+			<unitdate type="inclusive" normal="1991">1991</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">12</container>
+			<container type="folder">32</container>
+			<unittitle>Resumes, Biographies, Cvs</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">12</container>
+			<container type="folder">33</container>
+			<unittitle>Written Music And First Music Writing Book</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">12</container>
+			<container type="folder">34</container>
+			<unittitle>Class Record Book</unittitle>
+			<unitdate type="inclusive" normal="2002">2002</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">12</container>
+			<container type="folder">35</container>
+			<unittitle>Date Book</unittitle>
+			<unitdate type="inclusive" normal="2015">2015</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">12</container>
+			<container type="folder">36</container>
+			<unittitle>Music Programs, Class Info, Ads, Service Awards</unittitle>
+			<unitdate type="inclusive" normal="1994/2012">1994-2012</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">12</container>
+			<container type="folder">37</container>
+			<unittitle>Friday Morning Music Club</unittitle>
+			<unitdate type="inclusive" normal="1993/1994">1993-1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">12</container>
+			<container type="folder">38</container>
+			<unittitle>Charles Sumner Museum, Archives And Gallery</unittitle>
+			<unitdate type="inclusive" normal="1994">1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">12</container>
+			<container type="folder">39</container>
+			<unittitle>Baltimore Summer Opera Workshop</unittitle>
+			<unitdate type="inclusive" normal="2010/2011">2010-2011</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">12</container>
+			<container type="folder">40</container>
+			<unittitle>Department Of Veterans Affairs</unittitle>
+			<unitdate type="inclusive" normal="1994">1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">12</container>
+			<container type="folder">41</container>
+			<unittitle>Photographs</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">13</container>
+			<container type="folder">1</container>
+			<unittitle>Todd Duncan Newspaper Clippings</unittitle>
+			<unitdate type="inclusive" normal="1944/2003">1944-2003</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">13</container>
+			<container type="folder">2</container>
+			<unittitle>Todd Duncan Notes</unittitle>
+			<unitdate type="inclusive" normal="1943/1995">1943-1995</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">13</container>
+			<container type="folder">3</container>
+			<unittitle>Todd Duncan Photographs</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">13</container>
+			<container type="folder">4</container>
+			<unittitle>Handwritten</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">13</container>
+			<container type="folder">5</container>
+			<unittitle>Reviews, Programs, Criticisms</unittitle>
+			<unitdate type="inclusive" normal="2009/2012">2009-2012</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">13</container>
+			<container type="folder">6</container>
+			<unittitle>Newspaper Clippings</unittitle>
+			<unitdate type="inclusive" normal="1965/1967">1965-1967</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">13</container>
+			<container type="folder">7</container>
+			<unittitle>Correspondence</unittitle>
+			<unitdate type="inclusive" normal="1961/2002">1961-2002</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">13</container>
+			<container type="folder">8</container>
+			<unittitle>Photographs</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">13</container>
+			<container type="folder">9</container>
+			<unittitle>Howard University College Of Arts And Sciences</unittitle>
+			<unitdate type="inclusive" normal="2010">2010</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">13</container>
+			<container type="folder">10</container>
+			<unittitle>Musical Courier</unittitle>
+			<unitdate type="inclusive" normal="1956">1956</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">13</container>
+			<container type="folder">11</container>
+			<unittitle>Charles H. Wesley Bio</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">13</container>
+			<container type="folder">12</container>
+			<unittitle>Henderson Papers Collection</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">13</container>
+			<container type="folder">13</container>
+			<unittitle>In Memory Of Dr. Hortense Reid Kerr And List Of Spirituals</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">13</container>
+			<container type="folder">14</container>
+			<unittitle>Vocal Scores</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">13</container>
+			<container type="folder">15</container>
+			<unittitle>A Name To Remember By Pearl Boatwright</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">13</container>
+			<container type="folder">16</container>
+			<unittitle>Etudes De Solfege</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">13</container>
+			<container type="folder">17</container>
+			<unittitle>Certificate Of Appreciation - Central State College</unittitle>
+			<unitdate type="inclusive" normal="1962">1962</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">13</container>
+			<container type="folder">18</container>
+			<unittitle>Stetcher And Horowitz Piano Library</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">13</container>
+			<container type="folder">19</container>
+			<unittitle>Art Wire</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">13</container>
+			<container type="folder">20</container>
+			<unittitle>Remarks By Dr. Rae Alexander-Minter</unittitle>
+			<unitdate type="inclusive" normal="1996">1996</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">13</container>
+			<container type="folder">21</container>
+			<unittitle>Paul Robeson - Here I Stand</unittitle>
+			<unitdate type="inclusive" normal="1997">1997</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">13</container>
+			<container type="folder">22</container>
+			<unittitle>Conversation With George Shirley</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">14</container>
+			<container type="folder">1</container>
+			<unittitle>Sheet Music</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">15</container>
+			<container type="folder">1</container>
+			<unittitle>Sheet Music</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">16</container>
+			<container type="folder">1</container>
+			<unittitle>George Walker Sheet Music</unittitle>
+			<unitdate type="inclusive" normal="1971/1975">1971-1975</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">16</container>
+			<container type="folder">2</container>
+			<unittitle>Burleigh-Spiritual</unittitle>
+			<unitdate type="inclusive" normal="1917/1969">1917-1969</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">16</container>
+			<container type="folder">3</container>
+			<unittitle>Ai-45599-01</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">16</container>
+			<container type="folder">4</container>
+			<unittitle>The Green Pastures, Spirituals, Arranged For Voice And Piano, By Hall Johnson</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">16</container>
+			<container type="folder">5</container>
+			<unittitle>Manuscript - Howard Swanson</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">16</container>
+			<container type="folder">6</container>
+			<unittitle>Miscellaneous Sheet Music</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">16</container>
+			<container type="folder">7</container>
+			<unittitle>Thomas Kerr</unittitle>
+			<unitdate type="inclusive" normal="1941">1941</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">16</container>
+			<container type="folder">8</container>
+			<unittitle>Negro Art Songs</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">16</container>
+			<container type="folder">9</container>
+			<unittitle>Lillian Evanti</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">16</container>
+			<container type="folder">10</container>
+			<unittitle>Miscellaneous Spirituals - Black Composers</unittitle>
+			<unitdate type="inclusive" normal="1931/1940">1931-1940</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">17</container>
+			<container type="folder">1</container>
+			<unittitle>Sheet Music</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">18</container>
+			<container type="folder">1</container>
+			<unittitle>Sheet Music</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">19</container>
+			<container type="folder">1</container>
+			<unittitle>Sheet Music</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">20</container>
+			<container type="folder">1</container>
+			<unittitle>Play Songs Of The Deep South</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">20</container>
+			<container type="folder">2</container>
+			<unittitle>24 Negro Melodies</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">20</container>
+			<container type="folder">3</container>
+			<unittitle>My Songs, African American Religious Folk Songs, Arranged And Interpreted</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">20</container>
+			<container type="folder">4</container>
+			<unittitle>Hall Johnson</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">20</container>
+			<container type="folder">5</container>
+			<unittitle>S Coleridge Taylor</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">20</container>
+			<container type="folder">6</container>
+			<unittitle>Requiem For Four Solo Voices And Chorus</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">20</container>
+			<container type="folder">7</container>
+			<unittitle>Old American Songs; Second Set</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">20</container>
+			<container type="folder">8</container>
+			<unittitle>Five Songs Of Laurence Hope</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">20</container>
+			<container type="folder">9</container>
+			<unittitle>Poeme D'Hiver</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">21</container>
+			<container type="folder">1</container>
+			<unittitle>Sheet Music</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">22</container>
+			<container type="folder">1</container>
+			<unittitle>Modern Soprano Operatic Album</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">22</container>
+			<container type="folder">2</container>
+			<unittitle>G. Schirmer'S Collection Of Masses And Vespers</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">22</container>
+			<container type="folder">3</container>
+			<unittitle>Operatic Repertoire</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">22</container>
+			<container type="folder">4</container>
+			<unittitle>Verdi Rigolette</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">22</container>
+			<container type="folder">5</container>
+			<unittitle>Brahms. 70 Songs For Voice And Piano</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">22</container>
+			<container type="folder">6</container>
+			<unittitle>Celebrated Open Arias</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">22</container>
+			<container type="folder">7</container>
+			<unittitle>Strauss. 30 Songs For Voice And Piano</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">22</container>
+			<container type="folder">8</container>
+			<unittitle>Mozart Requiem</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">22</container>
+			<container type="folder">9</container>
+			<unittitle>Operatic Anthology</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">22</container>
+			<container type="folder">10</container>
+			<unittitle>Operatic Anthology</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">22</container>
+			<container type="folder">11</container>
+			<unittitle>Sheet Music</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">22</container>
+			<container type="folder">12</container>
+			<unittitle>Sheet Music</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">22</container>
+			<container type="folder">13</container>
+			<unittitle>Sheet Music</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">22</container>
+			<container type="folder">14</container>
+			<unittitle>Sheet Music</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">22</container>
+			<container type="folder">15</container>
+			<unittitle>Puccini. Tosca</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">22</container>
+			<container type="folder">16</container>
+			<unittitle>J.S. Bach Choral Works</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">23</container>
+			<container type="folder">1</container>
+			<unittitle>Franz Schubert</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">23</container>
+			<container type="folder">2</container>
+			<unittitle>The Messiah</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">23</container>
+			<container type="folder">3</container>
+			<unittitle>Rossini - Serate Musicali</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">23</container>
+			<container type="folder">4</container>
+			<unittitle>Operatic Anthology</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">23</container>
+			<container type="folder">5</container>
+			<unittitle>Bizet - Carmen</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">23</container>
+			<container type="folder">6</container>
+			<unittitle>Black Magic, Lanston Hughes And Milton Meltzer</unittitle>
+			<unitdate type="inclusive" normal="1967">1967</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">23</container>
+			<container type="folder">7</container>
+			<unittitle>Photographs And Clippings Of Charlotte</unittitle>
+			<unitdate type="inclusive" normal="1947/1970">1947-1970</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">23</container>
+			<container type="folder">8</container>
+			<unittitle>May Pageant</unittitle>
+			<unitdate type="inclusive" normal="1929">1929</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">23</container>
+			<container type="folder">9</container>
+			<unittitle>Photographs</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">23</container>
+			<container type="folder">10</container>
+			<unittitle>Advertisement</unittitle>
+			<unitdate type="inclusive" normal="1950">1950</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">23</container>
+			<container type="folder">11</container>
+			<unittitle>Photographs</unittitle>
+			<unitdate type="inclusive" normal="1930/1960">1930-1960</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">23</container>
+			<container type="folder">12</container>
+			<unittitle>Newspaper Clippings</unittitle>
+			<unitdate type="inclusive" normal="1930/1960">1930-1960</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">23</container>
+			<container type="folder">13</container>
+			<unittitle>Pagent And Recital</unittitle>
+			<unitdate type="inclusive" normal="1930/1960">1930-1960</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">23</container>
+			<container type="folder">14</container>
+			<unittitle>Guestbook</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">23</container>
+			<container type="folder">15</container>
+			<unittitle>Photographs</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">23</container>
+			<container type="folder">16</container>
+			<unittitle>Hall Johnson Collection</unittitle>
+			<unitdate type="inclusive" normal="2003">2003</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">24</container>
+			<container type="folder">1</container>
+			<unittitle>Sheet Music</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">25</container>
+			<container type="folder">1</container>
+			<unittitle>Sheet Music</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">26</container>
+			<container type="folder">1</container>
+			<unittitle>Recital Notes</unittitle>
+			<unitdate type="inclusive" normal="1943">1943</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">26</container>
+			<container type="folder">2</container>
+			<unittitle>Photographs</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">26</container>
+			<container type="folder">3</container>
+			<unittitle>Sheet Music</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">26</container>
+			<container type="folder">4</container>
+			<unittitle>Sheet Music</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">26</container>
+			<container type="folder">5</container>
+			<unittitle>Sheet Music</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">26</container>
+			<container type="folder">6</container>
+			<unittitle>Sheet Music</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">26</container>
+			<container type="folder">7</container>
+			<unittitle>Sheet Music (Mostly Popular)</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">26</container>
+			<container type="folder">8</container>
+			<unittitle>Sheet Music (Mostly Popular)</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">26</container>
+			<container type="folder">9</container>
+			<unittitle>Tristan Und Isolde 1906</unittitle>
+			<unitdate type="inclusive" normal="1906">1906</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">26</container>
+			<container type="folder">10</container>
+			<unittitle>Puccini Die Boheme 1897</unittitle>
+			<unitdate type="inclusive" normal="1897">1897</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">26</container>
+			<container type="folder">11</container>
+			<unittitle>Rastlose Liebe, Restless Love 1951</unittitle>
+			<unitdate type="inclusive" normal="1951">1951</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">26</container>
+			<container type="folder">12</container>
+			<unittitle>Faure, Twenty-Five Selected Songs for High Voice 1946</unittitle>
+			<unitdate type="inclusive" normal="1946">1946</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">26</container>
+			<container type="folder">13</container>
+			<unittitle>A Treasury of Grand Opera 1946</unittitle>
+			<unitdate type="inclusive" normal="1946">1946</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">26</container>
+			<container type="folder">14</container>
+			<unittitle>Vanessa, Samuel Barber 1957</unittitle>
+			<unitdate type="inclusive" normal="1957">1957</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">26</container>
+			<container type="folder">15</container>
+			<unittitle>La Flora Volume Primo 1949</unittitle>
+			<unitdate type="inclusive" normal="1949">1949</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">27</container>
+			<container type="folder">1</container>
+			<unittitle>Belcanto, 10 Ancient Italian Arias undated</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">27</container>
+			<container type="folder">2</container>
+			<unittitle>Contemporary Songs in English undated</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">27</container>
+			<container type="folder">3</container>
+			<unittitle>Franz Liszt, Thirty Songs undated</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">27</container>
+			<container type="folder">4</container>
+			<unittitle>Art Songs for School and Studio undated</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">27</container>
+			<container type="folder">5</container>
+			<unittitle>Personnages</unittitle>
+			<unitdate type="inclusive" normal="1954/2001">1954-2001</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">27</container>
+			<container type="folder">6</container>
+			<unittitle>Hansel and Gretel undated</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">27</container>
+			<container type="folder">7</container>
+			<unittitle>Henry Purcel ,The Fairy Queen Opera undated</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">27</container>
+			<container type="folder">8</container>
+			<unittitle>Die Meistersinger Von Nurnberg Richard Wagner undated</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">27</container>
+			<container type="folder">9</container>
+			<unittitle>Turandot undated</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">27</container>
+			<container type="folder">10</container>
+			<unittitle>In Halt undated</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">27</container>
+			<container type="folder">11</container>
+			<unittitle>Mozart Cosi Fan Tutte undated</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">27</container>
+			<container type="folder">12</container>
+			<unittitle>G. Schirmer's Collection of Song and Duet Albums undated</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">27</container>
+			<container type="folder">13</container>
+			<unittitle>Verdi Rigoletto undated</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">27</container>
+			<container type="folder">14</container>
+			<unittitle>Don Giovanni Mozart undated</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">27</container>
+			<container type="folder">15</container>
+			<unittitle>A. Carlos Gomez, Colombo 1892</unittitle>
+			<unitdate type="inclusive" normal="1892">1892</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">27</container>
+			<container type="folder">16</container>
+			<unittitle>Giacomo Puccini, Madame Butterfly undated</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">27</container>
+			<container type="folder">17</container>
+			<unittitle>Schumann Duette undated</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">27</container>
+			<container type="folder">18</container>
+			<unittitle>Mahler 24 Songs for Voie and Piano and Schumann, Woman's Life and Love undated</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">28</container>
+			<container type="folder">1</container>
+			<unittitle>Fifty Mastersongs by Twenty Composers</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">28</container>
+			<container type="folder">2</container>
+			<unittitle>Arien- Album Sopran</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">28</container>
+			<container type="folder">3</container>
+			<unittitle>Carmen Score</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">28</container>
+			<container type="folder">4</container>
+			<unittitle>La Traviata, Vocal Score</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">28</container>
+			<container type="folder">5</container>
+			<unittitle>Meinen Lieben Verwandten, der Familie Pschorr in Munchen</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">28</container>
+			<container type="folder">6</container>
+			<unittitle>Herod, The Play of A Twelfth Century Musical Drama</unittitle>
+			<unitdate type="inclusive" normal="1964">1964</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">28</container>
+			<container type="folder">7</container>
+			<unittitle>The Old Maid and the Thief by Gion Carlo Menotti 1943</unittitle>
+			<unitdate type="inclusive" normal="1943">1943</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">28</container>
+			<container type="folder">8</container>
+			<unittitle>Franz Schubert Songs</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">28</container>
+			<container type="folder">9</container>
+			<unittitle>Care Selve, Come Beloved Arranged by A.L</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">28</container>
+			<container type="folder">10</container>
+			<unittitle>Cantata, Alessandro Scarlatti</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">28</container>
+			<container type="folder">11</container>
+			<unittitle>Et Retablo de Maese Pedro</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">28</container>
+			<container type="folder">12</container>
+			<unittitle>Julia Culp - Mezzo, Low Key</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">28</container>
+			<container type="folder">13</container>
+			<unittitle>The International Library of Music</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">28</container>
+			<container type="folder">14</container>
+			<unittitle>Song Contents by Type</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">28</container>
+			<container type="folder">15</container>
+			<unittitle>Great Art Sons of Three Centuries</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">29</container>
+			<container type="folder">1</container>
+			<unittitle>Still Wie Die Nacht, Silent as Night</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">29</container>
+			<container type="folder">2</container>
+			<unittitle>You Can Tell the World, Negro Folk Song</unittitle>
+			<unitdate type="inclusive" normal="1946">1946</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">29</container>
+			<container type="folder">3</container>
+			<unittitle>Letters, from the Opera Werther</unittitle>
+			<unitdate type="inclusive" normal="1969">1969</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">29</container>
+			<container type="folder">4</container>
+			<unittitle>Cesar Franck Symphony</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">29</container>
+			<container type="folder">5</container>
+			<unittitle>Upper Room Hymns</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">29</container>
+			<container type="folder">6</container>
+			<unittitle>G. Schirmer's Collection of Oratorios and Catatas</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">29</container>
+			<container type="folder">7</container>
+			<unittitle>Tosca</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">29</container>
+			<container type="folder">8</container>
+			<unittitle>The Bohemians</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">29</container>
+			<container type="folder">9</container>
+			<unittitle>The Prodigal Son</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">29</container>
+			<container type="folder">10</container>
+			<unittitle>Elijah, An Oratorio</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">29</container>
+			<container type="folder">11</container>
+			<unittitle>Out of Darkness</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">29</container>
+			<container type="folder">12</container>
+			<unittitle>Maytime</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">29</container>
+			<container type="folder">13</container>
+			<unittitle>Songs you Like to Sing</unittitle>
+			<unitdate type="inclusive" normal="1937">1937</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">29</container>
+			<container type="folder">14</container>
+			<unittitle>Bethlehem</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">29</container>
+			<container type="folder">15</container>
+			<unittitle>Hanzel and Gretel</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">29</container>
+			<container type="folder">16</container>
+			<unittitle>Pelleas et Melisande</unittitle>
+			<unitdate type="inclusive" normal="1907">1907</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">29</container>
+			<container type="folder">17</container>
+			<unittitle>Chanson Populaires</unittitle>
+			<unitdate type="inclusive" normal="1910">1910</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">29</container>
+			<container type="folder">18</container>
+			<unittitle>Vocalizzi</unittitle>
+			<unitdate type="inclusive" normal="1929">1929</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">29</container>
+			<container type="folder">19</container>
+			<unittitle>Mein Singendes Klingendes Wien</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">29</container>
+			<container type="folder">20</container>
+			<unittitle>A Treasury of Stephen Foster</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">29</container>
+			<container type="folder">21</container>
+			<unittitle>Igor Stawinsky le Rossignol</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">29</container>
+			<container type="folder">22</container>
+			<unittitle>Daphne von Richard Strauss</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">29</container>
+			<container type="folder">23</container>
+			<unittitle>The Modern Soprano</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">30</container>
+			<container type="folder">1</container>
+			<unittitle>Dalbert Tiefland</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">30</container>
+			<container type="folder">2</container>
+			<unittitle>Parte Terza</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">30</container>
+			<container type="folder">3</container>
+			<unittitle>Anthology of Sacred Song, Celebrated Arias Selected from Oratorios</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">30</container>
+			<container type="folder">4</container>
+			<unittitle>Virgil Thomson, Four Saints in Three Acts</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">30</container>
+			<container type="folder">5</container>
+			<unittitle>The Crucifixion</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">30</container>
+			<container type="folder">6</container>
+			<unittitle>Ricci Varizoni - Cadenze Tradizioni</unittitle>
+			<unitdate type="inclusive" normal="1903">1903</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">30</container>
+			<container type="folder">7</container>
+			<unittitle>Ariadne Auf Naros, Richard Strauss</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">30</container>
+			<container type="folder">8</container>
+			<unittitle>Fifty Songs, Robert Franz</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">30</container>
+			<container type="folder">9</container>
+			<unittitle>Fifty Songs, Edward Grieg</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">30</container>
+			<container type="folder">10</container>
+			<unittitle>Jensen</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">30</container>
+			<container type="folder">11</container>
+			<unittitle>Classic Songs, Italian/French/English</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">30</container>
+			<container type="folder">12</container>
+			<unittitle>American Arias for Soprano</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">30</container>
+			<container type="folder">13</container>
+			<unittitle>Winter Words, Benjamin Britten</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">30</container>
+			<container type="folder">14</container>
+			<unittitle>Richard Wagner, Tristan und Isolde</unittitle>
+			<unitdate type="inclusive" normal="1973">1973</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">30</container>
+			<container type="folder">15</container>
+			<unittitle>Debussy 43 Songs for Voice and Piano</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">30</container>
+			<container type="folder">16</container>
+			<unittitle>Faure Twenty Five Selected Songs for High Voice</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">30</container>
+			<container type="folder">17</container>
+			<unittitle>Ludwig Van Beethoven Prometheus</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">30</container>
+			<container type="folder">18</container>
+			<unittitle>Operatic Anthology, celebrated arias</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">30</container>
+			<container type="folder">19</container>
+			<unittitle>Werther, an opera in folk arts, "letters"</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">30</container>
+			<container type="folder">20</container>
+			<unittitle>The Family Music Book</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">30</container>
+			<container type="folder">21</container>
+			<unittitle>Sheet music, miscellaneous</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">31</container>
+			<container type="folder">1</container>
+			<unittitle>40 French Songs, For Voice and Piano</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">31</container>
+			<container type="folder">2</container>
+			<unittitle>Henry Purcell, Die Nacht</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">31</container>
+			<container type="folder">3</container>
+			<unittitle>Henry Purcell, Songs with Realizations of the Figured Bass</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">31</container>
+			<container type="folder">4</container>
+			<unittitle>Schirmer's Collection of Opera's Aida</unittitle>
+			<unitdate type="inclusive" normal="1925">1925</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">31</container>
+			<container type="folder">5</container>
+			<unittitle>Jaques Offenbach</unittitle>
+			<unitdate type="inclusive" normal="1911">1911</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">31</container>
+			<container type="folder">6</container>
+			<unittitle>Historia di Jephte</unittitle>
+			<unitdate type="inclusive" normal="1969">1969</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">31</container>
+			<container type="folder">7</container>
+			<unittitle>John Lennon and Paul McCartney</unittitle>
+			<unitdate type="inclusive" normal="1970">1970</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">31</container>
+			<container type="folder">8</container>
+			<unittitle>Bethoven</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">31</container>
+			<container type="folder">9</container>
+			<unittitle>My Favorite Spirituals</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">31</container>
+			<container type="folder">10</container>
+			<unittitle>Art Songs, Spaeth</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">31</container>
+			<container type="folder">11</container>
+			<unittitle>Judas Maccabaeus</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">31</container>
+			<container type="folder">12</container>
+			<unittitle>Magnificant</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">31</container>
+			<container type="folder">13</container>
+			<unittitle>Faure Requiem</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">31</container>
+			<container type="folder">14</container>
+			<unittitle>J.S Bach</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">31</container>
+			<container type="folder">15</container>
+			<unittitle>The Messiah</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">31</container>
+			<container type="folder">16</container>
+			<unittitle>Elijah, an Oratorio</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">31</container>
+			<container type="folder">17</container>
+			<unittitle>The Creation, Hayden</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">31</container>
+			<container type="folder">18</container>
+			<unittitle>Course and Organization</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">31</container>
+			<container type="folder">19</container>
+			<unittitle>Misc Compositions</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">31</container>
+			<container type="folder">20</container>
+			<unittitle>La Flora, Volume Secondo</unittitle>
+			<unitdate type="inclusive" normal="1949">1949</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">31</container>
+			<container type="folder">21</container>
+			<unittitle>Fifty Modern English Songs </unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">31</container>
+			<container type="folder">22</container>
+			<unittitle>One Hundred Songs of England </unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">31</container>
+			<container type="folder">23</container>
+			<unittitle>Roland Hayes</unittitle>
+			<unitdate type="inclusive" normal="1954/2011">1954-2011</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">32</container>
+			<container type="folder">1</container>
+			<unittitle>Purcell </unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">32</container>
+			<container type="folder">2</container>
+			<unittitle>Fifty Mastersongs</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">32</container>
+			<container type="folder">3</container>
+			<unittitle>Miscellaneous Music (1 of 4)</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">32</container>
+			<container type="folder">4</container>
+			<unittitle>Miscellaneous Music (2 of 4)</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">32</container>
+			<container type="folder">5</container>
+			<unittitle>Miscellaneous Music (3 of 4)</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">32</container>
+			<container type="folder">6</container>
+			<unittitle>Miscellaneous Music (4 of 4)</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">33</container>
+			<container type="folder">1</container>
+			<unittitle>Recordings/Albums</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">34</container>
+			<container type="folder">1</container>
+			<unittitle>Recordings/Albums</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">35</container>
+			<container type="folder">1</container>
+			<unittitle>Recordings/Albums</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">36</container>
+			<container type="folder">1</container>
+			<unittitle>Recordings/Albums</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">37</container>
+			<container type="folder">1</container>
+			<unittitle>Recordings/Albums</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">38</container>
+			<container type="folder">1</container>
+			<unittitle>Recordings/Albums</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">39</container>
+			<container type="folder">1</container>
+			<unittitle>Framed photographs</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">39</container>
+			<container type="folder">2</container>
+			<unittitle>Voice teacher award</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">40</container>
+			<container type="folder">1</container>
+			<unittitle>Recordings/Albums</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">41</container>
+			<container type="folder">1</container>
+			<unittitle>Recordings/Albums</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">42</container>
+			<container type="folder">1</container>
+			<unittitle>Video and audio recordings</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">43</container>
+			<container type="folder">1</container>
+			<unittitle>Music CDs</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">44</container>
+			<container type="folder">1</container>
+			<unittitle>Music CDs</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">45</container>
+			<container type="folder">1</container>
+			<unittitle>Books and appointment book</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">46</container>
+			<container type="folder">1</container>
+			<unittitle>Books miscellaneous</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">47</container>
+			<container type="folder">1</container>
+			<unittitle>Mozart Sheet Music</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">47</container>
+			<container type="folder">2</container>
+			<unittitle>La Boheme Sheet Music</unittitle>
+			<unitdate type="inclusive" normal="1830">1830</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">47</container>
+			<container type="folder">3</container>
+			<unittitle>Donizetti's Lucrezia Borgia Sheet Music</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">47</container>
+			<container type="folder">4</container>
+			<unittitle>Folk Songs and Stories of the Americas</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">47</container>
+			<container type="folder">5</container>
+			<unittitle>Latin American Festivals and Folk Dance</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">47</container>
+			<container type="folder">6</container>
+			<unittitle>Opera-In-Concert</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">47</container>
+			<container type="folder">7</container>
+			<unittitle>English Fundamentals Sheet Music</unittitle>
+			<unitdate type="inclusive" normal="1933">1933</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">48</container>
+			<container type="folder">1</container>
+			<unittitle>Practical Beginning Theory</unittitle>
+			<unitdate type="inclusive" normal="1963">1963</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">48</container>
+			<container type="folder">2</container>
+			<unittitle>Puccini La Boheme Sheet Music</unittitle>
+			<unitdate type="inclusive" normal="1968">1968</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">48</container>
+			<container type="folder">3</container>
+			<unittitle>The Stories of Rigoleete and Manon</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">48</container>
+			<container type="folder">4</container>
+			<unittitle>B. Schott's Sohne Sheet Music</unittitle>
+			<unitdate type="inclusive" normal="1894">1894</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">48</container>
+			<container type="folder">5</container>
+			<unittitle>Martha of the Fair at Richmond</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">48</container>
+			<container type="folder">6</container>
+			<unittitle>Fra Diavolo</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">49</container>
+			<container type="folder">1</container>
+			<unittitle>Cuban Cutie Sheet Music</unittitle>
+			<unitdate type="inclusive" normal="1950">1950</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">49</container>
+			<container type="folder">2</container>
+			<unittitle>The Merry Widow Sheet Music</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">49</container>
+			<container type="folder">3</container>
+			<unittitle>Compositions For the Piano Sheet Music</unittitle>
+			<unitdate type="inclusive" normal="1944">1944</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">49</container>
+			<container type="folder">4</container>
+			<unittitle>Compositions For the Piano Sheet Music</unittitle>
+			<unitdate type="inclusive" normal="1946">1946</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">49</container>
+			<container type="folder">5</container>
+			<unittitle>Compositions For the Piano Sheet Music</unittitle>
+			<unitdate type="inclusive" normal="1946">1946</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">49</container>
+			<container type="folder">6</container>
+			<unittitle>Compositions For the Piano Sheet Music</unittitle>
+			<unitdate type="inclusive" normal="1950">1950</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">49</container>
+			<container type="folder">7</container>
+			<unittitle>Memoire Sheet Music</unittitle>
+			<unitdate type="inclusive" normal="1956">1956</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">49</container>
+			<container type="folder">8</container>
+			<unittitle>The Singing Fountain Sheet Music</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">49</container>
+			<container type="folder">9</container>
+			<unittitle>Mammoth Collection of Famous Children's Songs</unittitle>
+			<unitdate type="inclusive" normal="1939">1939</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">49</container>
+			<container type="folder">10</container>
+			<unittitle>The Crimson Sap Song Cycle Sheet Music</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">49</container>
+			<container type="folder">11</container>
+			<unittitle>Four Movements Sheet Music</unittitle>
+			<unitdate type="inclusive" normal="1948">1948</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">49</container>
+			<container type="folder">12</container>
+			<unittitle>A Slight Case of Ivory Sheet Music</unittitle>
+			<unitdate type="inclusive" normal="1943">1943</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">49</container>
+			<container type="folder">13</container>
+			<unittitle>Mechanical Designs Sheet Music</unittitle>
+			<unitdate type="inclusive" normal="1956">1956</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">49</container>
+			<container type="folder">14</container>
+			<unittitle>Rachmaninoff Sheet Music</unittitle>
+			<unitdate type="inclusive" normal="1955">1955</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">49</container>
+			<container type="folder">15</container>
+			<unittitle>Bazzars of Bagdad Sheet Music</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">49</container>
+			<container type="folder">16</container>
+			<unittitle>Chopin Polonaise Sheet Music</unittitle>
+			<unitdate type="inclusive" normal="1952">1952</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">49</container>
+			<container type="folder">17</container>
+			<unittitle>Americana Sheet Music</unittitle>
+			<unitdate type="inclusive" normal="1929">1929</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">49</container>
+			<container type="folder">18</container>
+			<unittitle>Soliloquy Sheet Music</unittitle>
+			<unitdate type="inclusive" normal="1927">1927</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">49</container>
+			<container type="folder">19</container>
+			<unittitle>Tchaikowsky Sheet Music</unittitle>
+			<unitdate type="inclusive" normal="1955">1955</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">49</container>
+			<container type="folder">20</container>
+			<unittitle>Raphling Piano Sonata Sheet Music</unittitle>
+			<unitdate type="inclusive" normal="1958">1958</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">49</container>
+			<container type="folder">21</container>
+			<unittitle>Catalogue of Music For Chorus Sheet Music</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">49</container>
+			<container type="folder">22</container>
+			<unittitle>Rachmaninoff Sheet Music 1955</unittitle>
+			<unitdate type="inclusive" normal="1955">1955</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">49</container>
+			<container type="folder">23</container>
+			<unittitle>Faculty Handbook and Library Guide</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">49</container>
+			<container type="folder">24</container>
+			<unittitle>A Singing of Angels</unittitle>
+			<unitdate type="inclusive" normal="1969">1969</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">49</container>
+			<container type="folder">25</container>
+			<unittitle>Chorus Vocal Scores Libretti</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">49</container>
+			<container type="folder">26</container>
+			<unittitle>Music for Voice</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">49</container>
+			<container type="folder">27</container>
+			<unittitle>Choral Guide</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">49</container>
+			<container type="folder">28</container>
+			<unittitle>The Maiden and the Passer-by Sheet Music</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">49</container>
+			<container type="folder">29</container>
+			<unittitle>My Evening Prayer Sheet Music</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">49</container>
+			<container type="folder">30</container>
+			<unittitle>"Never" Sheet Music</unittitle>
+			<unitdate type="inclusive" normal="1951">1951</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">49</container>
+			<container type="folder">31</container>
+			<unittitle>A Holiday in Paris Sheet Music</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">49</container>
+			<container type="folder">32</container>
+			<unittitle>There is No Christmas Like a Home Christmas Sheet Music</unittitle>
+			<unitdate type="inclusive" normal="1950">1950</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">49</container>
+			<container type="folder">33</container>
+			<unittitle>With All My Heart and Soul Sheet Music</unittitle>
+			<unitdate type="inclusive" normal="1951">1951</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">49</container>
+			<container type="folder">34</container>
+			<unittitle>Candidez Sheet Music</unittitle>
+			<unitdate type="inclusive" normal="1947">1947</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">49</container>
+			<container type="folder">35</container>
+			<unittitle>Apretaitos Sheet Music</unittitle>
+			<unitdate type="inclusive" normal="1947">1947</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">49</container>
+			<container type="folder">36</container>
+			<unittitle>Pedazo de Noche Sheet Music</unittitle>
+			<unitdate type="inclusive" normal="1947">1947</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">49</container>
+			<container type="folder">37</container>
+			<unittitle>Bendicion y Castigo Sheet Music</unittitle>
+			<unitdate type="inclusive" normal="1947">1947</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">49</container>
+			<container type="folder">38</container>
+			<unittitle>Pensamento Sheet Music</unittitle>
+			<unitdate type="inclusive" normal="1947">1947</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">49</container>
+			<container type="folder">39</container>
+			<unittitle>Rafael Mendez Sheet Music</unittitle>
+			<unitdate type="inclusive" normal="1949">1949</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">49</container>
+			<container type="folder">40</container>
+			<unittitle>The Emperor's New Clothes Sheet Music</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">49</container>
+			<container type="folder">41</container>
+			<unittitle>Richard Magner Sheet Music</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">50</container>
+			<container type="folder">1</container>
+			<unittitle>Untitled Sheet Music</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">50</container>
+			<container type="folder">2</container>
+			<unittitle>L'Anello Del Nibelungo</unittitle>
+			<unitdate type="inclusive" normal="1963">1963</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">50</container>
+			<container type="folder">3</container>
+			<unittitle>Der Rosenkavalier Sheet Music</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">50</container>
+			<container type="folder">4</container>
+			<unittitle>Jacques Offenbach Sheet Music</unittitle>
+			<unitdate type="inclusive" normal="1949">1949</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">50</container>
+			<container type="folder">5</container>
+			<unittitle>Tristan and Isolada Sheet Music</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">50</container>
+			<container type="folder">6</container>
+			<unittitle>Songs That Never Grow Old Sheet Music</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">50</container>
+			<container type="folder">7</container>
+			<unittitle>Richard Wagner Sheet Music</unittitle>
+			<unitdate type="inclusive" normal="1906">1906</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">50</container>
+			<container type="folder">8</container>
+			<unittitle>Christmas Cheer Sheet Music</unittitle>
+			<unitdate type="inclusive" normal="1957">1957</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">50</container>
+			<container type="folder">9</container>
+			<unittitle>"Louise" Sheet Music</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">50</container>
+			<container type="folder">10</container>
+			<unittitle>Madame Butterfly Sheet Music</unittitle>
+			<unitdate type="inclusive" normal="1904">1904</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">50</container>
+			<container type="folder">11</container>
+			<unittitle>Favorite Christmas Carols Sheet Music</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">50</container>
+			<container type="folder">12</container>
+			<unittitle>Untitled Program Cut Out</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">50</container>
+			<container type="folder">13</container>
+			<unittitle>Blue Monday</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">51</container>
+			<container type="folder">1</container>
+			<unittitle>Christmas Party Sheet Music</unittitle>
+			<unitdate type="inclusive" normal="1969">1969</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">51</container>
+			<container type="folder">2</container>
+			<unittitle>Chestnuts Roasting on An Open Fire Sheet Music</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">51</container>
+			<container type="folder">3</container>
+			<unittitle>Santa Clus is Comin To Town Sheet Music</unittitle>
+			<unitdate type="inclusive" normal="1934">1934</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">51</container>
+			<container type="folder">4</container>
+			<unittitle>The Twelve Days of Christmas Sheet Music</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">51</container>
+			<container type="folder">5</container>
+			<unittitle>White Christmas Sheet Music</unittitle>
+			<unitdate type="inclusive" normal="1942">1942</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">51</container>
+			<container type="folder">6</container>
+			<unittitle>Richard Wagner Sheet Music</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">51</container>
+			<container type="folder">7</container>
+			<unittitle>Cavalleria Rusticana Sheet Music</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">51</container>
+			<container type="folder">8</container>
+			<unittitle>New Approaches to Music in the Elementary School</unittitle>
+			<unitdate type="inclusive" normal="1964">1964</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">52</container>
+			<container type="folder">1</container>
+			<unittitle>Video and audio recordings</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">53</container>
+			<container type="folder">1</container>
+			<unittitle>Video and audio recordings</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">54</container>
+			<container type="folder">1</container>
+			<unittitle>Metronome</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">54</container>
+			<container type="folder">2</container>
+			<unittitle>Clock</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">54</container>
+			<container type="folder">3</container>
+			<unittitle>Ceramic Bird</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">54</container>
+			<container type="folder">4</container>
+			<unittitle>Wooden Photo of Holloman</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">54</container>
+			<container type="folder">5</container>
+			<unittitle>Seiko Quartz Metronome</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">54</container>
+			<container type="folder">6</container>
+			<unittitle>Pitch Pipe</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">55</container>
+			<container type="folder">1</container>
+			<unittitle>Video and audio recordings</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">56</container>
+			<container type="folder">1</container>
+			<unittitle>Video and audio recordings</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">57</container>
+			<container type="folder">1</container>
+			<unittitle>Video and audio recordings</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">58</container>
+			<container type="folder">1</container>
+			<unittitle>Sheet music, miscellaneous</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">59</container>
+			<container type="folder">1</container>
+			<unittitle>Sheet music, miscellaneous</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">60</container>
+			<container type="folder">1</container>
+			<unittitle>Ben Holt Memorial Scholarship</unittitle>
+			<unitdate type="inclusive" normal="2011">2011</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">60</container>
+			<container type="folder">2</container>
+			<unittitle>DC Council Letter</unittitle>
+			<unitdate type="inclusive" normal="2012">2012</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">60</container>
+			<container type="folder">3</container>
+			<unittitle>National Association of Negro Musicans</unittitle>
+			<unitdate type="inclusive" normal="2015">2015</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">60</container>
+			<container type="folder">4</container>
+			<unittitle>Howard University Retiree Appreciation Program</unittitle>
+			<unitdate type="inclusive" normal="2013">2013</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">60</container>
+			<container type="folder">5</container>
+			<unittitle>Howard Retirement Letter</unittitle>
+			<unitdate type="inclusive" normal="2013">2013</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">60</container>
+			<container type="folder">6</container>
+			<unittitle>White House Letter</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">60</container>
+			<container type="folder">7</container>
+			<unittitle>Partners Achieving Success</unittitle>
+			<unitdate type="inclusive" normal="2014">2014</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">60</container>
+			<container type="folder">8</container>
+			<unittitle>"Doctors Without Borders"</unittitle>
+			<unitdate type="inclusive" normal="2015">2015</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">60</container>
+			<container type="folder">9</container>
+			<unittitle>Holloman Photos</unittitle>
+			<unitdate type="inclusive" normal="2013">2013</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">60</container>
+			<container type="folder">10</container>
+			<unittitle>Vocal Arts Competition for Emerging Artists</unittitle>
+			<unitdate type="inclusive" normal="2014">2014</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">60</container>
+			<container type="folder">11</container>
+			<unittitle>Letter from Holloman</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">60</container>
+			<container type="folder">12</container>
+			<unittitle>National Visionary Leadership Project</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">60</container>
+			<container type="folder">13</container>
+			<unittitle>Sigma Alpha Iota Program</unittitle>
+			<unitdate type="inclusive" normal="2015">2015</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">60</container>
+			<container type="folder">14</container>
+			<unittitle>Day declaration</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">60</container>
+			<container type="folder">15</container>
+			<unittitle>Certificates and awards</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">61</container>
+			<container type="folder">1</container>
+			<unittitle>Posters</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">61</container>
+			<unittitle>Certificates and awards</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">61</container>
+			<unittitle>Scrapbook</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">62</container>
+			<container type="folder">1</container>
+			<unittitle>Plaques</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">63</container>
+			<container type="folder">1</container>
+			<unittitle>Grove's Dictionary of Music and Musicians, 5th ed., 8 volume set</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">64</container>
+			<container type="folder">1</container>
+			<unittitle>Awards</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">65</container>
+			<container type="folder">1</container>
+			<unittitle>Awards</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">66</container>
+			<container type="folder">1</container>
+			<unittitle>Books miscellaneous</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">67</container>
+			<container type="folder">1</container>
+			<unittitle>Miscellaneous</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="box">68</container>
+			<container type="folder">1</container>
+			<unittitle>Small books</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+</c01>
+</dsc>
+</archdesc>
+</ead>

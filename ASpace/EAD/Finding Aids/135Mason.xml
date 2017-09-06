@@ -1,0 +1,2989 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type="text/xml" href="I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/eadcbs6rev.xsl"?><!DOCTYPE ead PUBLIC "-//Society of American Archivists//DTD ead.dtd (Encoded Archival Description (EAD) Version 1.0)//EN" "I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/ead.dtd">
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" repositoryencoding="iso15511" relatedencoding="MARC21">
+	<eadid mainagencycode="DWP" countrycode="US" url="http://washingtoniana.dclibrary.org">135Mason</eadid>
+<filedesc>
+<titlestmt>
+	<titleproper encodinganalog="245$a">Hilda Mason, Statehood Party</titleproper>
+	<subtitle>An inventory of Hilda Mason, Statehood Party at DC Public Library</subtitle>
+	<author encodinganalog="245$c">Finding aid prepared by DC Africana Archives Project.</author>
+</titlestmt>
+<publicationstmt>
+<publisher encodinganalog="260$b">DC Public Library Special Collections</publisher>
+<address><addressline>901 G Street NW</addressline><addressline>DC Public Library</addressline><addressline>Washington, D.C. 20009</addressline></address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation encodinganalog="500">EAD encoded by Paul Kelly on
+	<date normal="2017-05-12">2017-05-12</date>
+</creation>
+<langusage><language encodinganalog="546" langcode="eng">English</language></langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory" relatedencoding="MARC21">
+<did id="a1">
+<head>Descriptive Summary</head>
+<repository label="Repository:" encodinganalog="852$a"><corpname>DC Public Library, Special Collections</corpname></repository>
+	<unitdate encodinganalog="260$c" label="Dates:" type="inclusive" normal="1806/1995">1806-1995</unitdate>
+	<unittitle label="Title:" encodinganalog="245$a">Hilda Mason, Statehood Party Collection</unittitle>
+<physdesc label="Extent:" encodinganalog="300$a"><extent>20 cubic feet; 20 boxes</extent></physdesc>
+<unitid encodinganalog="090" label="Collection Number:" countrycode="US" repositorycode="DCU">135</unitid>
+<langmaterial encodinganalog="041" label="Language:"><language langcode="eng">English</language></langmaterial>
+</did>
+	
+<dsc type="combined" id="a23">
+<head>Detailed Description of the Collection</head>
+<c01 level="series">
+   <did>
+	<unittitle>Series 1</unittitle>
+    </did>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">1</container>
+			<unittitle>Free DC hat</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">2</container>
+			<unittitle>District of Columbia Chamber of Commerce 1980 Report to the Membership</unittitle>
+			<unitdate type="inclusive" normal="1993">1993</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">3</container>
+			<unittitle>Southern Poverty Law Center VHS</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">4</container>
+			<unittitle>Business Cards</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">5</container>
+			<unittitle>COG Annual Meeting badge</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">6</container>
+			<unittitle>Free the DC Stickers</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">7</container>
+			<unittitle>Councilmember Hilda Mason badge</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">8</container>
+			<unittitle>Program for 10th Annual Martin Luther King Jr. Memorial Breakfast</unittitle>
+			<unitdate type="inclusive" normal="1994">1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2A</container>
+			<container type="Folder">1</container>
+			<unittitle>Local Vocal Vol. 13 No 4 April 1994</unittitle>
+			<unitdate type="inclusive" normal="1994">1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2A</container>
+			<container type="Folder">2</container>
+			<unittitle>Support for a Bill to Change the Name of the Washington Redskins to the Washington Shulls</unittitle>
+			<unitdate type="inclusive" normal="1993">1993</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2A</container>
+			<container type="Folder">3</container>
+			<unittitle>Gray Paper Products Inc. Info</unittitle>
+			<unitdate type="inclusive" normal="1994">1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2A</container>
+			<container type="Folder">4</container>
+			<unittitle>1993 Annual Report</unittitle>
+			<unitdate type="inclusive" normal="1994">1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2A</container>
+			<container type="Folder">5</container>
+			<unittitle>Peace Action Vol. 32 - No. 4</unittitle>
+			<unitdate type="inclusive" normal="1993">1993</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2A</container>
+			<container type="Folder">6</container>
+			<unittitle>"Jobs justice Peace"</unittitle>
+			<unitdate type="inclusive" normal="1993">1993</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2A</container>
+			<container type="Folder">7</container>
+			<unittitle>1992 Annual Report</unittitle>
+			<unitdate type="inclusive" normal="1902/1992">1902-1992</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2A</container>
+			<container type="Folder">8</container>
+			<unittitle>NAACP Legal Defense and Education Fund</unittitle>
+			<unitdate type="inclusive" normal="1991/1992">1991-1992</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2A</container>
+			<container type="Folder">9</container>
+			<unittitle>Memorandum: Explanation of the Enclosed Expense Budget</unittitle>
+			<unitdate type="inclusive" normal="1990">1990</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2A</container>
+			<container type="Folder">10</container>
+			<unittitle>Council of the District of Columbia Owner's Manual</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2A</container>
+			<container type="Folder">11</container>
+			<unittitle>Council of the District of Columbia City Hall Brochure</unittitle>
+			<unitdate type="inclusive" normal="1975/1977">1975-1977</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2A</container>
+			<container type="Folder">12</container>
+			<unittitle>Revision of the Council's "City Hall" Brochure</unittitle>
+			<unitdate type="inclusive" normal="1979">1979</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2A</container>
+			<container type="Folder">13</container>
+			<unittitle>Newspaper Clippings</unittitle>
+			<unitdate type="inclusive" normal="1988/1994">1988-1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2A</container>
+			<container type="Folder">14</container>
+			<unittitle>Newspaper Clippings</unittitle>
+			<unitdate type="inclusive" normal="1988/1994">1988-1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2A</container>
+			<container type="Folder">15</container>
+			<unittitle>Newspaper Clippings</unittitle>
+			<unitdate type="inclusive" normal="1988/1994">1988-1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2A</container>
+			<container type="Folder">16</container>
+			<unittitle>Newspaper Clippings</unittitle>
+			<unitdate type="inclusive" normal="1988/1995">1988-1995</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2A</container>
+			<container type="Folder">17</container>
+			<unittitle>Superior Court of the District of Columbia Civil Division: Guinan v Board of Elections and Ethics</unittitle>
+			<unitdate type="inclusive" normal="1980">1980</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2A</container>
+			<container type="Folder">18</container>
+			<unittitle>Misc</unittitle>
+			<unitdate type="inclusive" normal="1994">1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2A</container>
+			<container type="Folder">19</container>
+			<unittitle>Basement Construction at 2314 Peggy Lane Silver Spring MD - Correspondence</unittitle>
+			<unitdate type="inclusive" normal="1984">1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2A</container>
+			<container type="Folder">20</container>
+			<unittitle>"A Moral Appeal to Resist Facism" by Jesse L. Jackson</unittitle>
+			<unitdate type="inclusive" normal="1985">1985</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2A</container>
+			<container type="Folder">21</container>
+			<unittitle>Peformance Poet Garth Tate</unittitle>
+			<unitdate type="inclusive" normal="1988">1988</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2A</container>
+			<container type="Folder">22</container>
+			<unittitle>Remarks of Dr. Farley W. Wheelright</unittitle>
+			<unitdate type="inclusive" normal="1988">1988</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2A</container>
+			<container type="Folder">23</container>
+			<unittitle>Phyllis Wheatley Young Women's Chrisitan Association Inc.</unittitle>
+			<unitdate type="inclusive" normal="1987">1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2A</container>
+			<container type="Folder">24</container>
+			<unittitle>Grandaughter Bio</unittitle>
+			<unitdate type="inclusive" normal="1985">1985</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2A</container>
+			<container type="Folder">25</container>
+			<unittitle>Corporate Sponsors and Supporters</unittitle>
+			<unitdate type="inclusive" normal="1988">1988</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2A</container>
+			<container type="Folder">26</container>
+			<unittitle>Full Moon Revisited</unittitle>
+			<unitdate type="inclusive" normal="1988">1988</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2A</container>
+			<container type="Folder">27</container>
+			<unittitle>The Candlelighters Childhood Cancer Foundation Quarterly Newsletter</unittitle>
+			<unitdate type="inclusive" normal="1988">1988</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2A</container>
+			<container type="Folder">28</container>
+			<unittitle>Leadership Conference on Civil Rights Index</unittitle>
+			<unitdate type="inclusive" normal="1989">1989</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2B</container>
+			<container type="Folder">2</container>
+			<unittitle>Newspaper Clippings</unittitle>
+			<unitdate type="inclusive" normal="1988/1994">1988-1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2B</container>
+			<container type="Folder">3</container>
+			<unittitle>Newspaper Clippings</unittitle>
+			<unitdate type="inclusive" normal="1988/1994">1988-1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2B</container>
+			<container type="Folder">4</container>
+			<unittitle>Newspaper Clippings</unittitle>
+			<unitdate type="inclusive" normal="1988/1994">1988-1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2B</container>
+			<container type="Folder">5</container>
+			<unittitle>Newspaper Clippings</unittitle>
+			<unitdate type="inclusive" normal="1988/1994">1988-1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">1</container>
+			<unittitle>Business Cards</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">1</container>
+			<unittitle>Business Cards</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">1</container>
+			<unittitle>"About Now Article" by Lisa McCormack</unittitle>
+			<unitdate type="inclusive" normal="1987">1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">2</container>
+			<unittitle>1987 Inaugural Brochure and Swear in Statement</unittitle>
+			<unitdate type="inclusive" normal="1979">1979</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">3</container>
+			<unittitle>Proposed Campaign Strategy for Councilwoman Hilda Mason and Hida's Helpers</unittitle>
+			<unitdate type="inclusive" normal="1991">1991</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">4</container>
+			<unittitle>Board of Elections and Ethics DC Polling Place List 7/13/90 Calender</unittitle>
+			<unitdate type="inclusive" normal="1990">1990</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">5</container>
+			<unittitle>Hilda Mason Reports</unittitle>
+			<unitdate type="inclusive" normal="1987">1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">6</container>
+			<unittitle>"The National Guard as Political" and "In Kelly's Own Camp Misgivings about Pleas for Federal Help" Articles</unittitle>
+			<unitdate type="inclusive" normal="1993/1994">1993-1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">7</container>
+			<unittitle>Correspondence and Thank you letter</unittitle>
+			<unitdate type="inclusive" normal="1990">1990</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">8</container>
+			<unittitle>"While you were out memos" and Business Cards</unittitle>
+			<unitdate type="inclusive" normal="1994">1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">9</container>
+			<unittitle>DC League of Women Voters Education Fund</unittitle>
+			<unitdate type="inclusive" normal="1990">1990</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">10</container>
+			<unittitle>Letters</unittitle>
+			<unitdate type="inclusive" normal="1992/1994">1992-1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">11</container>
+			<unittitle>Explanation of Enclosed Materials for Hilda Mason's Review and Action</unittitle>
+			<unitdate type="inclusive" normal="1990">1990</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">12</container>
+			<unittitle>Award Dinner and Event Programs and Invitation 1 of 3</unittitle>
+			<unitdate type="inclusive" normal="1990/1994">1990-1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">13</container>
+			<unittitle>Award Dinner and Event Programs and Invitation 2 of 3</unittitle>
+			<unitdate type="inclusive" normal="1990/1994">1990-1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">14</container>
+			<unittitle>Award Dinner and Event Programs and Invitation 3 of 3</unittitle>
+			<unitdate type="inclusive" normal="1990/1994">1990-1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">1</container>
+			<unittitle>David Clarke Documents</unittitle>
+			<unitdate type="inclusive" normal="1993">1993</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">2</container>
+			<unittitle>Washington D.C Schools</unittitle>
+			<unitdate type="inclusive" normal="1994">1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">3</container>
+			<unittitle>Event Programs and Invitations</unittitle>
+			<unitdate type="inclusive" normal="1993/1994">1993-1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">4</container>
+			<unittitle>Event Programs and Thank you correspondence</unittitle>
+			<unitdate type="inclusive" normal="1992/1994">1992-1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">5</container>
+			<unittitle>Event Invitations/Programs/Thank you letters</unittitle>
+			<unitdate type="inclusive" normal="1993/1994">1993-1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">6</container>
+			<unittitle>Cash Management Team Establishment Act</unittitle>
+			<unitdate type="inclusive" normal="1994">1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">7</container>
+			<unittitle>Committee on Education and Libraries</unittitle>
+			<unitdate type="inclusive">9 December 1991</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">8</container>
+			<unittitle>Committee on Education and Libraries</unittitle>
+			<unitdate type="inclusive" normal="1991-12-02">2 December 1991</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">9</container>
+			<unittitle>Education and Libraries Regular Meeting</unittitle>
+			<unitdate type="inclusive" normal="1992-10-05">5 October 1992</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">10</container>
+			<unittitle>Event Invitations/Programs/Thank you Letter</unittitle>
+			<unitdate type="inclusive" normal="1992/1994">1992-1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">11</container>
+			<unittitle>Education and Libraries Board of Education Budget Hearing</unittitle>
+			<unitdate type="inclusive" normal="1993-02">8 February 1993</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">12</container>
+			<unittitle>Education and Libraries Board of Education Budget Hearing</unittitle>
+			<unitdate type="inclusive" normal="1993-02-08">8 February 1993</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">13</container>
+			<unittitle>Education and Libraries Budget Hearing 2/10/93 1 of 2</unittitle>
+			<unitdate type="inclusive" normal="1993">1993</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">14</container>
+			<unittitle>Education and Libraries Budget Hearing 2/10/93 2 of 2</unittitle>
+			<unitdate type="inclusive" normal="1993">1993</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">15</container>
+			<unittitle>Hispanic Voter List</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">16</container>
+			<unittitle>Primary/Election Matters</unittitle>
+			<unitdate type="inclusive" normal="1990/1992">1990-1992</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">1</container>
+			<unittitle>Committee Agendas</unittitle>
+			<unitdate type="inclusive" normal="1988">1988</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">2</container>
+			<unittitle>Statehood Convention initiatives/bills/memos/news releases</unittitle>
+			<unitdate type="inclusive" normal="1979/1986">1979-1986</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">3</container>
+			<unittitle>Home Rule/Voting Rights/Statehood Party Articles 1 of 2</unittitle>
+			<unitdate type="inclusive" normal="1993">1993</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">4</container>
+			<unittitle>Home Rule/Voting Rights/Statehood Party Articles 1 of 2</unittitle>
+			<unitdate type="inclusive" normal="1993">1993</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">5</container>
+			<unittitle>Statehood Bio Skethces/Convention Correspondence/Amendments</unittitle>
+			<unitdate type="inclusive" normal="1988/1995">1988-1995</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">6</container>
+			<unittitle>Council owners manual</unittitle>
+			<unitdate type="inclusive" normal="1989">1989</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">7</container>
+			<unittitle>Tax and Economic Statehood Articles</unittitle>
+			<unitdate type="inclusive" normal="1993">1993</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">8</container>
+			<unittitle>Statehood: '91 Statehood Matters/events</unittitle>
+			<unitdate type="inclusive" normal="1991">1991</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">9</container>
+			<unittitle>DC Statehood Press Packet Meeting</unittitle>
+			<unitdate type="inclusive" normal="1992-08-17">Aug. 17 1992</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">10</container>
+			<unittitle>The Statehood Papers</unittitle>
+			<unitdate type="inclusive" normal="1992">1992</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">11</container>
+			<unittitle>DC Statehood Party 1992 Convention Agenda</unittitle>
+			<unitdate type="inclusive" normal="1992">1992</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">12</container>
+			<unittitle>"The New Columbia Voice" and voter regisration info</unittitle>
+			<unitdate type="inclusive" normal="1990/1991">1990-1991</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">13</container>
+			<unittitle>D.C Statehood Flag Sticker Bag</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">14</container>
+			<unittitle>One-Month Daily Curriculum for D.C Statehood Campaign</unittitle>
+			<unitdate type="inclusive" normal="1991">1991</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">15</container>
+			<unittitle>D.C Statehood Jan. File</unittitle>
+			<unitdate type="inclusive" normal="1990-02-07">7 February 1990</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">16</container>
+			<unittitle>Statehood Bill Introduction Protest and Resolution</unittitle>
+			<unitdate type="inclusive" normal="1985">1985</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">17</container>
+			<unittitle>Statehood Economi issues/constitutional introduction/anti-statehood article</unittitle>
+			<unitdate type="inclusive" normal="1987">1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">18</container>
+			<unittitle>Central Committee Meeting</unittitle>
+			<unitdate type="inclusive" normal="1991-12-10">10 December 1991</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">19</container>
+			<unittitle>Long Island Statehood Research Questions</unittitle>
+			<unitdate type="inclusive" normal="1992">1992</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">20</container>
+			<unittitle>Statehood Party By-Laws and Referendum</unittitle>
+			<unitdate type="inclusive" normal="1980/1990">1980-1990</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">1</container>
+			<unittitle>On the Road to New Columbia Rob Charles 51</unittitle>
+			<unitdate type="inclusive" normal="1993">1993</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">2</container>
+			<unittitle>Budget Hearing Committee on Education &amp; Libraries C/M Mason</unittitle>
+			<unitdate type="inclusive" normal="1990-02-13">13 February 1990</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">3</container>
+			<unittitle>Budget Hearing Committee on Education &amp; Libraries C/M Mason</unittitle>
+			<unitdate type="inclusive" normal="1990-02-12">12 February 1990</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">4</container>
+			<unittitle>Councilmember Hilda Mason Swearing In</unittitle>
+			<unitdate type="inclusive" normal="1991">1991</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">5</container>
+			<unittitle>D.C School of Law "Graduation 1991" part 1</unittitle>
+			<unitdate type="inclusive" normal="1991">1991</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">6</container>
+			<unittitle>D.C School of Law "Graduation 1991" part 2</unittitle>
+			<unitdate type="inclusive" normal="1991">1991</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">7</container>
+			<unittitle>Budget Hearing Committee on Education and Libraries C/M Mason 1 of 2</unittitle>
+			<unitdate type="inclusive" normal="1990-02-12">12 February 1990</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">8</container>
+			<unittitle>31st Legislative Meeting</unittitle>
+			<unitdate type="inclusive" normal="1990-02-27">27 Feb 1990</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">9</container>
+			<unittitle>Get a New Attitude About Cancer 9/25/91 RT 5:10</unittitle>
+			<unitdate type="inclusive" normal="1991">1991</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">10</container>
+			<unittitle>Get a New Attitude About Cancer 9/25/91 RT 5:10</unittitle>
+			<unitdate type="inclusive" normal="1991">1991</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">11</container>
+			<unittitle>Get a New Attitude About Cancer 9/25/91 RT 5:10</unittitle>
+			<unitdate type="inclusive" normal="1991">1991</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">12</container>
+			<unittitle>Committee on Education &amp; Libraries Summit on the State of Education in D.C.</unittitle>
+			<unitdate type="inclusive" normal="1991-04-22">22 April 1991</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">13</container>
+			<unittitle>Town Meeting Statehood 2/12/82</unittitle>
+			<unitdate type="inclusive" normal="1982">1982</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">1</container>
+			<unittitle>51st State Committee Road</unittitle>
+			<unitdate type="inclusive" normal="1981">1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">2</container>
+			<unittitle>Comm. On Human Rights Brief</unittitle>
+			<unitdate type="inclusive" normal="1981">1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">3</container>
+			<unittitle>Statehood Federal Enclave - Definition (Nat'l Cap. Serv. Area)</unittitle>
+			<unitdate type="inclusive" normal="1974">1974</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">4</container>
+			<unittitle>Campaign '81 Flyers</unittitle>
+			<unitdate type="inclusive" normal="1981">1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">5</container>
+			<unittitle>Statehood (MW File) 1 of 2</unittitle>
+			<unitdate type="inclusive" normal="1982">1982</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">6</container>
+			<unittitle>Statehood (MW File) 2 of 2</unittitle>
+			<unitdate type="inclusive" normal="1982">1982</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">7</container>
+			<unittitle>Fundraising Lists and Proposals</unittitle>
+			<unitdate type="inclusive" normal="1981">1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">8</container>
+			<unittitle>Statehood Party Platform</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">9</container>
+			<unittitle>Statehood Petition Circulatior Lists</unittitle>
+			<unitdate type="inclusive" normal="1980">1980</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">10</container>
+			<unittitle>Statehood initiative - 1980 Statehood</unittitle>
+			<unitdate type="inclusive" normal="1980/1981">1980-1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">11</container>
+			<unittitle>Copies of Initiative</unittitle>
+			<unitdate type="inclusive" normal="1981">1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">12</container>
+			<unittitle>Statehood Flyers - General</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">13</container>
+			<unittitle>Statehood Amendment Copies for Distribution</unittitle>
+			<unitdate type="inclusive" normal="1982">1982</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">14</container>
+			<unittitle>Bill 4-4229</unittitle>
+			<unitdate type="inclusive" normal="1981">1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">15</container>
+			<unittitle>Statehood Emergency Resolution &amp; Bill</unittitle>
+			<unitdate type="inclusive" normal="1991">1991</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">16</container>
+			<unittitle>Emergency Legislation - Constitution Ballot</unittitle>
+			<unitdate type="inclusive" normal="1982">1982</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">17</container>
+			<unittitle>51st Statehood</unittitle>
+			<unitdate type="inclusive" normal="1981">1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">18</container>
+			<unittitle>N.A.C.C</unittitle>
+			<unitdate type="inclusive" normal="1981">1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">19</container>
+			<unittitle>"Washington Big Four" Article Wash. Post</unittitle>
+			<unitdate type="inclusive" normal="1982">1982</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">20</container>
+			<unittitle>DC Employees in Hilda Mason Campaign</unittitle>
+			<unitdate type="inclusive" normal="1977">1977</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">21</container>
+			<unittitle>Election '86 Results</unittitle>
+			<unitdate type="inclusive" normal="1986">1986</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">22</container>
+			<unittitle>Compact Commission</unittitle>
+			<unitdate type="inclusive" normal="1982">1982</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">23</container>
+			<unittitle>DC Statehood Compact Commission</unittitle>
+			<unitdate type="inclusive" normal="1988">1988</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">24</container>
+			<unittitle>DC Statehood Compact/Commission Material 1 of 2</unittitle>
+			<unitdate type="inclusive" normal="1986/1989">1986-1989</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">25</container>
+			<unittitle>DC Statehood Compact/Commission Material 2 of 2</unittitle>
+			<unitdate type="inclusive" normal="1986/1989">1986-1989</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">26</container>
+			<unittitle>DC Statehood Summit Task Force and Elections Committee</unittitle>
+			<unitdate type="inclusive" normal="1994">1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">27</container>
+			<unittitle>Report of the D.C Council Home Rule Transition Commission</unittitle>
+			<unitdate type="inclusive" normal="1974">1974</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">28</container>
+			<unittitle>Report of the D.C Council Home Rule Transition Commission</unittitle>
+			<unitdate type="inclusive" normal="1974">1974</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">1</container>
+			<unittitle>Statehood Letters to Voters</unittitle>
+			<unitdate type="inclusive" normal="1980">1980</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">2</container>
+			<unittitle>Post Initiative #3 Actions</unittitle>
+			<unitdate type="inclusive" normal="1981">1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">3</container>
+			<unittitle>Statehood - Newspaper Articles</unittitle>
+			<unitdate type="inclusive" normal="1976/1977">1976-1977</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">4</container>
+			<unittitle>Reference Materials - Articles etc.</unittitle>
+			<unitdate type="inclusive" normal="1979/1981">1979-1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">5</container>
+			<unittitle>Statehood History 1 of 2</unittitle>
+			<unitdate type="inclusive" normal="1976/1980">1976-1980</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">6</container>
+			<unittitle>Statehood History 2 of 2</unittitle>
+			<unitdate type="inclusive" normal="1976/1980">1976-1980</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">7</container>
+			<unittitle>2nd Version Complete</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">8</container>
+			<unittitle>Statehood Information 1 of 2</unittitle>
+			<unitdate type="inclusive" normal="1981/1982">1981-1982</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">9</container>
+			<unittitle>Statehood Information 2 of 2</unittitle>
+			<unitdate type="inclusive" normal="1981/1982">1981-1982</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">10</container>
+			<unittitle>Statehood - Speeches/Statements Re</unittitle>
+			<unitdate type="inclusive" normal="1978/1981">1978-1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">11</container>
+			<unittitle>Statehood Article by Hilda Mason for Board of Trade News</unittitle>
+			<unitdate type="inclusive" normal="1981">1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">12</container>
+			<unittitle>Initiative: #3 Statehood 1 of 3</unittitle>
+			<unitdate type="inclusive" normal="1981">1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">13</container>
+			<unittitle>Initiative: #3 Statehood 2 of 3</unittitle>
+			<unitdate type="inclusive" normal="1981">1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">14</container>
+			<unittitle>Initiative: #3 Statehood 2 of 3</unittitle>
+			<unitdate type="inclusive" normal="1981">1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">15</container>
+			<unittitle>Statehood Press Release + Press Accounts</unittitle>
+			<unitdate type="inclusive" normal="1976/1982">1976-1982</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">16</container>
+			<unittitle>Legislative Aide Applicant Resumes</unittitle>
+			<unitdate type="inclusive" normal="1980">1980</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">17</container>
+			<unittitle>Statehood - Petitions Statehood Act</unittitle>
+			<unitdate type="inclusive" normal="1977">1977</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">18</container>
+			<unittitle>Statehood Bill - 1776</unittitle>
+			<unitdate type="inclusive" normal="1975/1977">1975-1977</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">19</container>
+			<unittitle>Enelopes with Notes</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">20</container>
+			<unittitle>Letter Written to the Washington Post</unittitle>
+			<unitdate type="inclusive" normal="1979">1979</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">21</container>
+			<unittitle>New Columbia</unittitle>
+			<unitdate type="inclusive" normal="1984">1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">22</container>
+			<unittitle>League of Women Voters</unittitle>
+			<unitdate type="inclusive" normal="1979/1981">1979-1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">23</container>
+			<unittitle>Statehood P.R. Statehood Newspaper Articles</unittitle>
+			<unitdate type="inclusive" normal="1985">1985</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">24</container>
+			<unittitle>General File - Mailing Lists</unittitle>
+			<unitdate type="inclusive" normal="1980">1980</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">1</container>
+			<unittitle>Statehood Bill 1 of 2</unittitle>
+			<unitdate type="inclusive" normal="1985">1985</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">2</container>
+			<unittitle>Statehood Bill 2 of 2</unittitle>
+			<unitdate type="inclusive" normal="1985">1985</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">3</container>
+			<unittitle>DC Public Schools Average Class Size Data</unittitle>
+			<unitdate type="inclusive" normal="1995">1995</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">4</container>
+			<unittitle>Statehood Solidarity Committee</unittitle>
+			<unitdate type="inclusive" normal="1993">1993</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">5</container>
+			<unittitle>Statehood Economics Seem financially sound</unittitle>
+			<unitdate type="inclusive" normal="1986">1986</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">6</container>
+			<unittitle>Leadership Conference on Civil Rights Material 1 of 2</unittitle>
+			<unitdate type="inclusive" normal="1992">1992</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">7</container>
+			<unittitle>Leadership Conference on Civil Rights Material 2 of 2</unittitle>
+			<unitdate type="inclusive" normal="1992">1992</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">8</container>
+			<unittitle>June 6 1989- Statehood/Compact Commission</unittitle>
+			<unitdate type="inclusive" normal="1989">1989</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">9</container>
+			<unittitle>Statehood Correspondence</unittitle>
+			<unitdate type="inclusive" normal="1988/1994">1988-1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">10</container>
+			<unittitle>U.S House Testimony on H.R.51 by PATSYT Mink</unittitle>
+			<unitdate type="inclusive" normal="1987-03-17">17 March 1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">11</container>
+			<unittitle>Home Rule Study and Voting Rights Act Info</unittitle>
+			<unitdate type="inclusive" normal="1950/1990">1950-1990</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">12</container>
+			<unittitle>Statehood Model City Council Records</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">13</container>
+			<unittitle>Bill 7-154 Constitution for the State of New Columbia Approval Act</unittitle>
+			<unitdate type="inclusive" normal="1987">1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">14</container>
+			<unittitle>H.R 51 New Columbia Admission</unittitle>
+			<unitdate type="inclusive" normal="1987">1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">15</container>
+			<unittitle>Articles: The Future of District of Columbia Home Rule</unittitle>
+			<unitdate type="inclusive" normal="1990">1990</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">16</container>
+			<unittitle>Catholic Unversity Law Review</unittitle>
+			<unitdate type="inclusive" normal="1990">1990</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">17</container>
+			<unittitle>New Columbia Approval Act</unittitle>
+			<unitdate type="inclusive" normal="1987">1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">18</container>
+			<unittitle>Hearing Notice: Statehood for the District of Columbia</unittitle>
+			<unitdate type="inclusive" normal="1984">1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">19</container>
+			<unittitle>Committee on DC House of Representatives Ninety- Eighth Congress</unittitle>
+			<unitdate type="inclusive" normal="1982">1982</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">20</container>
+			<unittitle>Constiitution of the State of New Columbia - Address List and Statehood Article</unittitle>
+			<unitdate type="inclusive" normal="1982">1982</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">21</container>
+			<unittitle>Chronology of Events in Pursuit of Full Self government for Washington D.C</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">22</container>
+			<unittitle>D.C Supreme Court Legislation</unittitle>
+			<unitdate type="inclusive" normal="1988">1988</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">23</container>
+			<unittitle>Constitution of the State of New Columbia</unittitle>
+			<unitdate type="inclusive" normal="1982">1982</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">1</container>
+			<unittitle>Civil Rights Articles and Statehood Activism</unittitle>
+			<unitdate type="inclusive" normal="1993">1993</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">2</container>
+			<unittitle>Statehood Correspondence/agendas/civil rights documents/action plan</unittitle>
+			<unitdate type="inclusive" normal="1992/1995">1992-1995</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">3</container>
+			<unittitle>Statehood Summit: New Columbia 51</unittitle>
+			<unitdate type="inclusive" normal="1993">1993</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">4</container>
+			<unittitle>Citywide statehood plan of action</unittitle>
+			<unitdate type="inclusive" normal="1992/1993">1992-1993</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">5</container>
+			<unittitle>Statehood Mission Team and Steering Committee</unittitle>
+			<unitdate type="inclusive" normal="1987/1993">1987-1993</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">6</container>
+			<unittitle>DC Statehood Party 1992 Convention- Agenda</unittitle>
+			<unitdate type="inclusive" normal="1992">1992</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">7</container>
+			<unittitle>Testimony to C.O.W Election plan/policy articles/statements</unittitle>
+			<unitdate type="inclusive" normal="1991/1992">1991-1992</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">8</container>
+			<unittitle>DC Council Journal - Excerpts from Elections and Ethics Minutes etc.</unittitle>
+			<unitdate type="inclusive" normal="1981">1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">9</container>
+			<unittitle>Calenders</unittitle>
+			<unitdate type="inclusive" normal="1993">1993</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">10</container>
+			<unittitle>Bicennial Celebration of US States Constitution Article and History of 1987</unittitle>
+			<unitdate type="inclusive" normal="1987">1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">11</container>
+			<unittitle>One month daily curriculum for statehood campaign and articles</unittitle>
+			<unitdate type="inclusive" normal="1991">1991</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">12</container>
+			<unittitle>April is Tax Day Protest and Articles</unittitle>
+			<unitdate type="inclusive" normal="1991/1993">1991-1993</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">13</container>
+			<unittitle>Statehood Calypso Lyrics</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">14</container>
+			<unittitle>Gathering ideas for the statehood party conference</unittitle>
+			<unitdate type="inclusive" normal="1993">1993</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">15</container>
+			<unittitle>The New York Times: "Feel the Government's Plantation"</unittitle>
+			<unitdate type="inclusive" normal="1991">1991</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">16</container>
+			<unittitle>Democrats name list and articles about partisan support</unittitle>
+			<unitdate type="inclusive" normal="1993">1993</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">17</container>
+			<unittitle>1993 Statehood Correspondence</unittitle>
+			<unitdate type="inclusive" normal="1993">1993</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">18</container>
+			<unittitle>No justice, no peace, New Columbia Times</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">19</container>
+			<unittitle>Statehood Correspondence</unittitle>
+			<unitdate type="inclusive" normal="1987/1993">1987-1993</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">20</container>
+			<unittitle>Statehood Presentation</unittitle>
+			<unitdate type="inclusive" normal="1991-04-24">24 April 1991</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">21</container>
+			<unittitle>Economic Reports</unittitle>
+			<unitdate type="inclusive" normal="1987/1992">1987-1992</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">22</container>
+			<unittitle>DC Statehood Party Condems Paris; Demands Democracy Here at Home</unittitle>
+			<unitdate type="inclusive" normal="1987">1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">23</container>
+			<unittitle>Subcommittee Hearing</unittitle>
+			<unitdate type="inclusive" normal="1987-04-01">1 April 1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">24</container>
+			<unittitle>Domniation, Democracy, and the District: The Statehood Position</unittitle>
+			<unitdate type="inclusive" normal="1990">1990</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">25</container>
+			<unittitle>H.R 51</unittitle>
+			<unitdate type="inclusive" normal="1987">1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">26</container>
+			<unittitle>Statehood Lobbying info - House of Reps info etc</unittitle>
+			<unitdate type="inclusive" normal="1993">1993</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">1</container>
+			<unittitle>Statehood Party Memos/letters/correspondence/advertisements</unittitle>
+			<unitdate type="inclusive" normal="1983/1995">1983-1995</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">2</container>
+			<unittitle>Statement of Jeffrey Standen before the Subcomm on Jud and Ed.</unittitle>
+			<unitdate type="inclusive" normal="1992">1992</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">3</container>
+			<unittitle>Statehood Flag and sticker</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">4</container>
+			<unittitle>Rebuttal to Washington Post Editorial " Tax Dollars to Push Statehood?" in Friday's editorial section</unittitle>
+			<unitdate type="inclusive" normal="1993">1993</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">5</container>
+			<unittitle>Chronology of events in the pursuit of full self government for Washington D.C</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">6</container>
+			<unittitle>Statement of Matthew S. Waston on Behalf of the D.C Statehood Commission</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">7</container>
+			<unittitle>Financial research assoc. - notes testimony and Compact Commission Correspondence</unittitle>
+			<unitdate type="inclusive" normal="1986">1986</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">8</container>
+			<unittitle>Hearing on Economic issues raised by statehood for D.C</unittitle>
+			<unitdate type="inclusive" normal="1986">1986</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">9</container>
+			<unittitle>Oversight hearing on revised version of the constitution of the State of New Columbia</unittitle>
+			<unitdate type="inclusive" normal="1987">1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">10</container>
+			<unittitle>Statehood Coalition time strategy for Spring/Summer '87 Statehood Activities</unittitle>
+			<unitdate type="inclusive" normal="1987">1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">11</container>
+			<unittitle>Report on the Statehood Mission Team Meeting</unittitle>
+			<unitdate type="inclusive" normal="1987">1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">12</container>
+			<unittitle>Statehood Party Testimony</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">13</container>
+			<unittitle>Fauntroy Reports and Correspondence</unittitle>
+			<unitdate type="inclusive" normal="1987">1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">14</container>
+			<unittitle>Opening Statement of Ronald V. Deullums Chairman - Committee on D.C Mark-up of H.R</unittitle>
+			<unitdate type="inclusive" normal="1987-04-30">30 April 1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">15</container>
+			<unittitle>DC Voting Rights Amendment Correspondence</unittitle>
+			<unitdate type="inclusive" normal="1983">1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">16</container>
+			<unittitle>Statehood party member correspondennce</unittitle>
+			<unitdate type="inclusive" normal="1987">1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">17</container>
+			<unittitle>League of Women Voters letter about statehood initiative</unittitle>
+			<unitdate type="inclusive" normal="1979">1979</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">18</container>
+			<unittitle>"If You Favor Freedom" Briefing Booklet</unittitle>
+			<unitdate type="inclusive" normal="1986">1986</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">19</container>
+			<unittitle>Statehood Bill and Newspaper Articles</unittitle>
+			<unitdate type="inclusive" normal="1982/1984">1982-1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">20</container>
+			<unittitle>Statement by Hilda Mason before Jud. And Ed. Subcommittee</unittitle>
+			<unitdate type="inclusive" normal="1991-11-16">16 November 1991</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">21</container>
+			<unittitle>Ward Meeting to Organize and Train Lobbying Teams for H.R. 4718</unittitle>
+			<unitdate type="inclusive" normal="1992">1992</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">22</container>
+			<unittitle>Statehood for D.C: A Workplan for Accomplishing the Transition Correspondence</unittitle>
+			<unitdate type="inclusive" normal="1990">1990</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">23</container>
+			<unittitle>"Taking Care of Business" Captive Capital: Colonial Life in Modern Washington</unittitle>
+			<unitdate type="inclusive" normal="1974">1974</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">24</container>
+			<unittitle>Facts You May Not Know about D.C Statehood</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">25</container>
+			<unittitle>Outuline Materials/Preparation/Activities of the D.C Statehood/Compact Commission '88 Democratic Party National Convention</unittitle>
+			<unitdate type="inclusive" normal="1992">1992</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">26</container>
+			<unittitle>Canadian Public Broadcasting Service</unittitle>
+			<unitdate type="inclusive" normal="1991">1991</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">27</container>
+			<unittitle>Summary of Admission to the Union, analysis of the statehood bill, and issues related to statehood</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">28</container>
+			<unittitle>Opening Statement of Congresswoman Eleanor Holmes Norton Hearing on H.R 2482</unittitle>
+			<unitdate type="inclusive" normal="1992">1992</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">29</container>
+			<unittitle>D.C Plantation: Freedom Soon" New York Times Articles</unittitle>
+			<unitdate type="inclusive" normal="1991">1991</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">30</container>
+			<unittitle>Congress and Home rule in the Nation's Capital: District of Columbia Appropriations</unittitle>
+			<unitdate type="inclusive" normal="1990">1990</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">31</container>
+			<unittitle>Statement of Matthew S. Watson before Subcomm. On Jud. And Ed.</unittitle>
+			<unitdate type="inclusive" normal="1992">1992</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">32</container>
+			<unittitle>How Will Statehood Affect the Federal Payment that has been regularly made to the District of Columbia</unittitle>
+			<unitdate type="inclusive" normal="1987">1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">33</container>
+			<unittitle>One Month Daily Curriculum on D.C Statehood</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">34</container>
+			<unittitle>The District of Columbia Voting Rights Amendment</unittitle>
+			<unitdate type="inclusive" normal="1983">1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">35</container>
+			<unittitle>State Status Report - December 1983 D.C Voting Rights Amendment</unittitle>
+			<unitdate type="inclusive" normal="1983">1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">36</container>
+			<unittitle>Press Release on Training workshop for D.C Public School Teachers</unittitle>
+			<unitdate type="inclusive" normal="1987">1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">37</container>
+			<unittitle>DC Statehood Party Resolution</unittitle>
+			<unitdate type="inclusive" normal="1987">1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">38</container>
+			<unittitle>Statehood Economics: Facts and Figures</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">39</container>
+			<unittitle>Washington Urban League Inc Support</unittitle>
+			<unitdate type="inclusive" normal="1987">1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">40</container>
+			<unittitle>Statehood Newspaper Articles</unittitle>
+			<unitdate type="inclusive" normal="1987">1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">41</container>
+			<unittitle>The Island Agenda</unittitle>
+			<unitdate type="inclusive" normal="1993">1993</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">42</container>
+			<unittitle>History of Congress</unittitle>
+			<unitdate type="inclusive" normal="1806">1806</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">43</container>
+			<unittitle>The Politics of Staehood in Puerto Rico</unittitle>
+			<unitdate type="inclusive" normal="1990">1990</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">44</container>
+			<unittitle>Steering Committee on Statehood for DC</unittitle>
+			<unitdate type="inclusive" normal="1993">1993</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">45</container>
+			<unittitle>Correspondence on Fauntroy's Civil Rights Act</unittitle>
+			<unitdate type="inclusive" normal="1994">1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">46</container>
+			<unittitle>DC Statehood Senator Jesse Jackson's Report to D.C</unittitle>
+			<unitdate type="inclusive" normal="1993">1993</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">47</container>
+			<unittitle>Common Cause</unittitle>
+			<unitdate type="inclusive" normal="1993">1993</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">48</container>
+			<unittitle>Remarks of Senator Edward M. Kennedy intro of Senate Legislation to Make DC 51st State</unittitle>
+			<unitdate type="inclusive" normal="1993">1993</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">1</container>
+			<unittitle>Voting Representation</unittitle>
+			<unitdate type="inclusive" normal="1984">1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">2</container>
+			<unittitle>New Columbia</unittitle>
+			<unitdate type="inclusive" normal="1984/1985">1984-1985</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">3</container>
+			<unittitle>The District of Columbia Statehood Act</unittitle>
+			<unitdate type="inclusive" normal="1977">1977</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">4</container>
+			<unittitle>Self Determination for D.C Voting</unittitle>
+			<unitdate type="inclusive" normal="1984">1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">5</container>
+			<unittitle>Alaska Statehood</unittitle>
+			<unitdate type="inclusive" normal="1981">1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">6</container>
+			<unittitle>Questions about Statehood and Constitution</unittitle>
+			<unitdate type="inclusive" normal="1983">1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">7</container>
+			<unittitle>Statehood: D.C Statehood Newspaper Articles</unittitle>
+			<unitdate type="inclusive" normal="1980/1981">1980-1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">8</container>
+			<unittitle>Constitution: Passage</unittitle>
+			<unitdate type="inclusive" normal="1984">1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">9</container>
+			<unittitle>Articles of Incorporation</unittitle>
+			<unitdate type="inclusive" normal="1981">1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">10</container>
+			<unittitle>Campaign Finance - Conflict of Interest Investigation</unittitle>
+			<unitdate type="inclusive" normal="1981">1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">11</container>
+			<unittitle>Leadership Candidacy</unittitle>
+			<unitdate type="inclusive" normal="1981">1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">12</container>
+			<unittitle>Constitutional Convention</unittitle>
+			<unitdate type="inclusive" normal="1981">1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">13</container>
+			<unittitle>Initiative 3 Statehood article</unittitle>
+			<unitdate type="inclusive" normal="1982">1982</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">14</container>
+			<unittitle>Statehood Correspondence</unittitle>
+			<unitdate type="inclusive" normal="1981">1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">15</container>
+			<unittitle>Bill 4-450 "Statehood Convention Procedural Amendments Act of 1982</unittitle>
+			<unitdate type="inclusive" normal="1982">1982</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">16</container>
+			<unittitle>Bill 4-450 "Statehood Procedural Amendments</unittitle>
+			<unitdate type="inclusive" normal="1982-05-13">13 May 1982</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">17</container>
+			<unittitle>"Take Care of Business" Chapter</unittitle>
+			<unitdate type="inclusive" normal="1974">1974</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">18</container>
+			<unittitle>"Statehood for the District of Columbia"</unittitle>
+			<unitdate type="inclusive" normal="1974">1974</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">19</container>
+			<unittitle>DC Statehood Party Resolution on Military Spending and National Budget Priorities</unittitle>
+			<unitdate type="inclusive" normal="1984">1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">20</container>
+			<unittitle>"51st State New Columbia" DC Statehood Day</unittitle>
+			<unitdate type="inclusive" normal="1985-01-24">24 Jan 1985</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">21</container>
+			<unittitle>Statehood Revenues and Expenditures</unittitle>
+			<unitdate type="inclusive" normal="1985">1985</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">22</container>
+			<unittitle>Senate Bill S. 293</unittitle>
+			<unitdate type="inclusive" normal="1985">1985</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">23</container>
+			<unittitle>New Columbia 51st State: Statehood Reception June 28 1984</unittitle>
+			<unitdate type="inclusive" normal="1984-06-28">28 June 1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">24</container>
+			<unittitle>D.C Statehood Support Committee and Petitions</unittitle>
+			<unitdate type="inclusive" normal="1984">1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">25</container>
+			<unittitle>Constitution and Statehood Legislation</unittitle>
+			<unitdate type="inclusive" normal="1958/1985">1958-1985</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">26</container>
+			<unittitle>Edward M. Kennedy Press Release for Legislation</unittitle>
+			<unitdate type="inclusive" normal="1984">1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">27</container>
+			<unittitle>Statehood Articles</unittitle>
+			<unitdate type="inclusive" normal="1984">1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">28</container>
+			<unittitle>Statehood Reference Materials 1 of 2</unittitle>
+			<unitdate type="inclusive" normal="1982/1985">1982-1985</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">29</container>
+			<unittitle>Statehood Reference Materials 2 of 2</unittitle>
+			<unitdate type="inclusive" normal="1982/1985">1982-1985</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">30</container>
+			<unittitle>Statehood Hatch Act Restrictions CSC Explanation</unittitle>
+			<unitdate type="inclusive" normal="1974">1974</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">31</container>
+			<unittitle>Misc Correspondence</unittitle>
+			<unitdate type="inclusive" normal="1981">1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">32</container>
+			<unittitle>Qualifications of Candidates for Delegates for Statehood Constitutional Convention</unittitle>
+			<unitdate type="inclusive" normal="1981">1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">33</container>
+			<unittitle>General Elections</unittitle>
+			<unitdate type="inclusive" normal="1981-11-03">3 November 1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">34</container>
+			<unittitle>DC Women's Political Caucus Endorsement Policy and Caucus Info</unittitle>
+			<unitdate type="inclusive" normal="1981">1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">35</container>
+			<unittitle>Model State Constitution</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">36</container>
+			<unittitle>Mason New Release</unittitle>
+			<unitdate type="inclusive" normal="1981-08-06">6 August 1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">37</container>
+			<unittitle>Home Rule Study Memo</unittitle>
+			<unitdate type="inclusive" normal="1990-03-05">5 March 1990</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">38</container>
+			<unittitle>"Greater Washington Area Population" Washington Post</unittitle>
+			<unitdate type="inclusive" normal="1985">1985</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">39</container>
+			<unittitle>Report on Bill 7-154</unittitle>
+			<unitdate type="inclusive" normal="1987">1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">40</container>
+			<unittitle>Amendment to H.R 51 re: Condition: voters delete sec. 1110 committeee Mark-up</unittitle>
+			<unitdate type="inclusive" normal="1987-06-02">2 June 1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">41</container>
+			<unittitle>An Amendment to the Committee Print Offered by Mr. Combest of Texas</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">42</container>
+			<unittitle>Fiscal Prospects of the State of New Columbia</unittitle>
+			<unitdate type="inclusive" normal="1986">1986</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">43</container>
+			<unittitle>Fauntroy Responses and Remarks</unittitle>
+			<unitdate type="inclusive" normal="1987">1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">44</container>
+			<unittitle>D.C Statehood Convention Delegates Addresses</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">45</container>
+			<unittitle>Committee Print: H.R 51 Subcommittee on Fiscal Affairs and Health</unittitle>
+			<unitdate type="inclusive" normal="1987">1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">46</container>
+			<unittitle>Statehood Mark-up</unittitle>
+			<unitdate type="inclusive" normal="1987-05-19">19 May 1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">47</container>
+			<unittitle>Substitute to the Committee Print of Bill 8-488 Representatives and Senators terms of Office Compensation and Procurement Amendment Act</unittitle>
+			<unitdate type="inclusive" normal="1990">1990</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">48</container>
+			<unittitle>Constitution of the State of New Columbia</unittitle>
+			<unitdate type="inclusive" normal="1982-05-29">29 May 1982</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">49</container>
+			<unittitle>Constitution for the State of New Columbia Approval Act</unittitle>
+			<unitdate type="inclusive" normal="1987">1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">50</container>
+			<unittitle>H.R 1629 and H.R 51</unittitle>
+			<unitdate type="inclusive" normal="1987">1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">51</container>
+			<unittitle>1984 Statehood Memos</unittitle>
+			<unitdate type="inclusive" normal="1984">1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">52</container>
+			<unittitle>1990 Memos and Reports</unittitle>
+			<unitdate type="inclusive" normal="1990">1990</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">1</container>
+			<unittitle>Mount Zion United Methodist Church</unittitle>
+			<unitdate type="inclusive" normal="1981">1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">2</container>
+			<unittitle>Sumner School</unittitle>
+			<unitdate type="inclusive" normal="1986">1986</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">3</container>
+			<unittitle>Statehood Clippings 1987 1 of 2</unittitle>
+			<unitdate type="inclusive" normal="1987">1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">4</container>
+			<unittitle>Statehood Clippings 1987 2 of 2</unittitle>
+			<unitdate type="inclusive" normal="1987">1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">5</container>
+			<unittitle>Statehood Clippings</unittitle>
+			<unitdate type="inclusive" normal="1989">1989</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">6</container>
+			<unittitle>Statehood Clippings 1988 1 of 2</unittitle>
+			<unitdate type="inclusive" normal="1988">1988</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">7</container>
+			<unittitle>Statehood Clippings 1988 2 of 2</unittitle>
+			<unitdate type="inclusive" normal="1988">1988</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">8</container>
+			<unittitle>Julius Hobson Info 1 of 3</unittitle>
+			<unitdate type="inclusive" normal="1977">1977</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">9</container>
+			<unittitle>Julius Hobson Info 2 of 3</unittitle>
+			<unitdate type="inclusive" normal="1977">1977</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">10</container>
+			<unittitle>Julius Hobson Info 3 of 3</unittitle>
+			<unitdate type="inclusive" normal="1977">1977</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">11</container>
+			<unittitle>Dennis Sobin for D.C City Council</unittitle>
+			<unitdate type="inclusive" normal="1988">1988</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">12</container>
+			<unittitle>"A Legislator with Statehood on His Mind "NY Times</unittitle>
+			<unitdate type="inclusive" normal="1986">1986</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">13</container>
+			<unittitle>Faith For U.S Representatives</unittitle>
+			<unitdate type="inclusive" normal="1992">1992</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">14</container>
+			<unittitle>Mt. Zion Cemetery</unittitle>
+			<unitdate type="inclusive" normal="1981">1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">1</container>
+			<unittitle>Briefing Book from H.R 51</unittitle>
+			<unitdate type="inclusive" normal="1983">1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">2</container>
+			<unittitle>Democarcy, Federalism and the Governance of the Nation's Captial</unittitle>
+			<unitdate type="inclusive" normal="1976">1976</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">3</container>
+			<unittitle>Testimony from March 5 1993 Budget Hearing</unittitle>
+			<unitdate type="inclusive" normal="1993">1993</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">4</container>
+			<unittitle>Constitution of the State of New Columbia</unittitle>
+			<unitdate type="inclusive" normal="1982-05-29">29 May 1982</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">5</container>
+			<unittitle>"Fiscal Propects for the State of New Columbia" Report by Brimmer &amp; Company Inc.</unittitle>
+			<unitdate type="inclusive" normal="1986">1986</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">6</container>
+			<unittitle>Home Rule Act as Amended</unittitle>
+			<unitdate type="inclusive" normal="1973">1973</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">7</container>
+			<unittitle>Hearing and Markup Before House of Representations</unittitle>
+			<unitdate type="inclusive" normal="1981">1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">8</container>
+			<unittitle>H.R 3861</unittitle>
+			<unitdate type="inclusive" normal="1983">1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">9</container>
+			<unittitle>" A Decade of Home Rule: The Challenge Continues"</unittitle>
+			<unitdate type="inclusive" normal="1985">1985</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">10</container>
+			<unittitle>New House Rule Notes (typed)</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">11</container>
+			<unittitle>State of the District Address '85</unittitle>
+			<unitdate type="inclusive" normal="1985">1985</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">12</container>
+			<unittitle>Committee on Self- Determination Budget Hearing</unittitle>
+			<unitdate type="inclusive" normal="1994-02-22">22 February 1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">13</container>
+			<unittitle>Committee on Self-Determination Budget Mark-up</unittitle>
+			<unitdate type="inclusive" normal="1994-03-11">11 March 1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">14</container>
+			<unittitle>Committee on Self-Determination Budget Mark-up</unittitle>
+			<unitdate type="inclusive" normal="1993-04-28">28 April 1993</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">15</container>
+			<unittitle>Committee on Self-Determination</unittitle>
+			<unitdate type="inclusive" normal="1994-04-18">18 April 1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">16</container>
+			<unittitle>Committee on Self-Determination</unittitle>
+			<unitdate type="inclusive" normal="1993-04-28">28 April 1993</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">17</container>
+			<unittitle>Committee on Self-Determination Public Hearing</unittitle>
+			<unitdate type="inclusive" normal="1993-04-28">28 April 1993</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">18</container>
+			<unittitle>Statehood Const. Conv Budg. '85 Req</unittitle>
+			<unitdate type="inclusive" normal="1985">1985</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">19</container>
+			<unittitle>Committee on Self-Determination Committee Meeting</unittitle>
+			<unitdate type="inclusive" normal="1993-02-04">4 February 1993</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">20</container>
+			<unittitle>Committee on Self-Determination Budget Hearing</unittitle>
+			<unitdate type="inclusive" normal="1993-03-05">5 March 1993</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">21</container>
+			<unittitle>Committee on Self-Determination Budget Mark-up</unittitle>
+			<unitdate type="inclusive" normal="1993-03-12">12 March 1993</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">22</container>
+			<unittitle>Committee on Self-Determination</unittitle>
+			<unitdate type="inclusive" normal="1993-03-05">5 March 1993</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">23</container>
+			<unittitle>Committee on Self-Determination Budget Mark-up</unittitle>
+			<unitdate type="inclusive" normal="1993-03-12">12 March 1993</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">24</container>
+			<unittitle>Committee on Self Determination</unittitle>
+			<unitdate type="inclusive" normal="1992-11-05">5 November 1992</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">25</container>
+			<unittitle>Committee on Self-Determination</unittitle>
+			<unitdate type="inclusive" normal="1992-06-04">4 June 1992</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">26</container>
+			<unittitle>Committee on Self-Determination</unittitle>
+			<unitdate type="inclusive" normal="1992-02-06">6 February 1992</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">27</container>
+			<unittitle>Committee on Regional Authority Regular Committee Meeting</unittitle>
+			<unitdate type="inclusive" normal="1992">1992</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">28</container>
+			<unittitle>Committee on Self-Determination</unittitle>
+			<unitdate type="inclusive" normal="1993-02-01">February 1993</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">29</container>
+			<unittitle>Committee on Judiciary and Education Mark-up Meeting</unittitle>
+			<unitdate type="inclusive" normal="1993-08-05">5 August 1993</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">30</container>
+			<unittitle>Mark-up H.R 51- D.C Statehood Bill</unittitle>
+			<unitdate type="inclusive" normal="1993-08-05">5 August 1993</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">31</container>
+			<unittitle>Statehood Commission Amendment Act of 1994</unittitle>
+			<unitdate type="inclusive" normal="1994">1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">32</container>
+			<unittitle>Bill 7-154 Constitution for the State of New Columbia Approval Act</unittitle>
+			<unitdate type="inclusive" normal="1987">1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">33</container>
+			<unittitle>Building Safer Communities with our Youth: Preventing Crime and Drug Abuse</unittitle>
+			<unitdate type="inclusive" normal="1993">1993</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">17</container>
+			<container type="Folder">1</container>
+			<unittitle>H.R 3861</unittitle>
+			<unitdate type="inclusive" normal="1983">1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">17</container>
+			<container type="Folder">2</container>
+			<unittitle>Constitutional Convention Minute Request</unittitle>
+			<unitdate type="inclusive" normal="1984">1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">17</container>
+			<container type="Folder">3</container>
+			<unittitle>Copies of Correspondence and Newspaper articles</unittitle>
+			<unitdate type="inclusive" normal="1984">1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">17</container>
+			<container type="Folder">4</container>
+			<unittitle>Correspondence to Supporters of self determination</unittitle>
+			<unitdate type="inclusive" normal="1979">1979</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">17</container>
+			<container type="Folder">5</container>
+			<unittitle>Council of the District of Columbia Notice D.C Law 3-171</unittitle>
+			<unitdate type="inclusive" normal="1981">1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">17</container>
+			<container type="Folder">6</container>
+			<unittitle>Statehood Constitutional Convention Initiative of 1979 Bill</unittitle>
+			<unitdate type="inclusive" normal="1990">1990</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">17</container>
+			<container type="Folder">7</container>
+			<unittitle>The Plan for Judicial System autonomy for the District of Columbia</unittitle>
+			<unitdate type="inclusive" normal="1979">1979</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">17</container>
+			<container type="Folder">8</container>
+			<unittitle>Statehood 1 of 4</unittitle>
+			<unitdate type="inclusive" normal="1987">1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">17</container>
+			<container type="Folder">9</container>
+			<unittitle>Statehood 2 of 4</unittitle>
+			<unitdate type="inclusive" normal="1987">1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">18</container>
+			<container type="Folder">1</container>
+			<unittitle>Statehood 3 of 4</unittitle>
+			<unitdate type="inclusive" normal="1987">1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">18</container>
+			<container type="Folder">2</container>
+			<unittitle>Statehood 4 of 4</unittitle>
+			<unitdate type="inclusive" normal="1987">1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">18</container>
+			<container type="Folder">3</container>
+			<unittitle>Statehood Constitutional Convention and After 1 of 2</unittitle>
+			<unitdate type="inclusive" normal="1982/1985">1982-1985</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">19</container>
+			<container type="Folder">1</container>
+			<unittitle>Statehood Constitutional Convention and After 2 of 2</unittitle>
+			<unitdate type="inclusive" normal="1982/1985">1982-1985</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">19</container>
+			<container type="Folder">2</container>
+			<unittitle>The Briefing Book for H.R 51 The D.C Statehood Bill</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">20</container>
+			<container type="Folder">1</container>
+			<unittitle>Statehood Party ACCC 99-30</unittitle>
+			<unitdate type="inclusive" normal="1971/1994">1971-1994</unitdate>
+		</did>
+	</c02>
+</c01>
+</dsc>
+</archdesc>
+</ead>

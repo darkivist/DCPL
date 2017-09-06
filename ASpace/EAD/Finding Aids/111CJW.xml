@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type="text/xml" href="I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/eadcbs6rev.xsl"?><!DOCTYPE ead PUBLIC "-//Society of American Archivists//DTD ead.dtd (Encoded Archival Description (EAD) Version 1.0)//EN" "I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/ead.dtd">
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" repositoryencoding="iso15511" relatedencoding="MARC21">
+	<eadid mainagencycode="DWP" countrycode="US" url="http://washingtoniana.dclibrary.org">111CJW</eadid>
+<filedesc>
+<titlestmt>
+	<titleproper encodinganalog="245$a">Council of Jewish Women</titleproper>
+	<subtitle>An inventory of Council of Jewish Women at DC Public Library</subtitle>
+	<author encodinganalog="245$c">Finding aid prepared by Rachel Telford.</author>
+</titlestmt>
+<publicationstmt>
+<publisher encodinganalog="260$b">DC Public Library Special Collections</publisher>
+	<date type="publication" encodinganalog="260$c" normal="2007-05">2007-05</date>
+<address><addressline>901 G Street NW</addressline><addressline>DC Public Library</addressline><addressline>Washington, D.C. 20009</addressline></address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation encodinganalog="500">EAD encoded by Paul Kelly on
+	<date normal="2017-05-09">2017-05-09</date>
+</creation>
+<langusage><language encodinganalog="546" langcode="eng">English</language></langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory" relatedencoding="MARC21">
+<did id="a1">
+<head>Descriptive Summary</head>
+<repository label="Repository:" encodinganalog="852$a"><corpname>DC Public Library, Special Collections</corpname></repository>
+	<unitdate encodinganalog="260$c" label="Dates:" type="inclusive" normal="1904/1942">1904-1942</unitdate>
+	<unittitle label="Title:" encodinganalog="245$a">Council of Jewish Women Collection</unittitle>
+<physdesc label="Extent:" encodinganalog="300$a"><extent>0.25 linear feet; 1 box</extent></physdesc>
+<unitid encodinganalog="090" label="Collection Number:" countrycode="US" repositorycode="DCU">111</unitid>
+<langmaterial encodinganalog="041" label="Language:"><language langcode="eng">English</language></langmaterial>
+</did>
+	
+<dsc type="combined" id="a23">
+<head>Detailed Description of the Collection</head>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 1</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">1</container>
+				<container type="Folder">1</container>
+				<unittitle>Programs</unittitle>
+			</did>
+			
+			<c03 level="item">
+				<did>
+					<container type="Item">1</container>
+					<unittitle>Program</unittitle>
+					<unitdate type="inclusive" normal="1904">1904</unitdate>
+				</did>
+			</c03>
+			<c03 level="item">
+				<did>
+					<container type="Item">2</container>
+					<unittitle>Program</unittitle>
+					<unitdate type="inclusive" normal="1904/1905">1904-1905</unitdate>
+				</did>
+			</c03>
+			<c03 level="item">
+				<did>
+					<container type="Item">3</container>
+					<unittitle>Program</unittitle>
+					<unitdate type="inclusive" normal="1905/1906">1905-1906</unitdate>
+				</did>
+			</c03>
+			<c03 level="item">
+				<did>
+					<container type="Item">4</container>
+					<unittitle>Program</unittitle>
+					<unitdate type="inclusive" normal="1940/1941">1940-1941</unitdate>
+				</did>
+			</c03>
+			<c03 level="item">
+				<did>
+					<container type="Item">5</container>
+					<unittitle>Program</unittitle>
+					<unitdate type="inclusive" normal="1941/1942">1941-1942</unitdate>
+				</did>
+			</c03>
+		</c02>
+	<c02 level="file">
+			<did>
+				<container type="Box">1</container>
+				<container type="Folder">2</container>
+				<unittitle>Yearbooks</unittitle>
+			</did>
+			
+		<c03 level="item">
+			<did>
+				<container type="Item">1</container>
+				<unittitle>Yearbook</unittitle>
+				<unitdate type="inclusive" normal="1921/1922">1921-1922</unitdate>
+			</did>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="Item">2</container>
+				<unittitle>Yearbook</unittitle>
+				<unitdate type="inclusive" normal="1924/1925">1924-1925</unitdate>
+			</did>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="Item">3</container>
+				<unittitle>Yearbook</unittitle>
+				<unitdate type="inclusive" normal="1925/1926">1925-1926</unitdate>
+			</did>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="Item">4</container>
+				<unittitle>Yearbook</unittitle>
+				<unitdate type="inclusive" normal="1928/1929">1928-1929</unitdate>
+			</did>
+		</c03>
+		<c03 level="item">
+			<did>
+				<container type="Item">5</container>
+				<unittitle>Yearbook</unittitle>
+				<unitdate type="inclusive" normal="1929/1930">1929-1930</unitdate>
+			</did>
+		</c03>
+	</c02>
+	</c01>
+</dsc>
+</archdesc>
+</ead>

@@ -1,0 +1,242 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type="text/xml" href="I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/eadcbs6rev.xsl"?><!DOCTYPE ead PUBLIC "-//Society of American Archivists//DTD ead.dtd (Encoded Archival Description (EAD) Version 1.0)//EN" "I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/ead.dtd">
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" repositoryencoding="iso15511" relatedencoding="MARC21">
+	<eadid mainagencycode="DWP" countrycode="US" url="http://washingtoniana.dclibrary.org">119Poor</eadid>
+<filedesc>
+<titlestmt>
+	<titleproper encodinganalog="245$a">Poor People’s Campaign</titleproper>
+	<subtitle>An inventory of Poor People’s Campaign at DC Public Library</subtitle>
+	<author encodinganalog="245$c">Finding aid prepared by David Edmonds.</author>
+</titlestmt>
+<publicationstmt>
+<publisher encodinganalog="260$b">DC Public Library, Special Collections</publisher>
+	<date type="publication" encodinganalog="260$c" normal="2009-05">2009-05</date>
+<address><addressline>901 G Street NW</addressline><addressline>DC Public Library</addressline><addressline>Washington, D.C. 20009</addressline></address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation encodinganalog="500">EAD encoded by Paul Kelly on
+	<date normal="2017-04-21">2017-04-21</date>
+</creation>
+<langusage>English</langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory" relatedencoding="MARC21">
+<did id="a1">
+<head>Descriptive Summary</head>
+<repository label="Repository:" encodinganalog="852$a"><corpname>DC Public Library, Special Collections</corpname></repository>
+	<unitdate encodinganalog="260$c" label="Dates:" type="inclusive" normal="1968">1968</unitdate>
+	<unittitle label="Title:" encodinganalog="245$a">Poor People’s Campaign Collection</unittitle>
+<physdesc label="Extent:" encodinganalog="300$a"><extent>1 linear foot; 2 boxes</extent></physdesc>
+<unitid encodinganalog="090" label="Collection Number:" countrycode="US" repositorycode="DCU">119</unitid>
+<langmaterial encodinganalog="041" label="Language:"><language langcode="eng">English</language></langmaterial>
+</did>
+	
+<dsc type="combined" id="a23">
+<head>Detailed Description of the Collection</head>
+<c01 level="series">
+   <did>
+   	<unittitle>Series 1: Correspondence</unittitle>
+    </did>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">1</container>
+			<unittitle>“A Letter to Friends from D.C. Jail”</unittitle>
+			<unitdate type="inclusive" normal="1968">1968</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">2</container>
+			<unittitle>Correspondent Letter</unittitle>
+			<unitdate type="inclusive" normal="1968">1968</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">3</container>
+			<unittitle>Letter to Judge</unittitle>
+			<unitdate type="inclusive" normal="1968">1968</unitdate>
+		</did>
+	</c02>
+</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 2: Reports and Statements</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">1</container>
+				<container type="Folder">4</container>
+				<unittitle>A Report to Baltimore Yearly Meeting of Friends</unittitle>
+				<unitdate type="inclusive" normal="1968">1968</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">1</container>
+				<container type="Folder">5</container>
+				<unittitle>Report of the Legislative Committee for the Poor People’s Campaign</unittitle>
+				<unitdate type="inclusive" normal="1968">1968</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">1</container>
+				<container type="Folder">6</container>
+				<unittitle>William Penn Newsletter</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">1</container>
+				<container type="Folder">7</container>
+				<unittitle>Summary of the Commission Report and Legislative before Congress</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">1</container>
+				<container type="Folder">8</container>
+				<unittitle>Policy Statement on Poverty, Jobs, and Income</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">1</container>
+				<container type="Folder">9</container>
+				<unittitle>Income Memorandum</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">1</container>
+				<container type="Folder">10</container>
+				<unittitle>Action Bulletin</unittitle>
+				<unitdate type="inclusive" normal="1968">1968</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 3: Publications</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">1</container>
+				<container type="Folder">11</container>
+				<unittitle>Newsletter</unittitle>
+				<unitdate type="inclusive" normal="1968">1968</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">1</container>
+				<container type="Folder">12</container>
+				<unittitle>True Unity News of Resurrection City</unittitle>
+				<unitdate type="inclusive" normal="1968">1968</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 4: Miscellaneous</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">1</container>
+				<container type="Folder">13</container>
+				<unittitle>Solidarity Day Programme</unittitle>
+				<unitdate type="inclusive" normal="1968">1968</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">1</container>
+				<container type="Folder">14</container>
+				<unittitle>MLK Slogans</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">1</container>
+				<container type="Folder">15</container>
+				<unittitle>Brochures</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">1</container>
+				<container type="Folder">16</container>
+				<unittitle>Resurrection City Songs</unittitle>
+				<unitdate type="inclusive" normal="1968">1968</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">1</container>
+				<container type="Folder">17</container>
+				<unittitle>List of Worshipers Arrested on Capitol</unittitle>
+				<unitdate type="inclusive" normal="1968">1968</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">1</container>
+				<container type="Folder">18</container>
+				<unittitle>Job Mobilization Support Sheet</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">1</container>
+				<container type="Folder">19</container>
+				<unittitle>True Unity Resurrection Poems</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">1</container>
+				<container type="Folder">20</container>
+				<unittitle>Flyer</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 5: Clippings</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">1</container>
+				<container type="Folder">21</container>
+				<unittitle>Clippings</unittitle>
+				<unitdate type="inclusive" normal="1968">1968</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">1</container>
+				<container type="Folder">22</container>
+				<unittitle>Clippings</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+	</c01>
+</dsc>
+</archdesc>
+</ead>

@@ -1,0 +1,251 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type="text/xml" href="I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/eadcbs6rev.xsl"?><!DOCTYPE ead PUBLIC "-//Society of American Archivists//DTD ead.dtd (Encoded Archival Description (EAD) Version 1.0)//EN" "I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/ead.dtd">
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" repositoryencoding="iso15511" relatedencoding="MARC21">
+	<eadid mainagencycode="DWP" countrycode="US" url="http://washingtoniana.dclibrary.org">106Dupont</eadid>
+<filedesc>
+<titlestmt>
+	<titleproper encodinganalog="245$a">Dupont Circle Community Association</titleproper>
+	<subtitle>An inventory of Dupont Circle Community Association at DC Public Library</subtitle>
+	<author encodinganalog="245$c">Finding aid prepared by Rachel Telford.</author>
+</titlestmt>
+<publicationstmt>
+<publisher encodinganalog="260$b">DC Public Library, Special Collections</publisher>
+	<date type="publication" encodinganalog="260$c" normal="2007-03">2007-03</date>
+<address><addressline>901 G Street NW</addressline><addressline>DC Public Library</addressline><addressline>Washington, D.C. 20009</addressline></address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation encodinganalog="500">EAD encoded by Paul Kelly on
+	<date normal="2017-04-21">2017-04-21</date>
+</creation>
+<langusage>English</langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory" relatedencoding="MARC21">
+<did id="a1">
+<head>Descriptive Summary</head>
+<repository label="Repository:" encodinganalog="852$a"><corpname>DC Public Library, Special Collections</corpname></repository>
+	<unitdate encodinganalog="260$c" label="Dates:" type="inclusive" normal="1972/1978">1972-1978</unitdate>
+	<unittitle label="Title:" encodinganalog="245$a">Dupont Circle Community Association Records</unittitle>
+<physdesc label="Extent:" encodinganalog="300$a"><extent>1.5 linear feet; 3 boxes</extent></physdesc>
+<unitid encodinganalog="090" label="Collection Number:" countrycode="US" repositorycode="DCU">106</unitid>
+<langmaterial encodinganalog="041" label="Language:"><language langcode="eng">English</language></langmaterial>
+</did>
+	
+<dsc type="combined" id="a23">
+<head>Detailed Description of the Collection</head>
+<c01 level="series">
+   <did>
+   	<unittitle>Series 1: Organizational Materials</unittitle>
+    </did>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">1</container>
+			<unittitle>History</unittitle>
+			<unitdate type="inclusive" normal="1972">1972</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">2</container>
+			<unittitle>Minutes and General Paperwork</unittitle>
+			<unitdate type="inclusive" normal="1973/1974">1973-1974</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">3</container>
+			<unittitle>Photos of Columbine by Paul Crumrine</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">4</container>
+			<unittitle>Photos</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 2: Zoning</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">1</container>
+				<container type="Folder">5</container>
+				<unittitle>Connecticut Avenue</unittitle>
+				<unitdate type="inclusive" normal="1973/1976">1973-1976</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">1</container>
+				<container type="Folder">6</container>
+				<unittitle>Connecticut Avenue</unittitle>
+				<unitdate type="inclusive" normal="1973/1976">1973-1976</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">1</container>
+				<container type="Folder">7</container>
+				<unittitle>Demolition of Housing</unittitle>
+				<unitdate type="inclusive" normal="1974">1974</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">1</container>
+				<container type="Folder">8</container>
+				<unittitle>Underpass</unittitle>
+				<unitdate type="inclusive" normal="1975">1975</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">1</container>
+				<container type="Folder">9</container>
+				<unittitle>Metro Elevator</unittitle>
+				<unitdate type="inclusive" normal="1975">1975</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">1</container>
+				<container type="Folder">10</container>
+				<unittitle>Salvation Army</unittitle>
+				<unitdate type="inclusive" normal="1974">1974</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">1</container>
+				<container type="Folder">11</container>
+				<unittitle>Salvation Army</unittitle>
+				<unitdate type="inclusive" normal="1974">1974</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">2</container>
+				<container type="Folder">1</container>
+				<unittitle>Legal Documents Re: Salvation Army</unittitle>
+				<unitdate type="inclusive" normal="1973/1974">1973-1974</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">2</container>
+				<container type="Folder">2</container>
+				<unittitle>Legal Documents Re: Salvation Army</unittitle>
+				<unitdate type="inclusive" normal="1973">1973</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">2</container>
+				<container type="Folder">3</container>
+				<unittitle>Legal Documents Re: Salvation Army</unittitle>
+				<unitdate type="inclusive" normal="1974">1974</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">2</container>
+				<container type="Folder">4</container>
+				<unittitle>Legal Documents Re: Salvation Army</unittitle>
+				<unitdate type="inclusive" normal="1973/1974">1973-1974</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">2</container>
+				<container type="Folder">5</container>
+				<unittitle>Legal Documents Re: Salvation Army</unittitle>
+				<unitdate type="inclusive" normal="1973/1975">1973-1975</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">2</container>
+				<container type="Folder">6</container>
+				<unittitle>Legal Documents Re: Salvation Army</unittitle>
+				<unitdate type="inclusive" normal="1973/1975">1973-1975</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">2</container>
+				<container type="Folder">7</container>
+				<unittitle>Legal Documents: Board of Zoning Adjustment</unittitle>
+				<unitdate type="inclusive">1972, 1975-1978</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">2</container>
+				<container type="Folder">8</container>
+				<unittitle>Court Cases: Appeals</unittitle>
+				<unitdate type="inclusive" normal="1974/1975">1974-1975</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">1</container>
+				<unittitle>Regulation Amendments and Rezoning</unittitle>
+				<unitdate type="inclusive" normal="1973/1974">1973-1974</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">2</container>
+				<unittitle>Zoning Adjustment</unittitle>
+				<unitdate type="inclusive" normal="1974/1975">1974-1975</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">3</container>
+				<unittitle>Zoning Adjustment</unittitle>
+				<unitdate type="inclusive" normal="1974">1974</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">4</container>
+				<unittitle>Zoning Adjustment</unittitle>
+				<unitdate type="inclusive" normal="1975/1976">1975-1976</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">5</container>
+				<unittitle>Zoning Regulations</unittitle>
+				<unitdate type="inclusive" normal="1973">1973</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">6</container>
+				<unittitle>Zoning Clippings</unittitle>
+				<unitdate type="inclusive" normal="1971/1975">1971-1975</unitdate>
+			</did>
+		</c02>
+	</c01>
+</dsc>
+</archdesc>
+</ead>

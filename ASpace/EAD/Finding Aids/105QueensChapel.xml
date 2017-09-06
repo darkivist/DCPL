@@ -1,0 +1,408 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type="text/xml" href="I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/eadcbs6rev.xsl"?><!DOCTYPE ead PUBLIC "-//Society of American Archivists//DTD ead.dtd (Encoded Archival Description (EAD) Version 1.0)//EN" "I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/ead.dtd">
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" repositoryencoding="iso15511" relatedencoding="MARC21">
+	<eadid mainagencycode="DWP" countrycode="US" url="http://washingtoniana.dclibrary.org">105QueensChapel</eadid>
+<filedesc>
+<titlestmt>
+	<titleproper encodinganalog="245$a">Queen’s Chapel Civic Association</titleproper>
+	<subtitle>An inventory of Queen’s Chapel Civic Association at DC Public Library</subtitle>
+	<author encodinganalog="245$c">Finding aid prepared by Rachel Telford.</author>
+</titlestmt>
+<publicationstmt>
+<publisher encodinganalog="260$b">DC Public Library, Special Collections</publisher>
+	<date type="publication" encodinganalog="260$c" normal="2007-03">2007-03</date>
+<address><addressline>901 G Street NW</addressline><addressline>DC Public Library</addressline><addressline>Washington, D.C. 20009</addressline></address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation encodinganalog="500">EAD encoded by Paul Kelly on
+	<date normal="2017-04-21">2017-04-21</date>
+</creation>
+<langusage>English</langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory" relatedencoding="MARC21">
+<did id="a1">
+<head>Descriptive Summary</head>
+<repository label="Repository:" encodinganalog="852$a"><corpname>DC Public Library, Special Collections</corpname></repository>
+	<unitdate encodinganalog="260$c" label="Dates:" type="inclusive" normal="1965/1995">1965-1995</unitdate>
+	<unittitle label="Title:" encodinganalog="245$a">Queen’s Chapel Civic Association Records</unittitle>
+<physdesc label="Extent:" encodinganalog="300$a"><extent>1.5 linear feet; 3 boxes</extent></physdesc>
+<unitid encodinganalog="090" label="Collection Number:" countrycode="US" repositorycode="DCU">105</unitid>
+<langmaterial encodinganalog="041" label="Language:"><language langcode="eng">English</language></langmaterial>
+</did>
+	
+<dsc type="combined" id="a23">
+<head>Detailed Description of the Collection</head>
+<c01 level="series">
+   <did>
+   	<unittitle>Series 1: Organizational Information</unittitle>
+    </did>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">1</container>
+			<unittitle>Constitution/By-Laws/Corporate Reports</unittitle>
+			<unitdate type="inclusive" normal="1965/1986">1965-1986</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">2</container>
+			<unittitle>Budgets and Reports</unittitle>
+			<unitdate type="inclusive" normal="1969/1984">1969-1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">3</container>
+			<unittitle>Administrative Materials</unittitle>
+			<unitdate type="inclusive" normal="1977/1989">1977-1989</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">4</container>
+			<unittitle>Trips and Outings</unittitle>
+			<unitdate type="inclusive" normal="1967/1994">1967-1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">5</container>
+			<unittitle>Announcements</unittitle>
+			<unitdate type="inclusive">1967-1977, 1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">6</container>
+			<unittitle>Retirement Party for Mr. Dulaney - Postman</unittitle>
+			<unitdate type="inclusive" normal="1972">1972</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">7</container>
+			<unittitle>The Civic Seer Newsletter</unittitle>
+			<unitdate type="inclusive" normal="1966/1981">1966-1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">8</container>
+			<unittitle>The Civic Seer Newsletter</unittitle>
+			<unitdate type="inclusive" normal="1981/1986">1981-1986</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">9</container>
+			<unittitle>The Civic Seer Newsletter</unittitle>
+			<unitdate type="inclusive" normal="1986/1991">1986-1991</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">10</container>
+			<unittitle>The Civic Seer Newsletter</unittitle>
+			<unitdate type="inclusive" normal="1991/1994">1991-1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">1</container>
+			<unittitle>Meeting Minutes</unittitle>
+			<unitdate type="inclusive" normal="1965/1969">1965-1969</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">2</container>
+			<unittitle>Executive Committee Minutes</unittitle>
+			<unitdate type="inclusive">1968-1970, 1992-1995</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">3</container>
+			<unittitle>Vice President Teasley</unittitle>
+			<unitdate type="inclusive" normal="1993/1995">1993-1995</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">4</container>
+			<unittitle>Rev. David Turner</unittitle>
+			<unitdate type="inclusive" normal="1989/1995">1989-1995</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">5</container>
+			<unittitle>Officers and Block Captains</unittitle>
+			<unitdate type="inclusive" normal="1967/1995">1967-1995</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">6</container>
+			<unittitle>Correspondence</unittitle>
+			<unitdate type="inclusive" normal="1968/1971">1968-1971</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">7</container>
+			<unittitle>Miscellaneous</unittitle>
+			<unitdate type="inclusive" normal="1971/1990">1971-1990</unitdate>
+		</did>
+	</c02>
+</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 2: Community Issues</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">2</container>
+				<container type="Folder">8</container>
+				<unittitle>Fort Lincoln</unittitle>
+				<unitdate type="inclusive" normal="1968/1971">1968-1971</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">2</container>
+				<container type="Folder">9</container>
+				<unittitle>Crime</unittitle>
+				<unitdate type="inclusive" normal="1968/1989">1968-1989</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">2</container>
+				<container type="Folder">10</container>
+				<unittitle>Public Works</unittitle>
+				<unitdate type="inclusive" normal="1993">1993</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">1</container>
+				<unittitle>CandP Telephone Co.</unittitle>
+				<unitdate type="inclusive" normal="1985/1992">1985-1992</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">2</container>
+				<unittitle>PEPCO</unittitle>
+				<unitdate type="inclusive" normal="1979/1992">1979-1992</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">3</container>
+				<unittitle>Traffic and Transportation</unittitle>
+				<unitdate type="inclusive">1967-1968, 1975, 1994</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">4</container>
+				<unittitle>Pollution</unittitle>
+				<unitdate type="inclusive" normal="1968">1968</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">5</container>
+				<unittitle>Elections</unittitle>
+				<unitdate type="inclusive" normal="1968/1989">1968-1989</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">6</container>
+				<unittitle>Education</unittitle>
+				<unitdate type="inclusive" normal="1969/1995">1969-1995</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">7</container>
+				<unittitle>Capital Improvement Program</unittitle>
+				<unitdate type="inclusive" normal="1971">1971</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">8</container>
+				<unittitle>Public Hearings</unittitle>
+				<unitdate type="inclusive">1971, 1985</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">9</container>
+				<unittitle>Zoning</unittitle>
+				<unitdate type="inclusive">1973-1974, 1994</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">10</container>
+				<unittitle>Cancer</unittitle>
+				<unitdate type="inclusive" normal="1989">1989</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">11</container>
+				<unittitle>Events</unittitle>
+				<unitdate type="inclusive" normal="1989/1993">1989-1993</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">12</container>
+				<unittitle>People’s Counsel</unittitle>
+				<unitdate type="inclusive">1990, 1992</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">13</container>
+				<unittitle>Correspondence</unittitle>
+				<unitdate type="inclusive" normal="1968/1988">1968-1988</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 3: Civic Organizations</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">14</container>
+				<unittitle>Civic Organizations</unittitle>
+				<unitdate type="inclusive" normal="1977">1977 , Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">15</container>
+				<unittitle>DC Federation of Civic Organizations</unittitle>
+				<unitdate type="inclusive" normal="1969/1989">1969-1989</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">16</container>
+				<unittitle>Advisory Neighborhood Commission 5A</unittitle>
+				<unitdate type="inclusive" normal="1975/1984">1975-1984</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">17</container>
+				<unittitle>Advisory Neighborhood Commission 5B</unittitle>
+				<unitdate type="inclusive" normal="1988">1988</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">18</container>
+				<unittitle>Ward 5</unittitle>
+				<unitdate type="inclusive" normal="1987">1987, Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">19</container>
+				<unittitle>Service Area 2</unittitle>
+				<unitdate type="inclusive" normal="1973">1973</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">20</container>
+				<unittitle>AARP Brookland Woodbridge Chapter</unittitle>
+				<unitdate type="inclusive" normal="1977">1977</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">21</container>
+				<unittitle>Metro Women’s Democratic Club</unittitle>
+				<unitdate type="inclusive" normal="1967">1967</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">22</container>
+				<unittitle>Upper Northeast News</unittitle>
+				<unitdate type="inclusive">1969, 1971</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">23</container>
+				<unittitle>Northeast Washington Star</unittitle>
+				<unitdate type="inclusive" normal="1989">1989</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">24</container>
+				<unittitle>DC Government</unittitle>
+				<unitdate type="inclusive" normal="1967/1985">1967-1985</unitdate>
+			</did>
+		</c02>
+	</c01>
+</dsc>
+</archdesc>
+</ead>

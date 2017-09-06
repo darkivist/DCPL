@@ -1,0 +1,2853 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type="text/xml" href="I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/eadcbs6rev.xsl"?><!DOCTYPE ead PUBLIC "-//Society of American Archivists//DTD ead.dtd (Encoded Archival Description (EAD) Version 1.0)//EN" "I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/ead.dtd">
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" repositoryencoding="iso15511" relatedencoding="MARC21">
+	<eadid mainagencycode="DWP" countrycode="US" url="http://washingtoniana.dclibrary.org">131Jarvis</eadid>
+<filedesc>
+<titlestmt>
+	<titleproper encodinganalog="245$a">Charlene Drew Jarvis</titleproper>
+	<subtitle>An inventory of Charlene Drew Jarvis at DC Public Library</subtitle>
+	<author encodinganalog="245$c">Finding aid prepared by DC Africana Archives Project.</author>
+</titlestmt>
+<publicationstmt>
+<publisher encodinganalog="260$b">DC Public Library Special Collections</publisher>
+<address><addressline>901 G Street NW</addressline><addressline>DC Public Library</addressline><addressline>Washington, D.C. 20009</addressline></address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation encodinganalog="500">EAD encoded by Paul Kelly on
+	<date normal="2017-05-22">2017-05-22</date>
+</creation>
+<langusage>English</langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory" relatedencoding="MARC21">
+<did id="a1">
+<head>Descriptive Summary</head>
+<repository label="Repository:" encodinganalog="852$a"><corpname>DC Public Library, Special Collections</corpname></repository>
+	<unitdate encodinganalog="260$c" label="Dates:" type="inclusive" normal="1978/2014">1978-2014</unitdate>
+	<unittitle label="Title:" encodinganalog="245$a">Charlene Drew Jarvis Papers</unittitle>
+<physdesc label="Extent:" encodinganalog="300$a"><extent>18 cubic feet; 18 boxes</extent></physdesc>
+<unitid encodinganalog="090" label="Collection Number:" countrycode="US" repositorycode="DCU">131</unitid>
+<langmaterial encodinganalog="041" label="Language:"><language langcode="eng">English</language></langmaterial>
+</did>
+	
+<dsc type="combined" id="a23">
+<head>Detailed Description of the Collection</head>
+<c01 level="series">
+   <did>
+	<unittitle>Series 1</unittitle>
+    </did>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">1</container>
+			<unittitle>Brochures: Various</unittitle>
+			<unitdate type="inclusive" normal="1992/1998">1992-1998</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">2</container>
+			<unittitle>Brochures: Various</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">3</container>
+			<unittitle>Brochures: Campaign</unittitle>
+			<unitdate type="inclusive" normal="1984">1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">4</container>
+			<unittitle>Brochures: Various</unittitle>
+			<unitdate type="inclusive" normal="1982">1982</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">5</container>
+			<unittitle>Brochures: Campaign</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">6</container>
+			<unittitle>Brochures: Campaign</unittitle>
+			<unitdate type="inclusive" normal="1992/1996">1992-1996</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">7</container>
+			<unittitle>Brochures: Chamber's Choice Awards</unittitle>
+			<unitdate type="inclusive" normal="2012">2012</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">8</container>
+			<unittitle>Publications: Articles by or about Charlene Drew Jarvis</unittitle>
+			<unitdate type="inclusive" normal="1984/1988">1984-1988</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">9</container>
+			<unittitle>Publications: Various</unittitle>
+			<unitdate type="inclusive" normal="1988/1989">1988-1989</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">10</container>
+			<unittitle>Publications: The Jarvis Report</unittitle>
+			<unitdate type="inclusive" normal="1996/1999">1996-1999</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">11</container>
+			<unittitle>Publications: Articles by or about Charlene Drew Jarvis</unittitle>
+			<unitdate type="inclusive" normal="1990/1999">1990-1999</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">12</container>
+			<unittitle>Publications: The Renaissance</unittitle>
+			<unitdate type="inclusive" normal="1997">1997</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">13</container>
+			<unittitle>Publications: The Council of the District of Columbia 1 of 2</unittitle>
+			<unitdate type="inclusive" normal="1991/1997">1991-1997</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">14</container>
+			<unittitle>Publications: The Council of the District of Columbia 2 of 2</unittitle>
+			<unitdate type="inclusive" normal="1991/1997">1991-1997</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">15</container>
+			<unittitle>Publications: Washington Magazines</unittitle>
+			<unitdate type="inclusive" normal="1998/1999">1998-1999</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">16</container>
+			<unittitle>Publications: Various</unittitle>
+			<unitdate type="inclusive" normal="1992/1998">1992-1998</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">17</container>
+			<unittitle>Publications: Various</unittitle>
+			<unitdate type="inclusive" normal="1998/2004">1998-2004</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">18</container>
+			<unittitle>Publications: Articles by or about Charlene Drew Jarvis</unittitle>
+			<unitdate type="inclusive" normal="2000">2000</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">19</container>
+			<unittitle>Publications: George Washington University Commencement 1 of 2</unittitle>
+			<unitdate type="inclusive" normal="2001">2001</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">20</container>
+			<unittitle>Publications: George Washington University Commencement 2 of 2</unittitle>
+			<unitdate type="inclusive" normal="2001">2001</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">21</container>
+			<unittitle>Publications: Magazines</unittitle>
+			<unitdate type="inclusive" normal="2000/2009">2000-2009</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">22</container>
+			<unittitle>Publications: Magazines</unittitle>
+			<unitdate type="inclusive" normal="2011/2013">2011-2013</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">23</container>
+			<unittitle>Publications: Articles about Charlene Drew Jarvis</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">24</container>
+			<unittitle>Publications: Political Campaign Fundraiser</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">25</container>
+			<unittitle>Cards and Invitations</unittitle>
+			<unitdate type="inclusive" normal="2010/2014">2010-2014</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">26</container>
+			<unittitle>Cards and Invitations</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">27</container>
+			<unittitle>Cards and Invitations 1 of 2</unittitle>
+			<unitdate type="inclusive" normal="2000/2004">2000-2004</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">28</container>
+			<unittitle>Cards and Invitations 2 of 2</unittitle>
+			<unitdate type="inclusive" normal="2000/2004">2000-2004</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">29</container>
+			<unittitle>Cards and Invitations 1 of 2</unittitle>
+			<unitdate type="inclusive" normal="1990/1999">1990-1999</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">30</container>
+			<unittitle>Cards and Invitations 2 of 2</unittitle>
+			<unitdate type="inclusive" normal="1990/1999">1990-1999</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">31</container>
+			<unittitle>Cards and Invitations</unittitle>
+			<unitdate type="inclusive" normal="1985/1989">1985-1989</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">32</container>
+			<unittitle>Invitations: White House</unittitle>
+			<unitdate type="inclusive" normal="1993/1994">1993-1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">33</container>
+			<unittitle>Mailings: Various</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">34</container>
+			<unittitle>Mailings: Campaign - Various</unittitle>
+			<unitdate type="inclusive" normal="2000">2000</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">35</container>
+			<unittitle>Mailings: Campaign</unittitle>
+			<unitdate type="inclusive" normal="1982/1989">1982-1989</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">36</container>
+			<unittitle>Mailings: Campaign</unittitle>
+			<unitdate type="inclusive" normal="1992/1999">1992-1999</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">37</container>
+			<unittitle>Flyers: Campaign</unittitle>
+			<unitdate type="inclusive" normal="1992/1996">1992-1996</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">38</container>
+			<unittitle>Handwritten Notes</unittitle>
+			<unitdate type="inclusive" normal="1995/1996">1995-1996</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">39</container>
+			<unittitle>Awards</unittitle>
+			<unitdate type="inclusive" normal="1982/2013">1982-2013</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">1</container>
+			<unittitle>Speeches: Charlene Drew Jarvis at Drew University</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">2</container>
+			<unittitle>Speeches: Councilmember Charlene Drew Jarvis</unittitle>
+			<unitdate type="inclusive" normal="1986/1989">1986-1989</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">3</container>
+			<unittitle>Speeches: Charlene Drew Jarvis</unittitle>
+			<unitdate type="inclusive" normal="1995/1999">1995-1999</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">4</container>
+			<unittitle>Speeches: Various Speakers</unittitle>
+			<unitdate type="inclusive" normal="1993/1998">1993-1998</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">5</container>
+			<unittitle>Speeches: Charlene Drew Jarvis Mayoral Campaign</unittitle>
+			<unitdate type="inclusive" normal="1990">1990</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">6</container>
+			<unittitle>Speeches: Various Speakers</unittitle>
+			<unitdate type="inclusive" normal="2002/2012">2002-2012</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">7</container>
+			<unittitle>Speeches: Charlene Drew Jarvis University Speeches</unittitle>
+			<unitdate type="inclusive" normal="2006/2015">2006-2015</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">8</container>
+			<unittitle>Speeches: Charlene Drew Jarvis Various Speeches</unittitle>
+			<unitdate type="inclusive" normal="2002/2014">2002-2014</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">9</container>
+			<unittitle>Speeches: Charlene Drew Jarvis "Living a Life of Truth and Faith" Baccalaureate Ceremony - George Washington University</unittitle>
+			<unitdate type="inclusive" normal="2001">2001</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">10</container>
+			<unittitle>Speeches: Charlene Drew Jarvis Commencement Speeches</unittitle>
+			<unitdate type="inclusive" normal="2001">2001</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">11</container>
+			<unittitle>Flyers: Charlene Drew Jarvis Birthday Celebration</unittitle>
+			<unitdate type="inclusive" normal="1988">1988</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">12</container>
+			<unittitle>Flyers: White House</unittitle>
+			<unitdate type="inclusive" normal="1993">1993</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">13</container>
+			<unittitle>Flyers: Our Community for Jarvis</unittitle>
+			<unitdate type="inclusive" normal="1996">1996</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">14</container>
+			<unittitle>Flyers: Charlene Drew Jarvis Campaign</unittitle>
+			<unitdate type="inclusive" normal="1996">1996</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">15</container>
+			<unittitle>Flyers: Events for Charlene Drew Jarvis</unittitle>
+			<unitdate type="inclusive" normal="1991/1996">1991-1996</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">16</container>
+			<unittitle>Flyers: Various</unittitle>
+			<unitdate type="inclusive" normal="1990/1999">1990-1999</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">17</container>
+			<unittitle>Flyers: Charlene Drew Jarvis Campaign</unittitle>
+			<unitdate type="inclusive" normal="2000">2000</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">18</container>
+			<unittitle>Flyers: Events for Charlene Drew Jarvis</unittitle>
+			<unitdate type="inclusive" normal="2000">2000</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">19</container>
+			<unittitle>Flyers: Various</unittitle>
+			<unitdate type="inclusive" normal="2000/2014">2000-2014</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">20</container>
+			<unittitle>Flyers: Campaign - Various</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">21</container>
+			<unittitle>Programs: Charlene Drew Jarvis Ward 4 Office Opening</unittitle>
+			<unitdate type="inclusive" normal="1979">1979</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">22</container>
+			<unittitle>Programs: Georgia Avenue Day</unittitle>
+			<unitdate type="inclusive" normal="1985/1988">1985-1988</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">23</container>
+			<unittitle>Programs: Presidential Campaigns</unittitle>
+			<unitdate type="inclusive" normal="1981/1987">1981-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">24</container>
+			<unittitle>Programs: Various</unittitle>
+			<unitdate type="inclusive" normal="1982/1988">1982-1988</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">25</container>
+			<unittitle>Programs: White House 1 of 2</unittitle>
+			<unitdate type="inclusive" normal="1993/1999">1993-1999</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">26</container>
+			<unittitle>Programs: White House 2 of 2</unittitle>
+			<unitdate type="inclusive" normal="1993/1999">1993-1999</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">27</container>
+			<unittitle>Programs: District of Columbia Government</unittitle>
+			<unitdate type="inclusive" normal="1990/1999">1990-1999</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">28</container>
+			<unittitle>Programs: Events with Charlene Drew Jarvis</unittitle>
+			<unitdate type="inclusive" normal="1990/1999">1990-1999</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">29</container>
+			<unittitle>Programs: Various 1 of 2</unittitle>
+			<unitdate type="inclusive" normal="1993/1999">1993-1999</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">30</container>
+			<unittitle>Programs: Various 2 of 2</unittitle>
+			<unitdate type="inclusive" normal="1993/1999">1993-1999</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">31</container>
+			<unittitle>Programs: White House</unittitle>
+			<unitdate type="inclusive" normal="2000/2009">2000-2009</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">32</container>
+			<unittitle>Programs: Events with Charlene Drew Jarvis 1 of 2</unittitle>
+			<unitdate type="inclusive" normal="2000/2007">2000-2007</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">33</container>
+			<unittitle>Programs: Events with Charlene Drew Jarvis 1 of 2</unittitle>
+			<unitdate type="inclusive" normal="2000/2007">2000-2007</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">34</container>
+			<unittitle>Programs: Various</unittitle>
+			<unitdate type="inclusive" normal="2000/2008">2000-2008</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">35</container>
+			<unittitle>Programs: Events with Charlene Drew Jarvis</unittitle>
+			<unitdate type="inclusive" normal="2010/2014">2010-2014</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">36</container>
+			<unittitle>Programs: District of Columbia Events</unittitle>
+			<unitdate type="inclusive" normal="2011/2014">2011-2014</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">37</container>
+			<unittitle>Programs: Various</unittitle>
+			<unitdate type="inclusive" normal="2010/2014">2010-2014</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">38</container>
+			<unittitle>Programs: Events with Charlene Drew Jarvis</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">39</container>
+			<unittitle>Southeastern University</unittitle>
+			<unitdate type="inclusive" normal="2002/2007">2002-2007</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">40</container>
+			<unittitle>Southeastern University</unittitle>
+			<unitdate type="inclusive" normal="1996/1999">1996-1999</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">41</container>
+			<unittitle>Handouts: Convention Center</unittitle>
+			<unitdate type="inclusive" normal="2003">2003</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">42</container>
+			<unittitle>Mailings: Various</unittitle>
+			<unitdate type="inclusive" normal="1998">1998</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">43</container>
+			<unittitle>Mailings: Campaign</unittitle>
+			<unitdate type="inclusive" normal="2000">2000</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">44</container>
+			<unittitle>Mailings: Campaign</unittitle>
+			<unitdate type="inclusive" normal="1988/1992">1998-1992</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">45</container>
+			<unittitle>Mailings: Clinton/Gore Campaign</unittitle>
+			<unitdate type="inclusive" normal="1992">1992</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">1</container>
+			<unittitle>Contact Lists: Political Campaigns 1 of 2</unittitle>
+			<unitdate type="inclusive" normal="1992/1993">1992-1993</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">2</container>
+			<unittitle>Contact Lists: Political Campaigns 2 of 2</unittitle>
+			<unitdate type="inclusive" normal="1992/1993">1992-1993</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">3</container>
+			<unittitle>Contact Lists: Newsletters</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">4</container>
+			<unittitle>Contact Lists: Handwritten Lists</unittitle>
+			<unitdate type="inclusive" normal="1992">1992</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">5</container>
+			<unittitle>Contact Lists: University Club of Washington D.C.</unittitle>
+			<unitdate type="inclusive" normal="2003">2003</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">6</container>
+			<unittitle>Contact Lists: Candidates and Councilmembers</unittitle>
+			<unitdate type="inclusive" normal="1993">1993</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">7</container>
+			<unittitle>Council of the District of Columbia: Information about how the Council functions</unittitle>
+			<unitdate type="inclusive" normal="1998">1998</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">8</container>
+			<unittitle>Council of the District of Columbia: Legislation 1 of 3</unittitle>
+			<unitdate type="inclusive" normal="1994/2002">1994-2002</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">9</container>
+			<unittitle>Council of the District of Columbia: Legislation 2 of 3</unittitle>
+			<unitdate type="inclusive" normal="1994/2002">1994-2002</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">10</container>
+			<unittitle>Council of the District of Columbia: Legislation 2 of 3</unittitle>
+			<unitdate type="inclusive" normal="1994/2002">1994-2002</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">11</container>
+			<unittitle>Council of the District of Columbia: Photographs</unittitle>
+			<unitdate type="inclusive" normal="2008">2008</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">12</container>
+			<unittitle>Campaign Materials: Bring Back Dave Clarke Committee</unittitle>
+			<unitdate type="inclusive" normal="1993">1993</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">13</container>
+			<unittitle>Campaign Materials: Charlene Drew Jarvis Campaign Call List</unittitle>
+			<unitdate type="inclusive" normal="1992">1992</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">14</container>
+			<unittitle>Campaign Materials: Contact Lists</unittitle>
+			<unitdate type="inclusive" normal="1987">1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">15</container>
+			<unittitle>Campaign Materials: Charlene Drew Jarvis Campaign for Mayor Position Statements</unittitle>
+			<unitdate type="inclusive" normal="1982">1982</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">16</container>
+			<unittitle>Campaign Materials: Charlene Drew Jarvis Mayoral Campaign Position Statements</unittitle>
+			<unitdate type="inclusive" normal="1990">1990</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">17</container>
+			<unittitle>Campaign Materials: Charlene Drew Jarvis Informational Handouts</unittitle>
+			<unitdate type="inclusive" normal="1993/2000">1993-2000</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">18</container>
+			<unittitle>Campaign Materials: Charlene Drew Jarvis Mayoral Campaign Gay and Lesbian Community Position</unittitle>
+			<unitdate type="inclusive" normal="1990/2000">1990-2000</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">19</container>
+			<unittitle>Campaign Materials: Charlene Drew Mayoral Campaign Positions Binder</unittitle>
+			<unitdate type="inclusive" normal="1990">1990</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">20</container>
+			<unittitle>Campaign Materials: Charlene Drew Jarvis Mayoral Campaigns 1 of 2</unittitle>
+			<unitdate type="inclusive" normal="1996/2000">1996-2000</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">21</container>
+			<unittitle>Campaign Materials: Charlene Drew Jarvis Mayoral Campaigns 2 of 2</unittitle>
+			<unitdate type="inclusive" normal="1996/2000">1996-2000</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">22</container>
+			<unittitle>Campaign Materials: Clinton Gore Campaign</unittitle>
+			<unitdate type="inclusive" normal="1996">1996</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">23</container>
+			<unittitle>Campaign Materials: Charlene Drew Jarvis Mayoral Campaign 1 of 2</unittitle>
+			<unitdate type="inclusive" normal="2000">2000</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">24</container>
+			<unittitle>Campaign Materials: Charlene Drew Jarvis Mayoral Campaign 2 of 2</unittitle>
+			<unitdate type="inclusive" normal="2000">2000</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">25</container>
+			<unittitle>Campaign Materials: Various Charlene Drew Jarvis Campaign Materials</unittitle>
+			<unitdate type="inclusive" normal="1978/2003">1978-2003</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">26</container>
+			<unittitle>Campaign Materials: Jeffrey Gildenhorn for Mayor Campaign</unittitle>
+			<unitdate type="inclusive" normal="1997">1997</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">27</container>
+			<unittitle>Forms: District of Columbia Campaign Forms</unittitle>
+			<unitdate type="inclusive" normal="1992/1996">1992-1996</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">28</container>
+			<unittitle>Forms: Various</unittitle>
+			<unitdate type="inclusive" normal="1993/2002">1993-2002</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">29</container>
+			<unittitle>Forms: Office of Campaign Finance</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">30</container>
+			<unittitle>Forms: Charlene Drew Jarvis Campaigns</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">31</container>
+			<unittitle>News Releases: Charlene Drew Jarvis Campaigns</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">32</container>
+			<unittitle>News Releases: Charlene Drew Jarvis Campaigns and as a Councilmember</unittitle>
+			<unitdate type="inclusive" normal="1986/1993">1986-1993</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">33</container>
+			<unittitle>New Releases: Various</unittitle>
+			<unitdate type="inclusive" normal="1993/1998">1993-1998</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">34</container>
+			<unittitle>Memorandums: Charlene Drew Jarvis Office and Campaign</unittitle>
+			<unitdate type="inclusive" normal="1990/1998">1990-1998</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">35</container>
+			<unittitle>Memorandums: Various</unittitle>
+			<unitdate type="inclusive" normal="1989/1998">1989-1998</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">36</container>
+			<unittitle>Questionnaires: Charlene Drew Jarvis Mayoral Campaign</unittitle>
+			<unitdate type="inclusive" normal="1990">1990</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">37</container>
+			<unittitle>Questionnaires: Charlene Drew Jarvis Campaign for Council Chair</unittitle>
+			<unitdate type="inclusive" normal="1993">1993</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">38</container>
+			<unittitle>Questionnaires: Charlene Drew Jarvis District of Columbia Council Member Campaign</unittitle>
+			<unitdate type="inclusive" normal="2000">2000</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">39</container>
+			<unittitle>Questionnaires: Various</unittitle>
+			<unitdate type="inclusive" normal="1996/1998">1996-1998</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">40</container>
+			<unittitle>District of Columbia Board of Elections and Ethics: Voter Registration</unittitle>
+			<unitdate type="inclusive" normal="1993/1998">1993-1998</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">41</container>
+			<unittitle>District of Columbia Board of Elections and Ethics: Election Results and Returns</unittitle>
+			<unitdate type="inclusive" normal="1990/2000">1990-2000</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">42</container>
+			<unittitle>District of Columbia Board of Elections and Ethics: Office of Campaign Finance</unittitle>
+			<unitdate type="inclusive" normal="1996/2003">1996-2003</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">43</container>
+			<unittitle>District of Columbia Board of Elections and Ethics: Candidacy and Position Information</unittitle>
+			<unitdate type="inclusive" normal="1993/2000">1993-2000</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">1</container>
+			<unittitle>Correspondence: Council of the District of Columbia</unittitle>
+			<unitdate type="inclusive" normal="1990/1996">1990-1996</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">2</container>
+			<unittitle>Correspondence: Various</unittitle>
+			<unitdate type="inclusive" normal="1990/1999">1990-1999</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">3</container>
+			<unittitle>Correspondence: Various</unittitle>
+			<unitdate type="inclusive" normal="1987/1989">1987-1989</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">4</container>
+			<unittitle>Correspondence: Council of the District of Columbia</unittitle>
+			<unitdate type="inclusive" normal="1979">1979</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">5</container>
+			<unittitle>Correspondence: Council of the District of Columbia</unittitle>
+			<unitdate type="inclusive" normal="2000/2007">2000-2007</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">6</container>
+			<unittitle>Correspondence: Council of the District of Columbia 1 of 2</unittitle>
+			<unitdate type="inclusive" normal="1997/1998">1997-1998</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">7</container>
+			<unittitle>Correspondence: Council of the District of Columbia 2 of 2</unittitle>
+			<unitdate type="inclusive" normal="1997/1998">1997-1998</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">8</container>
+			<unittitle>Correspondence: Council of the District of Columbia</unittitle>
+			<unitdate type="inclusive" normal="1996">1996</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">9</container>
+			<unittitle>Correspondence: Campaign</unittitle>
+			<unitdate type="inclusive" normal="2000/2003">2000-2003</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">10</container>
+			<unittitle>Correspondence: White House</unittitle>
+			<unitdate type="inclusive" normal="1992/2009">1992-2009</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">11</container>
+			<unittitle>Correspondence: Various</unittitle>
+			<unitdate type="inclusive" normal="2000/2008">2000-2008</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">12</container>
+			<unittitle>Correspondence: Campaign</unittitle>
+			<unitdate type="inclusive" normal="1996/1998">1996-1998</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">13</container>
+			<unittitle>Correspondence: Campaign</unittitle>
+			<unitdate type="inclusive" normal="1996">1996</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">14</container>
+			<unittitle>Correspondence: Campaign</unittitle>
+			<unitdate type="inclusive" normal="1990/1995">1990-1995</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">15</container>
+			<unittitle>Correspondence: Campaign</unittitle>
+			<unitdate type="inclusive" normal="1982/1987">1982-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">16</container>
+			<unittitle>Biographies: Charlene Drew Jarvis 1 of 2</unittitle>
+			<unitdate type="inclusive" normal="1992/2002">1992-2002</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">17</container>
+			<unittitle>Biographies: Charlene Drew Jarvis 2 of 2</unittitle>
+			<unitdate type="inclusive" normal="1992/2002">1992-2002</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">18</container>
+			<unittitle>Biographies: Various</unittitle>
+			<unitdate type="inclusive" normal="1994/2010">1994-2010</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">19</container>
+			<unittitle>Biographies: Torches of Howard Calendar</unittitle>
+			<unitdate type="inclusive" normal="1993">1993</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">20</container>
+			<unittitle>Miscellaneous: American Council on Education Report on Women Presidents in Higher Education</unittitle>
+			<unitdate type="inclusive" normal="2000">2000</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">21</container>
+			<unittitle>Miscellaneous: Poetry</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">22</container>
+			<unittitle>Miscellaneous: District of Columbia State Job Training Coordinating Council/ Private Industry Council</unittitle>
+			<unitdate type="inclusive" normal="1998">1998</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">23</container>
+			<unittitle>Miscellaneous: Ward 4 Community Meeting Packet</unittitle>
+			<unitdate type="inclusive" normal="1998">1998</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">24</container>
+			<unittitle>Miscellaneous: Schedules</unittitle>
+			<unitdate type="inclusive" normal="1993/2001">1993-2001</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">25</container>
+			<unittitle>Miscellaneous: Closing Ceremony Packets</unittitle>
+			<unitdate type="inclusive" normal="1998">1998</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">26</container>
+			<unittitle>Miscellaneous: Charlene Drew Jarvis Campaign and Office Budgets</unittitle>
+			<unitdate type="inclusive" normal="1992/1998">1992-1998</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">27</container>
+			<unittitle>Miscellaneous: Workforce Investments Act of 1998 Overview</unittitle>
+			<unitdate type="inclusive" normal="1998">1998</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">28</container>
+			<unittitle>Miscellaneous: White House Thank You Mailings</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">29</container>
+			<unittitle>Miscellaneous: U.S. House of Representative Committee on Government Reform and Oversight: Charlene Drew Jarvis Testimony</unittitle>
+			<unitdate type="inclusive" normal="1997">1997</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">30</container>
+			<unittitle>Miscellaneous: Government of the District of Columbia: Department of Public Works</unittitle>
+			<unitdate type="inclusive" normal="1998">1998</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">31</container>
+			<unittitle>Miscellaneous: Loose Printed Materials</unittitle>
+			<unitdate type="inclusive" normal="1994/2000">1994-2000</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">1</container>
+			<unittitle>Ward Four December "86" Gala Photo Album</unittitle>
+			<unitdate type="inclusive" normal="1986">1986</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">2</container>
+			<unittitle>Charlene Drew Jarvis Birthday Campaign Fundraiser Ward 4 Re-Election Photo Album</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">3</container>
+			<unittitle>Andromeda Anniversary Photo Album</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">4</container>
+			<unittitle>Birthday Celebration and Auction For Councilmember Charlene Drew Jarvis Photo Album</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">5</container>
+			<unittitle>Photos showing Ward 4 Georgia Avenue Event Photo Album</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">6</container>
+			<unittitle>Reunion/bus/tour Photo Album</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">7</container>
+			<unittitle>Charlene Drew Jarvis Tenth Anniversary Celebration/Georgia Avenue Day Parade Photo Album</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">8</container>
+			<unittitle>Celebration for Deputy Chief Kais Coligan Photo Album</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">9</container>
+			<unittitle>Photos of Industrial Bank of Washington Holiday event Photo Album</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">1</container>
+			<unittitle>Tribute to Martin Luther King Jr. Photo Album</unittitle>
+			<unitdate type="inclusive" normal="1988">1988</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">2</container>
+			<unittitle>Photos of Backyard Tea Party 1 Photo Album</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">3</container>
+			<unittitle>Photos of Florida A and M University Comencement Ceremony Photo Album</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">4</container>
+			<unittitle>Photos of DC Heritage Tourism Coalition Speech Photo Album</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">5</container>
+			<unittitle>Photos of Backyard Tea Party 2 Photo Album</unittitle>
+			<unitdate type="inclusive" normal="1993">1993</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">6</container>
+			<unittitle>Photos of Jarvis for Mayor Event Photo Album</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">7</container>
+			<unittitle>Photos of Various Mayoral Campaign Appearances Photo Album</unittitle>
+			<unitdate type="inclusive" normal="1990">1990</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">1</container>
+			<unittitle>The Al Gore Story Video Tape</unittitle>
+			<unitdate type="inclusive" normal="2000">2000</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">2</container>
+			<unittitle>Demo: Commencement - 1998 Video Tape</unittitle>
+			<unitdate type="inclusive" normal="1998">1998</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">3</container>
+			<unittitle>Short Version of Tribute "Celebrate the Legacy" Video Tape</unittitle>
+			<unitdate type="inclusive" normal="2001">2001</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">4</container>
+			<unittitle>Southwest: Our Home, Our Future Southwest Neighborhood Assembly, 1998 Video Tape</unittitle>
+			<unitdate type="inclusive" normal="1998">1998</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">5</container>
+			<unittitle>Washington D.C. City Council Council of the Whole 12/15/2000 Tape 1 of 2</unittitle>
+			<unitdate type="inclusive" normal="2000">2000</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">6</container>
+			<unittitle>Washington D.C. City Council Council of the Whole 12/15/2000 Tape 2 of 2 Video Tape</unittitle>
+			<unitdate type="inclusive" normal="2000">2000</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">7</container>
+			<unittitle>Celebrate the Legacy Video Tape</unittitle>
+			<unitdate type="inclusive" normal="2000">2000</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">8</container>
+			<unittitle>Mayoral Forum Charlene Drew Jarvis Video Tape</unittitle>
+			<unitdate type="inclusive" normal="1990">1990</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">9</container>
+			<unittitle>Washington D.C. City Council Council of the Whole 12/19/2000 Tape 1 of 2 Video Tape</unittitle>
+			<unitdate type="inclusive" normal="2000">2000</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">10</container>
+			<unittitle>Washington D.C. City Council Council of the Whole 12/19/2000 Tape 2 of 2 Video Tape</unittitle>
+			<unitdate type="inclusive" normal="2000">2000</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">11</container>
+			<unittitle>Washington Convention Center Video Tape</unittitle>
+			<unitdate type="inclusive" normal="2003">2003</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">12</container>
+			<unittitle>Duke Ellington's Washington Video Tape</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">13</container>
+			<unittitle>The Other Side of Washington Volume 2 of 5 Video Tape</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">14</container>
+			<unittitle>Budget Hearing Committee on the Judiciary Rolark Video Tape</unittitle>
+			<unitdate type="inclusive" normal="1990">1990</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">1</container>
+			<unittitle>CBS Evening News Video Tape</unittitle>
+			<unitdate type="inclusive" normal="1996">1996</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">2</container>
+			<unittitle>Good Morning Washington: Norton Tax Bill Video Tape</unittitle>
+			<unitdate type="inclusive" normal="1997">1997</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">3</container>
+			<unittitle>Discovery Health Channels Medical Honors Awards Show Video Tape</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">4</container>
+			<unittitle>National Political Congress of Black Women Inc. Annual Awards Brunch Part 1 Video Tape</unittitle>
+			<unitdate type="inclusive" normal="1995">1995</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">5</container>
+			<unittitle>National Political Congress of Black Women Inc. Annual Awards Brunch Part 2 Video Tape</unittitle>
+			<unitdate type="inclusive" normal="1995">1995</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">6</container>
+			<unittitle>Public Roundtable- Tax Revenue Video Tape 2-Mar</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">7</container>
+			<unittitle>Lewis Marshall Presents Charlene Drew Jarvis Video Tape</unittitle>
+			<unitdate type="inclusive" normal="1993">1993</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">8</container>
+			<unittitle>Economic Development Committee Budget Hearing Video Tape</unittitle>
+			<unitdate type="inclusive" normal="1996">1996</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">9</container>
+			<unittitle>Legislation Session Re: Property Tax Video Tape</unittitle>
+			<unitdate type="inclusive" normal="1995">1995</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">10</container>
+			<unittitle>Washington Business Week Video Tape</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">11</container>
+			<unittitle>The D.C. Community Humanities Council: In Search of Common Ground Video Tape</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">12</container>
+			<unittitle>D.C. Chamber of Commerce Awards Dinner/ The MCI Center: The Heart of the City Video Tape</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">13</container>
+			<unittitle>Worldnet: Charlene Drew Jarvis Video Tape</unittitle>
+			<unitdate type="inclusive" normal="1993">1993</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">14</container>
+			<unittitle>Southeastern University "Don't Wait Any Longer" Video Tape</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">1</container>
+			<unittitle>Capstone Charlene Drew Jarvis</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">2</container>
+			<unittitle>Expanding Small Business Opportunities for Bankers Video Tape</unittitle>
+			<unitdate type="inclusive" normal="1987">1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">3</container>
+			<unittitle>M's Table Video Tape</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">4</container>
+			<unittitle>"From Dreams to Reality: A Tribute to Minority Inventors" Video Tape</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">5</container>
+			<unittitle>"Cash Cow Rev. w/Bell Nat'l" "Education Scroll Rev. w/ Big Bell National" Video Tape</unittitle>
+			<unitdate type="inclusive" normal="1997">1997</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">6</container>
+			<unittitle>Hearing on the Council Video Tape</unittitle>
+			<unitdate type="inclusive" normal="2003">2003</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">7</container>
+			<unittitle>Georgetown Heritage Trust Townhall Meeting Video Tape</unittitle>
+			<unitdate type="inclusive" normal="1993">1993</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">8</container>
+			<unittitle>DC Chamber of Commerce Washington D.C. "Experience the Opportunities" Video Tape</unittitle>
+			<unitdate type="inclusive" normal="1999">1999</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">9</container>
+			<unittitle>Ask the Doctor at America's Health Network: Hosted by Winnie King Video Tape</unittitle>
+			<unitdate type="inclusive" normal="1998">1998</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">10</container>
+			<unittitle>National Institute of Mental Health ABC Prime Time Video Tape</unittitle>
+			<unitdate type="inclusive" normal="1995">1995</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">11</container>
+			<unittitle>Worldnet: Charlene Drew Jarvis Video Tape</unittitle>
+			<unitdate type="inclusive" normal="1996">1996</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">12</container>
+			<unittitle>Neighborhood Action Summit Video Tape</unittitle>
+			<unitdate type="inclusive" normal="1999">1999</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">13</container>
+			<unittitle>"Washington DC: The Word Within" Video Tape</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">1</container>
+			<unittitle>RFK Stadium and the D.C. Armory Video Tape</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">2</container>
+			<unittitle>Howard University Hospital "The 1862 Society" Legacy of Leadership Video Tape</unittitle>
+			<unitdate type="inclusive" normal="1996">1996</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">3</container>
+			<unittitle>NBC4 Moments We Remember Video Tape</unittitle>
+			<unitdate type="inclusive" normal="1996">1996</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">4</container>
+			<unittitle>ABC "Nightline:" Dr. E Katz - Dr. Charlene Drew Jarvis- need for minority volunteer donors Video Tape</unittitle>
+			<unitdate type="inclusive" normal="1994">1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">5</container>
+			<unittitle>"Ivan Lee" Live at Five Video Tape</unittitle>
+			<unitdate type="inclusive" normal="2004">2004</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">6</container>
+			<unittitle>The Man from Hope Video Tape</unittitle>
+			<unitdate type="inclusive" normal="1995">1995</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">7</container>
+			<unittitle>Club House and Republic Dance 91 Video Tape</unittitle>
+			<unitdate type="inclusive" normal="1991">1991</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">8</container>
+			<unittitle>Wall Street Week Tax Special: The New Tax Law and You Video Tape</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">9</container>
+			<unittitle>Charles Woods Documentary/Advertisement Video Tape</unittitle>
+			<unitdate type="inclusive" normal="1992">1992</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">10</container>
+			<unittitle>Contrary to Love Families Video Tape</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">11</container>
+			<unittitle>The Year in Review: Black History - 1991 Video Tape</unittitle>
+			<unitdate type="inclusive" normal="1991">1991</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">12</container>
+			<unittitle>The Business Connection Video Tape</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">13</container>
+			<unittitle>Kinematin Incorporation: An Introduction Video Tape</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">14</container>
+			<unittitle>A Life-Saving Choice: Nancy Wilson</unittitle>
+			<unitdate type="inclusive" normal="1993">1993</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">1</container>
+			<unittitle>Mae Hurd's Birthday Party Video Tape</unittitle>
+			<unitdate type="inclusive" normal="1988">1988</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">2</container>
+			<unittitle>Education Library Recreation Hearing</unittitle>
+			<unitdate type="inclusive" normal="2000/2001">2000-2001</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">3</container>
+			<unittitle>National Institute of Health "Blood Bank PSA" Version 1and 2 Video Tape</unittitle>
+			<unitdate type="inclusive" normal="1996">1996</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">4</container>
+			<unittitle>By The People, For the People: The Economic Resurgence of Washington, D.C. Video Tape</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">5</container>
+			<unittitle>Washington Tennis and Education Foundation "Changing Children's Lives" Video Tape</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">6</container>
+			<unittitle>Ward 4 Presents Mayor Williams Video Tape</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">7</container>
+			<unittitle>D.C. Central Kitchen- Food Service Job Training Program - ABC News- Nightline: Second Helpings Video Tape</unittitle>
+			<unitdate type="inclusive" normal="1999">1999</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">8</container>
+			<unittitle>City Council Legislative Session Video Tape</unittitle>
+			<unitdate type="inclusive" normal="1988">1988</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">9</container>
+			<unittitle>ABC "Nightline:" Dr. E Katz - Dr. Charlene Drew Jarvis- need for minority volunteer donors Video Tape</unittitle>
+			<unitdate type="inclusive" normal="1994">1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">10</container>
+			<unittitle>ABC "Nightline:" Dr. E Katz - Dr. Charlene Drew Jarvis- need for minority volunteer donors Video Tape</unittitle>
+			<unitdate type="inclusive" normal="1994">1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">11</container>
+			<unittitle>ABC "Nightline:" Dr. E Katz - Dr. Charlene Drew Jarvis- need for minority volunteer donors Video Tape</unittitle>
+			<unitdate type="inclusive" normal="1994">1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">12</container>
+			<unittitle>ABC "Nightline:" Dr. E Katz - Dr. Charlene Drew Jarvis- need for minority volunteer donors Video Tape</unittitle>
+			<unitdate type="inclusive" normal="1994">1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">13</container>
+			<unittitle>Charlene Drew Jarvis Telecommunications weeks of 6/17 Video Tape</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">14</container>
+			<unittitle>Hospitality with the Heart Video Tape</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">1</container>
+			<unittitle>Jarvis for Mayor 1) Supporters Video Tape</unittitle>
+			<unitdate type="inclusive" normal="1990">1990</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">2</container>
+			<unittitle>Audit Briefing Video Tape</unittitle>
+			<unitdate type="inclusive" normal="1994">1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">3</container>
+			<unittitle>The "Y"Guys: The Story of the First African-American YMCA in the Nation Video Tape</unittitle>
+			<unitdate type="inclusive" normal="1996">1996</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">4</container>
+			<unittitle>48 Hours Video Video Tape</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">5</container>
+			<unittitle>Charlene Drew Jarvis Evening Exchange Video Tape</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">6</container>
+			<unittitle>Worldnet Norton - Williams Video Tape</unittitle>
+			<unitdate type="inclusive" normal="1993">1993</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">7</container>
+			<unittitle>"Susan King Cover Story" News 7 Late Edition Video Tape</unittitle>
+			<unitdate type="inclusive" normal="1990">1990</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">8</container>
+			<unittitle>WETA Action Series: Housing Video Tape</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">9</container>
+			<unittitle>Montgomery County Council Hearing on moving soup kitchen towards D.C. Video Tape</unittitle>
+			<unitdate type="inclusive" normal="1992">1992</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">10</container>
+			<unittitle>Viewpoint 94-27 Video Tape</unittitle>
+			<unitdate type="inclusive" normal="1994">1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">11</container>
+			<unittitle>D.C. Today Video Tape</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">12</container>
+			<unittitle>Campaign 90' Video Tape</unittitle>
+			<unitdate type="inclusive" normal="1990">1990</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">13</container>
+			<unittitle>ABC "Nightline:" Dr. E Katz - Dr. Charlene Drew Jarvis- need for minority volunteer donors Video Tape</unittitle>
+			<unitdate type="inclusive" normal="1994">1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">14</container>
+			<unittitle>Changing Roles… During Recessionary Times Video Tape</unittitle>
+			<unitdate type="inclusive" normal="1991">1991</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">1</container>
+			<unittitle>ABC "Nightline:" Dr. E Katz - Dr. Charlene Drew Jarvis- need for minority volunteer donors Video Tape</unittitle>
+			<unitdate type="inclusive" normal="1994">1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">2</container>
+			<unittitle>Local Edition Video Tape</unittitle>
+			<unitdate type="inclusive" normal="2003">2003</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">3</container>
+			<unittitle>"Charlene Drew Jarvis" Eyewitness News Video Tape</unittitle>
+			<unitdate type="inclusive" normal="1990">1990</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">4</container>
+			<unittitle>Democratic Convention Video Tape</unittitle>
+			<unitdate type="inclusive" normal="1988">1988</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">5</container>
+			<unittitle>Clinton Walking Tour Georgia Avenue Video Tape</unittitle>
+			<unitdate type="inclusive" normal="1992">1992</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">6</container>
+			<unittitle>STS-44 Post Flight Press Conference Video Tape</unittitle>
+			<unitdate type="inclusive" normal="1991">1991</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">7</container>
+			<unittitle>Jarvis "Life Choices" Video Tape</unittitle>
+			<unitdate type="inclusive" normal="1994">1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">8</container>
+			<unittitle>Charlene Drew Jarvis Mayoral Announcement National Press Club Video Tape</unittitle>
+			<unitdate type="inclusive" normal="1989">1989</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">9</container>
+			<unittitle>Woman to Woman TV Program with Dr. Rhonda Kelley: African Americans Uniting for Life Video Tape</unittitle>
+			<unitdate type="inclusive" normal="1994">1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">10</container>
+			<unittitle>African Americans Uniting for Life: New Orleans TV Coverage Video Tape</unittitle>
+			<unitdate type="inclusive" normal="1994">1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">11</container>
+			<unittitle>Viewpoint 94-27 Video Tape</unittitle>
+			<unitdate type="inclusive" normal="1994">1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">12</container>
+			<unittitle>Black History Banquet Video Tape</unittitle>
+			<unitdate type="inclusive" normal="2000">2000</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">13</container>
+			<unittitle>WHMM-TV "Capstone</unittitle>
+			<unitdate type="inclusive" normal="1990">1990</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">1</container>
+			<unittitle>"Mayoral Race/ Black Women" Eyewitness News Video Tape</unittitle>
+			<unitdate type="inclusive" normal="1990">1990</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">2</container>
+			<unittitle>Charlene Drew Jarvis for Mayor Video Tape</unittitle>
+			<unitdate type="inclusive" normal="1990">1990</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">3</container>
+			<unittitle>Installation Ceremony Dr. Charlene Drew Jarvis Video Tape</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">4</container>
+			<unittitle>Jarvis for Chair 3x30 PSA's Video Tape</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">5</container>
+			<unittitle>15th Annual District of Columbia Association for Retarded Citizens Conference Video Tape</unittitle>
+			<unitdate type="inclusive" normal="1989">1989</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">6</container>
+			<unittitle>Jarvis Speech at Democratic National Convention Video Tape</unittitle>
+			<unitdate type="inclusive" normal="1988">1988</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">7</container>
+			<unittitle>Democratic Convention 1992 - Eleanor Holmes Newton Support Group Video Tape</unittitle>
+			<unitdate type="inclusive" normal="1992">1992</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">8</container>
+			<unittitle>Jarvis Nightline Video Tape</unittitle>
+			<unitdate type="inclusive" normal="1994">1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">9</container>
+			<unittitle>Council Salaries Video Tape</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">10</container>
+			<unittitle>Woldnet - K. Herber - C. Jarvis Video Tape</unittitle>
+			<unitdate type="inclusive" normal="1991">1991</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">11</container>
+			<unittitle>Decision '92 Clinton Yes Video Tape</unittitle>
+			<unitdate type="inclusive" normal="1992">1992</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">12</container>
+			<unittitle>B/H Smith Housing Video Tape</unittitle>
+			<unitdate type="inclusive" normal="1993">1993</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">13</container>
+			<unittitle>Selected Television Clips from the Lincoln Theatre Grand Reopening Video Tape</unittitle>
+			<unitdate type="inclusive" normal="1994">1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">14</container>
+			<unittitle>Banking Jarvis Video Tape</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">1</container>
+			<unittitle>WHAT-TV/ PBS "Here and Now" Video Tape</unittitle>
+			<unitdate type="inclusive" normal="1995">1995</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">2</container>
+			<unittitle>ABC "Turning Point:" The Littlest Heroes- Children with Leukemia - ABC "Nightline:" Dr. E Katz - Dr. Charlene Drew Jarvis- need for minority volunteer donors Video Tape</unittitle>
+			<unitdate type="inclusive" normal="1994">1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">3</container>
+			<unittitle>Worldnet - Charlene Drew Jarvis Video Tape</unittitle>
+			<unitdate type="inclusive" normal="1994">1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">4</container>
+			<unittitle>ABC "Nightline:" Dr. E Katz - Dr. Charlene Drew Jarvis- need for minority volunteer donors Video Tape</unittitle>
+			<unitdate type="inclusive" normal="1994">1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">5</container>
+			<unittitle>Charlene Drew Jarvis Video Platform Video Tape</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">6</container>
+			<unittitle>Whitman Walker Clinic Video Tape</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">7</container>
+			<unittitle>Friday 4/7/00 EduLibRec Hearing Budget Fall 2001 Video Tape</unittitle>
+			<unitdate type="inclusive" normal="2001">2001</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">8</container>
+			<unittitle>Thomas Video Tape</unittitle>
+			<unitdate type="inclusive" normal="1984">1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">1</container>
+			<unittitle>Charlene Drew Jarvis in Appreciation for Devoted Service to the Shepard School Family Award</unittitle>
+			<unitdate type="inclusive" normal="1991/1992">1991-1992</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">2</container>
+			<unittitle>The Barney Emblem Award for Councilmember Charlene Drew-Jarvis for Generous Support of Services to Youth, Adults and Senior Citizens</unittitle>
+			<unitdate type="inclusive" normal="1992">1992</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">3</container>
+			<unittitle>Councilmember Charlene Drew Jarvis in Appreciation for Your Support from Caribbean Business Persons of Ward 4 Award</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">4</container>
+			<unittitle>The Honorable Charlene Drew Jarvis Barry Farm "Delivering on a Commitment" Award</unittitle>
+			<unitdate type="inclusive" normal="1988">1988</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">5</container>
+			<unittitle>Presented to Charlene Drew Jarvis Thanks for your Support on our Behalf and the Behalf of all Minority Enterprises in Washington D.C. Award</unittitle>
+			<unitdate type="inclusive" normal="1983">1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">6</container>
+			<unittitle>In Recognition and Appreciation to Honorable Charlene Drew Jarvis Ward Four for Services and Commitment to Advisory Neighborhood Commission 4D Community Award</unittitle>
+			<unitdate type="inclusive" normal="1997">1997</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">7</container>
+			<unittitle>On the Occasion of the 20th Anniversary of the Peoples Involvement Corporation Presented to Charlene Drew Jarvis in Recognition of Her Outstanding Leadership and Support Award</unittitle>
+			<unitdate type="inclusive" normal="1987">1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">8</container>
+			<unittitle>Award for Distinguished Service to Charlene Drew Jarvis for Devoted Volunteer Participation in the Cause of Cancer Control by a Government Employee in Washington D.C.</unittitle>
+			<unitdate type="inclusive" normal="1994">1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">9</container>
+			<unittitle>Presented to the Honorable Charlene Drew Jarvis by the Marshall Heights Community Development Organization Board of Directors In Recognition of Your Leadership in the Economic Revitalization of Ward 7 Award</unittitle>
+			<unitdate type="inclusive" normal="1985">1985</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">10</container>
+			<unittitle>Honorable Charlene Drew Jarvis Council Member Ward 4 With Great Appreciation for Outstanding Leadership from Constituents of ANC-4D Single Member Districts 4D01 and 4D03 We Applaud You Award</unittitle>
+			<unitdate type="inclusive" normal="1997">1997</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">11</container>
+			<unittitle>Florida AandM University Presented to Dr. Charlene Drew Jarvis in Appreciation for the Spring 1991 Commencement Address. Thanks for Your Thought Provoking Comments and for Your Commitment to Humanity Award</unittitle>
+			<unitdate type="inclusive" normal="1991">1991</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">12</container>
+			<unittitle>Appreciation Award: The Honorable Charlene Drew Jarvis - The District of Columbia School Counselor Association Award</unittitle>
+			<unitdate type="inclusive" normal="1990">1990</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">13</container>
+			<unittitle>National Black Caucus of State Legislators 1994 Membership Dues Paid</unittitle>
+			<unitdate type="inclusive" normal="1994">1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">14</container>
+			<unittitle>The Chancellor Williams Award: Charlene Drew Jarvis - For Your Outstanding Achievements and Services to Humanity Award</unittitle>
+			<unitdate type="inclusive" normal="1981">1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">15</container>
+			<unittitle>Certificate of Appreciation Presented to Charlene Drew Jarvis for Outstanding and Dedicated Service Peoples Involvement Corporation</unittitle>
+			<unitdate type="inclusive" normal="1985">1985</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">16</container>
+			<unittitle>District of Columbia Health Care Association Special Recognition Award Charlene Drew Jarvis Council Member Ward 4: For Achieving both Recognition and the Appreciation by the Members of the DC Health Care Association</unittitle>
+			<unitdate type="inclusive" normal="1993">1993</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">17</container>
+			<unittitle>Public Service Award Council Member Charlene Drew Jarvis Beta Zeta Chapter Zeta Phi Beta Sorority Incorporated</unittitle>
+			<unitdate type="inclusive" normal="1981">1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">18</container>
+			<unittitle>Charlene Drew Jarvis for Special Inspiration and Service for Roosevelt High School Science Students Award</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">19</container>
+			<unittitle>Educational Organization for United Latin Americans/ Spanish Senior Center: Presented to Charlene Drew Jarvis in Recognition of Your Support of the Educational Organization for United Latin Americans and the Hispanic Community Award</unittitle>
+			<unitdate type="inclusive" normal="1998">1998</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">20</container>
+			<unittitle>Charles Drew Health Center: 4th Annual Board of Directors Special Recognition Award Presented to Charlene Drew Jarvis</unittitle>
+			<unitdate type="inclusive" normal="1987">1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">17</container>
+			<container type="Folder">1</container>
+			<unittitle>Charlene Drew Jarvis Public Service Award</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">17</container>
+			<container type="Folder">2</container>
+			<unittitle>The Greater Washington Urban League Inc. Whitney M. Young Jr. Community Service Award for Excellent Service to Education Presented to Honorable Charlene Drew Jarvis</unittitle>
+			<unitdate type="inclusive" normal="1998">1998</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">17</container>
+			<container type="Folder">3</container>
+			<unittitle>America's Millennium/ William J. Clinton 2000 - William McKinley 1900 - John Adams - 1800 Award</unittitle>
+			<unitdate type="inclusive" normal="2000">2000</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">17</container>
+			<container type="Folder">4</container>
+			<unittitle>Gallery Place: The Groundbreaking Award</unittitle>
+			<unitdate type="inclusive" normal="1999">1999</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">17</container>
+			<container type="Folder">5</container>
+			<unittitle>Charlene Drew Jarvis Councilmember Thank You Frank Tucker and CACS Award</unittitle>
+			<unitdate type="inclusive" normal="1999">1999</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">17</container>
+			<container type="Folder">6</container>
+			<unittitle>Make Your Mark Beam Signing Ceremony: Washington Convention Center Award</unittitle>
+			<unitdate type="inclusive" normal="2000">2000</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">17</container>
+			<container type="Folder">7</container>
+			<unittitle>Washington Convention Center Authority (Washington</unittitle>
+			<unitdate type="inclusive" normal="1998">1998</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">17</container>
+			<container type="Folder">8</container>
+			<unittitle>Charlene Drew Jarvis: The Buck Stops Here! Award</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">17</container>
+			<container type="Folder">9</container>
+			<unittitle>The Honorable Charlene Drew Jarvis in Recognition of Your Outstanding Commitment and Support - District of Columbia Industrial Revenue Bond Award</unittitle>
+			<unitdate type="inclusive" normal="1986">1986</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">17</container>
+			<container type="Folder">10</container>
+			<unittitle>The Victor Building: Construction Commencement Celebration Award</unittitle>
+			<unitdate type="inclusive" normal="1998">1998</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">17</container>
+			<container type="Folder">11</container>
+			<unittitle>D.C. Housing Finance Agency Award</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">17</container>
+			<container type="Folder">12</container>
+			<unittitle>Gold plated 3 leaf clover paperweight with the "May the Road Rise Up to Meet You" Irish Blessing Award</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">17</container>
+			<container type="Folder">13</container>
+			<unittitle>The National Theatre 150th Anniversary - 1835-1985 Award</unittitle>
+			<unitdate type="inclusive" normal="1985">1985</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">17</container>
+			<container type="Folder">14</container>
+			<unittitle>Courtyard by Marriott Convention Center Washington D.C. Award</unittitle>
+			<unitdate type="inclusive" normal="1999">1999</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">17</container>
+			<container type="Folder">15</container>
+			<unittitle>NABW Capital Group 10-22-87 Award</unittitle>
+			<unitdate type="inclusive" normal="1987">1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">18</container>
+			<container type="Folder">1</container>
+			<unittitle>The Fred Fiske Show - Sterling Tucker Cassette Tape</unittitle>
+			<unitdate type="inclusive" normal="1978">1978</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">18</container>
+			<container type="Folder">2</container>
+			<unittitle>Dr. Charlene Drew Jarvis Ward Four Cassette Tape</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">18</container>
+			<container type="Folder">3</container>
+			<unittitle>Monolog: Silk Shadows Cassette Tape</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">18</container>
+			<container type="Folder">4</container>
+			<unittitle>Jarvis 2000 Cassette Tape</unittitle>
+			<unitdate type="inclusive" normal="2000">2000</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">18</container>
+			<container type="Folder">5</container>
+			<unittitle>Jarvis 96- English Cassette Tape</unittitle>
+			<unitdate type="inclusive" normal="1996">1996</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">18</container>
+			<container type="Folder">6</container>
+			<unittitle>McGinty 1-3-97 Cassette Tape</unittitle>
+			<unitdate type="inclusive" normal="1997">1997</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">18</container>
+			<container type="Folder">7</container>
+			<unittitle>Metropolitan Washington Planning and Housing Association Crosstrek WDCU-FM Cassette Tape</unittitle>
+			<unitdate type="inclusive" normal="1988">1988</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">18</container>
+			<container type="Folder">8</container>
+			<unittitle>"New Election Press Conference Cassette Tape</unittitle>
+			<unitdate type="inclusive" normal="1978">1978</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">18</container>
+			<container type="Folder">9</container>
+			<unittitle>Drum-Insight Part 2 Cassette Tape</unittitle>
+			<unitdate type="inclusive" normal="1985">1985</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">18</container>
+			<container type="Folder">10</container>
+			<unittitle>D.C. Politics Cassette Tape</unittitle>
+			<unitdate type="inclusive" normal="1996">1996</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">18</container>
+			<container type="Folder">11</container>
+			<unittitle>"From Whence We Came" Cassette Tape</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">18</container>
+			<container type="Folder">12</container>
+			<unittitle>Jarvis in '88 Ward 4 DC Cassette Tape</unittitle>
+			<unitdate type="inclusive" normal="1988">1988</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">18</container>
+			<container type="Folder">13</container>
+			<unittitle>Charlene Drew Jarvis Interview Cassette Tape</unittitle>
+			<unitdate type="inclusive" normal="1997">1997</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">18</container>
+			<container type="Folder">14</container>
+			<unittitle>Jarvis in '88 Ward 4 DC Cassette Tape</unittitle>
+			<unitdate type="inclusive" normal="1988">1988</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">18</container>
+			<container type="Folder">15</container>
+			<unittitle>Jarvis in '88 Ward 4 DC Cassette Tape</unittitle>
+			<unitdate type="inclusive" normal="1988">1988</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">18</container>
+			<container type="Folder">16</container>
+			<unittitle>Jarvis in '88 Ward 4 DC Cassette Tape</unittitle>
+			<unitdate type="inclusive" normal="1988">1988</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">18</container>
+			<container type="Folder">17</container>
+			<unittitle>Mixtape Cassette Tape</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">18</container>
+			<container type="Folder">18</container>
+			<unittitle>News Report Cassette Tape</unittitle>
+			<unitdate type="inclusive" normal="1997">1997</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">18</container>
+			<container type="Folder">19</container>
+			<unittitle>Council Meeting Minutes Cassette Tape</unittitle>
+			<unitdate type="inclusive" normal="1983">1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">18</container>
+			<container type="Folder">20</container>
+			<unittitle>Interview Practice Cassette Tape</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">18</container>
+			<container type="Folder">21</container>
+			<unittitle>Charlene Drew Jarvis Audio Tape</unittitle>
+			<unitdate type="inclusive" normal="1982">1982</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">18</container>
+			<container type="Folder">22</container>
+			<unittitle>Affordable Housing Solutions: How Can I Afford to Buy a House? Side 1 Audio Tape</unittitle>
+			<unitdate type="inclusive" normal="1989">1989</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">18</container>
+			<container type="Folder">23</container>
+			<unittitle>Affordable Housing Solutions: How Can I Afford to Buy a House? End Panel I - How Can I find a Decent and Affordable Apartment? Panel II Audio Tape</unittitle>
+			<unitdate type="inclusive" normal="1989">1989</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">18</container>
+			<container type="Folder">24</container>
+			<unittitle>#28</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+</c01>
+</dsc>
+</archdesc>
+</ead>
