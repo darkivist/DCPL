@@ -1,3 +1,4 @@
+# README
 Developer -> Source - > XML Maps -> Add
 Drag the items from the right (container 1, container 2, etc.) to spreadsheet columns A, B, C, etc.
 Paste in relevant information, click “Export”.
