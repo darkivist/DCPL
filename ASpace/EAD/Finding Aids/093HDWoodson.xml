@@ -1,0 +1,198 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type="text/xml" href="I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/eadcbs6rev.xsl"?><!DOCTYPE ead PUBLIC "-//Society of American Archivists//DTD ead.dtd (Encoded Archival Description (EAD) Version 1.0)//EN" "I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/ead.dtd">
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" repositoryencoding="iso15511" relatedencoding="MARC21">
+	<eadid mainagencycode="DWP" countrycode="US" url="http://washingtoniana.dclibrary.org">093HDWoodson</eadid>
+<filedesc>
+<titlestmt>
+	<titleproper encodinganalog="245$a">HD Woodson and Metropolitan AME Church</titleproper>
+	<subtitle>An inventory of HD Woodson and Metropolitan AME Church at DC Public Library</subtitle>
+	<author encodinganalog="245$c">Finding aid prepared by Ryan P. Semmes.</author>
+</titlestmt>
+<publicationstmt>
+<publisher encodinganalog="260$b">DC Public Library, Special Collections</publisher>
+	<date type="publication" encodinganalog="260$c" normal="2006-12">2006-12</date>
+<address><addressline>901 G Street NW</addressline><addressline>DC Public Library</addressline><addressline>Washington, D.C. 20009</addressline></address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation encodinganalog="500">EAD encoded by Paul Kelly on
+	<date normal="2017-04-21">2017-04-21</date>
+</creation>
+<langusage>English</langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory" relatedencoding="MARC21">
+<did id="a1">
+<head>Descriptive Summary</head>
+<repository label="Repository:" encodinganalog="852$a"><corpname>DC Public Library, Special Collections</corpname></repository>
+	<unitdate encodinganalog="260$c" label="Dates:" type="inclusive" normal="1852/1913">1852-1913</unitdate>
+	<unittitle label="Title:" encodinganalog="245$a">HD Woodson and Metropolitan AME Church Collection</unittitle>
+<physdesc label="Extent:" encodinganalog="300$a"><extent>0.5 linear feet; 1 box</extent></physdesc>
+<unitid encodinganalog="090" label="Collection Number:" countrycode="US" repositorycode="DCU">093</unitid>
+<langmaterial encodinganalog="041" label="Language:"><language langcode="eng">English</language></langmaterial>
+</did>
+	
+<dsc type="combined" id="a23">
+<head>Detailed Description of the Collection</head>
+<c01 level="series">
+   <did>
+	<unittitle>Series 1</unittitle>
+    </did>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">1</container>
+			<unittitle>Catalogue - Allegheny Institute</unittitle>
+			<unitdate type="inclusive" normal="1852">1852</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">2</container>
+			<unittitle>Commencement Program - Western University of Pennsylvania</unittitle>
+			<unitdate type="inclusive" normal="1899">1899</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">3</container>
+			<unittitle>McQueen and Odenwald - Electrical Contract</unittitle>
+			<unitdate type="inclusive" normal="1913">1913</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">4</container>
+			<unittitle>Metropolitan A. M. E. - Annual Report of the Librarian</unittitle>
+			<unitdate type="inclusive" normal="1912">1912</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">5</container>
+			<unittitle>Metropolitan A. M. E. - Directions for Beginners in Practical Christianity</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">6</container>
+			<unittitle>Metropolitan A. M. E. - Men and Religion Forward Movement</unittitle>
+			<unitdate type="inclusive" normal="1912">1912</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">7</container>
+			<unittitle>Metropolitan A. M. E. - Money for Chairs</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">8</container>
+			<unittitle>Metropolitan A. M. E. - Monthly Reports</unittitle>
+			<unitdate type="inclusive" normal="1911/1912">1911-1912</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">9</container>
+			<unittitle>Metropolitan A. M. E. - Publications List</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">10</container>
+			<unittitle>Metropolitan A. M. E. - The Resultants of Emancipation</unittitle>
+			<unitdate type="inclusive" normal="1870">1870</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">11</container>
+			<unittitle>Metropolitan A. M. E. - Standards of Service</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">12</container>
+			<unittitle>Metropolitan A. M. E. - Sunday school Class List</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">13</container>
+			<unittitle>Metropolitan A. M. E. - Treasurer’s Reports</unittitle>
+			<unitdate type="inclusive" normal="1911/1912">1911-1912</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">14</container>
+			<unittitle>Metropolitan A. M. E. - Work Estimate</unittitle>
+			<unitdate type="inclusive" normal="1912">1912</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">15</container>
+			<unittitle>Pittsburgh City Tax Levy</unittitle>
+			<unitdate type="inclusive" normal="1913">1913</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">16</container>
+			<unittitle>Pittsburgh - Sunday school Class List</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">17</container>
+			<unittitle>Postcards</unittitle>
+			<unitdate type="inclusive" normal="1912">1912</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">18</container>
+			<unittitle>Proceedings of the National Convention of the Colored Men of America</unittitle>
+			<unitdate type="inclusive" normal="1869">1869</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">19</container>
+			<unittitle>Supply Lists</unittitle>
+			<unitdate type="inclusive" normal="1912/1913">1912-1913</unitdate>
+		</did>
+	</c02>
+</c01>
+</dsc>
+</archdesc>
+</ead>

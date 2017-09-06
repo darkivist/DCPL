@@ -1,0 +1,2670 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type="text/xml" href="I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/eadcbs6rev.xsl"?><!DOCTYPE ead PUBLIC "-//Society of American Archivists//DTD ead.dtd (Encoded Archival Description (EAD) Version 1.0)//EN" "I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/ead.dtd">
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" repositoryencoding="iso15511" relatedencoding="MARC21">
+	<eadid mainagencycode="DWP" countrycode="US" url="http://washingtoniana.dclibrary.org">048Butler</eadid>
+<filedesc>
+<titlestmt>
+	<titleproper encodinganalog="245$a">Josephine Butler</titleproper>
+	<subtitle>An inventory of Josephine Butler at DC Public Library</subtitle>
+	<author encodinganalog="245$c">Finding aid prepared by DC Africana Archives Project.</author>
+</titlestmt>
+<publicationstmt>
+<publisher encodinganalog="260$b">DC Public Library Special Collections</publisher>
+<address><addressline>901 G Street NW</addressline><addressline>DC Public Library</addressline><addressline>Washington, D.C. 20009</addressline></address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation encodinganalog="500">EAD encoded by Paul Kelly on
+	<date normal="2017-05-18">2017-05-18</date>
+</creation>
+<langusage>English</langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory" relatedencoding="MARC21">
+<did id="a1">
+<head>Descriptive Summary</head>
+<repository label="Repository:" encodinganalog="852$a"><corpname>DC Public Library, Special Collections</corpname></repository>
+	<unitdate encodinganalog="260$c" label="Dates:" type="inclusive" normal="1965/2006">1965-2006</unitdate>
+	<unittitle label="Title:" encodinganalog="245$a">Josephine Butler Papers</unittitle>
+<physdesc label="Extent:" encodinganalog="300$a"><extent>20 cubic feet; 19 boxes</extent></physdesc>
+<unitid encodinganalog="090" label="Collection Number:" countrycode="US" repositorycode="DCU">048-001</unitid>
+<langmaterial encodinganalog="041" label="Language:"><language langcode="eng">English</language></langmaterial>
+</did>
+	
+<dsc type="combined" id="a23">
+<head>Detailed Description of the Collection</head>
+<c01 level="series">
+   <did>
+	<unittitle>Series 1</unittitle>
+    </did>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">1</container>
+			<unittitle>Newspapers 1 of 2</unittitle>
+			<unitdate type="inclusive" normal="1978/1985">1978-1985</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">2</container>
+			<unittitle>Newspapers 2 of 2</unittitle>
+			<unitdate type="inclusive" normal="1974/1985">1974-1985</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">3</container>
+			<unittitle>Mary McLeod Articles and Documents</unittitle>
+			<unitdate type="inclusive" normal="1982">1982</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">4</container>
+			<unittitle>Photographs</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">5</container>
+			<unittitle>Programs and Pamphlets</unittitle>
+			<unitdate type="inclusive" normal="1981/1982">1981-1982</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">6</container>
+			<unittitle>Soviet Uzbekistan</unittitle>
+			<unitdate type="inclusive" normal="1980">1980</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">7</container>
+			<unittitle>Applications and Health Info</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">8</container>
+			<unittitle>Correspondence</unittitle>
+			<unitdate type="inclusive" normal="1978/1984">1978-1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">9</container>
+			<unittitle>Women's Activism Documents and Ads</unittitle>
+			<unitdate type="inclusive" normal="1984">1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">10</container>
+			<unittitle>Cards/Invitations/Post Cards</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">11</container>
+			<unittitle>Superior Court Order</unittitle>
+			<unitdate type="inclusive" normal="1984">1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">12</container>
+			<unittitle>Position Papers</unittitle>
+			<unitdate type="inclusive" normal="1984">1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">13</container>
+			<unittitle>Healthcare Invoices and Claims Forms</unittitle>
+			<unitdate type="inclusive" normal="1983/1984">1983-1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">14</container>
+			<unittitle>Campaign Planning - Position Descriptions and Press Release</unittitle>
+			<unitdate type="inclusive" normal="1982">1982</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">15</container>
+			<unittitle>Josephine Butler Campaign Advertisements</unittitle>
+			<unitdate type="inclusive" normal="1984">1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">1</container>
+			<unittitle>Paul Robeson Articles (1 of 3)</unittitle>
+			<unitdate type="inclusive" normal="1976/1989">1976-1989</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">2</container>
+			<unittitle>Paul Robeson Articles (2 of 3)</unittitle>
+			<unitdate type="inclusive" normal="1976/1989">1976-1989</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">3</container>
+			<unittitle>Paul Robeson Articles (3 of 3)</unittitle>
+			<unitdate type="inclusive" normal="1976/1989">1976-1989</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">4</container>
+			<unittitle>Soviet Union Articles and Related Papers</unittitle>
+			<unitdate type="inclusive" normal="1979/1988">1979-1988</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">5</container>
+			<unittitle>Paul Robeson Newspaper Articles</unittitle>
+			<unitdate type="inclusive" normal="1976/1983">1976-1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">6</container>
+			<unittitle>Civil Rights Articles</unittitle>
+			<unitdate type="inclusive" normal="1981/1984">1981-1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">7</container>
+			<unittitle>Statehood and Salutation and Articles</unittitle>
+			<unitdate type="inclusive" normal="1982">1982</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">8</container>
+			<unittitle>Hansib Community Awards</unittitle>
+			<unitdate type="inclusive" normal="1989">1989</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">9</container>
+			<unittitle>Alternative Housing D.C.</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">10</container>
+			<unittitle>New World Review</unittitle>
+			<unitdate type="inclusive" normal="1976/1977">1976-1977</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">1</container>
+			<unittitle>The People's Windward Island Shipwrights</unittitle>
+			<unitdate type="inclusive" normal="1983">1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">2</container>
+			<unittitle>Invitation List</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">3</container>
+			<unittitle>Israeli Palestinian Articles and Articles on Ethiopia 1 (1 of 2)</unittitle>
+			<unitdate type="inclusive" normal="1980/1985">1980-1985</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">4</container>
+			<unittitle>Israeli Palestinian Articles and Articles on Ethiopia 1 (2 of 2)</unittitle>
+			<unitdate type="inclusive" normal="1980/1985">1980-1985</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">5</container>
+			<unittitle>Palestine Aid Society Papers</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">6</container>
+			<unittitle>Freedomways</unittitle>
+			<unitdate type="inclusive" normal="1983">1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">7</container>
+			<unittitle>ADC Reports</unittitle>
+			<unitdate type="inclusive" normal="1984">1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">8</container>
+			<unittitle>World Peace Council - Session of the Presidential Committee Meeting</unittitle>
+			<unitdate type="inclusive" normal="1981">1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">9</container>
+			<unittitle>American-Arab Anti-Discrimination Committee Member Letter</unittitle>
+			<unitdate type="inclusive" normal="1985">1985</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">10</container>
+			<unittitle>Legal Aid Pamphlet</unittitle>
+			<unitdate type="inclusive" normal="1984">1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">11</container>
+			<unittitle>ADC National Convention Invitation</unittitle>
+			<unitdate type="inclusive" normal="1984">1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">12</container>
+			<unittitle>Lawrence Guyot ANC Ibol Flyer</unittitle>
+			<unitdate type="inclusive" normal="2006">2006</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">13</container>
+			<unittitle>Free West Indian - The National Newspaper of Free Grenada</unittitle>
+			<unitdate type="inclusive" normal="1979">1979</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">14</container>
+			<unittitle>PHRC Meeting Sign in Sheet</unittitle>
+			<unitdate type="inclusive" normal="1983">1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">15</container>
+			<unittitle>Survival Fest 84</unittitle>
+			<unitdate type="inclusive" normal="1984">1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">16</container>
+			<unittitle>One Year Later: The Prisoners at Ansar</unittitle>
+			<unitdate type="inclusive" normal="1983">1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">17</container>
+			<unittitle>The Link: The Sorrow of Lebanon Journal</unittitle>
+			<unitdate type="inclusive" normal="1978">1978</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">18</container>
+			<unittitle>Sabra Shatilia Commemoration Committee Publication</unittitle>
+			<unitdate type="inclusive" normal="1983">1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">19</container>
+			<unittitle>Middle East Peace Action Coalition Minutes</unittitle>
+			<unitdate type="inclusive" normal="1980">1980</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">20</container>
+			<unittitle>Freedom for Ziad Stickers</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">21</container>
+			<unittitle>Memorandum on Human Rights Conditions</unittitle>
+			<unitdate type="inclusive" normal="1982">1982</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">22</container>
+			<unittitle>ADC Action Alerts and Reports</unittitle>
+			<unitdate type="inclusive" normal="1984">1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">23</container>
+			<unittitle>Taking Root Bearing Fruit</unittitle>
+			<unitdate type="inclusive" normal="1984">1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">24</container>
+			<unittitle>Articles and Journals about Grenada</unittitle>
+			<unitdate type="inclusive" normal="1982/1983">1982-1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">25</container>
+			<unittitle>Joint Committee for Women's Rights - Article on Maternity Leave Struggle in Jamaica</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">26</container>
+			<unittitle>The Josephine Butler Story Article</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">1</container>
+			<unittitle>The People's Windward Island Shipwrights Charts</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">2</container>
+			<unittitle>Address Stickers and Lists</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">3</container>
+			<unittitle>US Grenada Friendship Society Bulletins - New Releases and Bylaws</unittitle>
+			<unitdate type="inclusive" normal="1980/1983">1980-1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">4</container>
+			<unittitle>Newspaper Articles on the Caribbean</unittitle>
+			<unitdate type="inclusive" normal="1980/1983">1980-1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">5</container>
+			<unittitle>Studies on Puerto Rico and History</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">6</container>
+			<unittitle>Prime Minister Maurice Bishop New Year Message</unittitle>
+			<unitdate type="inclusive" normal="1983">1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">7</container>
+			<unittitle>Festival of the Revolution Address List</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">8</container>
+			<unittitle>State Department Correspondence</unittitle>
+			<unitdate type="inclusive" normal="1975">1975</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">9</container>
+			<unittitle>List of Interventions in the Caribbean - 1900-1983</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">10</container>
+			<unittitle>Grenada Discussion Poster</unittitle>
+			<unitdate type="inclusive" normal="1983">1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">11</container>
+			<unittitle>Articles</unittitle>
+			<unitdate type="inclusive" normal="1983">1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">12</container>
+			<unittitle>Carribean Conference of Chruches Points and Initiative</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">13</container>
+			<unittitle>First International Conference in Solidarity</unittitle>
+			<unitdate type="inclusive" normal="1981">1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">14</container>
+			<unittitle>Resolution on Grenada</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">15</container>
+			<unittitle>Solidarity Sign in Sheet</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">16</container>
+			<unittitle>US Grenada Friendship Society Correspondence</unittitle>
+			<unitdate type="inclusive" normal="1980/1983">1980-1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">17</container>
+			<unittitle>US Grenada Friendship Society Meeting Minutes and Cash Reports</unittitle>
+			<unitdate type="inclusive" normal="1980/1983">1980-1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">18</container>
+			<unittitle>Grenada Friendship Society Petition</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">19</container>
+			<unittitle>New World Review Newsletter</unittitle>
+			<unitdate type="inclusive" normal="1976">1976</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">20</container>
+			<unittitle>National Conference on Women</unittitle>
+			<unitdate type="inclusive" normal="1979">1979</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">1</container>
+			<unittitle>Fidel Castro Main Report</unittitle>
+			<unitdate type="inclusive" normal="1981">1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">2</container>
+			<unittitle>Tony Lee's Lecture about Visiting the Soviet Union</unittitle>
+			<unitdate type="inclusive" normal="1981">1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">3</container>
+			<unittitle>Friendship News Newsletters</unittitle>
+			<unitdate type="inclusive" normal="1987/1988">1987-1988</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">4</container>
+			<unittitle>City of Magnificent Intentions</unittitle>
+			<unitdate type="inclusive" normal="1976">1976</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">5</container>
+			<unittitle>Constitution of the State of Columbia</unittitle>
+			<unitdate type="inclusive" normal="1982">1982</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">6</container>
+			<unittitle>Congress Roster</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">7</container>
+			<unittitle>Congratulations Card</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">8</container>
+			<unittitle>Breira- A Project of Concern in Diaspora-Israel Relations Peace Now</unittitle>
+			<unitdate type="inclusive" normal="1978">1978</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">9</container>
+			<unittitle>The Longest Walk</unittitle>
+			<unitdate type="inclusive" normal="1978">1978</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">10</container>
+			<unittitle>Exclusive: Angela Answers 13 Questions</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">11</container>
+			<unittitle>People to People: A Film Premiere on Citizen Diplomacy</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">12</container>
+			<unittitle>Homerule Now Stickers</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">13</container>
+			<unittitle>Parliamentary Procedure Lessons</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">14</container>
+			<unittitle>Paul Robeson Friendship Society of Washington DC</unittitle>
+			<unitdate type="inclusive" normal="1982/1984">1982-1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">15</container>
+			<unittitle>Paul Robeson Friendship Society of Correspondence</unittitle>
+			<unitdate type="inclusive" normal="1976/1983">1976-1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">16</container>
+			<unittitle>Grenada: A Preliminary Report</unittitle>
+			<unitdate type="inclusive" normal="1983">1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">17</container>
+			<unittitle>Index of Documents for Public Release - II</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">18</container>
+			<unittitle>Central Committee Correspondence/Minutes/Reports</unittitle>
+			<unitdate type="inclusive" normal="1982/1983">1982-1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">19</container>
+			<unittitle>US Grenada Friendship Society Sponsorship Reciept</unittitle>
+			<unitdate type="inclusive" normal="1980">1980</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">20</container>
+			<unittitle>Newspaper Articles</unittitle>
+			<unitdate type="inclusive" normal="1984">1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">21</container>
+			<unittitle>Journey to Mount Robeson in the Soviet Union Brochure</unittitle>
+			<unitdate type="inclusive" normal="1982">1982</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">22</container>
+			<unittitle>The Greatest All American Day Info</unittitle>
+			<unitdate type="inclusive" normal="1983">1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">23</container>
+			<unittitle>Grenada Revolution Commeration Invitation</unittitle>
+			<unitdate type="inclusive" normal="1980">1980</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">24</container>
+			<unittitle>American Friends Service Committee Correspondence</unittitle>
+			<unitdate type="inclusive" normal="1984">1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">25</container>
+			<unittitle>Boston Grenada Solidarity Committee Press Release</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">26</container>
+			<unittitle>Comrade Tony Boatain Bullet Point</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">27</container>
+			<unittitle>Guilty by Association Tony and Susan Alamo Brochure</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">28</container>
+			<unittitle>Reception Programs</unittitle>
+			<unitdate type="inclusive" normal="1983">1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">29</container>
+			<unittitle>Address and Phone Number Lists</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">30</container>
+			<unittitle>Newspapers on Grenada</unittitle>
+			<unitdate type="inclusive" normal="1983">1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">31</container>
+			<unittitle>Unitarian Universalist Papers</unittitle>
+			<unitdate type="inclusive" normal="1983/1985">1983-1985</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">32</container>
+			<unittitle>Philippines- American Relations</unittitle>
+			<unitdate type="inclusive" normal="1990">1990</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">33</container>
+			<unittitle>American Lung Association Bulletin: The Spitting Image of Smoking</unittitle>
+			<unitdate type="inclusive" normal="1976">1976</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">34</container>
+			<unittitle>Freedom for Ziad Stickers</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">1</container>
+			<unittitle>Chairs Present List</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">2</container>
+			<unittitle>Notebook of Possible Commanders of Grenada's Military Region</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">3</container>
+			<unittitle>Ministry of Defence - USSR Certificate</unittitle>
+			<unitdate type="inclusive" normal="1983">1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">4</container>
+			<unittitle>Minutes of Organising Committee - 18-4-83</unittitle>
+			<unitdate type="inclusive" normal="1983">1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">5</container>
+			<unittitle>Minutes of Political/Economic Bureau</unittitle>
+			<unitdate type="inclusive" normal="1983">1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">6</container>
+			<unittitle>Cadet Correspondence</unittitle>
+			<unitdate type="inclusive" normal="1983">1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">7</container>
+			<unittitle>Extraordinary Meeting of the Central Committee NJM</unittitle>
+			<unitdate type="inclusive" normal="1983">1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">8</container>
+			<unittitle>Work flaw Guidelines for the Party's Propaganda Department</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">9</container>
+			<unittitle>Political Education in Armed Forces Paper</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">10</container>
+			<unittitle>Material Means Received from Foreign Countries</unittitle>
+			<unitdate type="inclusive" normal="1979/1981">1979-1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">11</container>
+			<unittitle>Embajada De Grenada en Cuba</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">12</container>
+			<unittitle>Ian Jacobs Paper</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">13</container>
+			<unittitle>Minutes of Meeting of Committee of Economic Ministers</unittitle>
+			<unitdate type="inclusive" normal="1983">1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">14</container>
+			<unittitle>Bulletin from the Main Political Department</unittitle>
+			<unitdate type="inclusive" normal="1983">1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">15</container>
+			<unittitle>Report on Meeting of PB and CC</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">16</container>
+			<unittitle>Sixth Sitting of Central Committee Plenary</unittitle>
+			<unitdate type="inclusive" normal="1983">1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">17</container>
+			<unittitle>Central Committee Meeting Notes 8/24/1983</unittitle>
+			<unitdate type="inclusive" normal="1983">1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">18</container>
+			<unittitle>USSR and Grenada Agreement</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">19</container>
+			<unittitle>USSR</unittitle>
+			<unitdate type="inclusive" normal="1980">1980</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">20</container>
+			<unittitle>Republic of Cuba and Revolutionary Government of Grenada Protocol</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">21</container>
+			<unittitle>People's Revolutionary Government of Grenada and Government of Democratic People's Republic of Korea Agreement</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">22</container>
+			<unittitle>List of Individual Documents Released November 4 1983</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">23</container>
+			<unittitle>Index of Captured Documents from Grenada</unittitle>
+			<unitdate type="inclusive" normal="1983">1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">24</container>
+			<unittitle>CDE Strachan Papers</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">25</container>
+			<unittitle>Partido Comunista de Cuba/ Comite Central</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">26</container>
+			<unittitle>On the Possible Establishment of a State Trading Corporation for Effecting Grenada's Trade with Socialist Countries</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">27</container>
+			<unittitle>Meeting Notes: Chiefs of Staff SSR and Grenada</unittitle>
+			<unitdate type="inclusive" normal="1983">1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">28</container>
+			<unittitle>Construction Plans</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">29</container>
+			<unittitle>Schedule for the Minster of Defense of Grenada</unittitle>
+			<unitdate type="inclusive" normal="1983">1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">30</container>
+			<unittitle>GM of CM Mon. Sept. 26th</unittitle>
+			<unitdate type="inclusive" normal="1983">1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">31</container>
+			<unittitle>On Cuba's Response to the Issue Paper</unittitle>
+			<unitdate type="inclusive" normal="1983">1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">32</container>
+			<unittitle>Headquarters Notes on Members</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">33</container>
+			<unittitle>1977 Inaugural Guide to Washington</unittitle>
+			<unitdate type="inclusive" normal="1977">1977</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">34</container>
+			<unittitle>State Legislative Statistics</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">35</container>
+			<unittitle>The Congressional Black Caucus Tenth Annual Legislative Weekend Salute to the Black Family</unittitle>
+			<unitdate type="inclusive" normal="1980">1980</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">36</container>
+			<unittitle>Democrats have to take a Stand Article</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">37</container>
+			<unittitle>A Decade of Home Rule: Anniversary Celebration of Home Rule</unittitle>
+			<unitdate type="inclusive" normal="1984">1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">38</container>
+			<unittitle>Report on the General Congress of the World Center for the Resistance of Imperialism, Zionism, Racism, and Reaction</unittitle>
+			<unitdate type="inclusive" normal="1982">1982</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">39</container>
+			<unittitle>Report on Socialist International Bureau Meeting</unittitle>
+			<unitdate type="inclusive" normal="1982">1982</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">40</container>
+			<unittitle>Order of Ambajada de Granada 5 Avenida</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">41</container>
+			<unittitle>Report on Peace Meetings in Lisbon</unittitle>
+			<unitdate type="inclusive" normal="1982">1982</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">42</container>
+			<unittitle>Grenada Site Analysis</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">43</container>
+			<unittitle>Act of Delivery and Reception City of St. George's</unittitle>
+			<unitdate type="inclusive" normal="1983">1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">44</container>
+			<unittitle>In Cooperation Between the New Jewel Movement of Grenada and the Communist Party in the Soviet Union</unittitle>
+			<unitdate type="inclusive" normal="1982">1982</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">45</container>
+			<unittitle>Grenada Correspondence</unittitle>
+			<unitdate type="inclusive" normal="1981/1982">1981-1982</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">46</container>
+			<unittitle>Meeting Notes: CDE Hudson and CDE Lepito</unittitle>
+			<unitdate type="inclusive" normal="1982">1982</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">47</container>
+			<unittitle>Abstract: Grenada's Trends Preceding Maurice Bishop's Murder</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">48</container>
+			<unittitle>Hilda Mason</unittitle>
+			<unitdate type="inclusive" normal="1982">1982</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">1</container>
+			<unittitle>Letter from Tom Richards</unittitle>
+			<unitdate type="inclusive" normal="1984">1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">2</container>
+			<unittitle>Programs</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">3</container>
+			<unittitle>Achievements of the People's Revolutionary Government of Grenada</unittitle>
+			<unitdate type="inclusive" normal="1979">1979</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">4</container>
+			<unittitle>Miscellaneous</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">5</container>
+			<unittitle>Ward One Task Force Correspondence</unittitle>
+			<unitdate type="inclusive" normal="1983">1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">6</container>
+			<unittitle>Salt of the Earth Inc. By Laws</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">7</container>
+			<unittitle>Adams Morgan Advisory Board Neighborhood Commission 1-C</unittitle>
+			<unitdate type="inclusive" normal="1983">1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">8</container>
+			<unittitle>District of Columbia Statehood Constitutional Convention</unittitle>
+			<unitdate type="inclusive" normal="1983">1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">9</container>
+			<unittitle>National Coordinating Council Meeting Minutes - U.S Grenada</unittitle>
+			<unitdate type="inclusive" normal="1982">1982</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">10</container>
+			<unittitle>United States and Grenada Relations</unittitle>
+			<unitdate type="inclusive" normal="1983">1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">11</container>
+			<unittitle>From the Tourist Desk Reprint from Black Enterprise 9/81</unittitle>
+			<unitdate type="inclusive" normal="1981">1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">12</container>
+			<unittitle>James E. Drew Accounting and Correspondence</unittitle>
+			<unitdate type="inclusive" normal="1980/1982">1980-1982</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">13</container>
+			<unittitle>Caribbean Seminar Letter and Response Form</unittitle>
+			<unitdate type="inclusive" normal="1981">1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">14</container>
+			<unittitle>Camp Artek Program</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">15</container>
+			<unittitle>L Zapata Correspondence</unittitle>
+			<unitdate type="inclusive" normal="1983">1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">16</container>
+			<unittitle>Grenada: Press Releases - Statements and New Releases</unittitle>
+			<unitdate type="inclusive" normal="1978/1982">1978-1982</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">17</container>
+			<unittitle>Declaration of the Jamaica Peace Committee</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">18</container>
+			<unittitle>Everybody's Magazine</unittitle>
+			<unitdate type="inclusive" normal="1983">1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">19</container>
+			<unittitle>Caribbean Perspective: A Magazine of World Affairs</unittitle>
+			<unitdate type="inclusive" normal="1983">1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">20</container>
+			<unittitle>Caribbean Conference of Churches: Jamaica Peace Committee</unittitle>
+			<unitdate type="inclusive" normal="1983">1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">21</container>
+			<unittitle>Coalition to Stop US Intervention in Grenada Roster Outreach Committee</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">22</container>
+			<unittitle>Grenada News: Prime Minister's Message to Grenadians in North America</unittitle>
+			<unitdate type="inclusive" normal="1982">1982</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">23</container>
+			<unittitle>Photos: Bright New Dawn Free Grenada</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">24</container>
+			<unittitle>Destination Mt. Paul Robeson</unittitle>
+			<unitdate type="inclusive" normal="1973">1973</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">25</container>
+			<unittitle>Rules for Black Unity, Survival and Progress and Operation Instructions</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">26</container>
+			<unittitle>Beat Back Destabilizers</unittitle>
+			<unitdate type="inclusive" normal="1979">1979</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">27</container>
+			<unittitle>Congressional Record Articles</unittitle>
+			<unitdate type="inclusive" normal="1983">1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">28</container>
+			<unittitle>Decolonization Committee Takes up Questions of Puerto Rico</unittitle>
+			<unitdate type="inclusive" normal="1979">1979</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">29</container>
+			<unittitle>Chapter Member Letters</unittitle>
+			<unitdate type="inclusive" normal="1984">1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">30</container>
+			<unittitle>The Churchman: A Humanistic Approach to Religion, Ethics and Education</unittitle>
+			<unitdate type="inclusive" normal="1982">1982</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">31</container>
+			<unittitle>Meeting of Integrationist Workers Statement</unittitle>
+			<unitdate type="inclusive" normal="1983">1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">32</container>
+			<unittitle>Military in the Caribbean Articles</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">33</container>
+			<unittitle>Statement by H.E Mr. Maurice Bishop Prime Minster and Minister of Foreign Affairs of Grenada at the 34th Session of the United Nations Grenada Assembly</unittitle>
+			<unitdate type="inclusive" normal="1979">1979</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">34</container>
+			<unittitle>CIA Too Hot for Grenada to Handle</unittitle>
+			<unitdate type="inclusive" normal="1981">1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">35</container>
+			<unittitle>Proposal for Two Day Conference "In Solidarity with Grenada"</unittitle>
+			<unitdate type="inclusive" normal="1981">1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">36</container>
+			<unittitle>An Agreement: US Grenada Society for Friendship and Cultural Relations</unittitle>
+			<unitdate type="inclusive" normal="1981">1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">37</container>
+			<unittitle>D.C Coalition to Stop the US Invasion of Grenada</unittitle>
+			<unitdate type="inclusive" normal="1983">1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">38</container>
+			<unittitle>Third World Women: Our Continuing Struggle</unittitle>
+			<unitdate type="inclusive" normal="1981">1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">39</container>
+			<unittitle>Guyana Information Bulletin</unittitle>
+			<unitdate type="inclusive" normal="1981">1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">40</container>
+			<unittitle>PPP Statement</unittitle>
+			<unitdate type="inclusive" normal="1981">1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">1</container>
+			<unittitle>Statehood Papers - Correspondence and Articles</unittitle>
+			<unitdate type="inclusive" normal="1993">1993</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">2</container>
+			<unittitle>Constitution of the State of New Columbia</unittitle>
+			<unitdate type="inclusive" normal="1982">1982</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">3</container>
+			<unittitle>Vote on Proposed Constitution Newspaper</unittitle>
+			<unitdate type="inclusive" normal="1982">1982</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">4</container>
+			<unittitle>District of Columbia Statehood Constitutional Convention Drafting Session</unittitle>
+			<unitdate type="inclusive" normal="1982">1982</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">5</container>
+			<unittitle>American Psychological Association</unittitle>
+			<unitdate type="inclusive" normal="1981">1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">6</container>
+			<unittitle>Statehood House Bills</unittitle>
+			<unitdate type="inclusive" normal="1985">1985</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">7</container>
+			<unittitle>Statehood Newspaper Articles</unittitle>
+			<unitdate type="inclusive" normal="1982/1993">1982-1993</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">8</container>
+			<unittitle>Islamic/Christian Dialogue</unittitle>
+			<unitdate type="inclusive" normal="1976">1976</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">9</container>
+			<unittitle>Halloween Party Invitations</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">10</container>
+			<unittitle>Statehood Correspondence Papers and Memos</unittitle>
+			<unitdate type="inclusive" normal="1980/1984">1980-1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">1</container>
+			<unittitle>Windfall Tax and Land Tax Articles and Papers</unittitle>
+			<unitdate type="inclusive" normal="1967/1977">1967-1977</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">2</container>
+			<unittitle>Goals and Policies for DC - First District Element of Comprehensive Plan</unittitle>
+			<unitdate type="inclusive" normal="1977">1977</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">3</container>
+			<unittitle>Articles on Congress</unittitle>
+			<unitdate type="inclusive" normal="1980/1993">1980-1993</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">4</container>
+			<unittitle>Caribbean Articles</unittitle>
+			<unitdate type="inclusive" normal="1976/1984">1976-1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">5</container>
+			<unittitle>US Grenada Newspaper Articles</unittitle>
+			<unitdate type="inclusive" normal="1981/1983">1981-1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">6</container>
+			<unittitle>Basis Point Publication</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">7</container>
+			<unittitle>Territories and Insular Possessions</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">8</container>
+			<unittitle>July 11th the Liberty Bell Train to Philadelphia</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">9</container>
+			<unittitle>Hearing Board Report II</unittitle>
+			<unitdate type="inclusive" normal="1978">1978</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">10</container>
+			<unittitle>John F. Graham V. Ruth Clusen Transcript</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">11</container>
+			<unittitle>DC Voting and Election Newspaper Articles</unittitle>
+			<unitdate type="inclusive" normal="1977/1982">1977-1982</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">12</container>
+			<unittitle>A Conference on Alternative Public Policy for Northeastern Cities</unittitle>
+			<unitdate type="inclusive" normal="1976">1976</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">13</container>
+			<unittitle>Julius Hobson</unittitle>
+			<unitdate type="inclusive" normal="1968/1983">1968-1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">14</container>
+			<unittitle>Julia Hobson Articles</unittitle>
+			<unitdate type="inclusive" normal="1981">1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">1</container>
+			<unittitle>Washington Star</unittitle>
+			<unitdate type="inclusive" normal="1977">1977</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">2</container>
+			<unittitle>Grassroots: National Publication of the People's Party</unittitle>
+			<unitdate type="inclusive" normal="1973">1973</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">3</container>
+			<unittitle>Full Employment</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">4</container>
+			<unittitle>Export/Import</unittitle>
+			<unitdate type="inclusive" normal="1979/1980">1979-1980</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">5</container>
+			<unittitle>NYC Urban Coalition Housing Rehabilitation Task Force</unittitle>
+			<unitdate type="inclusive" normal="1976/1977">1976-1977</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">6</container>
+			<unittitle>Economic Principles of the Torah and Messages from Chief Seattle</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">7</container>
+			<unittitle>Comprehensive Plan</unittitle>
+			<unitdate type="inclusive" normal="1983">1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">8</container>
+			<unittitle>Civic Center: An Economic Development Project</unittitle>
+			<unitdate type="inclusive" normal="1977">1977</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">9</container>
+			<unittitle>Office and Professional Employees International Union</unittitle>
+			<unitdate type="inclusive" normal="1970/1972">1970-1972</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">10</container>
+			<unittitle>DC Tuberculosis and Respiratory Disease Association</unittitle>
+			<unitdate type="inclusive" normal="1970/1972">1970-1972</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">11</container>
+			<unittitle>Airforce Magazine</unittitle>
+			<unitdate type="inclusive" normal="1972">1972</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">1</container>
+			<unittitle>Letters and Cards</unittitle>
+			<unitdate type="inclusive" normal="1983/1984">1983-1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">2</container>
+			<unittitle>Anti-Surveillance Legislation Outline</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">3</container>
+			<unittitle>The Daily Rag</unittitle>
+			<unitdate type="inclusive" normal="1973/1974">1973-1974</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">4</container>
+			<unittitle>1985 A Look Ahead: Population Forecasts</unittitle>
+			<unitdate type="inclusive" normal="1985">1985</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">5</container>
+			<unittitle>Local Black Press Contact Sheet</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">6</container>
+			<unittitle>PHUB Meeting/Minutes/Agendas/Papers/Ads (1 of 4)</unittitle>
+			<unitdate type="inclusive" normal="1983/1984">1983-1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">7</container>
+			<unittitle>PHUB Meeting/Minutes/Agendas/Papers/Ads (2 of 4)</unittitle>
+			<unitdate type="inclusive" normal="1983/1984">1983-1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">8</container>
+			<unittitle>PHUB Meeting/Minutes/Agendas/Papers/Ads (3 of 4)</unittitle>
+			<unitdate type="inclusive" normal="1983/1984">1983-1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">9</container>
+			<unittitle>PHUB Meeting/Minutes/Agendas/Papers/Ads (4 of 4)</unittitle>
+			<unitdate type="inclusive" normal="1983/1984">1983-1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">10</container>
+			<unittitle>Federation of Citizens Associations Correspondence</unittitle>
+			<unitdate type="inclusive" normal="1983">1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">11</container>
+			<unittitle>Press Book: The New</unittitle>
+			<unitdate type="inclusive" normal="1967/1969">1967-1969</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">1</container>
+			<unittitle>D.C. Statehood Initiative</unittitle>
+			<unitdate type="inclusive" normal="1979/1980">1979-1980</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">2</container>
+			<unittitle>D.C. Statehood and Politics</unittitle>
+			<unitdate type="inclusive" normal="1975/1985">1975-1985</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">3</container>
+			<unittitle>National Council of American-Soviet Friendship</unittitle>
+			<unitdate type="inclusive" normal="1985">1985</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">4</container>
+			<unittitle>Dupont Plaza Hotel Receipts</unittitle>
+			<unitdate type="inclusive" normal="1985">1985</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">5</container>
+			<unittitle>Foster Grandparents Program</unittitle>
+			<unitdate type="inclusive" normal="1984">1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">6</container>
+			<unittitle>D.C Statehood Commission</unittitle>
+			<unitdate type="inclusive" normal="1985">1985</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">7</container>
+			<unittitle>Government of the District of Columbia Board of Elections and Ethics Voter Registration</unittitle>
+			<unitdate type="inclusive" normal="1984">1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">8</container>
+			<unittitle>Operation Instructions Booklet</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">9</container>
+			<unittitle>Walter E. Fauntroy and Congress</unittitle>
+			<unitdate type="inclusive" normal="1981/1985">1981-1985</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">10</container>
+			<unittitle>12th World Festival of Youth and Students</unittitle>
+			<unitdate type="inclusive" normal="1985">1985</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">11</container>
+			<unittitle>Itinerary Draft</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">12</container>
+			<unittitle>1982 Tax Tips for the Union Members</unittitle>
+			<unitdate type="inclusive" normal="1982">1982</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">1</container>
+			<unittitle>Hiroshima Japan</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">2</container>
+			<unittitle>Black British Standing Conference Against Aparthied</unittitle>
+			<unitdate type="inclusive" normal="1984">1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">3</container>
+			<unittitle>Paul Robeson Friendship Society of Washington D.C. Correspondence and Ads</unittitle>
+			<unitdate type="inclusive" normal="1978/1991">1978-1991</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">4</container>
+			<unittitle>Soviet Union Friendship Pamphlets</unittitle>
+			<unitdate type="inclusive" normal="1984">1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">5</container>
+			<unittitle>The Briefing Book for H.R. 51 the D.C. Statehood Bill</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">6</container>
+			<unittitle>Statehood Compact Commission</unittitle>
+			<unitdate type="inclusive" normal="1990">1990</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">7</container>
+			<unittitle>1992 Five Hundred Years After Columbus: A Work of Historical Reference</unittitle>
+			<unitdate type="inclusive" normal="1992">1992</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">8</container>
+			<unittitle>Friendship</unittitle>
+			<unitdate type="inclusive" normal="1985">1985</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">9</container>
+			<unittitle>American Declaration of the Rights and Duties of Man</unittitle>
+			<unitdate type="inclusive" normal="1993">1993</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">10</container>
+			<unittitle>United Way/ United Labor Agency</unittitle>
+			<unitdate type="inclusive" normal="1983">1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">11</container>
+			<unittitle>Freedom of Assembly</unittitle>
+			<unitdate type="inclusive" normal="1971">1971</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">12</container>
+			<unittitle>Coalition to Stop U.S. Internvention in Grenada Roster</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">13</container>
+			<unittitle>National Council of American-Soviet Friendship Inc. (1 of 2)</unittitle>
+			<unitdate type="inclusive" normal="1983/1984">1983-1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">14</container>
+			<unittitle>National Council of American-Soviet Friendship Inc. (2 of 2)</unittitle>
+			<unitdate type="inclusive" normal="1984">1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">15</container>
+			<unittitle>Friendship Society 1979 (1 of 2)</unittitle>
+			<unitdate type="inclusive" normal="1979">1979</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">1</container>
+			<unittitle>Friendship Society 1979 (2 of 2)</unittitle>
+			<unitdate type="inclusive" normal="1979">1979</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">2</container>
+			<unittitle>Friendship Society 1980 (1 of 2)</unittitle>
+			<unitdate type="inclusive" normal="1980">1980</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">3</container>
+			<unittitle>Friendship Society 1980 (2 of 2)</unittitle>
+			<unitdate type="inclusive" normal="1980">1980</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">4</container>
+			<unittitle>Friendship Society</unittitle>
+			<unitdate type="inclusive" normal="1982">1982</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">5</container>
+			<unittitle>Friendship Society 1983 (1 of 2)</unittitle>
+			<unitdate type="inclusive" normal="1983">1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">6</container>
+			<unittitle>Friendship Society 1983 (2 of 2)</unittitle>
+			<unitdate type="inclusive" normal="1983">1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">1</container>
+			<unittitle>Friendship Society</unittitle>
+			<unitdate type="inclusive" normal="1983">1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">2</container>
+			<unittitle>Union</unittitle>
+			<unitdate type="inclusive" normal="1981">1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">3</container>
+			<unittitle>Democratic Slate - 1968</unittitle>
+			<unitdate type="inclusive" normal="1965/1968">1965-1968</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">4</container>
+			<unittitle>Adams Morgan</unittitle>
+			<unitdate type="inclusive" normal="1983/1984">1983-1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">5</container>
+			<unittitle>Historic Washington</unittitle>
+			<unitdate type="inclusive" normal="1984">1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">6</container>
+			<unittitle>Health (2 of 2)</unittitle>
+			<unitdate type="inclusive" normal="1973/1983">1973-1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">7</container>
+			<unittitle>Health (1 of 2)</unittitle>
+			<unitdate type="inclusive" normal="1976/1983">1976-1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">1</container>
+			<unittitle>National Children's Island</unittitle>
+			<unitdate type="inclusive" normal="1979">1979</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">2</container>
+			<unittitle>Internation Affairs</unittitle>
+			<unitdate type="inclusive" normal="1978">1978</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">3</container>
+			<unittitle>Article from "The Nation"</unittitle>
+			<unitdate type="inclusive" normal="1981">1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">4</container>
+			<unittitle>International Conference for Peace, Security and Cooperation In the Mediterranean</unittitle>
+			<unitdate type="inclusive" normal="1978">1978</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">5</container>
+			<unittitle>World Conference for the Eradication of Racism and Racial Discrimination</unittitle>
+			<unitdate type="inclusive" normal="1978">1978</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">6</container>
+			<unittitle>The AD Hoc Committee to Memorialize Paul Robeson</unittitle>
+			<unitdate type="inclusive" normal="1976">1976</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">7</container>
+			<unittitle>Friendship Society</unittitle>
+			<unitdate type="inclusive" normal="1978">1978</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">8</container>
+			<unittitle>DC Committee for a Dialogue on Disarmament and Détente</unittitle>
+			<unitdate type="inclusive" normal="1978">1978</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">9</container>
+			<unittitle>Speakers - Acceptances</unittitle>
+			<unitdate type="inclusive" normal="1978">1978</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">10</container>
+			<unittitle>Preamble</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">11</container>
+			<unittitle>For Jo Butler</unittitle>
+			<unitdate type="inclusive" normal="1978">1978</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">12</container>
+			<unittitle>Speakers List</unittitle>
+			<unitdate type="inclusive" normal="1978">1978</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">13</container>
+			<unittitle>Expenditures/World Peace Conference</unittitle>
+			<unitdate type="inclusive" normal="1978">1978</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">14</container>
+			<unittitle>Master Copies</unittitle>
+			<unitdate type="inclusive" normal="1977/1978">1977-1978</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">15</container>
+			<unittitle>Receipts</unittitle>
+			<unitdate type="inclusive" normal="1978">1978</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">16</container>
+			<unittitle>Bills</unittitle>
+			<unitdate type="inclusive" normal="1978">1978</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">17</container>
+			<container type="Folder">1</container>
+			<unittitle>U.S. Soviet Union</unittitle>
+			<unitdate type="inclusive" normal="1982">1982</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">17</container>
+			<container type="Folder">2</container>
+			<unittitle>Julius W. Hobson Middle School</unittitle>
+			<unitdate type="inclusive" normal="1982">1982</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">17</container>
+			<container type="Folder">3</container>
+			<unittitle>Miscellaneous and Folder with Notes</unittitle>
+			<unitdate type="inclusive" normal="1979/1982">1979-1982</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">17</container>
+			<container type="Folder">4</container>
+			<unittitle>D.C. Statehood Correspondence</unittitle>
+			<unitdate type="inclusive" normal="1979/1982">1979-1982</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">17</container>
+			<container type="Folder">5</container>
+			<unittitle>Voter Registration Reform</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">17</container>
+			<container type="Folder">6</container>
+			<unittitle>International Affairs</unittitle>
+			<unitdate type="inclusive" normal="1974/1981">1974-1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">17</container>
+			<container type="Folder">7</container>
+			<unittitle>District of Columbia Tax Issues</unittitle>
+			<unitdate type="inclusive" normal="1977/1979">1977-1979</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">17</container>
+			<container type="Folder">8</container>
+			<unittitle>Comparative Data on DC Statehood</unittitle>
+			<unitdate type="inclusive" normal="1977/1984">1977-1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">18</container>
+			<container type="Folder">1</container>
+			<unittitle>Josephine Butler DC City Council</unittitle>
+			<unitdate type="inclusive" normal="1984">1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">18</container>
+			<container type="Folder">2</container>
+			<unittitle>National Council of American-Soviet Friendship (1 of 2)</unittitle>
+			<unitdate type="inclusive" normal="1978">1978</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">18</container>
+			<container type="Folder">3</container>
+			<unittitle>National Council of American -Soviet Friendship (2 of 2)</unittitle>
+			<unitdate type="inclusive" normal="1978">1978</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">18</container>
+			<container type="Folder">4</container>
+			<unittitle>Photographs</unittitle>
+			<unitdate type="inclusive" normal="1983">1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">18</container>
+			<container type="Folder">5</container>
+			<unittitle>Paul Robeson News Articles</unittitle>
+			<unitdate type="inclusive" normal="1977">1977</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">18</container>
+			<container type="Folder">6</container>
+			<unittitle>The Washington Afro Americn Article</unittitle>
+			<unitdate type="inclusive" normal="1978">1978</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">18</container>
+			<container type="Folder">7</container>
+			<unittitle>City Council</unittitle>
+			<unitdate type="inclusive" normal="1984">1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">18</container>
+			<container type="Folder">8</container>
+			<unittitle>USSR News Article</unittitle>
+			<unitdate type="inclusive" normal="1974">1974</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">19</container>
+			<container type="Folder">1</container>
+			<unittitle>Paul Robeson Articles and Friendship Society Papers</unittitle>
+			<unitdate type="inclusive" normal="1976/1989">1976-1989</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">19</container>
+			<container type="Folder">2</container>
+			<unittitle>New World Review</unittitle>
+			<unitdate type="inclusive" normal="1977/1984">1977-1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">19</container>
+			<container type="Folder">3</container>
+			<unittitle>U.S. Intervention in Afganistan</unittitle>
+			<unitdate type="inclusive" normal="1979">1979</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">19</container>
+			<container type="Folder">4</container>
+			<unittitle>Guide to NIH (National Institutes of Health)</unittitle>
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">19</container>
+			<container type="Folder">5</container>
+			<unittitle>World Dialogue on Disarmament and Détente</unittitle>
+			<unitdate type="inclusive" normal="1978">1978</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">19</container>
+			<container type="Folder">6</container>
+			<unittitle>USSR</unittitle>
+			<unitdate type="inclusive" normal="1985/1989">1985-1989</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">19</container>
+			<container type="Folder">7</container>
+			<unittitle>Newspaper Articles</unittitle>
+			<unitdate type="inclusive" normal="1982/1986">1982-1986</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">19</container>
+			<container type="Folder">8</container>
+			<unittitle>Newspaper Clippings</unittitle>
+			<unitdate type="inclusive" normal="1976/1990">1976-1990</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">19</container>
+			<container type="Folder">9</container>
+			<unittitle>Baptist General Connection of Virginia</unittitle>
+			<unitdate type="inclusive" normal="1975">1975</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">19</container>
+			<container type="Folder">10</container>
+			<unittitle>Afro Readers Unemployment and Undocumented Workers</unittitle>
+			<unitdate type="inclusive" normal="1978">1978</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">20</container>
+			<container type="Folder">1</container>
+			<unittitle>Resolutions of the District of Columbia City Council</unittitle>
+			<unitdate type="inclusive" normal="1976">1976</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">20</container>
+			<container type="Folder">2</container>
+			<unittitle>Friendship Society 1976 (1 of 2)</unittitle>
+			<unitdate type="inclusive" normal="1976">1976</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">20</container>
+			<container type="Folder">3</container>
+			<unittitle>Friendship Society 1976 (2 of 2)</unittitle>
+			<unitdate type="inclusive" normal="1976">1976</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">20</container>
+			<container type="Folder">4</container>
+			<unittitle>Anniversary Tours</unittitle>
+			<unitdate type="inclusive" normal="1984">1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">20</container>
+			<container type="Folder">5</container>
+			<unittitle>Friendship Society</unittitle>
+			<unitdate type="inclusive" normal="1977">1977</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">20</container>
+			<container type="Folder">6</container>
+			<unittitle>Friendship Society</unittitle>
+			<unitdate type="inclusive" normal="1981">1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">20</container>
+			<container type="Folder">7</container>
+			<unittitle>D.C. Statehood Party Meeting Minutes</unittitle>
+			<unitdate type="inclusive" normal="1976/1978">1976-1978</unitdate>
+		</did>
+	</c02>
+
+</c01>
+</dsc>
+</archdesc>
+</ead>

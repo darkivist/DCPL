@@ -1,0 +1,1582 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type="text/xml" href="I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/eadcbs6rev.xsl"?><!DOCTYPE ead PUBLIC "-//Society of American Archivists//DTD ead.dtd (Encoded Archival Description (EAD) Version 1.0)//EN" "I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/ead.dtd">
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" repositoryencoding="iso15511" relatedencoding="MARC21">
+	<eadid mainagencycode="DWP" countrycode="US" url="http://washingtoniana.dclibrary.org">036ECTC</eadid>
+<filedesc>
+<titlestmt>
+	<titleproper encodinganalog="245$a">Emergency Committee on the Transportation Crisis</titleproper>
+	<subtitle>An inventory of Emergency Committee on the Transportation Crisis at DC Public Library</subtitle>
+<author encodinganalog="245$c">Finding aid prepared by Faye Haskins.</author>
+</titlestmt>
+<publicationstmt>
+<publisher encodinganalog="260$b">DC Public Library, Special Collections</publisher>
+	<date type="publication" encodinganalog="260$c" normal="1998-09">1998-09</date>
+<address><addressline>901 G Street NW</addressline><addressline>DC Public Library</addressline><addressline>Washington, D.C. 20009</addressline></address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation encodinganalog="500">EAD encoded by Paul Kelly on
+	<date normal="2017-04-20">2017-04-20</date>
+</creation>
+<langusage>English</langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory" relatedencoding="MARC21">
+<did id="a1">
+<head>Descriptive Summary</head>
+<repository label="Repository:" encodinganalog="852$a"><corpname>DC Public Library, Special Collections</corpname></repository>
+	<unitdate encodinganalog="260$c" label="Dates:" type="inclusive" normal="1960/1978">1960-1978</unitdate>
+	<unittitle label="Title:" encodinganalog="245$a">Emergency Committee on the Transportation Crisis Records</unittitle>
+<physdesc label="Extent:" encodinganalog="300$a"><extent>42.5 linear feet; 46 boxes</extent></physdesc>
+<unitid encodinganalog="090" label="Collection Number:" countrycode="US" repositorycode="DCU">036</unitid>
+<langmaterial encodinganalog="041" label="Language:"><language langcode="eng">English</language></langmaterial>
+</did>
+	
+<dsc type="combined" id="a23">
+<head>Detailed Description of the Collection</head>
+<c01 level="series">
+   <did>
+   	<unittitle>Series 1: Alphabetical Files, 1960-1978</unittitle>
+    </did>
+	<c02 level="subseries">
+		<did>
+			<unittitle>Subseries 1: Rooney Files, 1965-1975</unittitle>
+		</did>	
+		<c03 level="file">
+			<did>
+				<container type="Box">1</container>
+				<container type="Folder">1</container>
+				<unittitle>Address Lists thru Capitol East Gazette Newsnotes</unittitle>
+				<unitdate type="inclusive">1966-1968, 1969</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">2</container>
+				<container type="Folder">1</container>
+				<unittitle>Catholic Interracial Council - Addresses thru D.C. Government - Buses</unittitle>
+				<unitdate type="inclusive" normal="1968">1968</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">1</container>
+				<unittitle>D.C. Highway Department - Transportation Plan thru Freeways Correspondence</unittitle>
+				<unitdate type="inclusive">11/25/1968, 1964-1969</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">1</container>
+				<unittitle>Freeway literature thru National TB and Respiratory Diseases Association</unittitle>
+				<unitdate type="inclusive">1965, 1971</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">5</container>
+				<container type="Folder">1</container>
+				<unittitle>Ralph Nader Playboy Interview thru Scientists Committee for Public Information</unittitle>
+				<unitdate type="inclusive" normal="1968">1968</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">6</container>
+				<container type="Folder">1</container>
+				<unittitle>Sister's College Property thru Zoning</unittitle>
+				<unitdate type="inclusive">July 14 1960, 1975</unitdate>
+			</did>
+		</c03>
+	</c02>
+	<c02 level="subseries">
+		<did>
+			<unittitle>Subseries 2: Huette Files, 1968-1978</unittitle>
+		</did>	
+		<c03 level="file">
+			<did>
+				<container type="Box">7</container>
+				<container type="Folder">1</container>
+				<unittitle>Air Quality thru Brookland - 12th Street</unittitle>
+				<unitdate type="inclusive" normal="1968/1975">1968-1975</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">7</container>
+				<container type="Folder">2</container>
+				<unittitle>Air Quality thru Brookland - 12th Street</unittitle>
+				<unitdate type="inclusive" normal="1968/1975">1968-1975</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">7</container>
+				<container type="Folder">3</container>
+				<unittitle>Air Quality thru Brookland - 12th Street</unittitle>
+				<unitdate type="inclusive" normal="1968/1975">1968-1975</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">8</container>
+				<container type="Folder">1</container>
+				<unittitle>Brookland - 69 vacant homes thru Brookland metro station - parking</unittitle>
+				<unitdate type="inclusive" normal="1969/1971">1969-1971</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">9</container>
+				<container type="Folder">1</container>
+				<unittitle>Brookland Urban Design thru Conference</unittitle>
+				<unitdate type="inclusive">May 1981, June 1968</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">10</container>
+				<container type="Folder">1</container>
+				<unittitle>Citizens for City Living Article 75 thru Environmental</unittitle>
+				<unitdate type="inclusive">1973, 1969-1970</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">11</container>
+				<container type="Folder">1</container>
+				<unittitle>Environmental education thru Freeway fight</unittitle>
+				<unitdate type="inclusive">1978, 1968-1970</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">12</container>
+				<container type="Folder">1</container>
+				<unittitle>Hamburger Verkehsverbund thru Metro - General</unittitle>
+				<unitdate type="inclusive">1971, 1969-1971</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">13</container>
+				<container type="Folder">1</container>
+				<unittitle>Metro - General thru National Committee on the Transportation Crisis - Boston Area</unittitle>
+				<unitdate type="inclusive">1972, 1969</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">14</container>
+				<container type="Folder">1</container>
+				<unittitle>National Committee on the Transportation Crisis (NCTC) Clippings thru NCTC</unittitle>
+				<unitdate type="inclusive">1969-1971, 1970</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">14</container>
+				<container type="Folder">2</container>
+				<unittitle>National Committee on the Transportation Crisis (NCTC) Clippings thru NCTC</unittitle>
+				<unitdate type="inclusive">1969-1971, 1970</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">14</container>
+				<container type="Folder">3</container>
+				<unittitle>National Committee on the Transportation Crisis (NCTC) Clippings thru NCTC</unittitle>
+				<unitdate type="inclusive">1969-1971, 1970</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">15</container>
+				<container type="Folder">1</container>
+				<unittitle>NCTC thru Newsletter</unittitle>
+				<unitdate type="inclusive">1971-1972, August 1968</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">16</container>
+				<container type="Folder">1</container>
+				<unittitle>New York thru Pittsburgh</unittitle>
+				<unitdate type="inclusive">1968-1975, October 1968</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">17</container>
+				<container type="Folder">1</container>
+				<unittitle>Planning thru Pollution - Electric Car</unittitle>
+				<unitdate type="inclusive">1969-1975, 1968-1972</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">17</container>
+				<container type="Folder">2</container>
+				<unittitle>Planning thru Pollution - Electric Car</unittitle>
+				<unitdate type="inclusive">1969-1975, 1968-1972</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">18</container>
+				<container type="Folder">1</container>
+				<unittitle>Testimony thru Upper Northeast Coordinating Council (UNECC) - urban design study</unittitle>
+				<unitdate type="inclusive">1967-1970, 1981</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">19</container>
+				<container type="Folder">1</container>
+				<unittitle>UNECC thru Washington D.C.</unittitle>
+				<unitdate type="inclusive">1973, 1968</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">20</container>
+				<container type="Folder">1</container>
+				<unittitle>Washington D.C. thru Zoning</unittitle>
+				<unitdate type="inclusive">1970, 1970</unitdate>
+			</did>
+		</c03>
+	</c02>
+</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 2: Correspondence, 1964-1980</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">21</container>
+				<container type="Folder">1</container>
+				<unittitle>Correspondence</unittitle>
+				<unitdate type="inclusive" normal="1964/1970">1964-1970</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">22</container>
+				<container type="Folder">1</container>
+				<unittitle>Correspondence</unittitle>
+				<unitdate type="inclusive" normal="1971/1980">1971-1980</unitdate>
+			</did>
+		</c02>
+	</c01><c01 level="series">
+		<did>
+			<unittitle>Series 3: Chronological, 1965-1974</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">23</container>
+				<container type="Folder">1</container>
+				<unittitle>Untitled</unittitle>
+				<unitdate type="inclusive" normal="1965/1969-02">1965-February 1969</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">24</container>
+				<container type="Folder">1</container>
+				<unittitle>Untitled</unittitle>
+				<unitdate type="inclusive" normal="1969-03/1971-12">March 1969-December 1971</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">25</container>
+				<container type="Folder">1</container>
+				<unittitle>Untitled</unittitle>
+				<unitdate type="inclusive" normal="1972-01/1974">January 1972-1974</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 4: Legislative Materials, 1965-1975</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">26</container>
+				<container type="Folder">1</container>
+				<unittitle>Congressional Record</unittitle>
+				<unitdate type="inclusive" normal="1968/1973">1968-1973</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">26</container>
+				<container type="Folder">2</container>
+				<unittitle>Congressional Record</unittitle>
+				<unitdate type="inclusive" normal="1968/1973">1968-1973</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">26</container>
+				<container type="Folder">3</container>
+				<unittitle>Congressional Record</unittitle>
+				<unitdate type="inclusive" normal="1968/1973">1968-1973</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">26</container>
+				<container type="Folder">4</container>
+				<unittitle>Congressional Record</unittitle>
+				<unitdate type="inclusive" normal="1968/1973">1968-1973</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">26</container>
+				<container type="Folder">5</container>
+				<unittitle>D.C. Freeway hearings</unittitle>
+				<unitdate type="inclusive" normal="1967/1968">1967-1968</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">26</container>
+				<container type="Folder">6</container>
+				<unittitle>D.C. Freeway hearings</unittitle>
+				<unitdate type="inclusive" normal="1967/1968">1967-1968</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">26</container>
+				<container type="Folder">7</container>
+				<unittitle>D.C. Freeway hearings</unittitle>
+				<unitdate type="inclusive" normal="1967/1968">1967-1968</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">26</container>
+				<container type="Folder">8</container>
+				<unittitle>Federal highway legislation</unittitle>
+				<unitdate type="inclusive" normal="1965/1970">1965-1970</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">26</container>
+				<container type="Folder">9</container>
+				<unittitle>Federal highway legislation</unittitle>
+				<unitdate type="inclusive" normal="1965/1970">1965-1970</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">26</container>
+				<container type="Folder">10</container>
+				<unittitle>Federal Register</unittitle>
+				<unitdate type="inclusive" normal="1968-10-23">October 23 1968</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">27</container>
+				<container type="Folder">1</container>
+				<unittitle>Hearings</unittitle>
+				<unitdate type="inclusive" normal="1965/1971">1965-1971</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">28</container>
+				<container type="Folder">1</container>
+				<unittitle>Hearings - House Committee on Public Works - "Major Highway Problems in D.C."</unittitle>
+				<unitdate type="inclusive" normal="1967-12-05/1967-12-06">December 5-6 1967</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">28</container>
+				<container type="Folder">2</container>
+				<unittitle>Hearing Report - House Subcommittee on Appropriations for Highways</unittitle>
+				<unitdate type="inclusive" normal="1970">1970</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">28</container>
+				<container type="Folder">3</container>
+				<unittitle>Hearings - Senate Committee on D.C.</unittitle>
+				<unitdate type="inclusive" normal="1965/1969">1965-1969</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">28</container>
+				<container type="Folder">4</container>
+				<unittitle>Hearings - Senate Committee on D.C.</unittitle>
+				<unitdate type="inclusive" normal="1965/1969">1965-1969</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">28</container>
+				<container type="Folder">5</container>
+				<unittitle>Hearings - Senate Committee on D.C.</unittitle>
+				<unitdate type="inclusive" normal="1965/1969">1965-1969</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">28</container>
+				<container type="Folder">6</container>
+				<unittitle>Hearings - Senate Committee on the Interior - Alternative Long-Range Energy Strategies</unittitle>
+				<unitdate type="inclusive" normal="1976">1976</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">29</container>
+				<container type="Folder">1</container>
+				<unittitle>North-Central Freeway in D.C. and Montgomery and Prince Georges Counties Maryland</unittitle>
+				<unitdate type="inclusive" normal="1965-02-04">February 4 1965</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">29</container>
+				<container type="Folder">2</container>
+				<unittitle>North-Central Freeway in D.C. and Montgomery and Prince Georges Counties Maryland</unittitle>
+				<unitdate type="inclusive" normal="1965-02-04">February 4 1965</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">29</container>
+				<container type="Folder">3</container>
+				<unittitle>North-Central Freeway in D.C. and Montgomery and Prince Georges Counties Maryland</unittitle>
+				<unitdate type="inclusive" normal="1965-02-04">February 4 1965</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">29</container>
+				<container type="Folder">4</container>
+				<unittitle>Testimony - Freeways</unittitle>
+				<unitdate type="inclusive" normal="1965/1967">1965-1967</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">30</container>
+				<container type="Folder">1</container>
+				<unittitle>Testimony - Freeways</unittitle>
+				<unitdate type="inclusive" normal="1967/1973">1967-1973</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">30</container>
+				<container type="Folder">2</container>
+				<unittitle>Testimony - Freeways</unittitle>
+				<unitdate type="inclusive" normal="1967/1973">1967-1973</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">30</container>
+				<container type="Folder">3</container>
+				<unittitle>Testimony - Freeways</unittitle>
+				<unitdate type="inclusive" normal="1967/1973">1967-1973</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">30</container>
+				<container type="Folder">4</container>
+				<unittitle>Testimony - Freeway</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 5: Printed Matter, 1967-1981</unittitle>
+		</did>
+	<c02 level="file">
+		<did>
+			<container type="Box">31</container>
+			<container type="Folder">1</container>
+			<unittitle>Americans for Democratic Action, Greater Washington Chapter," 20th Annual Roosevelt Day Dinner"</unittitle>
+			<unitdate type="inclusive" normal="1970">1970</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">31</container>
+			<container type="Folder">2</container>
+			<unittitle>"An Evening to Honor Julius Hobson"</unittitle>
+			<unitdate type="inclusive" normal="1972-11-14">November 14, 1972</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">31</container>
+			<container type="Folder">3</container>
+			<unittitle>Argus,"Freeway Pollution: Capital Punishment"</unittitle>
+			<unitdate type="inclusive" normal="1970-05">May 1970</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">31</container>
+			<container type="Folder">4</container>
+			<unittitle>Army Corps of Engineers, "Metropolitan Washington Area Water Supply Study for the Potomac Water Users"</unittitle>
+			<unitdate type="inclusive" normal="1979-08">August 1979</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">31</container>
+			<container type="Folder">5</container>
+			<unittitle>"Atlanta Votes Yes on Rapid Transit"</unittitle>
+			<unitdate type="inclusive" normal="1972">1972</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">31</container>
+			<container type="Folder">6</container>
+			<unittitle>Autofacts Publications, "People vs. Cars: The Rising Resentment of Against the Automobile"</unittitle>
+			<unitdate type="inclusive" normal="1970">1970</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">31</container>
+			<container type="Folder">7</container>
+			<unittitle>Citizens' Advisory Committee on Environmental Quality, "Report to the President and to the Council on Environmental Quality"</unittitle>
+			<unitdate type="inclusive" normal="1972-04">April 1972</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">31</container>
+			<container type="Folder">8</container>
+			<unittitle>Citizens' Advisory Committee on Transportation Quality, "A Report to the Secretary of</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">31</container>
+			<container type="Folder">9</container>
+			<unittitle>Commonweal Papers 1, "God"</unittitle>
+			<unitdate type="inclusive" normal="1967-02-10">February 10, 1967</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">31</container>
+			<container type="Folder">10</container>
+			<unittitle>Commonweal Papers 2, "Jesus"</unittitle>
+			<unitdate type="inclusive" normal="1967">1967</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">31</container>
+			<container type="Folder">11</container>
+			<unittitle>Committee on Urban Transportation, "Freeways and Our City"</unittitle>
+			<unitdate type="inclusive" normal="1965">1965</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">31</container>
+			<container type="Folder">12</container>
+			<unittitle>Committee to Save Long Island Council Petition</unittitle>
+			<unitdate type="inclusive" normal="1971">1971</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">31</container>
+			<container type="Folder">13</container>
+			<unittitle>D.C. Government [publications]</unittitle>
+			<unitdate type="inclusive" normal="1970/1981">1970-1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">31</container>
+			<container type="Folder">14</container>
+			<unittitle>D.C. Government [publications]</unittitle>
+			<unitdate type="inclusive" normal="1970/1981">1970-1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">31</container>
+			<container type="Folder">15</container>
+			<unittitle>D.C. Government [publications]</unittitle>
+			<unitdate type="inclusive" normal="1970/1981">1970-1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">31</container>
+			<container type="Folder">16</container>
+			<unittitle>D.C. Government [publications]</unittitle>
+			<unitdate type="inclusive" normal="1970/1981">1970-1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">32</container>
+			<container type="Folder">1</container>
+			<unittitle>D.C. Government [publications]</unittitle>
+			<unitdate type="inclusive" normal="1968/1981">1968-1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">32</container>
+			<container type="Folder">2</container>
+			<unittitle>D.C. Government [publications]</unittitle>
+			<unitdate type="inclusive" normal="1968/1981">1968-1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">32</container>
+			<container type="Folder">3</container>
+			<unittitle>D.C. Government [publications]</unittitle>
+			<unitdate type="inclusive" normal="1968/1981">1968-1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">32</container>
+			<container type="Folder">4</container>
+			<unittitle>D.C. Government [publications]</unittitle>
+			<unitdate type="inclusive" normal="1968/1981">1968-1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">32</container>
+			<container type="Folder">5</container>
+			<unittitle>D.C. Government [publications]</unittitle>
+			<unitdate type="inclusive" normal="1968/1981">1968-1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">32</container>
+			<container type="Folder">6</container>
+			<unittitle>D.C. Government [publications]</unittitle>
+			<unitdate type="inclusive" normal="1968/1981">1968-1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">32</container>
+			<container type="Folder">7</container>
+			<unittitle>Engineering Opportunities"</unittitle>
+			<unitdate type="inclusive" normal="1969">1969</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">32</container>
+			<container type="Folder">8</container>
+			<unittitle>Environmental Action, "Freeways-Tearing Up Cities"</unittitle>
+			<unitdate type="inclusive" normal="1970-10">October 1970</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">32</container>
+			<container type="Folder">9</container>
+			<unittitle>Environmental Science and Technology, "Environmental Problems Have Little Respect for Political Boundaries"</unittitle>
+			<unitdate type="inclusive" normal="1968-05-02">May 2, 1968</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">32</container>
+			<container type="Folder">10</container>
+			<unittitle>Environmental Protection Agency, "Environmental Directory: Region III"</unittitle>
+			<unitdate type="inclusive" normal="1970">1970</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">32</container>
+			<container type="Folder">11</container>
+			<unittitle>Envoy, "Students Design for Community"</unittitle>
+			<unitdate type="inclusive" normal="1981-09">September 1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">32</container>
+			<container type="Folder">12</container>
+			<unittitle>Federal-Aid Highway Act of 1966 (P.L. 89-574)</unittitle>
+			<unitdate type="inclusive" normal="1966-09-13">September 13, 1966</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">32</container>
+			<container type="Folder">13</container>
+			<unittitle>Federal Water Pollution Control Administration</unittitle>
+			<unitdate type="inclusive" normal="1966/1969">1966-1969</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">32</container>
+			<container type="Folder">14</container>
+			<unittitle>Federal Water Pollution Control Administration</unittitle>
+			<unitdate type="inclusive" normal="1966/1969">1966-1969</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">32</container>
+			<container type="Folder">15</container>
+			<unittitle>Federal Water Pollution Control Administration</unittitle>
+			<unitdate type="inclusive" normal="1966/1969">1966-1969</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">32</container>
+			<container type="Folder">16</container>
+			<unittitle>Greater Stockholm</unittitle>
+			<unitdate type="inclusive" normal="1972">1972</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">32</container>
+			<container type="Folder">17</container>
+			<unittitle>GW Times, "Images of Brookland" by Libby Hoffman</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">32</container>
+			<container type="Folder">18</container>
+			<unittitle>Hard Times, "Screeching Halt: U.S. Pulls Out of Pollution War" by James Ridgway</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">32</container>
+			<container type="Folder">19</container>
+			<unittitle>Hobson, Julius, "The Damned Information"</unittitle>
+			<unitdate type="inclusive" normal="1971">1971</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">33</container>
+			<container type="Folder">1</container>
+			<unittitle>Kennan, Robert, "A Brief History of the Freeway Crisis"</unittitle>
+			<unitdate type="inclusive" normal="1967-06-12">June 12, 1967</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">33</container>
+			<container type="Folder">2</container>
+			<unittitle>Konstnarigutsmyckning i Stockholms</unittitle>
+			<unitdate type="inclusive" normal="1965">1965</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">33</container>
+			<container type="Folder">3</container>
+			<unittitle>Maryland National Capital Park and Planning Commission, Preliminary and Master Plans of Highways"</unittitle>
+			<unitdate type="inclusive" normal="1967">1967</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">33</container>
+			<container type="Folder">4</container>
+			<unittitle>Maryland National Capital Park and Planning Commission, Preliminary and Master Plans of Highways"</unittitle>
+			<unitdate type="inclusive" normal="1967">1967</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">33</container>
+			<container type="Folder">5</container>
+			<unittitle>Metromedia TV, "1985: A News Dramatization"</unittitle>
+			<unitdate type="inclusive" normal="1985">1985</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">33</container>
+			<container type="Folder">6</container>
+			<unittitle>Metropolitan Washington Council of Governments [publications]</unittitle>
+			<unitdate type="inclusive" normal="1970/1974">1970-1974</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">33</container>
+			<container type="Folder">7</container>
+			<unittitle>Metropolitan Washington Council of Governments [publications]</unittitle>
+			<unitdate type="inclusive" normal="1970/1974">1970-1974</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">33</container>
+			<container type="Folder">8</container>
+			<unittitle>Muskegon County Wastewater Management System</unittitle>
+			<unitdate type="inclusive" normal="1971">1971</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">33</container>
+			<container type="Folder">9</container>
+			<unittitle>National Air Pollution Control Administration, "Community Support Bulletins"</unittitle>
+			<unitdate type="inclusive" normal="1970">1970</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">33</container>
+			<container type="Folder">10</container>
+			<unittitle>National Capital Planning Commission [publications]</unittitle>
+			<unitdate type="inclusive">1967-1968, 1975-1976</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">33</container>
+			<container type="Folder">11</container>
+			<unittitle>National Capital Planning Commission [publications]</unittitle>
+			<unitdate type="inclusive">1967-1968, 1975-1976</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">33</container>
+			<container type="Folder">12</container>
+			<unittitle>National Capital Planning Commission [publications]</unittitle>
+			<unitdate type="inclusive">1967-1968, 1975-1976</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">33</container>
+			<container type="Folder">13</container>
+			<unittitle>National Capital Planning Commission [publications]</unittitle>
+			<unitdate type="inclusive">1967-1968, 1975-1976</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">33</container>
+			<container type="Folder">14</container>
+			<unittitle>National Capital Planning Commission [publications]</unittitle>
+			<unitdate type="inclusive">1967-1968, 1975-1976</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">33</container>
+			<container type="Folder">15</container>
+			<unittitle>National Capitol Redevelopment Agency, "Ft. Lincoln Urban Renewal Area"</unittitle>
+			<unitdate type="inclusive" normal="1967-08-30">August 30, 1967</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">33</container>
+			<container type="Folder">16</container>
+			<unittitle>Natural Resources Defense Council, Inc. Newsletters</unittitle>
+			<unitdate type="inclusive" normal="1971">Spring, 1971</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">33</container>
+			<container type="Folder">17</container>
+			<unittitle>National Sciences Foundation, "Information, Perception and Regional Policy"</unittitle>
+			<unitdate type="inclusive" normal="1975">1975</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">33</container>
+			<container type="Folder">18</container>
+			<unittitle>The New Republic, "Black Control of Cities"</unittitle>
+			<unitdate type="inclusive" normal="1967-09-30">September 30, 1967</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">33</container>
+			<container type="Folder">19</container>
+			<unittitle>The New Republic, "Washington: The Lost Colony"</unittitle>
+			<unitdate type="inclusive" normal="1966-04">April 1966</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">33</container>
+			<container type="Folder">20</container>
+			<unittitle>Penchey, Paul, et al, Catholic University, "Community Perceptions and Metropolitan Dynamics in an Urban Locality"</unittitle>
+			<unitdate type="inclusive" normal="1971">1971</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">33</container>
+			<container type="Folder">21</container>
+			<unittitle>Pennsylvania Department of Transportation, "A New Highway is Born"</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">33</container>
+			<container type="Folder">22</container>
+			<unittitle>Preliminary Operating Assumptions and Design Criteria for the Downtown Design and Development Study"</unittitle>
+			<unitdate type="inclusive" normal="1970-09">September, 1970</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">33</container>
+			<container type="Folder">23</container>
+			<unittitle>"Public Transportation in Highway Decisions"</unittitle>
+			<unitdate type="inclusive" normal="1972-05-25">May 25, 1972</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">33</container>
+			<container type="Folder">24</container>
+			<unittitle>Railroad Electrification, Vol. 3</unittitle>
+			<unitdate type="inclusive" normal="1970">1970</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">34</container>
+			<container type="Folder">1</container>
+			<unittitle>Rooney, Angela, "Freeways Urban Invaders”</unittitle>
+			<unitdate type="inclusive" normal="1971-10">October 1971</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">34</container>
+			<container type="Folder">2</container>
+			<unittitle>Scientific American, Letters to the editor</unittitle>
+			<unitdate type="inclusive" normal="1969-09">September 1969</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">34</container>
+			<container type="Folder">3</container>
+			<unittitle>Smithsonian, To stop highways some citizens take to the streets</unittitle>
+			<unitdate type="inclusive" normal="1972-04">April 1972</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">34</container>
+			<container type="Folder">4</container>
+			<unittitle>Tekniska Hogskolan</unittitle>
+			<unitdate type="inclusive" normal="1973">1973</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">34</container>
+			<container type="Folder">5</container>
+			<unittitle>Transportation Planning in D.C.</unittitle>
+			<unitdate type="inclusive">1955-1965, March 1966</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">34</container>
+			<container type="Folder">6</container>
+			<unittitle>Urban Design and Development Corporation, "Georgetown Waterfront Feasibility Study"</unittitle>
+			<unitdate type="inclusive" normal="1970-12">December 1970</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">34</container>
+			<container type="Folder">7</container>
+			<unittitle>Urbanaction, "Urban Transportation Crisis"</unittitle>
+			<unitdate type="inclusive" normal="1970">Spring, 1970</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">34</container>
+			<container type="Folder">8</container>
+			<unittitle>U.S. Catholic and Jubilee</unittitle>
+			<unitdate type="inclusive" normal="1969-01">January 1969</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">34</container>
+			<container type="Folder">9</container>
+			<unittitle>U.S. Commission on Civil Rights, "The Civil Rights Implications of Suburban Freeway Construction"</unittitle>
+			<unitdate type="inclusive" normal="1970-08">August, 1970</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">34</container>
+			<container type="Folder">10</container>
+			<unittitle>U.S. Comptroller General "Problems Associated With Location and Design of Segments of the Interstate Highway System in Major Metropolitan Areas"</unittitle>
+			<unitdate type="inclusive" normal="1967-08">August, 1967</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">34</container>
+			<container type="Folder">11</container>
+			<unittitle>U.S. Congress, "Our American Government"</unittitle>
+			<unitdate type="inclusive" normal="1969">1969</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">34</container>
+			<container type="Folder">12</container>
+			<unittitle>U.S. Department of Health, Education, and Welfare, "Report for Consultation on the D.C. National Capital Interstate Air Quality Control Region"</unittitle>
+			<unitdate type="inclusive" normal="1968-07">July 1968</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">34</container>
+			<container type="Folder">13</container>
+			<unittitle>Victor Gruen Associates, "Anacostia Urban Code"</unittitle>
+			<unitdate type="inclusive" normal="1967-10">October 1967</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">34</container>
+			<container type="Folder">14</container>
+			<unittitle>Washington Metropolitan Area Transit Authority, "Metro Memo"</unittitle>
+			<unitdate type="inclusive" normal="1971/1975">1971-1975</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">34</container>
+			<container type="Folder">15</container>
+			<unittitle>Washington Metropolitan Area Transit Authority, "Metro Memo"</unittitle>
+			<unitdate type="inclusive" normal="1971/1975">1971-1975</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">34</container>
+			<container type="Folder">16</container>
+			<unittitle>Washington Metropolitan Area Transit Authority, "Metro Memo"</unittitle>
+			<unitdate type="inclusive" normal="1971/1975">1971-1975</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">34</container>
+			<container type="Folder">17</container>
+			<unittitle>Washington Metropolitan Area Transit Authority, "Notice of Metrobus Public Hearing," Nos. 32-38</unittitle>
+			<unitdate type="inclusive" normal="1974/1975">1974-1975</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">35</container>
+			<container type="Folder">1</container>
+			<unittitle>Printed Materials, General</unittitle>
+			<unitdate type="inclusive" normal="1960/1970">1960-1970</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">35</container>
+			<container type="Folder">2</container>
+			<unittitle>Printed Materials, General</unittitle>
+			<unitdate type="inclusive" normal="1960/1970">1960-1970</unitdate>
+		</did>
+	</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 6: Clippings and Press Materials, 1968-1979</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">36</container>
+				<container type="Folder">1</container>
+				<unittitle>Clippings</unittitle>
+				<unitdate type="inclusive" normal="1968/1979">1968-1979</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">37</container>
+				<container type="Folder">1</container>
+				<unittitle>Clippings</unittitle>
+				<unitdate type="inclusive" normal="1968/1979">1968-1979</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">38</container>
+				<container type="Folder">1</container>
+				<unittitle>Clippings</unittitle>
+				<unitdate type="inclusive" normal="1968/1979">1968-1979</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">39</container>
+				<container type="Folder">1</container>
+				<unittitle>Clippings</unittitle>
+				<unitdate type="inclusive" normal="1968/1979">1968-1979</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">40</container>
+				<container type="Folder">1</container>
+				<unittitle>Press releases and legislative materials</unittitle>
+				<unitdate type="inclusive" normal="1965/1971">1965-1971</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 7: Flyers, 1969-1973; 1987-89</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">41</container>
+				<container type="Folder">1</container>
+				<unittitle>Flyers</unittitle>
+				<unitdate type="inclusive" normal="1969/1973">1969-1973</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">41</container>
+				<container type="Folder">2</container>
+				<unittitle>Flyers</unittitle>
+				<unitdate type="inclusive" normal="1969/1973">1969-1973</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">41</container>
+				<container type="Folder">3</container>
+				<unittitle>Flyers</unittitle>
+				<unitdate type="inclusive" normal="1969/1973">1969-1973</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">41</container>
+				<container type="Folder">4</container>
+				<unittitle>Flyers</unittitle>
+				<unitdate type="inclusive" normal="1969/1973">1969-1973</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">41</container>
+				<container type="Folder">5</container>
+				<unittitle>Flyers</unittitle>
+				<unitdate type="inclusive" normal="1969/1973">1969-1973</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">41</container>
+				<container type="Folder">6</container>
+				<unittitle>Flyers</unittitle>
+				<unitdate type="inclusive" normal="1969/1973">1969-1973</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">41</container>
+				<container type="Folder">7</container>
+				<unittitle>Flyers</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">41</container>
+				<container type="Folder">8</container>
+				<unittitle>Flyers - Statehood</unittitle>
+				<unitdate type="inclusive" normal="1987/1989">1987-1989</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 8: Membership, 1967; Undated</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">42</container>
+				<container type="Folder">1</container>
+				<unittitle>Attendance lists</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">42</container>
+				<container type="Folder">2</container>
+				<unittitle>Blank Brookland Neighborhood Association membership cards</unittitle>
+				<unitdate type="inclusive" normal="1967">1967</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">43</container>
+				<container type="Folder">1</container>
+				<unittitle>Organizational information cards</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 9: Photographs and Memorabilia, 1968-1979</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">44</container>
+				<container type="Folder">1</container>
+				<unittitle>Negative for “White Men’s Roads Thru Black Man’s Homes” poster</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">44</container>
+				<container type="Folder">2</container>
+				<unittitle>Photographs</unittitle>
+				<unitdate type="inclusive" normal="1968/1979">1968-1979</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">44</container>
+				<container type="Folder">3</container>
+				<unittitle>Photographs</unittitle>
+				<unitdate type="inclusive" normal="1968/1979">1968-1979</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">44</container>
+				<container type="Folder">4</container>
+				<unittitle>Photographs</unittitle>
+				<unitdate type="inclusive" normal="1968/1979">1968-1979</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">44</container>
+				<container type="Folder">5</container>
+				<unittitle>Photographs</unittitle>
+				<unitdate type="inclusive" normal="1968/1979">1968-1979</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">44</container>
+				<container type="Folder">6</container>
+				<unittitle>Photographs</unittitle>
+				<unitdate type="inclusive" normal="1968/1979">1968-1979</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">44</container>
+				<container type="Folder">7</container>
+				<unittitle>Photographs</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">44</container>
+				<container type="Folder">8</container>
+				<unittitle>Kenneth Kennedy memorial program</unittitle>
+				<unitdate type="inclusive" normal="1974">1974</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">44</container>
+				<container type="Folder">9</container>
+				<unittitle>Bumper stickers</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">44</container>
+				<container type="Folder">10</container>
+				<unittitle>Letterhead</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">44</container>
+				<container type="Folder">11</container>
+				<unittitle>Martin Luther King Memorial Arts Festival pin</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">44</container>
+				<container type="Folder">12</container>
+				<unittitle>Statehood flag</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">45</container>
+				<container type="Folder">1</container>
+				<unittitle>"Arlington Coalition on Transportation"</unittitle>
+				<unitdate type="inclusive" normal="1972-02">February 1972</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">45</container>
+				<container type="Folder">2</container>
+				<unittitle>"Arlington Freeway and Parkway Routes"</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">45</container>
+				<container type="Folder">3</container>
+				<unittitle>"Initiative Measure No. 274 blank petition: Reduce [Washington] State Gas Tax"</unittitle>
+				<unitdate type="inclusive" normal="1972-07">July 1972</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">45</container>
+				<container type="Folder">4</container>
+				<unittitle>"Transportation Alternative Study"</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">45</container>
+				<container type="Folder">5</container>
+				<unittitle>Fortune - "How the Interstate Changed The Fact of the Nation" by Juan Cameron"</unittitle>
+				<unitdate type="inclusive" normal="1971-07">July 1971</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">45</container>
+				<container type="Folder">6</container>
+				<unittitle>National Capital Planning Commission - "Shoreline Acquisition and Development Policies and Programs"</unittitle>
+				<unitdate type="inclusive" normal="1976">1976</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 10: Architectural Drawings and Maps, 1967-1974</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">46</container>
+				<container type="Folder">1</container>
+				<unittitle>See attached index</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 11: Picket Signs and Posters, Undated</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">Map Case</container>
+				<container type="Folder">1</container>
+				<unittitle>Posters</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">Map Case</container>
+				<container type="Folder">2</container>
+				<unittitle>Posters</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">Map Case</container>
+				<container type="Folder">3</container>
+				<unittitle>Posters</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">Map Case</container>
+				<container type="Folder">4</container>
+				<unittitle>Picket signs</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">Map Case</container>
+				<container type="Folder">5</container>
+				<unittitle>Picket signs</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">Map Case</container>
+				<container type="Folder">6</container>
+				<unittitle>Picket signs</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">Map Case</container>
+				<container type="Folder">7</container>
+				<unittitle>Picket signs</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">Map Case</container>
+				<container type="Folder">8</container>
+				<unittitle>Picket signs</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">Map Case</container>
+				<container type="Folder">9</container>
+				<unittitle>Picket signs</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">Map Case</container>
+				<container type="Folder">10</container>
+				<unittitle>Picket signs</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">Map Case</container>
+				<container type="Folder">11</container>
+				<unittitle>Picket signs</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 12: Charts and Graphs, ca. 1960s</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">Map Case</container>
+				<container type="Folder">1</container>
+				<unittitle>#1 in map case</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">Shelf</container>
+				<container type="Folder">1</container>
+				<unittitle>Flip chart sheets and picket signs</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">Shelf</container>
+				<container type="Folder">2</container>
+				<unittitle>Flip chart sheets and picket signs</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">Shelf</container>
+				<container type="Folder">3</container>
+				<unittitle>Flip chart sheets and picket signs</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">Shelf</container>
+				<container type="Folder">4</container>
+				<unittitle>Flip chart sheets and picket signs</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+	</c01>
+</dsc>
+</archdesc>
+</ead>

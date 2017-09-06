@@ -1,0 +1,654 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type="text/xml" href="I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/eadcbs6rev.xsl"?><!DOCTYPE ead PUBLIC "-//Society of American Archivists//DTD ead.dtd (Encoded Archival Description (EAD) Version 1.0)//EN" "I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/ead.dtd">
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" repositoryencoding="iso15511" relatedencoding="MARC21">
+	<eadid mainagencycode="DWP" countrycode="US" url="http://washingtoniana.dclibrary.org">075Goodman</eadid>
+<filedesc>
+<titlestmt>
+	<titleproper encodinganalog="245$a">Harry Goodman</titleproper>
+	<subtitle>An inventory of Harry Goodman at DC Public Library</subtitle>
+	<author encodinganalog="245$c">Finding aid prepared by Ryan P. Semmes.</author>
+</titlestmt>
+<publicationstmt>
+<publisher encodinganalog="260$b">DC Public Library, Special Collections</publisher>
+	<date type="publication" encodinganalog="260$c" normal="2006-09">2006-09</date>
+<address><addressline>901 G Street NW</addressline><addressline>DC Public Library</addressline><addressline>Washington, D.C. 20009</addressline></address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation encodinganalog="500">EAD encoded by Paul Kelly on
+	<date normal="2017-04-21">2017-04-21</date>
+</creation>
+<langusage>English</langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory" relatedencoding="MARC21">
+<did id="a1">
+<head>Descriptive Summary</head>
+<repository label="Repository:" encodinganalog="852$a"><corpname>DC Public Library, Special Collections</corpname></repository>
+	<unitdate encodinganalog="260$c" label="Dates:" type="inclusive" normal="1930/1957">1930-1957</unitdate>
+	<unittitle label="Title:" encodinganalog="245$a">Harry Goodman Collection</unittitle>
+<physdesc label="Extent:" encodinganalog="300$a"><extent>2 linear feet; 3 boxes</extent></physdesc>
+<unitid encodinganalog="090" label="Collection Number:" countrycode="US" repositorycode="DCU">075</unitid>
+<langmaterial encodinganalog="041" label="Language:"><language langcode="eng">English</language></langmaterial>
+</did>
+	
+<dsc type="combined" id="a23">
+<head>Detailed Description of the Collection</head>
+<c01 level="series">
+   <did>
+	<unittitle>Series 1</unittitle>
+    </did>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">1</container>
+			<unittitle>Check Cashing Identification Card - Food Fair Super Market</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">2</container>
+			<unittitle>Inaugural Ball - Press Pass</unittitle>
+			<unitdate type="inclusive" normal="1953">1953</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">3</container>
+			<unittitle>Inaugural Ball - Press Pass</unittitle>
+			<unitdate type="inclusive" normal="1957">1957</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">4</container>
+			<unittitle>Inaugural Ball - Program</unittitle>
+			<unitdate type="inclusive" normal="1953">1953</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">5</container>
+			<unittitle>Inaugural Ball - Program</unittitle>
+			<unitdate type="inclusive" normal="1957">1957</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">6</container>
+			<unittitle>Inaugural Ball - Working Pass</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">7</container>
+			<unittitle>Inaugural Ceremony - Invitation</unittitle>
+			<unitdate type="inclusive" normal="1957">1957</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">8</container>
+			<unittitle>Inaugural Ceremony - Press Pass</unittitle>
+			<unitdate type="inclusive" normal="1953">1953</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">9</container>
+			<unittitle>Inaugural Ceremony - Press Pass</unittitle>
+			<unitdate type="inclusive" normal="1957">1957</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">10</container>
+			<unittitle>Inaugural Ceremony - Program</unittitle>
+			<unitdate type="inclusive" normal="1957">1957</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">11</container>
+			<unittitle>Inaugural Ceremony - Tickets</unittitle>
+			<unitdate type="inclusive" normal="1957">1957</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">12</container>
+			<unittitle>Inaugural Parade - Program</unittitle>
+			<unitdate type="inclusive" normal="1953">1953</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">13</container>
+			<unittitle>Inaugural Parade - Program</unittitle>
+			<unitdate type="inclusive" normal="1957">1957</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">14</container>
+			<unittitle>War Bond Wallet and Register</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">15</container>
+			<unittitle>White House News Photographers Association - Program</unittitle>
+			<unitdate type="inclusive" normal="1947">1947</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">16</container>
+			<unittitle>White House News Photographers Association - Program</unittitle>
+			<unitdate type="inclusive" normal="1949">1949</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">17</container>
+			<unittitle>White House News Photographers Association - Program</unittitle>
+			<unitdate type="inclusive" normal="1950">1950</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">18</container>
+			<unittitle>White House News Photographers Association - Program</unittitle>
+			<unitdate type="inclusive" normal="1951">1951</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">19</container>
+			<unittitle>White House News Photographers Association - Program</unittitle>
+			<unitdate type="inclusive" normal="1953">1953</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">20</container>
+			<unittitle>White House News Photographers Association - Program</unittitle>
+			<unitdate type="inclusive" normal="1956">1956</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">21</container>
+			<unittitle>White House News Photographers Association - Tickets</unittitle>
+			<unitdate type="inclusive" normal="1957">1957</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">1</container>
+			<unittitle>Photograph - Queen Elizabeth at Mt. Vernon</unittitle>
+			<unitdate type="inclusive" normal="1939">1939</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">2</container>
+			<unittitle>Photograph - King George and President Roosevelt</unittitle>
+			<unitdate type="inclusive" normal="1939">1939</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">3</container>
+			<unittitle>Photograph - King George - Washington DC</unittitle>
+			<unitdate type="inclusive" normal="1939">1939</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">4</container>
+			<unittitle>Photograph - King George - Boarding Ship - Washington DC</unittitle>
+			<unitdate type="inclusive" normal="1939">1939</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">5</container>
+			<unittitle>Photograph - King George and President Roosevelt at Washington’s Tomb - Mt. Vernon</unittitle>
+			<unitdate type="inclusive" normal="1969">1969</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">6</container>
+			<unittitle>Photograph - Queen Elizabeth and Mrs. Roosevelt</unittitle>
+			<unitdate type="inclusive" normal="1939">1939</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">7</container>
+			<unittitle>Photograph - King George and Queen in Washington DC</unittitle>
+			<unitdate type="inclusive" normal="1939">1939</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">8</container>
+			<unittitle>Photograph - King George and Mrs. Roosevelt at Mt. Vernon</unittitle>
+			<unitdate type="inclusive" normal="1939">1939</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">9</container>
+			<unittitle>Photograph - King George and President Roosevelt</unittitle>
+			<unitdate type="inclusive" normal="1939">1939</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">10</container>
+			<unittitle>Photograph - King George of England at Mt. Vernon</unittitle>
+			<unitdate type="inclusive" normal="1939">1939</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">11</container>
+			<unittitle>Photograph - King George - Washington DC</unittitle>
+			<unitdate type="inclusive" normal="1939">1939</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">12</container>
+			<unittitle>Photograph - Flood - Washington DC</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">13</container>
+			<unittitle>Photograph - Flood - Washington DC</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">14</container>
+			<unittitle>Photograph - Flood - Washington DC</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">15</container>
+			<unittitle>Photograph - Flood - Washington DC</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">16</container>
+			<unittitle>Photograph - Flood - Washington DC</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">17</container>
+			<unittitle>Photograph - Flood - Washington DC</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">18</container>
+			<unittitle>Photograph - Flood - Washington DC</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">19</container>
+			<unittitle>Photograph - Flood - Washington DC</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">20</container>
+			<unittitle>Photograph - Flood - Washington DC</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">21</container>
+			<unittitle>Photograph - Flood - Washington DC</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">22</container>
+			<unittitle>Photograph - Flood - Washington DC</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">23</container>
+			<unittitle>Photograph - Flood - Washington DC</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">24</container>
+			<unittitle>Photograph - Flood - Washington DC</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">25</container>
+			<unittitle>Photograph - Flood - Washington DC</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">26</container>
+			<unittitle>Photograph - Flood - Washington DC</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">27</container>
+			<unittitle>Photograph - Flood - Washington DC</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">28</container>
+			<unittitle>Photograph - Flood - Washington DC</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">29</container>
+			<unittitle>Photograph - Flood - Washington DC</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">30</container>
+			<unittitle>Photograph - Flood - Washington DC</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">31</container>
+			<unittitle>Photograph - Flood - Washington DC</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">32</container>
+			<unittitle>Photograph - Flood - Washington DC</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">33</container>
+			<unittitle>Photograph - Flood - Washington DC</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">34</container>
+			<unittitle>Photograph - Flood - Washington DC</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">35</container>
+			<unittitle>Photograph - Flood - Washington DC</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">36</container>
+			<unittitle>Photograph - Flood - Washington DC</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">37</container>
+			<unittitle>Photograph - Flood - Washington DC</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">38</container>
+			<unittitle>Photograph - Flood - Washington DC</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">39</container>
+			<unittitle>Photograph - Flood - Washington DC</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">40</container>
+			<unittitle>Photograph - Flood - Washington DC</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">41</container>
+			<unittitle>Photograph - Flood - Washington DC</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">42</container>
+			<unittitle>Photograph - Flood - Washington DC</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">43</container>
+			<unittitle>Photograph - Flood - Washington DC</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">44</container>
+			<unittitle>Photograph - Flood - Washington DC</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">45</container>
+			<unittitle>Photograph - Flood - Washington DC</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">46</container>
+			<unittitle>Photograph - Flood - Washington DC</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">47</container>
+			<unittitle>Photograph - Flood - Washington DC</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">48</container>
+			<unittitle>Photograph - Flood - Washington DC</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">49</container>
+			<unittitle>Photograph - Flood - Washington DC</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">50</container>
+			<unittitle>Photograph - Flood - Washington DC</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">51</container>
+			<unittitle>Photograph - Flood - Washington DC</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">52</container>
+			<unittitle>Flood - Washington DC</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">53</container>
+			<unittitle>Flood - Washington DC</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">1</container>
+			<unittitle>Star Issues</unittitle>
+			<unitdate type="inclusive">October 29 1930, April 13 1949, December 16 1952</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">2</container>
+			<unittitle>2 copies of “The Washington Star’s First 100 Years”</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+</c01>
+</dsc>
+</archdesc>
+</ead>

@@ -1,0 +1,398 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type="text/xml" href="I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/eadcbs6rev.xsl"?><!DOCTYPE ead PUBLIC "-//Society of American Archivists//DTD ead.dtd (Encoded Archival Description (EAD) Version 1.0)//EN" "I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/ead.dtd">
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" repositoryencoding="iso15511" relatedencoding="MARC21">
+	<eadid mainagencycode="DWP" countrycode="US" url="http://washingtoniana.dclibrary.org">051NationalRifles</eadid>
+<filedesc>
+<titlestmt>
+	<titleproper encodinganalog="245$a">National Rifles</titleproper>
+	<subtitle>An inventory of National Rifles at DC Public Library</subtitle>
+	<author encodinganalog="245$c">Finding aid prepared by DC Public Library.</author>
+</titlestmt>
+<publicationstmt>
+<publisher encodinganalog="260$b">DC Public Library, Special Collections</publisher>
+	<date type="publication" encodinganalog="260$c" normal="2001-02">2001-02</date>
+<address><addressline>901 G Street NW</addressline><addressline>DC Public Library</addressline><addressline>Washington, D.C. 20009</addressline></address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation encodinganalog="500">EAD encoded by Paul Kelly on
+	<date normal="2017-04-20">2017-04-20</date>
+</creation>
+<langusage>English</langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory" relatedencoding="MARC21">
+<did id="a1">
+<head>Descriptive Summary</head>
+<repository label="Repository:" encodinganalog="852$a"><corpname>DC Public Library, Special Collections</corpname></repository>
+	<unitdate encodinganalog="260$c" label="Dates:" type="inclusive" normal="1880/1889">1880-1889</unitdate>
+	<unittitle label="Title:" encodinganalog="245$a">National Rifles Scrapbook Collection</unittitle>
+<physdesc label="Extent:" encodinganalog="300$a"><extent>5 boxes</extent></physdesc>
+<unitid encodinganalog="090" label="Collection Number:" countrycode="US" repositorycode="DCU">051</unitid>
+<langmaterial encodinganalog="041" label="Language:"><language langcode="eng">English</language></langmaterial>
+</did>
+	
+<dsc type="combined" id="a23">
+<head>Detailed Description of the Collection</head>
+<c01 level="series">
+   <did>
+	<unittitle>Series 1</unittitle>
+    </did>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">1</container>
+			<unittitle>Scrapbook</unittitle>
+			<unitdate type="inclusive" normal="1880/1885">1880-1885</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">1</container>
+			<unittitle>National Rifles Fair Scrapbook</unittitle>
+			<unitdate type="inclusive" normal="1885">1885</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">1</container>
+			<unittitle>Scrapbook</unittitle>
+			<unitdate type="inclusive" normal="1885/1895">1885-1895</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">1</container>
+			<unittitle>Scrapbooks</unittitle>
+			<unitdate type="inclusive" normal="1895/1899">1895-1899</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">1</container>
+			<unittitle>Acker, G. N. </unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">2</container>
+			<unittitle>Barksdale, William H. </unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">3</container>
+			<unittitle>Blois, J. F. H.</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">4</container>
+			<unittitle>Boteler, W. P.</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">5</container>
+			<unittitle>Bowers, H. C.</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">6</container>
+			<unittitle>Brooks, Charles W.</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">7</container>
+			<unittitle>Burkart, Frank A.</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">8</container>
+			<unittitle>Burkart, Frederick W. </unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">9</container>
+			<unittitle>Burnside, J. O. P.</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">10</container>
+			<unittitle>Choate, Warren R., Jr.</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">11</container>
+			<unittitle>Clear, James H.</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">12</container>
+			<unittitle>Colladay, W. </unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">13</container>
+			<unittitle>Constant, Robert E.</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">14</container>
+			<unittitle>Ellis, W. K.</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">15</container>
+			<unittitle>Fonda, Charles B.</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">16</container>
+			<unittitle>Fox, James C.</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">17</container>
+			<unittitle>Garner, T. A.</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">18</container>
+			<unittitle>Geneste, Leon D.</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">19</container>
+			<unittitle>Green, A. J.</unittitle>
+			<unitdate type="inclusive" normal="1893">1893</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">20</container>
+			<unittitle>Holmes, Lewis</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">21</container>
+			<unittitle>Howell, J. W.</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">22</container>
+			<unittitle>Keech, W. C.</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">23</container>
+			<unittitle>Moore, Robert E.</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">24</container>
+			<unittitle>Oyster, J. F.</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">25</container>
+			<unittitle>Paige, C. H.</unittitle>
+			<unitdate type="inclusive" normal="1882">1882</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">26</container>
+			<unittitle>Paige, C. H. </unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">27</container>
+			<unittitle>Sayles, Arthur U.</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">28</container>
+			<unittitle>Simms, C. E.</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">29</container>
+			<unittitle>Simms, C. E.</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">30</container>
+			<unittitle>Stokes, George W.</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">31</container>
+			<unittitle>Stone, O. P. D.</unittitle>
+			<unitdate type="inclusive" normal="1881">1881</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">32</container>
+			<unittitle>Taylor, C. McC.</unittitle>
+			<unitdate type="inclusive" normal="1889">1889</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">33</container>
+			<unittitle>Taylor, George W.</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">34</container>
+			<unittitle>Unknown</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">35</container>
+			<unittitle>Warner, C. H.</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">36</container>
+			<unittitle>Williams, Sherman</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">37</container>
+			<unittitle>Woodley, Will T.</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">38</container>
+			<unittitle>Zantizinger, D.</unittitle>
+			<unitdate type="inclusive" normal="1881">1881</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">39</container>
+			<unittitle>Oversized folder</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">40</container>
+			<unittitle>Poster for July 4th military celebrations in St. Louis</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+</c01>
+</dsc>
+</archdesc>
+</ead>

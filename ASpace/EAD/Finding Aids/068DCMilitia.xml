@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type="text/xml" href="I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/eadcbs6rev.xsl"?><!DOCTYPE ead PUBLIC "-//Society of American Archivists//DTD ead.dtd (Encoded Archival Description (EAD) Version 1.0)//EN" "I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/ead.dtd">
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" repositoryencoding="iso15511" relatedencoding="MARC21">
+	<eadid mainagencycode="DWP" countrycode="US" url="http://washingtoniana.dclibrary.org">068DCMilitia</eadid>
+<filedesc>
+<titlestmt>
+	<titleproper encodinganalog="245$a">DC Militia</titleproper>
+	<subtitle>An inventory of DC Militia Scrapbooks at DC Public Library</subtitle>
+	<author encodinganalog="245$c">Finding aid prepared by Ryan P. Semmes.</author>
+</titlestmt>
+<publicationstmt>
+<publisher encodinganalog="260$b">DC Public Library, Special Collections</publisher>
+	<date type="publication" encodinganalog="260$c" normal="2006-08">2006-08</date>
+<address><addressline>901 G Street NW</addressline><addressline>DC Public Library</addressline><addressline>Washington, D.C. 20009</addressline></address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation encodinganalog="500">EAD encoded by Paul Kelly on
+	<date normal="2017-04-21">2017-04-21</date>
+</creation>
+<langusage>English</langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory" relatedencoding="MARC21">
+<did id="a1">
+<head>Descriptive Summary</head>
+<repository label="Repository:" encodinganalog="852$a"><corpname>DC Public Library, Special Collections</corpname></repository>
+	<unitdate encodinganalog="260$c" label="Dates:" type="inclusive" normal="1890/1906">1890-1906</unitdate>
+	<unittitle label="Title:" encodinganalog="245$a">DC Militia Scrapbooks Collection</unittitle>
+<physdesc label="Extent:" encodinganalog="300$a"><extent>3.75 linear feet; 3 boxes</extent></physdesc>
+<unitid encodinganalog="090" label="Collection Number:" countrycode="US" repositorycode="DCU">068</unitid>
+<langmaterial encodinganalog="041" label="Language:"><language langcode="eng">English</language></langmaterial>
+</did>
+	
+<dsc type="combined" id="a23">
+<head>Detailed Description of the Collection</head>
+<c01 level="series">
+   <did>
+	<unittitle>Series 1</unittitle>
+    </did>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">1</container>
+			<unittitle>Untitled</unittitle>
+			<unitdate type="inclusive" normal="1890-08/1893-12">August 1890-December 1893</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">1</container>
+			<unittitle>Untitled</unittitle>
+			<unitdate type="inclusive" normal="1894-01/1897-04-29">January 1894-April 29, 1897</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">1</container>
+			<unittitle>Untitled</unittitle>
+			<unitdate type="inclusive" normal="1897-04-29/1906">April 29, 1897-1906</unitdate>
+		</did>
+	</c02>
+</c01>
+</dsc>
+</archdesc>
+</ead>

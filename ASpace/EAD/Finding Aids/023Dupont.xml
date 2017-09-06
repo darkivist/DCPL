@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type="text/xml" href="I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/eadcbs6rev.xsl"?><!DOCTYPE ead PUBLIC "-//Society of American Archivists//DTD ead.dtd (Encoded Archival Description (EAD) Version 1.0)//EN" "I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/ead.dtd">
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" repositoryencoding="iso15511" relatedencoding="MARC21">
+	<eadid mainagencycode="DWP" countrycode="US" url="http://washingtoniana.dclibrary.org">023Dupont</eadid>
+<filedesc>
+<titlestmt>
+	<titleproper encodinganalog="245$a">Dupont Park Civic Association</titleproper>
+	<subtitle>An inventory of Dupont Park Civic Association at DC Public Library</subtitle>
+	<author encodinganalog="245$c">Finding aid prepared by DC Public Library.</author>
+</titlestmt>
+<publicationstmt>
+<publisher encodinganalog="260$b">DC Public Library, Special Collections</publisher>
+	<date type="publication" encodinganalog="260$c" normal="2001-02">2001-02</date>
+<address><addressline>901 G Street NW</addressline><addressline>DC Public Library</addressline><addressline>Washington, D.C. 20009</addressline></address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation encodinganalog="500">EAD encoded by Paul Kelly on
+	<date normal="2017-04-20">2017-04-20</date>
+</creation>
+<langusage>English</langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory" relatedencoding="MARC21">
+<did id="a1">
+<head>Descriptive Summary</head>
+<repository label="Repository:" encodinganalog="852$a"><corpname>DC Public Library, Special Collections</corpname></repository>
+	<unitdate encodinganalog="260$c" label="Dates:" type="inclusive" normal="1950/1980">1950-1980</unitdate>
+	<unittitle label="Title:" encodinganalog="245$a">Dupont Park Civic Association Records</unittitle>
+<physdesc label="Extent:" encodinganalog="300$a"><extent>0.5 linear feet; 1 box</extent></physdesc>
+<unitid encodinganalog="090" label="Collection Number:" countrycode="US" repositorycode="DCU">023</unitid>
+<langmaterial encodinganalog="041" label="Language:"><language langcode="eng">English</language></langmaterial>
+</did>
+	
+<dsc type="combined" id="a23">
+<head>Detailed Description of the Collection</head>
+<c01 level="series">
+   <did>
+	<unittitle>Series 1</unittitle>
+    </did>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">1</container>
+			<unittitle>Monthly Minutes/Reports/Correspondence</unittitle>
+			<unitdate type="inclusive" normal="1963/1964">1963-1964</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">2</container>
+			<unittitle>Monthly Minutes/Reports/Correspondence</unittitle>
+			<unitdate type="inclusive" normal="1964">1964</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">3</container>
+			<unittitle>Monthly Minutes/Reports/Correspondence</unittitle>
+			<unitdate type="inclusive" normal="1965">1965</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">4</container>
+			<unittitle>Membership List</unittitle>
+			<unitdate type="inclusive" normal="1964/1965">1964-1965</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">5</container>
+			<unittitle>Neighborhood Improvement and Police Protection Campaigns</unittitle>
+			<unitdate type="inclusive" normal="1964/1965">1964-1965</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">6</container>
+			<unittitle>Home Rule Brochure</unittitle>
+			<unitdate type="inclusive" normal="1964">1964</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">7</container>
+			<unittitle>Far Northeast Council Proposal for Community Action Against Poverty</unittitle>
+			<unitdate type="inclusive" normal="1965">1965</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">8</container>
+			<unittitle>By-laws of the Dupont Part Civic Association</unittitle>
+			<unitdate type="inclusive" normal="1987-11">November 1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">9</container>
+			<unittitle>Dupont Park Civic Association</unittitle>
+			<unitdate type="inclusive" normal="1988/1989">1988-1989</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">10</container>
+			<unittitle>Dupont Park Civic Association</unittitle>
+			<unitdate type="inclusive" normal="1988/1989">1988-1989</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">11</container>
+			<unittitle>Dupont Park Civic Association</unittitle>
+			<unitdate type="inclusive" normal="1988/1989">1988-1989</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">12</container>
+			<unittitle>Dupont Park Civic Association</unittitle>
+			<unitdate type="inclusive" normal="1988/1989">1988-1989</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">13</container>
+			<unittitle>Monthly Crime Reports</unittitle>
+			<unitdate type="inclusive" normal="1987/1989">1987-1989</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">14</container>
+			<unittitle>Jesse Jackson Speech</unittitle>
+			<unitdate type="inclusive" normal="1988">1988</unitdate>
+		</did>
+	</c02>
+</c01>
+</dsc>
+</archdesc>
+</ead>

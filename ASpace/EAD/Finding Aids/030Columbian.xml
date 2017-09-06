@@ -1,0 +1,1462 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type="text/xml" href="I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/eadcbs6rev.xsl"?><!DOCTYPE ead PUBLIC "-//Society of American Archivists//DTD ead.dtd (Encoded Archival Description (EAD) Version 1.0)//EN" "I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/ead.dtd">
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" repositoryencoding="iso15511" relatedencoding="MARC21">
+	<eadid mainagencycode="DWP" countrycode="US" url="http://washingtoniana.dclibrary.org">030Columbian</eadid>
+<filedesc>
+<titlestmt>
+	<titleproper encodinganalog="245$a">Columbian Newspaper Research Files</titleproper>
+	<subtitle>An inventory of Columbian Newspaper Research Files at DC Public Library</subtitle>
+	<author encodinganalog="245$c">Finding aid prepared by DC Public Library.</author>
+</titlestmt>
+<publicationstmt>
+<publisher encodinganalog="260$b">DC Public Library, Special Collections</publisher>
+	<date type="publication" encodinganalog="260$c" normal="2001-02">2001-02</date>
+<address><addressline>901 G Street NW</addressline><addressline>DC Public Library</addressline><addressline>Washington, D.C. 20009</addressline></address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation encodinganalog="500">EAD encoded by Paul Kelly on
+	<date normal="2017-04-20">2017-04-20</date>
+</creation>
+<langusage>English</langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory" relatedencoding="MARC21">
+<did id="a1">
+<head>Descriptive Summary</head>
+<repository label="Repository:" encodinganalog="852$a"><corpname>DC Public Library, Special Collections</corpname></repository>
+	<unitdate encodinganalog="260$c" label="Dates:" type="inclusive" normal="1970">1970</unitdate>
+	<unittitle label="Title:" encodinganalog="245$a">Columbian Newspaper Research Files Collection</unittitle>
+<physdesc label="Extent:" encodinganalog="300$a"><extent>3 linear feet; 7 boxes</extent></physdesc>
+<unitid encodinganalog="090" label="Collection Number:" countrycode="US" repositorycode="DCU">030</unitid>
+<langmaterial encodinganalog="041" label="Language:"><language langcode="eng">English</language></langmaterial>
+</did>
+	
+<dsc type="combined" id="a23">
+<head>Detailed Description of the Collection</head>
+<c01 level="series">
+   <did>
+	<unittitle>Series 1</unittitle>
+    </did>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">1</container>
+			<unittitle>Abortion</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">2</container>
+			<unittitle>A-M Organizations</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">3</container>
+			<unittitle>Adams Morgan - Housing Co-op</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">4</container>
+			<unittitle>Adams Morgan - Issues</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">5</container>
+			<unittitle>Adams Morgan - Merchants collective</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">6</container>
+			<unittitle>Adams Morgan - Nature Center</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">7</container>
+			<unittitle>Adams Morgan - Organization-coalition</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">8</container>
+			<unittitle>Adams Morgan - Peoples Center</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">9</container>
+			<unittitle>Adams Morgan - Publications</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">10</container>
+			<unittitle>Adams Morgan - Women’s Employment Center</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">11</container>
+			<unittitle>Adams School</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">12</container>
+			<unittitle>Airy View</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">13</container>
+			<unittitle>The Alley Library</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">14</container>
+			<unittitle>American Indian</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">15</container>
+			<unittitle>Antioch School of Law</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">16</container>
+			<unittitle>ANC’s</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">17</container>
+			<unittitle>Area B Mental Health Center</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">18</container>
+			<unittitle>Arts</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">19</container>
+			<unittitle>Ayuda</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">1</container>
+			<unittitle>Banks</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">2</container>
+			<unittitle>Beacon</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">3</container>
+			<unittitle>Book Center</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">4</container>
+			<unittitle>BP Tract</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">5</container>
+			<unittitle>Barney House</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">6</container>
+			<unittitle>Board of Elections</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">7</container>
+			<unittitle>Borrowed Time Productions</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">8</container>
+			<unittitle>Board of Education - Ray Kemp</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">9</container>
+			<unittitle>Funding</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">10</container>
+			<unittitle>Bread and Roses</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">11</container>
+			<unittitle>Budget - D.C.</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">12</container>
+			<unittitle>CandP Telephone</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">13</container>
+			<unittitle>Community Release Organization</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">14</container>
+			<unittitle>Jimmy Carter</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">15</container>
+			<unittitle>D.C. Chamber of Commerce</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">16</container>
+			<unittitle>Childcare</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">17</container>
+			<unittitle>Child welfare reform</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">18</container>
+			<unittitle>City-wide Housing Coalition</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">19</container>
+			<unittitle>City Council</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">20</container>
+			<unittitle>City organizations</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">21</container>
+			<unittitle>David Clarke</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">22</container>
+			<unittitle>Community Group Health Foundation</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">23</container>
+			<unittitle>Community release organization</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">24</container>
+			<unittitle>Community technology</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">25</container>
+			<unittitle>Community video</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">26</container>
+			<unittitle>Congress-District relations</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">27</container>
+			<unittitle>Condominium</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">28</container>
+			<unittitle>Office of Consumer Affairs</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">1</container>
+			<unittitle>Continental walk</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">2</container>
+			<unittitle>Cooperacion Latina</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">3</container>
+			<unittitle>Credit union</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">4</container>
+			<unittitle>Crime</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">5</container>
+			<unittitle>D.C. accounting</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">6</container>
+			<unittitle>D.C. campaign</unittitle>
+			<unitdate type="inclusive" normal="1974">1974</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">7</container>
+			<unittitle>D.C. courts</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">8</container>
+			<unittitle>D.C. jail</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">9</container>
+			<unittitle>D.C. Public Interest Research Group</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">10</container>
+			<unittitle>Dance forum</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">11</container>
+			<unittitle>Democrats</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">12</container>
+			<unittitle>Demographics</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">13</container>
+			<unittitle>District committee’s House and Senate</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">14</container>
+			<unittitle>District issues</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">15</container>
+			<unittitle>Divorce</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">16</container>
+			<unittitle>Dravilas</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">17</container>
+			<unittitle>Drugs</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">18</container>
+			<unittitle>Education</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">19</container>
+			<unittitle>Elder</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">20</container>
+			<unittitle>Election</unittitle>
+			<unitdate type="inclusive" normal="1976">1976</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">1</container>
+			<unittitle>Environment</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">2</container>
+			<unittitle>Farm workers</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">3</container>
+			<unittitle>Fire Department of D.C.</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">4</container>
+			<unittitle>First Church of Christ Scientist</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">5</container>
+			<unittitle>Food</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">6</container>
+			<unittitle>Food stamps</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">7</container>
+			<unittitle>Food stamps</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">8</container>
+			<unittitle>Food stores</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">9</container>
+			<unittitle>Food tax</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">10</container>
+			<unittitle>Foundation for Multi-lingualism and polyculturalism</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">11</container>
+			<unittitle>Gun control</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">12</container>
+			<unittitle>Hatch Act</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">13</container>
+			<unittitle>Housing</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">14</container>
+			<unittitle>Health</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">15</container>
+			<unittitle>Institute for cultural affairs</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">16</container>
+			<unittitle>Institute for local self-reliance</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">17</container>
+			<unittitle>Jan Van Dyke</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">18</container>
+			<unittitle>Jobs</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">19</container>
+			<unittitle>Jubilee housing</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">20</container>
+			<unittitle>Kalorama Citizens Association</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">21</container>
+			<unittitle>Lakers</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">22</container>
+			<unittitle>La Mesa Redonda</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">23</container>
+			<unittitle>Land speculation</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">1</container>
+			<unittitle>Latino</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">2</container>
+			<unittitle>Legal gambling</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">3</container>
+			<unittitle>Literacy action</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">4</container>
+			<unittitle>Marijuana law revisions</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">5</container>
+			<unittitle>Message</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">6</container>
+			<unittitle>Mayor Washington</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">7</container>
+			<unittitle>Mayor’s Committee for Spanish Affairs</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">8</container>
+			<unittitle>Mailing lists</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">9</container>
+			<unittitle>Metro</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">10</container>
+			<unittitle>Morgan school</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">11</container>
+			<unittitle>Music center</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">12</container>
+			<unittitle>Mt. Pleasant</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">13</container>
+			<unittitle>Nahikian Marie</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">14</container>
+			<unittitle>Alliance for Neighborhood Government</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">15</container>
+			<unittitle>Neighborhood Planning Council</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">16</container>
+			<unittitle>National Public Radio</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">17</container>
+			<unittitle>P Street Paper Works</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">18</container>
+			<unittitle>Protection of Elderly People</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">19</container>
+			<unittitle>PEPCO</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">20</container>
+			<unittitle>Perpetual</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">21</container>
+			<unittitle>Police</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">22</container>
+			<unittitle>Police-Community relations</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">23</container>
+			<unittitle>Polycultural Institute</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">24</container>
+			<unittitle>Potter’s House City Center</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">25</container>
+			<unittitle>Press</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">26</container>
+			<unittitle>Preterm</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">27</container>
+			<unittitle>Pride Incorporated</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">28</container>
+			<unittitle>Prison</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">29</container>
+			<unittitle>Quaker House</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">30</container>
+			<unittitle>Property taxes</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">31</container>
+			<unittitle>Public assistance</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">1</container>
+			<unittitle>Radio CB</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">2</container>
+			<unittitle>RAP Inc.</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">3</container>
+			<unittitle>Rape</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">4</container>
+			<unittitle>Rates - AD</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">5</container>
+			<unittitle>Real estate transaction tax</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">6</container>
+			<unittitle>Recipes</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">7</container>
+			<unittitle>Recreation</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">8</container>
+			<unittitle>Rent control</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">9</container>
+			<unittitle>Residency</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">10</container>
+			<unittitle>Revenue sharing</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">11</container>
+			<unittitle>Service Area Community</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">12</container>
+			<unittitle>SAJA</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">13</container>
+			<unittitle>School Board</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">14</container>
+			<unittitle>Seaton Street</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">15</container>
+			<unittitle>P. Sanchez</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">16</container>
+			<unittitle>Shapiro tract</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">17</container>
+			<unittitle>Senior citizens</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">18</container>
+			<unittitle>Senior citizens motor pool</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">19</container>
+			<unittitle>B. Sizemore</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">20</container>
+			<unittitle>Shopping guide</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">21</container>
+			<unittitle>Social services</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">22</container>
+			<unittitle>Spanish American police association</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">23</container>
+			<unittitle>Spanish Education Development Center</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">24</container>
+			<unittitle>Spanish leadership</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">25</container>
+			<unittitle>Spanish speaking committee of Virginia</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">26</container>
+			<unittitle>Speculation – real estate</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">27</container>
+			<unittitle>Sprout House School</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">28</container>
+			<unittitle>St. Elizabeth’s</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">29</container>
+			<unittitle>St. Stephens</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">30</container>
+			<unittitle>Strongforce</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">31</container>
+			<unittitle>Summer in the Parks</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">1</container>
+			<unittitle>Tax commuter</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">2</container>
+			<unittitle>Tax income</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">3</container>
+			<unittitle>Tax speculation</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">4</container>
+			<unittitle>Tenants union</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">5</container>
+			<unittitle>Tess community center</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">6</container>
+			<unittitle>Two-W project</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">7</container>
+			<unittitle>Unemployment jobs</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">8</container>
+			<unittitle>Unity</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">9</container>
+			<unittitle>Universidad Boricua</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">10</container>
+			<unittitle>Video</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">11</container>
+			<unittitle>Voluntary service response</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">12</container>
+			<unittitle>Voter registration</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">13</container>
+			<unittitle>WAMU</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">14</container>
+			<unittitle>WMOD</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">15</container>
+			<unittitle>WTOP-TV9</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">16</container>
+			<unittitle>Ward Democrats</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">17</container>
+			<unittitle>Washington area bicycle association</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">18</container>
+			<unittitle>M. Vest (dancer photographs)</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">19</container>
+			<unittitle>Widening horizons</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">20</container>
+			<unittitle>Women</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">21</container>
+			<unittitle>Women in community service</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">22</container>
+			<unittitle>Woodley</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">23</container>
+			<unittitle>Woodrow Wilson International Center</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">24</container>
+			<unittitle>Joe Yeldell</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">25</container>
+			<unittitle>I-50</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+</c01>
+</dsc>
+</archdesc>
+</ead>

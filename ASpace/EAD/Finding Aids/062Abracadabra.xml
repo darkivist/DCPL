@@ -1,0 +1,1207 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type="text/xml" href="I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/eadcbs6rev.xsl"?><!DOCTYPE ead PUBLIC "-//Society of American Archivists//DTD ead.dtd (Encoded Archival Description (EAD) Version 1.0)//EN" "I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/ead.dtd">
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" repositoryencoding="iso15511" relatedencoding="MARC21">
+	<eadid mainagencycode="DWP" countrycode="US" url="http://washingtoniana.dclibrary.org">062Abracadabra</eadid>
+<filedesc>
+<titlestmt>
+	<titleproper encodinganalog="245$a">Abracadabra Club of Washington, DC</titleproper>
+	<subtitle>An inventory of Abracadabra Club of Washington, DC at DC Public Library</subtitle>
+	<author encodinganalog="245$c">Finding aid prepared by DC Public Library.</author>
+</titlestmt>
+<publicationstmt>
+<publisher encodinganalog="260$b">DC Public Library, Special Collections</publisher>
+	<date type="publication" encodinganalog="260$c" normal="2001-02">2001-02</date>
+<address><addressline>901 G Street NW</addressline><addressline>DC Public Library</addressline><addressline>Washington, D.C. 20009</addressline></address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation encodinganalog="500">EAD encoded by Paul Kelly on
+	<date normal="2017-04-20">2017-04-20</date>
+</creation>
+<langusage>English</langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory" relatedencoding="MARC21">
+<did id="a1">
+<head>Descriptive Summary</head>
+<repository label="Repository:" encodinganalog="852$a"><corpname>DC Public Library, Special Collections</corpname></repository>
+	<unitdate encodinganalog="260$c" label="Dates:" type="inclusive" normal="1893/1999">1893-1999</unitdate>
+	<unittitle label="Title:" encodinganalog="245$a">Abracadabra Club of Washington, DC Records</unittitle>
+<physdesc label="Extent:" encodinganalog="300$a"><extent>8 linear feet;18 boxes</extent></physdesc>
+<unitid encodinganalog="090" label="Collection Number:" countrycode="US" repositorycode="DCU">062</unitid>
+<langmaterial encodinganalog="041" label="Language:"><language langcode="eng">English</language></langmaterial>
+</did>
+	
+<dsc type="combined" id="a23">
+<head>Detailed Description of the Collection</head>
+<c01 level="series">
+   <did>
+   	<unittitle>Series 1: Meeting Minutes, 1893-1996</unittitle>
+    </did>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">1</container>
+			<unittitle>Minutes (Bound Volume)</unittitle>
+			<unitdate type="inclusive" normal="1893/1913">1893-1913</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">1</container>
+			<unittitle>Minutes (Bound Volume)</unittitle>
+			<unitdate type="inclusive" normal="1913/1918">1913-1918</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">2</container>
+			<unittitle>Minutes (Bound Volume)</unittitle>
+			<unitdate type="inclusive" normal="1918/1926">1918-1926</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">1</container>
+			<unittitle>Minutes (Bound Volume)</unittitle>
+			<unitdate type="inclusive" normal="1926/1933">1926-1933</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">2</container>
+			<unittitle>Minutes (Bound Volume)</unittitle>
+			<unitdate type="inclusive" normal="1933/1938">1933-1938</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">1</container>
+			<unittitle>Related Correspondence (with no Minutes)</unittitle>
+			<unitdate type="inclusive" normal="1925/1926">1925-1926</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">2</container>
+			<unittitle>Speech/Report (with no Minutes)</unittitle>
+			<unitdate type="inclusive" normal="1935/1936">1935-1936</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">3</container>
+			<unittitle>Minutes</unittitle>
+			<unitdate type="inclusive" normal="1938/1955">1938-1955</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">4</container>
+			<unittitle>Minutes</unittitle>
+			<unitdate type="inclusive" normal="1938/1955">1938-1955</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">5</container>
+			<unittitle>Minutes</unittitle>
+			<unitdate type="inclusive" normal="1938/1955">1938-1955</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">6</container>
+			<unittitle>Minutes</unittitle>
+			<unitdate type="inclusive" normal="1938/1955">1938-1955</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">7</container>
+			<unittitle>Minutes</unittitle>
+			<unitdate type="inclusive" normal="1938/1955">1938-1955</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">8</container>
+			<unittitle>Minutes</unittitle>
+			<unitdate type="inclusive" normal="1938/1955">1938-1955</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">9</container>
+			<unittitle>Minutes</unittitle>
+			<unitdate type="inclusive" normal="1938/1955">1938-1955</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">10</container>
+			<unittitle>Minutes</unittitle>
+			<unitdate type="inclusive" normal="1938/1955">1938-1955</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">11</container>
+			<unittitle>Minutes</unittitle>
+			<unitdate type="inclusive" normal="1938/1955">1938-1955</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">12</container>
+			<unittitle>Minutes</unittitle>
+			<unitdate type="inclusive" normal="1938/1955">1938-1955</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">13</container>
+			<unittitle>Minutes</unittitle>
+			<unitdate type="inclusive" normal="1938/1955">1938-1955</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">14</container>
+			<unittitle>Minutes</unittitle>
+			<unitdate type="inclusive" normal="1938/1955">1938-1955</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">15</container>
+			<unittitle>Minutes</unittitle>
+			<unitdate type="inclusive" normal="1938/1955">1938-1955</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">16</container>
+			<unittitle>Minutes</unittitle>
+			<unitdate type="inclusive" normal="1938/1955">1938-1955</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">17</container>
+			<unittitle>Minutes</unittitle>
+			<unitdate type="inclusive" normal="1938/1955">1938-1955</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">18</container>
+			<unittitle>Minutes</unittitle>
+			<unitdate type="inclusive" normal="1938/1955">1938-1955</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">19</container>
+			<unittitle>Minutes</unittitle>
+			<unitdate type="inclusive" normal="1938/1955">1938-1955</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">1</container>
+			<unittitle>Minutes</unittitle>
+			<unitdate type="inclusive" normal="1955/1972">1955-1972</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">2</container>
+			<unittitle>Minutes</unittitle>
+			<unitdate type="inclusive" normal="1955/1972">1955-1972</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">3</container>
+			<unittitle>Minutes</unittitle>
+			<unitdate type="inclusive" normal="1955/1972">1955-1972</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">4</container>
+			<unittitle>Minutes</unittitle>
+			<unitdate type="inclusive" normal="1955/1972">1955-1972</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">5</container>
+			<unittitle>Minutes</unittitle>
+			<unitdate type="inclusive" normal="1955/1972">1955-1972</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">6</container>
+			<unittitle>Minutes</unittitle>
+			<unitdate type="inclusive" normal="1955/1972">1955-1972</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">7</container>
+			<unittitle>Minutes</unittitle>
+			<unitdate type="inclusive" normal="1955/1972">1955-1972</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">8</container>
+			<unittitle>Minutes</unittitle>
+			<unitdate type="inclusive" normal="1955/1972">1955-1972</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">9</container>
+			<unittitle>Minutes</unittitle>
+			<unitdate type="inclusive" normal="1955/1972">1955-1972</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">10</container>
+			<unittitle>Minutes</unittitle>
+			<unitdate type="inclusive" normal="1955/1972">1955-1972</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">11</container>
+			<unittitle>Minutes</unittitle>
+			<unitdate type="inclusive" normal="1955/1972">1955-1972</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">12</container>
+			<unittitle>Minutes</unittitle>
+			<unitdate type="inclusive" normal="1955/1972">1955-1972</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">13</container>
+			<unittitle>Minutes</unittitle>
+			<unitdate type="inclusive" normal="1955/1972">1955-1972</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">14</container>
+			<unittitle>Minutes</unittitle>
+			<unitdate type="inclusive" normal="1955/1972">1955-1972</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">15</container>
+			<unittitle>Minutes</unittitle>
+			<unitdate type="inclusive" normal="1955/1972">1955-1972</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">16</container>
+			<unittitle>Minutes</unittitle>
+			<unitdate type="inclusive" normal="1955/1972">1955-1972</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">17</container>
+			<unittitle>Minutes</unittitle>
+			<unitdate type="inclusive" normal="1955/1972">1955-1972</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">18</container>
+			<unittitle>Minutes</unittitle>
+			<unitdate type="inclusive" normal="1955/1972">1955-1972</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">1</container>
+			<unittitle>Minutes</unittitle>
+			<unitdate type="inclusive" normal="1972/1996">1972-1996</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">2</container>
+			<unittitle>Minutes</unittitle>
+			<unitdate type="inclusive" normal="1972/1996">1972-1996</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">3</container>
+			<unittitle>Minutes</unittitle>
+			<unitdate type="inclusive" normal="1972/1996">1972-1996</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">4</container>
+			<unittitle>Minutes</unittitle>
+			<unitdate type="inclusive" normal="1972/1996">1972-1996</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">5</container>
+			<unittitle>Minutes</unittitle>
+			<unitdate type="inclusive" normal="1972/1996">1972-1996</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">6</container>
+			<unittitle>Minutes</unittitle>
+			<unitdate type="inclusive" normal="1972/1996">1972-1996</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">7</container>
+			<unittitle>Minutes</unittitle>
+			<unitdate type="inclusive" normal="1972/1996">1972-1996</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">8</container>
+			<unittitle>Minutes</unittitle>
+			<unitdate type="inclusive" normal="1972/1996">1972-1996</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">9</container>
+			<unittitle>Minutes</unittitle>
+			<unitdate type="inclusive" normal="1972/1996">1972-1996</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">10</container>
+			<unittitle>Minutes</unittitle>
+			<unitdate type="inclusive" normal="1972/1996">1972-1996</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">11</container>
+			<unittitle>Minutes</unittitle>
+			<unitdate type="inclusive" normal="1972/1996">1972-1996</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">12</container>
+			<unittitle>Minutes</unittitle>
+			<unitdate type="inclusive" normal="1972/1996">1972-1996</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">13</container>
+			<unittitle>Minutes</unittitle>
+			<unitdate type="inclusive" normal="1972/1996">1972-1996</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">14</container>
+			<unittitle>Minutes</unittitle>
+			<unitdate type="inclusive" normal="1972/1996">1972-1996</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">15</container>
+			<unittitle>Minutes</unittitle>
+			<unitdate type="inclusive" normal="1972/1996">1972-1996</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">16</container>
+			<unittitle>Minutes</unittitle>
+			<unitdate type="inclusive" normal="1972/1996">1972-1996</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">17</container>
+			<unittitle>Minutes</unittitle>
+			<unitdate type="inclusive" normal="1972/1996">1972-1996</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">18</container>
+			<unittitle>Minutes</unittitle>
+			<unitdate type="inclusive" normal="1972/1996">1972-1996</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">19</container>
+			<unittitle>Minutes</unittitle>
+			<unitdate type="inclusive" normal="1972/1996">1972-1996</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">20</container>
+			<unittitle>Minutes</unittitle>
+			<unitdate type="inclusive" normal="1972/1996">1972-1996</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">21</container>
+			<unittitle>Minutes</unittitle>
+			<unitdate type="inclusive" normal="1972/1996">1972-1996</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">22</container>
+			<unittitle>Minutes</unittitle>
+			<unitdate type="inclusive" normal="1972/1996">1972-1996</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">23</container>
+			<unittitle>Minutes</unittitle>
+			<unitdate type="inclusive" normal="1972/1996">1972-1996</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">24</container>
+			<unittitle>Index of Papers/Speeches/Reports</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">25</container>
+			<unittitle>Index of Roll Call Responses</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">26</container>
+			<unittitle>Membership List</unittitle>
+			<unitdate type="inclusive" normal="1893/1937">1893-1937</unitdate>
+		</did>
+	</c02>
+</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 2: Yearbooks, 1896-1989</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">7</container>
+				<container type="Folder">1</container>
+				<unittitle>Volume 1-3</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">8</container>
+				<container type="Folder">1</container>
+				<unittitle>Untitled</unittitle>
+				<unitdate type="inclusive" normal="1920/1930">1920-1930</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">9</container>
+				<container type="Folder">1</container>
+				<unittitle>Untitled</unittitle>
+				<unitdate type="inclusive" normal="1930/1940">1930-1940</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">10</container>
+				<container type="Folder">1</container>
+				<unittitle>Untitled</unittitle>
+				<unitdate type="inclusive" normal="1940/1950">1940-1950</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">11</container>
+				<container type="Folder">1</container>
+				<unittitle>Untitled</unittitle>
+				<unitdate type="inclusive" normal="1950/1960">1950-1960</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">12</container>
+				<container type="Folder">1</container>
+				<unittitle>Untitled</unittitle>
+				<unitdate type="inclusive" normal="1960/1970">1960-1970</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">13</container>
+				<container type="Folder">1</container>
+				<unittitle>Untitled</unittitle>
+				<unitdate type="inclusive" normal="1970/1980">1970-1980</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">14</container>
+				<container type="Folder">1</container>
+				<unittitle>Untitled</unittitle>
+				<unitdate type="inclusive" normal="1980/1989">1980-1989</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 3: Photographs, 1966-1995, No Date</unittitle>
+		</did>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">1</container>
+			<unittitle>Dr. Abbot and Mrs. Odom</unittitle>
+			<unitdate type="inclusive" normal="1966-05">May 1966</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">2</container>
+			<unittitle>Dr. Abbot and Mrs. Odom</unittitle>
+			<unitdate type="inclusive" normal="1966-05">May 1966</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">3</container>
+			<unittitle>Brian - Mr. Burton and Mr. Moyer</unittitle>
+			<unitdate type="inclusive" normal="1966-05">May 1966</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">4</container>
+			<unittitle>Unknown</unittitle>
+			<unitdate type="inclusive" normal="1966-05">May 1966</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">5</container>
+			<unittitle>Dr. Abbot and Mr. Baker</unittitle>
+			<unitdate type="inclusive" normal="1968-12">December 1968</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">6</container>
+			<unittitle>Christmas Tree</unittitle>
+			<unitdate type="inclusive" normal="1968-12">December 1968</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">7</container>
+			<unittitle>Floral Arrangement</unittitle>
+			<unitdate type="inclusive" normal="1968-12">December 1968</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">8</container>
+			<unittitle>Mr. and Mrs. Howard and Mr. Moyers</unittitle>
+			<unitdate type="inclusive" normal="1970-03">March 1970</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">9</container>
+			<unittitle>Mr. and Mrs. Howard and Mrs. Moyers</unittitle>
+			<unitdate type="inclusive" normal="1970-03">March 1970</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">10</container>
+			<unittitle>Dr. and Mrs. Abbot - Dr. Abbot’s 100th Birthday</unittitle>
+			<unitdate type="inclusive" normal="1972-04">April 1972</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">11</container>
+			<unittitle>Dr. and Mrs. Abbot - Dr. Abbot’s 100th Birthday</unittitle>
+			<unitdate type="inclusive" normal="1972-04">April 1972</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">12</container>
+			<unittitle>Cynthia Brooker and Betty Tibbott</unittitle>
+			<unitdate type="inclusive" normal="1972-04">April 1972</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">13</container>
+			<unittitle>Dr. Verne Chatelain and Helen Bailey</unittitle>
+			<unitdate type="inclusive" normal="1972-04">April 1972</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">14</container>
+			<unittitle>Negatives</unittitle>
+			<unitdate type="inclusive" normal="1972-04">April 1972</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">15</container>
+			<unittitle>Negatives</unittitle>
+			<unitdate type="inclusive" normal="1972-04">April 1972</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">16</container>
+			<unittitle>Negatives</unittitle>
+			<unitdate type="inclusive" normal="1972-04">April 1972</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">17</container>
+			<unittitle>Negatives</unittitle>
+			<unitdate type="inclusive" normal="1972-04">April 1972</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">18</container>
+			<unittitle>Negatives</unittitle>
+			<unitdate type="inclusive" normal="1972-04">April 1972</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">19</container>
+			<unittitle>Helen and Paul Howard - Wedding Fete</unittitle>
+			<unitdate type="inclusive" normal="1975-03">March 1975</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">20</container>
+			<unittitle>Gordon and Elva Webner</unittitle>
+			<unitdate type="inclusive" normal="1986-12">December 1986</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">21</container>
+			<unittitle>W. Elwood Baker - 98th Birthday</unittitle>
+			<unitdate type="inclusive" normal="1987-11">November 1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">22</container>
+			<unittitle>Mr. Baker - Mrs. West - Mrs. Chatelain and Mrs. Wallman</unittitle>
+			<unitdate type="inclusive" normal="1987-12">December 1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">23</container>
+			<unittitle>Mrs. Korgen - Mrs. Tibbott and Mrs. Gettens</unittitle>
+			<unitdate type="inclusive" normal="1987-12">December 1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">24</container>
+			<unittitle>Mr. West and Mr. Wollman</unittitle>
+			<unitdate type="inclusive" normal="1987-12">December 1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">25</container>
+			<unittitle>Dr. and Mrs. Chatelain</unittitle>
+			<unitdate type="inclusive" normal="1988-03">March 1988</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">26</container>
+			<unittitle>Rebecca Hayes - Virginia Garber and Mrs. Gettens</unittitle>
+			<unitdate type="inclusive" normal="1988-03">March 1988</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">27</container>
+			<unittitle>Mrs. Tibbott</unittitle>
+			<unitdate type="inclusive" normal="1988-03">March 1988</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">28</container>
+			<unittitle>Mr. and Mrs. West and Mrs. Chatelain</unittitle>
+			<unitdate type="inclusive" normal="1988-05">May 1988</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">29</container>
+			<unittitle>Shirley Wilhelm and Brian Grimes</unittitle>
+			<unitdate type="inclusive" normal="1988-05">May 1988</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">30</container>
+			<unittitle>W. Elwood Baker - 100th Birthday</unittitle>
+			<unitdate type="inclusive" normal="1989-11">November 1989</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">31</container>
+			<unittitle>W. Elwood Baker and Mrs. Gettens</unittitle>
+			<unitdate type="inclusive" normal="1990-04">April 1990</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">32</container>
+			<unittitle>Dr. and Mrs. Chatelain</unittitle>
+			<unitdate type="inclusive" normal="1990-04">April 1990</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">33</container>
+			<unittitle>Katharine Gettens and Helen Howard</unittitle>
+			<unitdate type="inclusive" normal="1994-12">December 1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">34</container>
+			<unittitle>Katharine Gettens and Helen Howard</unittitle>
+			<unitdate type="inclusive" normal="1994-12">December 1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">35</container>
+			<unittitle>Tom and Jody Bramel and Betty Tibbott</unittitle>
+			<unitdate type="inclusive" normal="1995-10">October 1995</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">36</container>
+			<unittitle>Bob Tibbott</unittitle>
+			<unitdate type="inclusive" normal="1995-10">October 1995</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">37</container>
+			<unittitle>Dr. and Mrs. Abbot</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">38</container>
+			<unittitle>Moyer’s House</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">39</container>
+			<unittitle>Moyer’s House</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">40</container>
+			<unittitle>Moyer’s House</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">41</container>
+			<unittitle>Moyer’s House</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 4: Biographical Files, 1907-1999</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">16</container>
+				<container type="Folder">1</container>
+				<unittitle>Dr. Charles G. Abbot</unittitle>
+				<unitdate type="inclusive" normal="1907/1973">1907-1973</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">16</container>
+				<container type="Folder">2</container>
+				<unittitle>Dr. Charles G. Abbot - Scrapbook</unittitle>
+				<unitdate type="inclusive" normal="1928/1967">1928-1967</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">16</container>
+				<container type="Folder">3</container>
+				<unittitle>R. B. Branstead</unittitle>
+				<unitdate type="inclusive" normal="1973">1973</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">16</container>
+				<container type="Folder">4</container>
+				<unittitle>Dr. Verne E. Chatelain</unittitle>
+				<unitdate type="inclusive" normal="1986">1986</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">16</container>
+				<container type="Folder">5</container>
+				<unittitle>Katharine Covella Gettens</unittitle>
+				<unitdate type="inclusive" normal="1997">1997</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">16</container>
+				<container type="Folder">6</container>
+				<unittitle>Lois W. Howard</unittitle>
+				<unitdate type="inclusive" normal="1973">1973</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">16</container>
+				<container type="Folder">7</container>
+				<unittitle>Helen Day Moyer</unittitle>
+				<unitdate type="inclusive" normal="1984">1984</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">16</container>
+				<container type="Folder">8</container>
+				<unittitle>Obituary Scrapbook</unittitle>
+				<unitdate type="inclusive" normal="1906/1967">1906-1967</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">16</container>
+				<container type="Folder">9</container>
+				<unittitle>Edward E. Odom</unittitle>
+				<unitdate type="inclusive" normal="1978">1978</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">16</container>
+				<container type="Folder">10</container>
+				<unittitle>Anita French Sanderson</unittitle>
+				<unitdate type="inclusive" normal="1984">1984</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">16</container>
+				<container type="Folder">11</container>
+				<unittitle>Gladys Harlow West</unittitle>
+				<unitdate type="inclusive" normal="1999">1999</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 5: Financial Records, 1940-1996</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">17</container>
+				<container type="Folder">1</container>
+				<unittitle>Receipt Book</unittitle>
+				<unitdate type="inclusive" normal="1942/1945">1942-1945</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">17</container>
+				<container type="Folder">2</container>
+				<unittitle>Receipt Book</unittitle>
+				<unitdate type="inclusive" normal="1945/1947">1945-1947</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">17</container>
+				<container type="Folder">3</container>
+				<unittitle>Receipt Book</unittitle>
+				<unitdate type="inclusive" normal="1948/1950">1948-1950</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">17</container>
+				<container type="Folder">4</container>
+				<unittitle>Treasurer’s Book</unittitle>
+				<unitdate type="inclusive" normal="1940/1961">1940-1961</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">17</container>
+				<container type="Folder">5</container>
+				<unittitle>Treasurer’s Book</unittitle>
+				<unitdate type="inclusive" normal="1970/1996">1970-1996</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 6: Ephemera, 1934-1986, No Date</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">16</container>
+				<container type="Folder">1</container>
+				<unittitle>Dr. Charles G. Abbot’s Publications</unittitle>
+				<unitdate type="inclusive" normal="1940/1966">1940-1966</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">16</container>
+				<container type="Folder">2</container>
+				<unittitle>Club Song</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">16</container>
+				<container type="Folder">3</container>
+				<unittitle>Christmas Carols</unittitle>
+				<unitdate type="inclusive" normal="1941/1983">1941-1983</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">16</container>
+				<container type="Folder">4</container>
+				<unittitle>Holiday Greetings</unittitle>
+				<unitdate type="inclusive" normal="1968/1986">1968-1986</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">16</container>
+				<container type="Folder">5</container>
+				<unittitle>Miscellaneous</unittitle>
+				<unitdate type="inclusive" normal="1934/1980">1934-1980</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">16</container>
+				<container type="Folder">6</container>
+				<unittitle>Travel Instructions</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">16</container>
+				<container type="Folder">7</container>
+				<unittitle>Addresses/Speeches/Presentations</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">17</container>
+				<container type="Folder">1</container>
+				<unittitle>Addresses/Speeches/Presentations</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">18</container>
+				<container type="Folder">1</container>
+				<unittitle>Two (2) Gavels and One (1) Block</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+	</c01>
+</dsc>
+</archdesc>
+</ead>

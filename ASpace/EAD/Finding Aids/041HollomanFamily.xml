@@ -1,0 +1,338 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type="text/xml" href="I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/eadcbs6rev.xsl"?><!DOCTYPE ead PUBLIC "-//Society of American Archivists//DTD ead.dtd (Encoded Archival Description (EAD) Version 1.0)//EN" "I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/ead.dtd">
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" repositoryencoding="iso15511" relatedencoding="MARC21">
+	<eadid mainagencycode="DWP" countrycode="US" url="http://washingtoniana.dclibrary.org">041HollomanFamily</eadid>
+<filedesc>
+<titlestmt>
+	<titleproper encodinganalog="245$a">Holloman Family</titleproper>
+	<subtitle>An inventory of Holloman Family at DC Public Library</subtitle>
+<author encodinganalog="245$c">Finding aid prepared by Faye Haskins.</author>
+</titlestmt>
+<publicationstmt>
+<publisher encodinganalog="260$b">DC Public Library, Special Collections</publisher>
+	<date type="publication" encodinganalog="260$c" normal="1998-09">1998-09</date>
+<address><addressline>901 G Street NW</addressline><addressline>DC Public Library</addressline><addressline>Washington, D.C. 20009</addressline></address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation encodinganalog="500">EAD encoded by Paul Kelly on
+	<date normal="2017-04-20">2017-04-20</date>
+</creation>
+<langusage>English</langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory" relatedencoding="MARC21">
+<did id="a1">
+<head>Descriptive Summary</head>
+<repository label="Repository:" encodinganalog="852$a"><corpname>DC Public Library, Special Collections</corpname></repository>
+	<unitdate encodinganalog="260$c" label="Dates:" type="inclusive" normal="1915/1975">1915-1975</unitdate>
+	<unittitle label="Title:" encodinganalog="245$a">Holloman Family Papers</unittitle>
+<physdesc label="Extent:" encodinganalog="300$a"><extent>12 linear feet; 29 boxes</extent></physdesc>
+<unitid encodinganalog="090" label="Collection Number:" countrycode="US" repositorycode="DCU">041</unitid>
+<langmaterial encodinganalog="041" label="Language:"><language langcode="eng">English</language></langmaterial>
+</did>
+	
+<dsc type="combined" id="a23">
+<head>Detailed Description of the Collection</head>
+<c01 level="series">
+   <did>
+   	<unittitle>Series 1: Correspondence 1917-1967</unittitle>
+    </did>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">1</container>
+			<unittitle>Untitled</unittitle>
+			<unitdate type="inclusive" normal="1915/1929">1915-1929</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">1</container>
+			<unittitle>Untitled</unittitle>
+			<unitdate type="inclusive" normal="1930/1939">1930-1939</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">1</container>
+			<unittitle>Untitled</unittitle>
+			<unitdate type="inclusive" normal="1939/1941">1939-1941</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">1</container>
+			<unittitle>Untitled</unittitle>
+			<unitdate type="inclusive" normal="1942/1944">1942-1944</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">1</container>
+			<unittitle>Untitled</unittitle>
+			<unitdate type="inclusive" normal="1945/1946">1945-1946</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">1</container>
+			<unittitle>Untitled</unittitle>
+			<unitdate type="inclusive" normal="1947/1949">1947-1949</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">1</container>
+			<unittitle>Untitled</unittitle>
+			<unitdate type="inclusive" normal="1950/1959">1950-1959</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">1</container>
+			<unittitle>Untitled</unittitle>
+			<unitdate type="inclusive" normal="1953/1957">1953-1957</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">1</container>
+			<unittitle>Untitled</unittitle>
+			<unitdate type="inclusive" normal="1953/1957">1953-1957</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">1</container>
+			<unittitle>Untitled</unittitle>
+			<unitdate type="inclusive" normal="1953/1957">1953-1957</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">1</container>
+			<unittitle>Untitled</unittitle>
+			<unitdate type="inclusive" normal="1953/1957">1953-1957</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">1</container>
+			<unittitle>Untitled</unittitle>
+			<unitdate type="inclusive" normal="1953/1957">1953-1957</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">1</container>
+			<unittitle>Untitled</unittitle>
+			<unitdate type="inclusive" normal="1958/1959">1958-1959</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">1</container>
+			<unittitle>Untitled</unittitle>
+			<unitdate type="inclusive" normal="1960/1961">1960-1961</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">1</container>
+			<unittitle>Untitled</unittitle>
+			<unitdate type="inclusive" normal="1965/1969">1965-1969</unitdate>
+		</did>
+	</c02>
+</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 2: Rosa Holloman Materials, 1930-1971</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">16</container>
+				<container type="Folder">1</container>
+				<unittitle>Rosa Holloman's correspondence</unittitle>
+				<unitdate type="inclusive" normal="1937/1971">1937-1971</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">17</container>
+				<container type="Folder">1</container>
+				<unittitle>National Association of Ministers Wives</unittitle>
+				<unitdate type="inclusive" normal="1937/1971">1937-1971</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">18</container>
+				<container type="Folder">1</container>
+				<unittitle>Rosa Holloman's speeches</unittitle>
+				<unitdate type="inclusive" normal="1955/1969">1955-1969</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">19</container>
+				<container type="Folder">1</container>
+				<unittitle>Eastern Star</unittitle>
+				<unitdate type="inclusive" normal="1938/1957">1938-1957</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">19</container>
+				<container type="Folder">2</container>
+				<unittitle>Alpha Sigma</unittitle>
+				<unitdate type="inclusive" normal="1938/1957">1938-1957</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">19</container>
+				<container type="Folder">3</container>
+				<unittitle>Women's Auxiliary of Lott Carey</unittitle>
+				<unitdate type="inclusive" normal="1938/1957">1938-1957</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 3: Church Records, 1915-1972</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">20</container>
+				<container type="Folder">1</container>
+				<unittitle>Second Baptist Weekly Bulletins</unittitle>
+				<unitdate type="inclusive" normal="1950/1970">1950-1970</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">20</container>
+				<container type="Folder">2</container>
+				<unittitle>Funeral statements</unittitle>
+				<unitdate type="inclusive" normal="1965/1969">1965-1969</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">21</container>
+				<container type="Folder">1</container>
+				<unittitle>Lott Carey materials</unittitle>
+				<unitdate type="inclusive" normal="1921/1958">1921-1958</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">22</container>
+				<container type="Folder">1</container>
+				<unittitle>Church Finance/insurance/tax papers</unittitle>
+				<unitdate type="inclusive" normal="1947/1959">1947-1959</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">23</container>
+				<container type="Folder">1</container>
+				<unittitle>Church Finance/insurance/tax papers</unittitle>
+				<unitdate type="inclusive" normal="1947/1959">1947-1959</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">24</container>
+				<container type="Folder">1</container>
+				<unittitle>Church Finance/insurance/tax papers</unittitle>
+				<unitdate type="inclusive" normal="1947/1959">1947-1959</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 4: Sermons and Writings, 1915-1972</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">25</container>
+				<container type="Folder">1</container>
+				<unittitle>Lecture/outlines/sermons</unittitle>
+				<unitdate type="inclusive" normal="1915/1972">1915-1972</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">26</container>
+				<container type="Folder">1</container>
+				<unittitle>Speeches/articles/reviews/reports</unittitle>
+				<unitdate type="inclusive" normal="1915/1972">1915-1972</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 5: Family Memorabilia, 1926-1963</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">27</container>
+				<container type="Folder">1</container>
+				<unittitle>Greeting cards/envelopes</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">27</container>
+				<container type="Folder">2</container>
+				<unittitle>Address lists/birth registration/clippings/other misc.</unittitle>
+				<unitdate type="inclusive" normal="1919/1972">1919-1972</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">27</container>
+				<container type="Folder">3</container>
+				<unittitle>Travel log (trip to Europe and holy land)</unittitle>
+				<unitdate type="inclusive" normal="1955">1955</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">28</container>
+				<container type="Folder">1</container>
+				<unittitle>Family papers and photographs</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">29</container>
+				<container type="Folder">1</container>
+				<unittitle>Hood for gown</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+	</c01>
+</dsc>
+</archdesc>
+</ead>

@@ -1,0 +1,424 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type="text/xml" href="I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/eadcbs6rev.xsl"?><!DOCTYPE ead PUBLIC "-//Society of American Archivists//DTD ead.dtd (Encoded Archival Description (EAD) Version 1.0)//EN" "I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/ead.dtd">
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" repositoryencoding="iso15511" relatedencoding="MARC21">
+	<eadid mainagencycode="DWP" countrycode="US" url="http://washingtoniana.dclibrary.org">042Chillum</eadid>
+<filedesc>
+<titlestmt>
+	<titleproper encodinganalog="245$a">Chillum Heights Citizens Association</titleproper>
+	<subtitle>An inventory of Chillum Heights Citizens Association at DC Public Library</subtitle>
+<author encodinganalog="245$c">Finding aid prepared by DC Public Library.</author>
+</titlestmt>
+<publicationstmt>
+<publisher encodinganalog="260$b">DC Public Library, Special Collections</publisher>
+	<date type="publication" encodinganalog="260$c" normal="2001-02">2001-02</date>
+<address><addressline>901 G Street NW</addressline><addressline>DC Public Library</addressline><addressline>Washington, D.C. 20009</addressline></address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation encodinganalog="500">EAD encoded by Paul Kelly on
+	<date normal="2017-04-20">2017-04-20</date>
+</creation>
+<langusage>English</langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory" relatedencoding="MARC21">
+<did id="a1">
+<head>Descriptive Summary</head>
+<repository label="Repository:" encodinganalog="852$a"><corpname>DC Public Library, Special Collections</corpname></repository>
+	<unitdate encodinganalog="260$c" label="Dates:" type="inclusive" normal="1894/1989">1894-1989</unitdate>
+	<unittitle label="Title:" encodinganalog="245$a">Chillum Heights Citizens Association Records</unittitle>
+<physdesc label="Extent:" encodinganalog="300$a"><extent>1.5 linear feet; 4 boxes</extent></physdesc>
+<unitid encodinganalog="090" label="Collection Number:" countrycode="US" repositorycode="DCU">042</unitid>
+<langmaterial encodinganalog="041" label="Language:"><language langcode="eng">English</language></langmaterial>
+</did>
+	
+<dsc type="combined" id="a23">
+<head>Detailed Description of the Collection</head>
+<c01 level="series">
+   <did>
+   	<unittitle>Series 1: Administrative Materials, 1895-1964</unittitle>
+    </did>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">1</container>
+			<unittitle>Constitution and By-laws</unittitle>
+			<unitdate type="inclusive" normal="1895">1895</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">2</container>
+			<unittitle>Constitution/By-laws/amendments</unittitle>
+			<unitdate type="inclusive" normal="1940">1940</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">3</container>
+			<unittitle>Clippings</unittitle>
+			<unitdate type="inclusive" normal="1950/1962">1950-1962</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">4</container>
+			<unittitle>Community map</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">5</container>
+			<unittitle>D.C. organizations</unittitle>
+			<unitdate type="inclusive" normal="1961/1962">1961-1962</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">6</container>
+			<unittitle>Federation of Citizens Association</unittitle>
+			<unitdate type="inclusive" normal="1910/1963">1910-1963</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">7</container>
+			<unittitle>Federation of Citizens Association newsletter</unittitle>
+			<unitdate type="inclusive" normal="1954/1955">1954-1955</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">8</container>
+			<unittitle>Highway clippings</unittitle>
+			<unitdate type="inclusive" normal="1959/1961">1959-1961</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">1</container>
+			<unittitle>Membership list</unittitle>
+			<unitdate type="inclusive" normal="1948">1948</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">2</container>
+			<unittitle>Membership roll</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">3</container>
+			<unittitle>Minutes</unittitle>
+			<unitdate type="inclusive" normal="1894/1899">1894-1899</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">4</container>
+			<unittitle>Neighbors Inc.</unittitle>
+			<unitdate type="inclusive" normal="1961/1964">1961-1964</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">5</container>
+			<unittitle>Minutes and meeting procedures</unittitle>
+			<unitdate type="inclusive" normal="1945-09/1946-10">September 1945-October 1946</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">6</container>
+			<unittitle>Neighborhood associations</unittitle>
+			<unitdate type="inclusive" normal="1956/1963">1956-1963</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">7</container>
+			<unittitle>Proclamations and remarks regarding the Charles Langley Bridge</unittitle>
+			<unitdate type="inclusive" normal="1946-08-07">Aug. 7 1946</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">8</container>
+			<unittitle>Rockcreek Expressway</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">9</container>
+			<unittitle>Treasure's reports</unittitle>
+			<unitdate type="inclusive" normal="1929/1938">1929-1938</unitdate>
+		</did>
+	</c02>
+</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 2: Correspondence and Minutes, 1938-1962</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">1</container>
+				<unittitle>Correspondence</unittitle>
+				<unitdate type="inclusive" normal="1938/1940">1938-1940</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">2</container>
+				<unittitle>Correspondence and minutes</unittitle>
+				<unitdate type="inclusive" normal="1941/1944">1941-1944</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">3</container>
+				<unittitle>Correspondence and minutes</unittitle>
+				<unitdate type="inclusive" normal="1946/1949">1946-1949</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">4</container>
+				<unittitle>Correspondence</unittitle>
+				<unitdate type="inclusive" normal="1948/1960">1948-1960</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">5</container>
+				<unittitle>Correspondence and minutes</unittitle>
+				<unitdate type="inclusive" normal="1950/1952">1950-1952</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">6</container>
+				<unittitle>Correspondence</unittitle>
+				<unitdate type="inclusive" normal="1952-10/1953-05">October 1952-May 1953</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">7</container>
+				<unittitle>Correspondence</unittitle>
+				<unitdate type="inclusive" normal="1953-07/1954-06">July 1953-June 1954</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">8</container>
+				<unittitle>Correspondence</unittitle>
+				<unitdate type="inclusive" normal="1954-09/1956">September 1954-1956</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">9</container>
+				<unittitle>Correspondence and minutes</unittitle>
+				<unitdate type="inclusive" normal="1957/1959">1957-1959</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">10</container>
+				<unittitle>Correspondence and minutes</unittitle>
+				<unitdate type="inclusive" normal="1960/1962">1960-1962</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 3: Topics, 1951-1963</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">1</container>
+				<unittitle>Civic Defense</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">2</container>
+				<unittitle>Civil Rights and racism</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">3</container>
+				<unittitle>Communism</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">4</container>
+				<unittitle>Crime</unittitle>
+				<unitdate type="inclusive" normal="1951">1951</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">5</container>
+				<unittitle>D.C. budget</unittitle>
+				<unitdate type="inclusive" normal="1960/1962">1960-1962</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">6</container>
+				<unittitle>Education</unittitle>
+				<unitdate type="inclusive" normal="1960/1962">1960-1962</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">7</container>
+				<unittitle>Health care</unittitle>
+				<unitdate type="inclusive" normal="1953/1955">1953-1955</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">8</container>
+				<unittitle>Home rule and suffrage</unittitle>
+				<unitdate type="inclusive" normal="1954/1963">1954-1963</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">9</container>
+				<unittitle>Housing</unittitle>
+				<unitdate type="inclusive" normal="1952/1953">1952-1953</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">10</container>
+				<unittitle>Juvenile delinquency</unittitle>
+				<unitdate type="inclusive" normal="1960/1969" certainty="approximate">1960s</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">11</container>
+				<unittitle>Letter control</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">12</container>
+				<unittitle>Media</unittitle>
+				<unitdate type="inclusive" normal="1954">1954</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">13</container>
+				<unittitle>Public Utilities</unittitle>
+				<unitdate type="inclusive" normal="1952/1954">1952-1954</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">14</container>
+				<unittitle>Recreation</unittitle>
+				<unitdate type="inclusive" normal="1962">1962</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">15</container>
+				<unittitle>Traffic</unittitle>
+				<unitdate type="inclusive" normal="1962">1962</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">16</container>
+				<unittitle>Urban renewal</unittitle>
+				<unitdate type="inclusive" normal="1960">1960</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">17</container>
+				<unittitle>Washington Community Chest</unittitle>
+				<unitdate type="inclusive" normal="1948">1948</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">18</container>
+				<unittitle>Youth issues</unittitle>
+				<unitdate type="inclusive" normal="1963">1963</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">19</container>
+				<unittitle>Zoning</unittitle>
+				<unitdate type="inclusive" normal="1956">1956</unitdate>
+			</did>
+		</c02>
+	</c01>
+</dsc>
+</archdesc>
+</ead>

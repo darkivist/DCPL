@@ -1,0 +1,440 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type="text/xml" href="I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/eadcbs6rev.xsl"?><!DOCTYPE ead PUBLIC "-//Society of American Archivists//DTD ead.dtd (Encoded Archival Description (EAD) Version 1.0)//EN" "I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/ead.dtd">
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" repositoryencoding="iso15511" relatedencoding="MARC21">
+	<eadid mainagencycode="DWP" countrycode="US" url="http://washingtoniana.dclibrary.org">064Atwood</eadid>
+<filedesc>
+<titlestmt>
+	<titleproper encodinganalog="245$a">Albert W. Atwood</titleproper>
+	<subtitle>An inventory of Albert W. Atwood at DC Public Library</subtitle>
+	<author encodinganalog="245$c">Finding aid prepared by Ryan P. Semmes.</author>
+</titlestmt>
+<publicationstmt>
+<publisher encodinganalog="260$b">DC Public Library, Special Collections</publisher>
+	<date type="publication" encodinganalog="260$c" normal="2006-03">2006-03</date>
+<address><addressline>901 G Street NW</addressline><addressline>DC Public Library</addressline><addressline>Washington, D.C. 20009</addressline></address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation encodinganalog="500">EAD encoded by Paul Kelly on
+	<date normal="2017-04-20">2017-04-20</date>
+</creation>
+<langusage>English</langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory" relatedencoding="MARC21">
+<did id="a1">
+<head>Descriptive Summary</head>
+<repository label="Repository:" encodinganalog="852$a"><corpname>DC Public Library, Special Collections</corpname></repository>
+	<unitdate encodinganalog="260$c" label="Dates:" type="inclusive" normal="1911/1975">1911-1975</unitdate>
+	<unittitle label="Title:" encodinganalog="245$a">Albert W. Atwood Collection</unittitle>
+<physdesc label="Extent:" encodinganalog="300$a"><extent>11 linear feet; 8 boxes</extent></physdesc>
+<unitid encodinganalog="090" label="Collection Number:" countrycode="US" repositorycode="DCU">064</unitid>
+<langmaterial encodinganalog="041" label="Language:"><language langcode="eng">English</language></langmaterial>
+</did>
+	
+<dsc type="combined" id="a23">
+<head>Detailed Description of the Collection</head>
+<c01 level="series">
+   <did>
+   	<unittitle>Series 1: General Documents</unittitle>
+    </did>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">1</container>
+			<unittitle>Address: “Have You Read a Book?”</unittitle>
+			<unitdate type="inclusive" normal="1958-03-20">March 20 1958</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">2</container>
+			<unittitle>Article: “The Soul of a City” The Saturday Evening Post</unittitle>
+			<unitdate type="inclusive" normal="1928-10-06">October 6 1928</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">3</container>
+			<unittitle>Article: “How Far Should Government Go?” The Saturday Evening Post</unittitle>
+			<unitdate type="inclusive" normal="1931-04-18">April 18 1931</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">4</container>
+			<unittitle>Article: “Where’s the Money Coming From” The Saturday Evening Post</unittitle>
+			<unitdate type="inclusive" normal="1934-01-20">January 20 1934</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">5</container>
+			<unittitle>Article: “The Senate Investigates” The Saturday Evening Post</unittitle>
+			<unitdate type="inclusive" normal="1936-07-11">July 11 1936</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">6</container>
+			<unittitle>Article: “Everybody’s Money” The Saturday Evening Post</unittitle>
+			<unitdate type="inclusive" normal="1936-12-26">December 26 1936</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">7</container>
+			<unittitle>Article: “Across the Potomac from Washington” The National Geographic Magazine - Vol. CIII no. 1</unittitle>
+			<unitdate type="inclusive" normal="1953-01">January 1953</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">8</container>
+			<unittitle>Biographical Information</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">9</container>
+			<unittitle>Clippings</unittitle>
+			<unitdate type="inclusive" normal="1933/1975">1933-1975</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">10</container>
+			<unittitle>Invitation to Cleveland Park Branch Library Open House</unittitle>
+			<unitdate type="inclusive" normal="1953">1953</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">11</container>
+			<unittitle>Memorial Service Programs</unittitle>
+			<unitdate type="inclusive" normal="1975-01-28">January 28 1975</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">12</container>
+			<unittitle>Photographs: Inspection Group-Chevy Chase Branch Library</unittitle>
+			<unitdate type="inclusive" normal="1946-12-04">December 4 1946</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">13</container>
+			<unittitle>Photographs: Open House-Cleveland Park Branch Library</unittitle>
+			<unitdate type="inclusive" normal="1953-10-15">October 15 1953</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">1</container>
+			<unittitle>Meritorious Public Service Award from the Government of the District of Columbia</unittitle>
+			<unitdate type="inclusive" normal="1970-09-23">September 23 1970</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">2</container>
+			<unittitle>Oversize Folder</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">3</container>
+			<unittitle>The Hecht Co. Salutes the DC Public Library - advertisement</unittitle>
+			<unitdate type="inclusive" normal="1954">1954</unitdate>
+		</did>
+	</c02>
+</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 2: The Saturday Evening Post Scrapbooks</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">1</container>
+				<unittitle>Untitled</unittitle>
+				<unitdate type="inclusive" normal="1911/1915">1911-1915</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">1</container>
+				<unittitle>Untitled</unittitle>
+				<unitdate type="inclusive" normal="1914/1920">1914-1920</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">5</container>
+				<container type="Folder">1</container>
+				<unittitle>Untitled</unittitle>
+				<unitdate type="inclusive" normal="1920/1922">1920-1922</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">5</container>
+				<container type="Folder">2</container>
+				<unittitle>Untitled</unittitle>
+				<unitdate type="inclusive" normal="1923/1926">1923-1926</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">6</container>
+				<container type="Folder">1</container>
+				<unittitle>Untitled</unittitle>
+				<unitdate type="inclusive" normal="1927/1931">1927-1931</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">7</container>
+				<container type="Folder">1</container>
+				<unittitle>Untitled</unittitle>
+				<unitdate type="inclusive" normal="1931/1934">1931-1934</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">7</container>
+				<container type="Folder">2</container>
+				<unittitle>Untitled</unittitle>
+				<unitdate type="inclusive" normal="1933/1936">1933-1936</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 3: Bound Volumes</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">8</container>
+				<container type="Folder">1</container>
+				<unittitle>Francis G. Newlands: A Builder of the Nation - The Newlands Company</unittitle>
+				<unitdate type="inclusive" normal="1969">1969</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">8</container>
+				<container type="Folder">2</container>
+				<unittitle>Gallaudet College: It’s First One Hundred Years - Gallaudet College</unittitle>
+				<unitdate type="inclusive" normal="1964">1964</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">8</container>
+				<container type="Folder">3</container>
+				<unittitle>The Great Stwedarship: A Story of Life Insurance - Harper and Brothers Publishers</unittitle>
+				<unitdate type="inclusive" normal="1945">1945</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">8</container>
+				<container type="Folder">4</container>
+				<unittitle>“Washington—Storehouse of Knowledge" Vol. LXXXI no. 3</unittitle>
+				<unitdate type="inclusive" normal="1942-03">March 1942</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">8</container>
+				<container type="Folder">5</container>
+				<unittitle>“Tidewater Virginia - Where History Lives" Vol. LXXXI no. 5</unittitle>
+				<unitdate type="inclusive" normal="1942-05">May 1942</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">8</container>
+				<container type="Folder">6</container>
+				<unittitle>“The Miracle of War Production" Vol. LXXXII no. 6</unittitle>
+				<unitdate type="inclusive" normal="1942-12">December 1942</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">8</container>
+				<container type="Folder">7</container>
+				<unittitle>“The Long River of New England" Vol. LXXXIII no. 4</unittitle>
+				<unitdate type="inclusive" normal="1943-04">April 1943</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">8</container>
+				<container type="Folder">8</container>
+				<unittitle>“Revealing Earth’s Mightiest Ocean" Vol. LXXXIV no. 3</unittitle>
+				<unitdate type="inclusive" normal="1943-09">September 1943</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">8</container>
+				<container type="Folder">9</container>
+				<unittitle>“The Healing Arts in Global War" Vol. LXXXIV no. 5</unittitle>
+				<unitdate type="inclusive" normal="1943-11">November 1943</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">8</container>
+				<container type="Folder">10</container>
+				<unittitle>“Coal: Prodigious Worker for Man" Vol. LXXXV no. 5</unittitle>
+				<unitdate type="inclusive" normal="1944-05">May 1944</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">8</container>
+				<container type="Folder">11</container>
+				<unittitle>“Potomac</unittitle>
+				<unitdate type="inclusive" normal="1945-07">July 1945</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">8</container>
+				<container type="Folder">12</container>
+				<unittitle>“Northeast of Boston" Vol. LXXXVIII no. 3</unittitle>
+				<unitdate type="inclusive" normal="1945-09">September 1945</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">8</container>
+				<container type="Folder">13</container>
+				<unittitle>“Steel: Master of Them All" Vol. XCI no. 4</unittitle>
+				<unitdate type="inclusive" normal="1947-04">April 1947</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">8</container>
+				<container type="Folder">14</container>
+				<unittitle>“Washington: Home of the Nation’s Great" Vol. XCI no.6</unittitle>
+				<unitdate type="inclusive" normal="1947-06">June 1947</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">8</container>
+				<container type="Folder">15</container>
+				<unittitle>“The Mighty Hudson" Vol. XCIV no. 1</unittitle>
+				<unitdate type="inclusive" normal="1948-07">July 1948</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">8</container>
+				<container type="Folder">16</container>
+				<unittitle>“The Fire of Heaven—Electricity" Vol. XCIV no. 5</unittitle>
+				<unitdate type="inclusive" normal="1948-11">November 1948</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">8</container>
+				<container type="Folder">17</container>
+				<unittitle>“Pittsburgh: Workshop of the Titans" Vol. XCVI no. 1</unittitle>
+				<unitdate type="inclusive" normal="1949-07">July 1949</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">8</container>
+				<container type="Folder">18</container>
+				<unittitle>“Gilbert Grosvenor’s Golden Jubilee" Vol. XCVI no. 2</unittitle>
+				<unitdate type="inclusive" normal="1949-08">August 1949</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">8</container>
+				<container type="Folder">19</container>
+				<unittitle>“The Nation’s Library" Vol. XCVII no. 5</unittitle>
+				<unitdate type="inclusive" normal="1950-05">May 1950</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">8</container>
+				<container type="Folder">20</container>
+				<unittitle>“The Merrimack: River of Industry and Romance" Vol. XCIX no. 1</unittitle>
+				<unitdate type="inclusive" normal="1951-01">January 1951</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">8</container>
+				<container type="Folder">21</container>
+				<unittitle>“The Eternal Flame—Natural Gas" Vol. C no. 4</unittitle>
+				<unitdate type="inclusive" normal="1951-10">October 1951</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">8</container>
+				<container type="Folder">22</container>
+				<unittitle>“Today on the Delaware</unittitle>
+				<unitdate type="inclusive" normal="1952-07">July 1952</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">8</container>
+				<container type="Folder">23</container>
+				<unittitle>“Stately Homes of Old Virginia" Vol. CIII no. 6</unittitle>
+				<unitdate type="inclusive" normal="1953-06">June 1953</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">8</container>
+				<container type="Folder">24</container>
+				<unittitle>“Immigrants Still Flock to Liberty’s Land" Vol. CVIII no. 5</unittitle>
+				<unitdate type="inclusive" normal="1955-11">November 1955</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">8</container>
+				<container type="Folder">25</container>
+				<unittitle>“1960 Census: Profile of the Nation" Vol. CXVI no. 5</unittitle>
+				<unitdate type="inclusive" normal="1959-11">November 1959</unitdate>
+			</did>
+		</c02>
+	</c01>
+</dsc>
+</archdesc>
+</ead>

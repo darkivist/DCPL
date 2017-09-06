@@ -1,0 +1,1104 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type="text/xml" href="I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/eadcbs6rev.xsl"?><!DOCTYPE ead PUBLIC "-//Society of American Archivists//DTD ead.dtd (Encoded Archival Description (EAD) Version 1.0)//EN" "I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/ead.dtd">
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" repositoryencoding="iso15511" relatedencoding="MARC21">
+	<eadid mainagencycode="DWP" countrycode="US" url="http://washingtoniana.dclibrary.org">013NCAC_ASPC</eadid>
+<filedesc>
+<titlestmt>
+	<titleproper encodinganalog="245$a">National Capital Area Chapter American Society for Public Administration</titleproper>
+	<subtitle>An inventory of National Capital Area Chapter American Society for Public Administration at DC Public Library</subtitle>
+<author encodinganalog="245$c">Finding aid prepared by INSERT FINDING AID AUTHOR HERE.</author>
+</titlestmt>
+<publicationstmt>
+<publisher encodinganalog="260$b">DC Public Library, Special Collections</publisher>
+	<date type="publication" encodinganalog="260$c" normal="2001-02">2001-02</date>
+<address><addressline>901 G Street NW</addressline><addressline>DC Public Library</addressline><addressline>Washington, D.C. 20009</addressline></address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation encodinganalog="500">EAD encoded by Paul Kelly on
+	<date normal="2017-04-20">2017-04-20</date>
+</creation>
+<langusage>English</langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory" relatedencoding="MARC21">
+<did id="a1">
+<head>Descriptive Summary</head>
+<repository label="Repository:" encodinganalog="852$a"><corpname>DC Public Library, Special Collections</corpname></repository>
+	<unitdate encodinganalog="260$c" label="Dates:" type="inclusive" normal="1986/1991">1986-1991</unitdate>
+	<unittitle label="Title:" encodinganalog="245$a">National Capital Area Chapter American Society for Public Administration Records</unittitle>
+<physdesc label="Extent:" encodinganalog="300$a"><extent>9.5 linear feet; 22 boxes</extent></physdesc>
+<unitid encodinganalog="090" label="Collection Number:" countrycode="US" repositorycode="DCU">013</unitid>
+<langmaterial encodinganalog="041" label="Language:"><language langcode="eng">English</language></langmaterial>
+</did>
+	
+<dsc type="combined" id="a23">
+<head>Detailed Description of the Collection</head>
+<c01 level="series">
+   <did>
+   	<unittitle>Series 1: Presidential papers, 1985-1989</unittitle>
+    </did>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">1</container>
+			<unittitle>Administrative Procedures</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">2</container>
+			<unittitle>Annual report</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">3</container>
+			<unittitle>Awards</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">4</container>
+			<unittitle>Award reception</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">5</container>
+			<unittitle>Board minutes/agendas</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">6</container>
+			<unittitle>Budget and finance</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">7</container>
+			<unittitle>Budget and finance</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">8</container>
+			<unittitle>COMPA</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">9</container>
+			<unittitle>NCAC Comm. Sheet</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">1</container>
+			<unittitle>Conference reference materials</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">2</container>
+			<unittitle>Conference materials</unittitle>
+			<unitdate type="inclusive" normal="1986/1987">1986-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">3</container>
+			<unittitle>Constitution</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">4</container>
+			<unittitle>D.C. group</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">5</container>
+			<unittitle>Elections</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">6</container>
+			<unittitle>Executive director</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">7</container>
+			<unittitle>Events listing</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">8</container>
+			<unittitle>Luncheons</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">9</container>
+			<unittitle>Medina lectures</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">10</container>
+			<unittitle>Member survey</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">11</container>
+			<unittitle>Membership</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">1</container>
+			<unittitle>Membership</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">2</container>
+			<unittitle>Membership development kit</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">3</container>
+			<unittitle>Membership meeting</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">4</container>
+			<unittitle>Newsletters</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">5</container>
+			<unittitle>Newsletters</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">6</container>
+			<unittitle>Conference</unittitle>
+			<unitdate type="inclusive" normal="1991">1991</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">7</container>
+			<unittitle>Conference</unittitle>
+			<unitdate type="inclusive" normal="1991">1991</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">8</container>
+			<unittitle>Org. Liaison</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">9</container>
+			<unittitle>Policy issues</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">10</container>
+			<unittitle>Policy issues</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">11</container>
+			<unittitle>Proof development comm.</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">1</container>
+			<unittitle>Professional organizations</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">2</container>
+			<unittitle>Public image</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">3</container>
+			<unittitle>Round tables</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">4</container>
+			<unittitle>Sections</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">5</container>
+			<unittitle>Strategic PLG</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">6</container>
+			<unittitle>Students and student conference</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">7</container>
+			<unittitle>Treasurer reports</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">8</container>
+			<unittitle>Volunteers</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">9</container>
+			<unittitle>Volunteer names</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">1</container>
+			<unittitle>National Information</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">2</container>
+			<unittitle>National Information</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">3</container>
+			<unittitle>National Information</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">4</container>
+			<unittitle>Miscellaneous information</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">5</container>
+			<unittitle>Miscellaneous information</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">6</container>
+			<unittitle>Executive Director information</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">1</container>
+			<unittitle>Annual Conference</unittitle>
+			<unitdate type="inclusive" normal="1985/1988">1985-1988</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">1</container>
+			<unittitle>Handbooks</unittitle>
+			<unitdate type="inclusive" normal="1987">1987</unitdate>
+		</did>
+	</c02>
+</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 2: Office files, 1978-1991</unittitle>
+		</did>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">1</container>
+			<unittitle>Administration/management</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">2</container>
+			<unittitle>Agency Liaison network</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">3</container>
+			<unittitle>Agenda</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">4</container>
+			<unittitle>Annual reports</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">5</container>
+			<unittitle>Audit</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">6</container>
+			<unittitle>Awards/reception</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">7</container>
+			<unittitle>Budget</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">8</container>
+			<unittitle>Budget</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">9</container>
+			<unittitle>Bureaucrat</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">10</container>
+			<unittitle>By-laws</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">11</container>
+			<unittitle>Calendar</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">12</container>
+			<unittitle>Civil service</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">13</container>
+			<unittitle>Commemorative stamps</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">14</container>
+			<unittitle>COMPA</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">15</container>
+			<unittitle>Conference</unittitle>
+			<unitdate type="inclusive" normal="1987/1991">1987-1991</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">16</container>
+			<unittitle>Conference</unittitle>
+			<unitdate type="inclusive" normal="1987/1991">1987-1991</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">1</container>
+			<unittitle>Conference</unittitle>
+			<unitdate type="inclusive" normal="1978/1986">1978-1986</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">2</container>
+			<unittitle>Conference</unittitle>
+			<unitdate type="inclusive" normal="1978/1986">1978-1986</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">3</container>
+			<unittitle>D.C. Government group</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">4</container>
+			<unittitle>Directory</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">5</container>
+			<unittitle>Elections</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">6</container>
+			<unittitle>Events planning</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">7</container>
+			<unittitle>Expense vouchers</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">8</container>
+			<unittitle>Expense vouchers</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">1</container>
+			<unittitle>Finance committee</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">2</container>
+			<unittitle>Finance reports</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">3</container>
+			<unittitle>Financial reports and financial management</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">4</container>
+			<unittitle>Holiday reception</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">5</container>
+			<unittitle>Insurance Leadership posters</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">6</container>
+			<unittitle>Luncheon committee</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">7</container>
+			<unittitle>Medina lecture series</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">8</container>
+			<unittitle>Meeting rooms</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">9</container>
+			<unittitle>Membership committee</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">1</container>
+			<unittitle>Membership meetings</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">2</container>
+			<unittitle>Minutes of meetings</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">3</container>
+			<unittitle>National ASPA</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">4</container>
+			<unittitle>National Council of Association for Policy Sciences</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">5</container>
+			<unittitle>Newsletters</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">6</container>
+			<unittitle>Newsletters</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">1</container>
+			<unittitle>PMI</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">2</container>
+			<unittitle>Planning</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">3</container>
+			<unittitle>Nominating Committee</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">4</container>
+			<unittitle>Policy issues</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">5</container>
+			<unittitle>Post office</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">6</container>
+			<unittitle>Potomac planning</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">7</container>
+			<unittitle>PRACADEMIC</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">8</container>
+			<unittitle>Presidents’ messages</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">9</container>
+			<unittitle>Professional development committee</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">10</container>
+			<unittitle>Professional organization</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">11</container>
+			<unittitle>Public/private sector issues</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">12</container>
+			<unittitle>Public relations</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">13</container>
+			<unittitle>Retreat</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">14</container>
+			<unittitle>Roundtables</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">15</container>
+			<unittitle>Student consortium</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">1</container>
+			<unittitle>Tax exemption</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">2</container>
+			<unittitle>Volunteer</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">3</container>
+			<unittitle>YPI/NCAC</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">4</container>
+			<unittitle>NCAC directory</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">5</container>
+			<unittitle>Miscellaneous folder</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">6</container>
+			<unittitle>Leaders’ handbook</unittitle>
+			<unitdate type="inclusive" normal="1988/1989">1988-1989</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">7</container>
+			<unittitle>Leaders’ handbook</unittitle>
+			<unitdate type="inclusive" normal="1988/1989">1988-1989</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">1</container>
+			<unittitle>Leadership handbook</unittitle>
+			<unitdate type="inclusive" normal="1984/1989">1984-1989</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">2</container>
+			<unittitle>Leadership handbook</unittitle>
+			<unitdate type="inclusive" normal="1984/1989">1984-1989</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">3</container>
+			<unittitle>Leadership handbook</unittitle>
+			<unitdate type="inclusive" normal="1984/1989">1984-1989</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">4</container>
+			<unittitle>Miscellaneous items</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">1</container>
+			<unittitle>Audiocassette - Peter Edelman and Jon Herbers - Great Society Retrospective</unittitle>
+			<unitdate type="inclusive" normal="1984-12-06">12/6/1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">2</container>
+			<unittitle>Audiocassette - K. Hunter et al. - 10 Years After the Congressional Budget Process</unittitle>
+			<unitdate type="inclusive" normal="1984-12-06">12/6/1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">3</container>
+			<unittitle>Audiocassette - Stuart Taylor and L. Chavez - 30 Years After Brown v. Board of Education</unittitle>
+			<unitdate type="inclusive" normal="1984-12-06">12/6/1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">4</container>
+			<unittitle>Audiocassette - William Gregory - Space: The Last Frontier</unittitle>
+			<unitdate type="inclusive" normal="1984-12-07">12/7/1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">5</container>
+			<unittitle>Audiocassette - Patterson - Closing Plenary session</unittitle>
+			<unitdate type="inclusive" normal="1984-12-07">12/7/1984</unitdate>
+		</did>
+	</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 3: Treasurer’s records, 1984-1988</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">17</container>
+				<container type="Folder">1</container>
+				<unittitle>Bank statements/vouchers</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">17</container>
+				<container type="Folder">2</container>
+				<unittitle>Bank statements/vouchers</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">17</container>
+				<container type="Folder">3</container>
+				<unittitle>Bank statements/vouchers</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">17</container>
+				<container type="Folder">4</container>
+				<unittitle>Bank statements/vouchers</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">17</container>
+				<container type="Folder">5</container>
+				<unittitle>Bank statements/vouchers</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">17</container>
+				<container type="Folder">6</container>
+				<unittitle>Bank statements/vouchers</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">18</container>
+				<container type="Folder">1</container>
+				<unittitle>Voucher/Financial policy</unittitle>
+				<unitdate type="inclusive" normal="1984/1985">1984-1985</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">18</container>
+				<container type="Folder">2</container>
+				<unittitle>Bank statements</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">19</container>
+				<container type="Folder">1</container>
+				<unittitle>Financial status reports w/receipts</unittitle>
+				<unitdate type="inclusive" normal="1985">1985</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">20</container>
+				<container type="Folder">1</container>
+				<unittitle>Financial status reports w/receipts</unittitle>
+				<unitdate type="inclusive" normal="1986">1986</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">21</container>
+				<container type="Folder">1</container>
+				<unittitle>Financial status reports w/receipts</unittitle>
+				<unitdate type="inclusive" normal="1987">1987</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">22</container>
+				<container type="Folder">1</container>
+				<unittitle>Financial status reports w/receipt</unittitle>
+				<unitdate type="inclusive" normal="1988">1988</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">22</container>
+				<container type="Folder">2</container>
+				<unittitle>Miscellaneous papers</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+	</c01>
+</dsc>
+</archdesc>
+</ead>

@@ -1,0 +1,1397 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type="text/xml" href="I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/eadcbs6rev.xsl"?><!DOCTYPE ead PUBLIC "-//Society of American Archivists//DTD ead.dtd (Encoded Archival Description (EAD) Version 1.0)//EN" "I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/ead.dtd">
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" repositoryencoding="iso15511" relatedencoding="MARC21">
+	<eadid mainagencycode="DWP" countrycode="US" url="http://washingtoniana.dclibrary.org">003SDDC</eadid>
+<filedesc>
+<titlestmt>
+	<titleproper encodinganalog="245$a">Self-Determination for D.C. (SDDC)</titleproper>
+	<subtitle>An inventory of Self-Determination for D.C. (SDDC) at DC Public Library</subtitle>
+	<author encodinganalog="245$c">Finding aid prepared by DC Public Library.</author>
+</titlestmt>
+<publicationstmt>
+<publisher encodinganalog="260$b">DC Public Library, Special Collections</publisher>
+	<date type="publication" encodinganalog="260$c" normal="1999-08">1999-08</date>
+<address><addressline>901 G Street NW</addressline><addressline>DC Public Library</addressline><addressline>Washington, D.C. 20009</addressline></address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation encodinganalog="500">EAD encoded by Paul Kelly on
+	<date normal="2017-04-19">2017-04-19</date>
+</creation>
+<langusage><language encodinganalog="546" langcode="eng">English</language></langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory" relatedencoding="MARC21">
+<did id="a1">
+<head>Descriptive Summary</head>
+<repository label="Repository:" encodinganalog="852$a"><corpname>DC Public Library, Special Collections</corpname></repository>
+	<unitdate encodinganalog="260$c" label="Dates:" type="inclusive" normal="1970/1980">1970-1980</unitdate>
+	<unittitle label="Title:" encodinganalog="245$a">Self-Determination for D.C. (SDDC) Records</unittitle>
+<physdesc label="Extent:" encodinganalog="300$a"><extent>25 boxes</extent></physdesc>
+<unitid encodinganalog="090" label="Collection Number:" countrycode="US" repositorycode="DCU">003</unitid>
+<langmaterial encodinganalog="041" label="Language:"><language langcode="eng">English</language></langmaterial>
+</did>
+	
+<dsc type="combined" id="a23">
+<head>Detailed Description of the Collection</head>
+<c01 level="series">
+   <did>
+   	<unittitle>Series 1: Topical Files, 1975-1985</unittitle>
+    </did>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">1</container>
+			<unittitle>Government Reorganization Act</unittitle>
+			<unitdate type="inclusive" normal="1973">1973</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">2</container>
+			<unittitle>Home rule - background</unittitle>
+			<unitdate type="inclusive" normal="1962/1980">1962-1980</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">3</container>
+			<unittitle>Home rule - background</unittitle>
+			<unitdate type="inclusive" normal="1962/1980">1962-1980</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">4</container>
+			<unittitle>Home rule - background</unittitle>
+			<unitdate type="inclusive" normal="1962/1980">1962-1980</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">5</container>
+			<unittitle>Home rule - background</unittitle>
+			<unitdate type="inclusive" normal="1962/1980">1962-1980</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">6</container>
+			<unittitle>Home rule - background</unittitle>
+			<unitdate type="inclusive" normal="1962/1980">1962-1980</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">7</container>
+			<unittitle>Home rule - background</unittitle>
+			<unitdate type="inclusive" normal="1962/1980">1962-1980</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">8</container>
+			<unittitle>Home rule - background</unittitle>
+			<unitdate type="inclusive" normal="1962/1980">1962-1980</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">9</container>
+			<unittitle>Home rule - background</unittitle>
+			<unitdate type="inclusive" normal="1962/1980">1962-1980</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">1</container>
+			<unittitle>Home rule - background</unittitle>
+			<unitdate type="inclusive" normal="1962/1980">1962-1980</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">2</container>
+			<unittitle>Home rule - background</unittitle>
+			<unitdate type="inclusive" normal="1962/1980">1962-1980</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">3</container>
+			<unittitle>Home rule - background</unittitle>
+			<unitdate type="inclusive" normal="1962/1980">1962-1980</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">4</container>
+			<unittitle>Walter Fauntroy</unittitle>
+			<unitdate type="inclusive" normal="1981/1989">1981-1989</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">5</container>
+			<unittitle>Mayor Barry’s office</unittitle>
+			<unitdate type="inclusive" normal="1980/1984">1980-1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">6</container>
+			<unittitle>Senator Ted Kennedy</unittitle>
+			<unitdate type="inclusive" normal="1978/1979">1978-1979</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">7</container>
+			<unittitle>Lobby Corps</unittitle>
+			<unitdate type="inclusive" normal="1978">1978</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">1</container>
+			<unittitle>D.C. voting rights testimony</unittitle>
+			<unitdate type="inclusive" normal="1978/1983">1978-1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">2</container>
+			<unittitle>D.C. voting rights testimony</unittitle>
+			<unitdate type="inclusive" normal="1978/1983">1978-1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">3</container>
+			<unittitle>D.C. voting rights testimony</unittitle>
+			<unitdate type="inclusive" normal="1978/1983">1978-1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">4</container>
+			<unittitle>White House</unittitle>
+			<unitdate type="inclusive" normal="1978/1981">1978-1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">5</container>
+			<unittitle>Statehood and the Coalition</unittitle>
+			<unitdate type="inclusive" normal="1985">1985</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">6</container>
+			<unittitle>Tax Day</unittitle>
+			<unitdate type="inclusive" normal="1985-04-15">April 15 1985</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">7</container>
+			<unittitle>Local Coalition Activities</unittitle>
+			<unitdate type="inclusive" normal="1977/1978">1977-1978</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">8</container>
+			<unittitle>Project Vote Count</unittitle>
+			<unitdate type="inclusive" normal="1983">1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">9</container>
+			<unittitle>PR Group</unittitle>
+			<unitdate type="inclusive" normal="1983/1984">1983-1984</unitdate>
+		</did>
+	</c02>
+</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 2: Opposition Groups, 1979-1986</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">1</container>
+				<unittitle>Opposition organizations</unittitle>
+				<unitdate type="inclusive" normal="1978/1979">1978-1979</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">2</container>
+				<unittitle>Polls</unittitle>
+				<unitdate type="inclusive" normal="1984">1984</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">3</container>
+				<unittitle>Ratification slates</unittitle>
+				<unitdate type="inclusive" normal="1980">1980</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">4</container>
+				<unittitle>Pre-1983 publications</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">5</container>
+				<unittitle>Republican convention</unittitle>
+				<unitdate type="inclusive" normal="1984">1984</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">6</container>
+				<unittitle>D.C. Republicans for Self-Determination</unittitle>
+				<unitdate type="inclusive" normal="1984">1984</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">7</container>
+				<unittitle>Republicans</unittitle>
+				<unitdate type="inclusive" normal="1975/1980">1975-1980</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">5</container>
+				<container type="Folder">1</container>
+				<unittitle>Originals (newsletters</unittitle>
+				<unitdate type="inclusive" normal="1974/1983">1974-1983</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">5</container>
+				<container type="Folder">2</container>
+				<unittitle>Miscellaneous documents</unittitle>
+				<unitdate type="inclusive" normal="1977/1983">1977-1983</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">5</container>
+				<container type="Folder">3</container>
+				<unittitle>Mayor Barry’s Breakfast for self-government</unittitle>
+				<unitdate type="inclusive" normal="1981">1981</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">5</container>
+				<container type="Folder">4</container>
+				<unittitle>Mayor Breakfast for voting rights</unittitle>
+				<unitdate type="inclusive" normal="1984">1984</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">5</container>
+				<container type="Folder">5</container>
+				<unittitle>Information packet</unittitle>
+				<unitdate type="inclusive" normal="1970">1970</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 3: Support Groups, 1976-1985</unittitle>
+		</did>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">1</container>
+			<unittitle>D.C. Voting Rights Amendment Briefing book</unittitle>
+			<unitdate type="inclusive" normal="1983">1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">2</container>
+			<unittitle>ACLU thru Black organizations</unittitle>
+			<unitdate type="inclusive" normal="1977/1983">1977-1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">1</container>
+			<unittitle>Board of Trade thru D.C. Commission for Women</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">2</container>
+			<unittitle>Board of Trade thru D.C. Commission for Women</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">3</container>
+			<unittitle>Board of Trade thru D.C. Commission for Women</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">4</container>
+			<unittitle>Board of Trade thru D.C. Commission for Women</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">5</container>
+			<unittitle>Board of Trade thru D.C. Commission for Women</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">6</container>
+			<unittitle>Board of Trade thru D.C. Commission for Women</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">7</container>
+			<unittitle>Board of Trade thru D.C. Commission for Women</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">8</container>
+			<unittitle>Board of Trade thru D.C. Commission for Women</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">1</container>
+			<unittitle>D.C. Congress of PTAs thru League of Women Voters-D.C.</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">2</container>
+			<unittitle>D.C. Congress of PTAs thru League of Women Voters-D.C.</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">3</container>
+			<unittitle>D.C. Congress of PTAs thru League of Women Voters-D.C.</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">4</container>
+			<unittitle>D.C. Congress of PTAs thru League of Women Voters-D.C.</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">5</container>
+			<unittitle>D.C. Congress of PTAs thru League of Women Voters-D.C.</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">6</container>
+			<unittitle>D.C. Congress of PTAs thru League of Women Voters-D.C.</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">7</container>
+			<unittitle>D.C. Congress of PTAs thru League of Women Voters-D.C.</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">8</container>
+			<unittitle>D.C. Congress of PTAs thru League of Women Voters-D.C.</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">9</container>
+			<unittitle>D.C. Congress of PTAs thru League of Women Voters-D.C.</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">10</container>
+			<unittitle>D.C. Congress of PTAs thru League of Women Voters-D.C.</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">11</container>
+			<unittitle>D.C. Congress of PTAs thru League of Women Voters-D.C.</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">12</container>
+			<unittitle>D.C. Congress of PTAs thru League of Women Voters-D.C.</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">13</container>
+			<unittitle>D.C. Congress of PTAs thru League of Women Voters-D.C.</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">1</container>
+			<unittitle>League of Women Voters of the U.S thru National Governor’s Association </unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">2</container>
+			<unittitle>League of Women Voters of the U.S thru National Governor’s Association </unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">3</container>
+			<unittitle>League of Women Voters of the U.S thru National Governor’s Association </unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">4</container>
+			<unittitle>League of Women Voters of the U.S thru National Governor’s Association </unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">5</container>
+			<unittitle>League of Women Voters of the U.S thru National Governor’s Association </unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">6</container>
+			<unittitle>League of Women Voters of the U.S thru National Governor’s Association </unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">7</container>
+			<unittitle>League of Women Voters of the U.S thru National Governor’s Association </unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">8</container>
+			<unittitle>League of Women Voters of the U.S thru National Governor’s Association </unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">9</container>
+			<unittitle>League of Women Voters of the U.S thru National Governor’s Association </unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">10</container>
+			<unittitle>League of Women Voters of the U.S thru National Governor’s Association </unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">11</container>
+			<unittitle>League of Women Voters of the U.S thru National Governor’s Association </unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">12</container>
+			<unittitle>League of Women Voters of the U.S thru National Governor’s Association </unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">13</container>
+			<unittitle>League of Women Voters of the U.S thru National Governor’s Association </unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">14</container>
+			<unittitle>League of Women Voters of the U.S thru National Governor’s Association </unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">15</container>
+			<unittitle>League of Women Voters of the U.S thru National Governor’s Association </unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">16</container>
+			<unittitle>League of Women Voters of the U.S thru National Governor’s Association </unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">1</container>
+			<unittitle>National Student Association thru United Presbyterian Church</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">1</container>
+			<unittitle>U.S. Commission o Civil Rights thru Women’s Internal League for Peace and Freedom </unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">2</container>
+			<unittitle>U.S. Commission o Civil Rights thru Women’s Internal League for Peace and Freedom </unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">3</container>
+			<unittitle>U.S. Commission o Civil Rights thru Women’s Internal League for Peace and Freedom </unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">4</container>
+			<unittitle>U.S. Commission o Civil Rights thru Women’s Internal League for Peace and Freedom </unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">5</container>
+			<unittitle>U.S. Commission o Civil Rights thru Women’s Internal League for Peace and Freedom </unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">6</container>
+			<unittitle>U.S. Commission o Civil Rights thru Women’s Internal League for Peace and Freedom </unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">7</container>
+			<unittitle>U.S. Commission o Civil Rights thru Women’s Internal League for Peace and Freedom </unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">8</container>
+			<unittitle>U.S. Commission o Civil Rights thru Women’s Internal League for Peace and Freedom </unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">9</container>
+			<unittitle>U.S. Commission o Civil Rights thru Women’s Internal League for Peace and Freedom </unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">10</container>
+			<unittitle>U.S. Commission o Civil Rights thru Women’s Internal League for Peace and Freedom </unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">11</container>
+			<unittitle>U.S. Commission o Civil Rights thru Women’s Internal League for Peace and Freedom </unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">12</container>
+			<unittitle>U.S. Commission o Civil Rights thru Women’s Internal League for Peace and Freedom </unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">13</container>
+			<unittitle>U.S. Commission o Civil Rights thru Women’s Internal League for Peace and Freedom </unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">14</container>
+			<unittitle>U.S. Commission o Civil Rights thru Women’s Internal League for Peace and Freedom </unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">15</container>
+			<unittitle>U.S. Commission o Civil Rights thru Women’s Internal League for Peace and Freedom </unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">16</container>
+			<unittitle>U.S. Commission o Civil Rights thru Women’s Internal League for Peace and Freedom </unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 4: Chronological Files, 1970-1973</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">12</container>
+				<container type="Folder">1</container>
+				<unittitle>National Coalition</unittitle>
+				<unitdate type="inclusive" normal="1970/1971">1970-1971</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">12</container>
+				<container type="Folder">2</container>
+				<unittitle>Chronological files</unittitle>
+				<unitdate type="inclusive" normal="1972/1973-06">1972-June 1973</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">12</container>
+				<container type="Folder">3</container>
+				<unittitle>Chronological files</unittitle>
+				<unitdate type="inclusive" normal="1972/1973-06">1972-June 1973</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">12</container>
+				<container type="Folder">4</container>
+				<unittitle>Chronological files</unittitle>
+				<unitdate type="inclusive" normal="1972/1973-06">1972-June 1973</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">12</container>
+				<container type="Folder">5</container>
+				<unittitle>Chronological files</unittitle>
+				<unitdate type="inclusive" normal="1972/1973-06">1972-June 1973</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">13</container>
+				<container type="Folder">1</container>
+				<unittitle>Chronological files</unittitle>
+				<unitdate type="inclusive" normal="1974">1974</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">13</container>
+				<container type="Folder">2</container>
+				<unittitle>Chronological files</unittitle>
+				<unitdate type="inclusive" normal="1974">1974</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">13</container>
+				<container type="Folder">3</container>
+				<unittitle>Chronological files</unittitle>
+				<unitdate type="inclusive" normal="1974">1974</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 5: Lobbying Files, 1972-1973</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">13</container>
+				<container type="Folder">4</container>
+				<unittitle>Finances</unittitle>
+				<unitdate type="inclusive" normal="1972/1973">1972-1973</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">13</container>
+				<container type="Folder">5</container>
+				<unittitle>Lobbying</unittitle>
+				<unitdate type="inclusive" normal="1973">1973</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">13</container>
+				<container type="Folder">6</container>
+				<unittitle>Strategy target lists of House members</unittitle>
+				<unitdate type="inclusive" normal="1973">1973</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">13</container>
+				<container type="Folder">7</container>
+				<unittitle>National Constituency Committee</unittitle>
+				<unitdate type="inclusive" normal="1973">1973</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">14</container>
+				<container type="Folder">1</container>
+				<unittitle>National Constituency Committee - sample worksheets</unittitle>
+				<unitdate type="inclusive" normal="1973/1974">1973-1974</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">14</container>
+				<container type="Folder">2</container>
+				<unittitle>National Constituency Committee - sample worksheets</unittitle>
+				<unitdate type="inclusive" normal="1973/1974">1973-1974</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">14</container>
+				<container type="Folder">3</container>
+				<unittitle>National Constituency Committee - sample worksheets</unittitle>
+				<unitdate type="inclusive" normal="1973/1974">1973-1974</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">14</container>
+				<container type="Folder">4</container>
+				<unittitle>Lobby packets</unittitle>
+				<unitdate type="inclusive" normal="08/1973-09">August-September 1973</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">14</container>
+				<container type="Folder">5</container>
+				<unittitle>House District Committee - background materials</unittitle>
+				<unitdate type="inclusive" normal="1973">1973</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">15</container>
+				<container type="Folder">1</container>
+				<unittitle>League of Women Voters</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">15</container>
+				<container type="Folder">2</container>
+				<unittitle>Local Organizations</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">15</container>
+				<container type="Folder">3</container>
+				<unittitle>Field reports (restricted access)</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">15</container>
+				<container type="Folder">4</container>
+				<unittitle>Field reports (restricted access)</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">15</container>
+				<container type="Folder">5</container>
+				<unittitle>Field reports (restricted access)</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 6: Media Coverage, 1972-1973</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">16</container>
+				<container type="Folder">1</container>
+				<unittitle>Media lists in various states</unittitle>
+				<unitdate type="inclusive" normal="1970">1970</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">16</container>
+				<container type="Folder">2</container>
+				<unittitle>Media coverage</unittitle>
+				<unitdate type="inclusive" normal="1972/1973">1972-1973</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">16</container>
+				<container type="Folder">3</container>
+				<unittitle>Media coverage</unittitle>
+				<unitdate type="inclusive" normal="1972/1973">1972-1973</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 7: Legislation, 1965-1973</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">16</container>
+				<container type="Folder">4</container>
+				<unittitle>Home rule</unittitle>
+				<unitdate type="inclusive" normal="1965">1965</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">16</container>
+				<container type="Folder">5</container>
+				<unittitle>Preparation for Coalition testimony before House Committee on the District of Columbia - Subcommittee on Government Operations</unittitle>
+				<unitdate type="inclusive" normal="1973">1973</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">16</container>
+				<container type="Folder">6</container>
+				<unittitle>H.R. 9682 briefing papers used by lobbyist</unittitle>
+				<unitdate type="inclusive" normal="1973">1973</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">17</container>
+				<container type="Folder">1</container>
+				<unittitle>H.R. 9682 -issues concerning the judiciary</unittitle>
+				<unitdate type="inclusive" normal="1973">1973</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">17</container>
+				<container type="Folder">2</container>
+				<unittitle>H.R. 9682 -issues concerning planning</unittitle>
+				<unitdate type="inclusive" normal="1973">1973</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">17</container>
+				<container type="Folder">3</container>
+				<unittitle>H.R. 9682 -letters of support</unittitle>
+				<unitdate type="inclusive" normal="1973">1973</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">17</container>
+				<container type="Folder">4</container>
+				<unittitle>Explanation of final action on Home Rule</unittitle>
+				<unitdate type="inclusive" normal="1973">1973</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">17</container>
+				<container type="Folder">5</container>
+				<unittitle>Nelson-Green Substitute proposal</unittitle>
+				<unitdate type="inclusive" normal="1973">1973</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">17</container>
+				<container type="Folder">6</container>
+				<unittitle>92nd Congress - House</unittitle>
+				<unitdate type="inclusive" normal="1973">1973</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">17</container>
+				<container type="Folder">7</container>
+				<unittitle>93rd Congress - Senate</unittitle>
+				<unitdate type="inclusive" normal="1973">1973</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">18</container>
+				<container type="Folder">1</container>
+				<unittitle>93rd Congress - House</unittitle>
+				<unitdate type="inclusive" normal="1973">1973</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">18</container>
+				<container type="Folder">2</container>
+				<unittitle>93rd Congress - House</unittitle>
+				<unitdate type="inclusive" normal="1973">1973</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">18</container>
+				<container type="Folder">3</container>
+				<unittitle>93rd Congress -Excerpts from Congressional Record</unittitle>
+				<unitdate type="inclusive" normal="1973">1973</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">18</container>
+				<container type="Folder">4</container>
+				<unittitle>93rd Congress - House of Representatives member support and voting record for home rule issues</unittitle>
+				<unitdate type="inclusive" normal="1973">1973</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 8: Post-Home Rule Passage, 1974</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">19</container>
+				<container type="Folder">1</container>
+				<unittitle>Campaign Financing</unittitle>
+				<unitdate type="inclusive" normal="1974">1974</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">19</container>
+				<container type="Folder">2</container>
+				<unittitle>Advisory Neighbor Commissions</unittitle>
+				<unitdate type="inclusive" normal="1973/1976">1973-1976</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">19</container>
+				<container type="Folder">3</container>
+				<unittitle>Advisory Neighbor Commissions</unittitle>
+				<unitdate type="inclusive" normal="1973/1976">1973-1976</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">19</container>
+				<container type="Folder">4</container>
+				<unittitle>Advisory Neighbor Commissions</unittitle>
+				<unitdate type="inclusive" normal="1973/1976">1973-1976</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">20</container>
+				<container type="Folder">1</container>
+				<unittitle>Speakers Bureau</unittitle>
+				<unitdate type="inclusive" normal="1974">1974</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">20</container>
+				<container type="Folder">2</container>
+				<unittitle>Committee to Support the Charter</unittitle>
+				<unitdate type="inclusive" normal="1974">1974</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">20</container>
+				<container type="Folder">3</container>
+				<unittitle>Salute to Volunteers</unittitle>
+				<unitdate type="inclusive" normal="1985">1985</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 9: Related Organizations, 1960-1971</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">20</container>
+				<container type="Folder">4</container>
+				<unittitle>Home Rule Committee</unittitle>
+				<unitdate type="inclusive" normal="1960/1969" certainty="approximate">1960s</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">20</container>
+				<container type="Folder">5</container>
+				<unittitle>Ad-Hoc Committee for Home Rule</unittitle>
+				<unitdate type="inclusive" normal="1972">1972</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 10: Research, 1966-1973</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">20</container>
+				<container type="Folder">6</container>
+				<unittitle>Library of Congress and other material</unittitle>
+				<unitdate type="inclusive" normal="1970/1979" certainty="approximate">1970s</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">20</container>
+				<container type="Folder">7</container>
+				<unittitle>Library of Congress and other material</unittitle>
+				<unitdate type="inclusive" normal="1970/1979" certainty="approximate">1970s</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 11: Publications, 1973</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">21</container>
+				<container type="Folder">1</container>
+				<unittitle>Time to Act</unittitle>
+				<unitdate type="inclusive" normal="1973">1973</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">21</container>
+				<container type="Folder">2</container>
+				<unittitle>Questions and Answers on D.C. Home Rules</unittitle>
+				<unitdate type="inclusive" normal="1973">1973</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">21</container>
+				<container type="Folder">3</container>
+				<unittitle>Home Rule for Washington - D.C. Issues and Fact</unittitle>
+				<unitdate type="inclusive" normal="1973">1973</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">21</container>
+				<container type="Folder">4</container>
+				<unittitle>Self-Determination for the District of Columbia: A Look at Congressional Proposals in the last 25 years</unittitle>
+				<unitdate type="inclusive" normal="1973">1973</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">21</container>
+				<container type="Folder">5</container>
+				<unittitle>A Look to the Past: A Short List of the Prior Types of Governments</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">21</container>
+				<container type="Folder">6</container>
+				<unittitle>Nelson Commission Recommendations</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">22</container>
+				<container type="Folder">1</container>
+				<unittitle>Salute to Volunteers (duplicates)</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">23</container>
+				<container type="Folder">1</container>
+				<unittitle>To Complete A Revolution” (duplicates)</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">23</container>
+				<container type="Folder">2</container>
+				<unittitle>Congressional Records testimony for Self-Determination (duplicates)</unittitle>
+				<unitdate type="inclusive" normal="1973-04-02">4/3/1973</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">23</container>
+				<container type="Folder">3</container>
+				<unittitle>Coalition Comments” newsletter (duplicates)</unittitle>
+				<unitdate type="inclusive" normal="1973-03/1973-09">March and Sept. 1973</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">23</container>
+				<container type="Folder">4</container>
+				<unittitle>Common Cause” newsletter (duplicates)</unittitle>
+				<unitdate type="inclusive" normal="1974">1974</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">23</container>
+				<container type="Folder">5</container>
+				<unittitle>The Home Rule Bill,” Committee to Support the Charter</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">24</container>
+				<container type="Folder">1</container>
+				<unittitle>Home Rule Charter Yes brochure</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">24</container>
+				<container type="Folder">2</container>
+				<unittitle>Advisory Councils</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">24</container>
+				<container type="Folder">3</container>
+				<unittitle>Y.O.U. for Home Rule in D.C.</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 12: Memorabilia, ca. 1970s</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">25</container>
+				<container type="Folder">1</container>
+				<unittitle>Hat </unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">25</container>
+				<container type="Folder">2</container>
+				<unittitle>Banner</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">25</container>
+				<container type="Folder">3</container>
+				<unittitle>Campaign literature</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">25</container>
+				<container type="Folder">4</container>
+				<unittitle>Bumper stickers</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+	</c01>
+</dsc>
+</archdesc>
+</ead>

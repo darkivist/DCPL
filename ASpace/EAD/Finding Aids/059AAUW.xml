@@ -1,0 +1,576 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type="text/xml" href="I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/eadcbs6rev.xsl"?><!DOCTYPE ead PUBLIC "-//Society of American Archivists//DTD ead.dtd (Encoded Archival Description (EAD) Version 1.0)//EN" "I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/ead.dtd">
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" repositoryencoding="iso15511" relatedencoding="MARC21">
+	<eadid mainagencycode="DWP" countrycode="US" url="http://washingtoniana.dclibrary.org">059AAUW</eadid>
+<filedesc>
+<titlestmt>
+	<titleproper encodinganalog="245$a">American Association of University Women-Washington Branch</titleproper>
+	<subtitle>An inventory of American Association of University Women-Washington Branch at DC Public Library</subtitle>
+	<author encodinganalog="245$c">Finding aid prepared by Ryan P. Semmes.</author>
+</titlestmt>
+<publicationstmt>
+<publisher encodinganalog="260$b">DC Public Library, Special Collections</publisher>
+	<date type="publication" encodinganalog="260$c" normal="2006-03">2006-03</date>
+<address><addressline>901 G Street NW</addressline><addressline>DC Public Library</addressline><addressline>Washington, D.C. 20009</addressline></address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation encodinganalog="500">EAD encoded by Paul Kelly on
+	<date normal="2017-04-20">2017-04-20</date>
+</creation>
+<langusage>English</langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory" relatedencoding="MARC21">
+<did id="a1">
+<head>Descriptive Summary</head>
+<repository label="Repository:" encodinganalog="852$a"><corpname>DC Public Library, Special Collections</corpname></repository>
+	<unitdate encodinganalog="260$c" label="Dates:" type="inclusive" normal="1889/1970">1889-1970</unitdate>
+	<unittitle label="Title:" encodinganalog="245$a">American Association of University Women-Washington Branch Records</unittitle>
+<physdesc label="Extent:" encodinganalog="300$a"><extent>2 linear feet; 4 boxes</extent></physdesc>
+<unitid encodinganalog="090" label="Collection Number:" countrycode="US" repositorycode="DCU">059</unitid>
+<langmaterial encodinganalog="041" label="Language:"><language langcode="eng">English</language></langmaterial>
+</did>
+	
+<dsc type="combined" id="a23">
+<head>Detailed Description of the Collection</head>
+<c01 level="series">
+   <did>
+   	<unittitle>Series 1: Administrative Files</unittitle>
+    </did>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">1</container>
+			<unittitle>AAUW v. AAUW-WB</unittitle>
+			<unitdate type="inclusive" normal="1946/1949">1946-1949</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">2</container>
+			<unittitle>By-Laws</unittitle>
+			<unitdate type="inclusive" normal="1934/1950">1934-1950</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">3</container>
+			<unittitle>Clippings</unittitle>
+			<unitdate type="inclusive" normal="1889/1939">1889-1939</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">4</container>
+			<unittitle>Clippings</unittitle>
+			<unitdate type="inclusive" normal="1940/1960">1940-1960</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">5</container>
+			<unittitle>Clippings - National Headquarters</unittitle>
+			<unitdate type="inclusive" normal="1920/1961">1920-1961</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">6</container>
+			<unittitle>Correspondence</unittitle>
+			<unitdate type="inclusive" normal="1939/1956">1939-1956</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">7</container>
+			<unittitle>Elections</unittitle>
+			<unitdate type="inclusive" normal="1938/1949">1938-1949</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">8</container>
+			<unittitle>History: 20th Anniversary of National Clubhouse</unittitle>
+			<unitdate type="inclusive" normal="1940">1940</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">9</container>
+			<unittitle>Meetings</unittitle>
+			<unitdate type="inclusive" normal="1938/1953">1938-1953</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">10</container>
+			<unittitle>Membership</unittitle>
+			<unitdate type="inclusive" normal="1925/1950">1925-1950</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">11</container>
+			<unittitle>National Convention</unittitle>
+			<unitdate type="inclusive" normal="1945">1945</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">12</container>
+			<unittitle>Outreach Programs</unittitle>
+			<unitdate type="inclusive" normal="1932/1969">1932-1969</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">13</container>
+			<unittitle>Photographs</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">14</container>
+			<unittitle>Publicity</unittitle>
+			<unitdate type="inclusive" normal="1950/1970">1950-1970</unitdate>
+		</did>
+	</c02>
+</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 2: Bulletins</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">2</container>
+				<container type="Folder">1</container>
+				<unittitle>Bulletins</unittitle>
+				<unitdate type="inclusive" normal="1930">1930</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">2</container>
+				<container type="Folder">2</container>
+				<unittitle>Bulletins</unittitle>
+				<unitdate type="inclusive" normal="1931">1931</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">2</container>
+				<container type="Folder">3</container>
+				<unittitle>Bulletins</unittitle>
+				<unitdate type="inclusive" normal="1932">1932</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">2</container>
+				<container type="Folder">4</container>
+				<unittitle>Bulletins</unittitle>
+				<unitdate type="inclusive" normal="1933">1933</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">2</container>
+				<container type="Folder">5</container>
+				<unittitle>Bulletins (Supplements)</unittitle>
+				<unitdate type="inclusive" normal="1933">1933</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">2</container>
+				<container type="Folder">6</container>
+				<unittitle>Bulletins</unittitle>
+				<unitdate type="inclusive" normal="1934">1934</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">2</container>
+				<container type="Folder">7</container>
+				<unittitle>Bulletins</unittitle>
+				<unitdate type="inclusive" normal="1935">1935</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">2</container>
+				<container type="Folder">8</container>
+				<unittitle>Bulletins</unittitle>
+				<unitdate type="inclusive" normal="1936">1936</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">2</container>
+				<container type="Folder">9</container>
+				<unittitle>Bulletins</unittitle>
+				<unitdate type="inclusive" normal="1937">1937</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">2</container>
+				<container type="Folder">10</container>
+				<unittitle>Bulletins (Supplements)</unittitle>
+				<unitdate type="inclusive" normal="1937">1937</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">2</container>
+				<container type="Folder">11</container>
+				<unittitle>Bulletins</unittitle>
+				<unitdate type="inclusive" normal="1938">1938</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">1</container>
+				<unittitle>Bulletins</unittitle>
+				<unitdate type="inclusive" normal="1939">1939</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">2</container>
+				<unittitle>Bulletins</unittitle>
+				<unitdate type="inclusive" normal="1940">1940</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">3</container>
+				<unittitle>Bulletins (Supplements)</unittitle>
+				<unitdate type="inclusive" normal="1940">1940</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">4</container>
+				<unittitle>Bulletins</unittitle>
+				<unitdate type="inclusive" normal="1941">1941</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">5</container>
+				<unittitle>Bulletins</unittitle>
+				<unitdate type="inclusive" normal="1942">1942</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">6</container>
+				<unittitle>Bulletins</unittitle>
+				<unitdate type="inclusive" normal="1943">1943</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">7</container>
+				<unittitle>Bulletins</unittitle>
+				<unitdate type="inclusive" normal="1944">1944</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">8</container>
+				<unittitle>Bulletins</unittitle>
+				<unitdate type="inclusive" normal="1945">1945</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">9</container>
+				<unittitle>Bulletins</unittitle>
+				<unitdate type="inclusive" normal="1946">1946</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">10</container>
+				<unittitle>Bulletins</unittitle>
+				<unitdate type="inclusive" normal="1947">1947</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">11</container>
+				<unittitle>Bulletins</unittitle>
+				<unitdate type="inclusive" normal="1948">1948</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">12</container>
+				<unittitle>Bulletins</unittitle>
+				<unitdate type="inclusive" normal="1949">1949</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 3: Yearbooks</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">1</container>
+				<unittitle>Yearbooks</unittitle>
+				<unitdate type="inclusive" normal="1921/1922">1921-1922</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">2</container>
+				<unittitle>Yearbooks</unittitle>
+				<unitdate type="inclusive" normal="1927/1928">1927-1928</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">3</container>
+				<unittitle>Yearbooks</unittitle>
+				<unitdate type="inclusive" normal="1928/1929">1928-1929</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">4</container>
+				<unittitle>Yearbooks</unittitle>
+				<unitdate type="inclusive" normal="1929/1930">1929-1930</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">5</container>
+				<unittitle>Yearbooks</unittitle>
+				<unitdate type="inclusive" normal="1931">1931</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">6</container>
+				<unittitle>Yearbooks</unittitle>
+				<unitdate type="inclusive" normal="1932">1932</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">7</container>
+				<unittitle>Yearbooks</unittitle>
+				<unitdate type="inclusive" normal="1933">1933</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">8</container>
+				<unittitle>Yearbooks</unittitle>
+				<unitdate type="inclusive" normal="1934">1934</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">9</container>
+				<unittitle>Yearbooks</unittitle>
+				<unitdate type="inclusive" normal="1935">1935</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">10</container>
+				<unittitle>Yearbooks</unittitle>
+				<unitdate type="inclusive" normal="1936">1936</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">11</container>
+				<unittitle>Yearbooks</unittitle>
+				<unitdate type="inclusive" normal="1937">1937</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">12</container>
+				<unittitle>Yearbooks</unittitle>
+				<unitdate type="inclusive" normal="1938">1938</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">13</container>
+				<unittitle>Yearbooks</unittitle>
+				<unitdate type="inclusive" normal="1939">1939</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">14</container>
+				<unittitle>Yearbooks</unittitle>
+				<unitdate type="inclusive" normal="1940">1940</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">15</container>
+				<unittitle>Yearbooks</unittitle>
+				<unitdate type="inclusive" normal="1941">1941</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">16</container>
+				<unittitle>Yearbooks</unittitle>
+				<unitdate type="inclusive" normal="1942">1942</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">17</container>
+				<unittitle>Yearbooks</unittitle>
+				<unitdate type="inclusive" normal="1943">1943</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">18</container>
+				<unittitle>Yearbooks</unittitle>
+				<unitdate type="inclusive" normal="1944/1946">1944-1946</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">19</container>
+				<unittitle>Yearbooks</unittitle>
+				<unitdate type="inclusive" normal="1946/1948">1946-1948</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">20</container>
+				<unittitle>Yearbooks</unittitle>
+				<unitdate type="inclusive" normal="1950/1951">1950-1951</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">21</container>
+				<unittitle>Yearbooks</unittitle>
+				<unitdate type="inclusive" normal="1952/1953">1952-1953</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">22</container>
+				<unittitle>Yearbooks</unittitle>
+				<unitdate type="inclusive" normal="1953/1954">1953-1954</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">23</container>
+				<unittitle>Yearbooks (2 Copies)</unittitle>
+				<unitdate type="inclusive" normal="1954/1955">1954-1955</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">24</container>
+				<unittitle>Yearbooks (2 Copies)</unittitle>
+				<unitdate type="inclusive" normal="1955/1956">1955-1956</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">25</container>
+				<unittitle>Yearbooks</unittitle>
+				<unitdate type="inclusive" normal="1956/1957">1956-1957</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">26</container>
+				<unittitle>Yearbooks</unittitle>
+				<unitdate type="inclusive" normal="1957/1958">1957-1958</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">27</container>
+				<unittitle>Yearbooks (Supplement)</unittitle>
+				<unitdate type="inclusive" normal="1958/1959">1958-1959</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">28</container>
+				<unittitle>Yearbooks (2 Copies)</unittitle>
+				<unitdate type="inclusive" normal="1959/1960">1959-1960</unitdate>
+			</did>
+		</c02>
+	</c01>
+</dsc>
+</archdesc>
+</ead>

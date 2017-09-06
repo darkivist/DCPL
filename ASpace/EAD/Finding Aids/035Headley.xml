@@ -1,0 +1,842 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type="text/xml" href="I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/eadcbs6rev.xsl"?><!DOCTYPE ead PUBLIC "-//Society of American Archivists//DTD ead.dtd (Encoded Archival Description (EAD) Version 1.0)//EN" "I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/ead.dtd">
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" repositoryencoding="iso15511" relatedencoding="MARC21">
+	<eadid mainagencycode="DWP" countrycode="US" url="http://washingtoniana.dclibrary.org">035Headley</eadid>
+<filedesc>
+<titlestmt>
+	<titleproper encodinganalog="245$a">Albert J. Headley, Jr.</titleproper>
+	<subtitle>An inventory of Albert J. Headley, Jr. at DC Public Library</subtitle>
+<author encodinganalog="245$c">Finding aid prepared by Leroy Graham/Anne L. Foster/Ryan P. Semmes.</author>
+</titlestmt>
+<publicationstmt>
+<publisher encodinganalog="260$b">DC Public Library, Special Collections</publisher>
+	<date type="publication" encodinganalog="260$c" normal="2006-07">2006-07</date>
+<address><addressline>901 G Street NW</addressline><addressline>DC Public Library</addressline><addressline>Washington, D.C. 20009</addressline></address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation encodinganalog="500">EAD encoded by Paul Kelly on
+	<date normal="2017-04-20">2017-04-20</date>
+</creation>
+<langusage>English</langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory" relatedencoding="MARC21">
+<did id="a1">
+<head>Descriptive Summary</head>
+<repository label="Repository:" encodinganalog="852$a"><corpname>DC Public Library, Special Collections</corpname></repository>
+	<unitdate encodinganalog="260$c" label="Dates:" type="inclusive" normal="1945/1976">1945-1976</unitdate>
+	<unittitle label="Title:" encodinganalog="245$a">Albert J. Headley, Jr. Papers</unittitle>
+<physdesc label="Extent:" encodinganalog="300$a"><extent>5.75 linear feet; 12 boxes</extent></physdesc>
+<unitid encodinganalog="090" label="Collection Number:" countrycode="US" repositorycode="DCU">035</unitid>
+<langmaterial encodinganalog="041" label="Language:"><language langcode="eng">English</language></langmaterial>
+</did>
+	
+<dsc type="combined" id="a23">
+<head>Detailed Description of the Collection</head>
+<c01 level="series">
+   <did>
+   	<unittitle>Series 1: Churches, Religious Organizations, and Personal Papers, 1959-1969</unittitle>
+    </did>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">1</container>
+			<unittitle>Archdiocesan Council of Catholic Men</unittitle>
+			<unitdate type="inclusive" normal="1958/1961">1958-1961</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">2</container>
+			<unittitle>Christ Methodist Church</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">3</container>
+			<unittitle>Fifth Baptist Church</unittitle>
+			<unitdate type="inclusive" normal="1963/1965">1963-1965</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">4</container>
+			<unittitle>Genealogy Charts</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">5</container>
+			<unittitle>Massachusetts Citizens for Public Prayer</unittitle>
+			<unitdate type="inclusive" normal="1964">1964</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">6</container>
+			<unittitle>National Council of Catholic Men</unittitle>
+			<unitdate type="inclusive" normal="1960/1961">1960-1961</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">7</container>
+			<unittitle>Southwest Ministerial Alliance</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">8</container>
+			<unittitle>St. Dominic’s Church</unittitle>
+			<unitdate type="inclusive" normal="1961/1968">1961-1968</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">9</container>
+			<unittitle>Westminster United Presbyterian Church</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 2: Businesses and Organizations, 1956-1975</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">2</container>
+				<container type="Folder">1</container>
+				<unittitle>Applied Parking Techniques</unittitle>
+				<unitdate type="inclusive" normal="1975">1975</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">2</container>
+				<container type="Folder">2</container>
+				<unittitle>American Coalition of Patriotic Societies</unittitle>
+				<unitdate type="inclusive" normal="1960/1961">1960-1961</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">2</container>
+				<container type="Folder">3</container>
+				<unittitle>Barney Neighborhood House</unittitle>
+				<unitdate type="inclusive" normal="1970/1979" certainty="approximate">1970s</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">2</container>
+				<container type="Folder">4</container>
+				<unittitle>Capitol Park Housing Development</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">2</container>
+				<container type="Folder">5</container>
+				<unittitle>Citizens for Presidential Vote for the District of Columbia</unittitle>
+				<unitdate type="inclusive" normal="1961">1961</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">2</container>
+				<container type="Folder">6</container>
+				<unittitle>DC Federation of Civic Associations Inc.</unittitle>
+				<unitdate type="inclusive" normal="1960/1969" certainty="approximate">1960s</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">2</container>
+				<container type="Folder">7</container>
+				<unittitle>Downtown Progress</unittitle>
+				<unitdate type="inclusive" normal="1960">1960</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">2</container>
+				<container type="Folder">8</container>
+				<unittitle>Downtown Progress</unittitle>
+				<unitdate type="inclusive" normal="1961">1961</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">2</container>
+				<container type="Folder">9</container>
+				<unittitle>Downtown Progress</unittitle>
+				<unitdate type="inclusive" normal="1963">1963</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">2</container>
+				<container type="Folder">10</container>
+				<unittitle>Downtown Progress</unittitle>
+				<unitdate type="inclusive" normal="1964/1975">1964-1975</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">2</container>
+				<container type="Folder">11</container>
+				<unittitle>Edward J. Flynn Co.</unittitle>
+				<unitdate type="inclusive" normal="1964">1964</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">2</container>
+				<container type="Folder">12</container>
+				<unittitle>First National Realty Corp.</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">2</container>
+				<container type="Folder">13</container>
+				<unittitle>Human Events</unittitle>
+				<unitdate type="inclusive" normal="1960">1960</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">2</container>
+				<container type="Folder">14</container>
+				<unittitle>Junior Chamber of Commerce</unittitle>
+				<unitdate type="inclusive" normal="1960">1960</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">2</container>
+				<container type="Folder">15</container>
+				<unittitle>Kalorama Citizens’ Associations</unittitle>
+				<unitdate type="inclusive" normal="1962/1963">1962-1963</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">2</container>
+				<container type="Folder">16</container>
+				<unittitle>Metropolitan Association of General Improvement Contractors</unittitle>
+				<unitdate type="inclusive" normal="1958">1958</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">2</container>
+				<container type="Folder">17</container>
+				<unittitle>National Association of Social Workers</unittitle>
+				<unitdate type="inclusive" normal="1956">1956</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">2</container>
+				<container type="Folder">18</container>
+				<unittitle>Sol Investment Co.</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">2</container>
+				<container type="Folder">19</container>
+				<unittitle>Southwest Community Council</unittitle>
+				<unitdate type="inclusive" normal="1964/1965">1964-1965</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">2</container>
+				<container type="Folder">20</container>
+				<unittitle>Southwest Community Credit Union</unittitle>
+				<unitdate type="inclusive" normal="1969">1969</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">2</container>
+				<container type="Folder">21</container>
+				<unittitle>Washington Real Estate Board</unittitle>
+				<unitdate type="inclusive" normal="1956">1956</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 3: Local and Federal Government, 1945-1970</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">1</container>
+				<unittitle>Area M Board—DC Commissioner’s Youth Council</unittitle>
+				<unitdate type="inclusive" normal="1959">1959</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">2</container>
+				<unittitle>Department of Buildings and Grounds</unittitle>
+				<unitdate type="inclusive" normal="1959">1959</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">3</container>
+				<unittitle>Board of Commissioners for the District of Columbia</unittitle>
+				<unitdate type="inclusive" normal="1955/1959">1955-1959</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">4</container>
+				<unittitle>Board of Commissioners for the District of Columbia</unittitle>
+				<unitdate type="inclusive" normal="1961/1962">1961-1962</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">5</container>
+				<unittitle>DC Redevelopment Land Agency</unittitle>
+				<unitdate type="inclusive" normal="1957/1958">1957-1958</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">6</container>
+				<unittitle>Board of Education</unittitle>
+				<unitdate type="inclusive" normal="1960">1960</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">7</container>
+				<unittitle>Federal Courts</unittitle>
+				<unitdate type="inclusive" normal="1957">1957</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">8</container>
+				<unittitle>Federal City Council</unittitle>
+				<unitdate type="inclusive" normal="1956">1956</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">9</container>
+				<unittitle>Health and Welfare Council of the National Capitol Area</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">10</container>
+				<unittitle>Highways and Traffic - DC</unittitle>
+				<unitdate type="inclusive" normal="1957/1962">1957-1962</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">11</container>
+				<unittitle>Housing and Home Finance Agency</unittitle>
+				<unitdate type="inclusive" normal="1960/1964">1960-1964</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">12</container>
+				<unittitle>Images</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">13</container>
+				<unittitle>Department of Licenses and Inspections</unittitle>
+				<unitdate type="inclusive" normal="1960">1960</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">14</container>
+				<unittitle>Metropolitan Police Department</unittitle>
+				<unitdate type="inclusive" normal="1961">1961</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">15</container>
+				<unittitle>Metropolitan Washington Council of Governments</unittitle>
+				<unitdate type="inclusive" normal="1962/1969">1962-1969</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">16</container>
+				<unittitle>Committee for a More Beautiful Capitol</unittitle>
+				<unitdate type="inclusive" normal="1969">1969</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">17</container>
+				<unittitle>National Capitol Housing Authority</unittitle>
+				<unitdate type="inclusive" normal="1958/1959">1958-1959</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">18</container>
+				<unittitle>National Capitol Planning Commission</unittitle>
+				<unitdate type="inclusive" normal="1952/1959">1952-1959</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">19</container>
+				<unittitle>Public Housing Administration</unittitle>
+				<unitdate type="inclusive" normal="1961">1961</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">1</container>
+				<unittitle>Urban Renewal Legal Branch</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">2</container>
+				<unittitle>Office of Urban Renewal</unittitle>
+				<unitdate type="inclusive" normal="1959/1966">1959-1966</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">3</container>
+				<unittitle>US Congress</unittitle>
+				<unitdate type="inclusive" normal="1945/1961">1945-1961</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">4</container>
+				<unittitle>Washington Metropolitan Regional Conference</unittitle>
+				<unitdate type="inclusive" normal="1960/1961">1960-1961</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">5</container>
+				<unittitle>Washington Metropolitan Transit Authority</unittitle>
+				<unitdate type="inclusive" normal="1970">1970</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">6</container>
+				<unittitle>Washington Zoning Revision Office</unittitle>
+				<unitdate type="inclusive" normal="1955/1956">1955-1956</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">7</container>
+				<unittitle>Washington Zoning Revision Office</unittitle>
+				<unitdate type="inclusive" normal="1956">1956</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">8</container>
+				<unittitle>Washington Zoning Revision Office</unittitle>
+				<unitdate type="inclusive" normal="1956">1956</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 4: Articles on Urban Renewal, 1952-1976</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">5</container>
+				<container type="Folder">1</container>
+				<unittitle>American Home</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">5</container>
+				<container type="Folder">2</container>
+				<unittitle>American Motorist</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">5</container>
+				<container type="Folder">3</container>
+				<unittitle>Federal Bar Association</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">5</container>
+				<container type="Folder">4</container>
+				<unittitle>George Washington University Magazine</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">5</container>
+				<container type="Folder">5</container>
+				<unittitle>Harper’s Magazine</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">5</container>
+				<container type="Folder">6</container>
+				<unittitle>Life Magazine</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">5</container>
+				<container type="Folder">7</container>
+				<unittitle>Reader’s Digest</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">5</container>
+				<container type="Folder">8</container>
+				<unittitle>Saturday Evening Post</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">5</container>
+				<container type="Folder">9</container>
+				<unittitle>Time: The Weekly News Magazine</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">5</container>
+				<container type="Folder">10</container>
+				<unittitle>Washington Newspapers</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">5</container>
+				<container type="Folder">11</container>
+				<unittitle>Washington Newspapers</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">5</container>
+				<container type="Folder">12</container>
+				<unittitle>Washington Newspapers</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">6</container>
+				<container type="Folder">1</container>
+				<unittitle>Untitled</unittitle>
+				<unitdate type="inclusive" normal="1957/1959">1957-1959</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">6</container>
+				<container type="Folder">2</container>
+				<unittitle>Untitled</unittitle>
+				<unitdate type="inclusive" normal="1959/1960">1959-1960</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">7</container>
+				<container type="Folder">1</container>
+				<unittitle>Untitled</unittitle>
+				<unitdate type="inclusive" normal="1960-05/1960-11">May 1960-November 1960</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">7</container>
+				<container type="Folder">2</container>
+				<unittitle>Untitled</unittitle>
+				<unitdate type="inclusive" normal="1960-12/1961-06">December 1960-June 1961</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">7</container>
+				<container type="Folder">3</container>
+				<unittitle>Untitled</unittitle>
+				<unitdate type="inclusive" normal="1961-07/1961-11">July 1961-November 1961</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">8</container>
+				<container type="Folder">1</container>
+				<unittitle>Untitled</unittitle>
+				<unitdate type="inclusive" normal="1961-11/1962-12">November 1961-December 1962</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">8</container>
+				<container type="Folder">2</container>
+				<unittitle>Untitled</unittitle>
+				<unitdate type="inclusive" normal="1963-01/1964-01">January 1963-January 1964</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">9</container>
+				<container type="Folder">1</container>
+				<unittitle>Untitled</unittitle>
+				<unitdate type="inclusive" normal="1964-01/1964-12">January 1964-December 1964</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">9</container>
+				<container type="Folder">2</container>
+				<unittitle>Untitled</unittitle>
+				<unitdate type="inclusive" normal="1965-01/1966-12">January 1965-December 1966</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">10</container>
+				<container type="Folder">1</container>
+				<unittitle>Untitled</unittitle>
+				<unitdate type="inclusive" normal="1967-01/1969-12">January 1967-December 1969</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">10</container>
+				<container type="Folder">2</container>
+				<unittitle>Untitled</unittitle>
+				<unitdate type="inclusive" normal="1970-01/1972-12">January 1970-December 1972</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">10</container>
+				<container type="Folder">3</container>
+				<unittitle>Untitled</unittitle>
+				<unitdate type="inclusive" normal="1973-01/1976-01">January 1973-January 1976</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">11</container>
+				<container type="Folder">1</container>
+				<unittitle>Miscellaneous</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 5: Oversize</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">12</container>
+				<container type="Folder">1</container>
+				<unittitle>National Conference of Catholic Charities</unittitle>
+				<unitdate type="inclusive" normal="1959/1960">1959-1960</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">12</container>
+				<container type="Folder">2</container>
+				<unittitle>Downtown Progress</unittitle>
+				<unitdate type="inclusive" normal="1962">1962</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">12</container>
+				<container type="Folder">3</container>
+				<unittitle>Federation of Citizens Associations</unittitle>
+				<unitdate type="inclusive" normal="1957/1965">1957-1965</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">12</container>
+				<container type="Folder">4</container>
+				<unittitle>Independent Citizens of Adams Morgan</unittitle>
+				<unitdate type="inclusive" normal="1963">1963</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">12</container>
+				<container type="Folder">5</container>
+				<unittitle>Southwest Citizens’ Association</unittitle>
+				<unitdate type="inclusive" normal="1957/1961">1957-1961</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">12</container>
+				<container type="Folder">6</container>
+				<unittitle>Southwest Displaced Persons Grievance Committee</unittitle>
+				<unitdate type="inclusive" normal="1960">1960</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">12</container>
+				<container type="Folder">7</container>
+				<unittitle>Southwest Neighborhood Assembly</unittitle>
+				<unitdate type="inclusive" normal="1963/1969">1963-1969</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">12</container>
+				<container type="Folder">8</container>
+				<unittitle>Southwest Project</unittitle>
+				<unitdate type="inclusive" normal="1958/1959">1958-1959</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">12</container>
+				<container type="Folder">9</container>
+				<unittitle>Washington Housing Association</unittitle>
+				<unitdate type="inclusive" normal="1956/1961">1956-1961</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">12</container>
+				<container type="Folder">10</container>
+				<unittitle>Washington Planning and Housing Association</unittitle>
+				<unitdate type="inclusive" normal="1962/1963">1962-1963</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">12</container>
+				<container type="Folder">11</container>
+				<unittitle>Webb and Knapp Inc.</unittitle>
+				<unitdate type="inclusive" normal="1961">1961</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">12</container>
+				<container type="Folder">12</container>
+				<unittitle>DC Redevelopment Land Agency</unittitle>
+				<unitdate type="inclusive" normal="1959/1963">1959-1963</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">12</container>
+				<container type="Folder">13</container>
+				<unittitle>Government of DC</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">12</container>
+				<container type="Folder">14</container>
+				<unittitle>National Capital Planning Commission</unittitle>
+				<unitdate type="inclusive" normal="1959/1962">1959-1962</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">12</container>
+				<container type="Folder">15</container>
+				<unittitle>Architectural Forum: The Magazine of Building</unittitle>
+				<unitdate type="inclusive" normal="1956-01">January 1956</unitdate>
+			</did>
+		</c02>
+	</c01>
+</dsc>
+</archdesc>
+</ead>

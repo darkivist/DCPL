@@ -1,0 +1,2832 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type="text/xml" href="I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/eadcbs6rev.xsl"?><!DOCTYPE ead PUBLIC "-//Society of American Archivists//DTD ead.dtd (Encoded Archival Description (EAD) Version 1.0)//EN" "I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/ead.dtd">
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" repositoryencoding="iso15511" relatedencoding="MARC21">
+	<eadid mainagencycode="DWP" countrycode="US" url="http://washingtoniana.dclibrary.org">039DCLA</eadid>
+<filedesc>
+<titlestmt>
+	<titleproper encodinganalog="245$a">District of Columbia Library Association</titleproper>
+	<subtitle>An inventory of District of Columbia Library Association at DC Public Library</subtitle>
+<author encodinganalog="245$c">Finding aid prepared by John Y. Cole/Danna Bell-Russell.</author>
+</titlestmt>
+<publicationstmt>
+<publisher encodinganalog="260$b">DC Public Library, Special Collections</publisher>
+	<date type="publication" encodinganalog="260$c" normal="1997-05">1997-05</date>
+<address><addressline>901 G Street NW</addressline><addressline>DC Public Library</addressline><addressline>Washington, D.C. 20009</addressline></address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation encodinganalog="500">EAD encoded by Paul Kelly on
+	<date normal="2017-04-20">2017-04-20</date>
+</creation>
+<langusage>English</langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory" relatedencoding="MARC21">
+<did id="a1">
+<head>Descriptive Summary</head>
+<repository label="Repository:" encodinganalog="852$a"><corpname>DC Public Library, Special Collections</corpname></repository>
+	<unitdate encodinganalog="260$c" label="Dates:" type="inclusive" normal="1894/1997">1894-1997</unitdate>
+	<unittitle label="Title:" encodinganalog="245$a">District of Columbia Library Association Records</unittitle>
+<physdesc label="Extent:" encodinganalog="300$a"><extent>46 boxes</extent></physdesc>
+<unitid encodinganalog="090" label="Collection Number:" countrycode="US" repositorycode="DCU">039</unitid>
+<langmaterial encodinganalog="041" label="Language:"><language langcode="eng">English</language></langmaterial>
+</did>
+	
+<dsc type="combined" id="a23">
+<head>Detailed Description of the Collection</head>
+<c01 level="series">
+   <did>
+   	<unittitle>Series 1: Minutes and Official Records</unittitle>
+    </did>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">1</container>
+			<unittitle>Official Records</unittitle>
+			<unitdate type="inclusive" normal="1894-06-06">June 6 1894</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">1</container>
+			<unittitle>Official Records</unittitle>
+			<unitdate type="inclusive" normal="1906-11-21/1912-12-11">November 21 1906 - December 11 1912</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">1</container>
+			<unittitle>Bound Volumes of Minutes and List of Activities</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">1</container>
+			<unittitle>Bound Volumes of Minutes</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">1</container>
+			<unittitle>Executive board minutes</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">1</container>
+			<unittitle>President’s Notebook materials</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">1</container>
+			<unittitle>President’s Notebook materials</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">1</container>
+			<unittitle>President’s Notebook</unittitle>
+			<unitdate type="inclusive" normal="1979/1980">1979-1980</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">2</container>
+			<unittitle>President’s Notebook</unittitle>
+			<unitdate type="inclusive" normal="1980/1981">1980-1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">1</container>
+			<unittitle>President’s Notebook</unittitle>
+			<unitdate type="inclusive" normal="1982/1983">1982-1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">1</container>
+			<unittitle>President’s Notebook</unittitle>
+			<unitdate type="inclusive" normal="1982/1983">1982-1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">2</container>
+			<unittitle>President’s Notebook</unittitle>
+			<unitdate type="inclusive" normal="1983/1984">1983-1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">1</container>
+			<unittitle>President’s Notebook</unittitle>
+			<unitdate type="inclusive" normal="1984/1985">1984-1985</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">1</container>
+			<unittitle>President’s Notebook</unittitle>
+			<unitdate type="inclusive" normal="1984/1985">1984-1985</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">1</container>
+			<unittitle>President’s Notebook and Guide to Officers</unittitle>
+			<unitdate type="inclusive" normal="1985/1986">1985-1986</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">2</container>
+			<unittitle>President’s Notebook</unittitle>
+			<unitdate type="inclusive" normal="1987/1988">1987-1988</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">1</container>
+			<unittitle>President’s Notebook</unittitle>
+			<unitdate type="inclusive" normal="1988/1990">1988-1990</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">2</container>
+			<unittitle>Minutes and Other Administrative Materials</unittitle>
+			<unitdate type="inclusive" normal="1989/1990">1989-1990</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">3</container>
+			<unittitle>Minutes</unittitle>
+			<unitdate type="inclusive" normal="1991/1993">1991-1993</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">4</container>
+			<unittitle>Annual Reports and Other Year-End Documents</unittitle>
+			<unitdate type="inclusive" normal="1991/1992">1991-1992</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">5</container>
+			<unittitle>Administrative Materials</unittitle>
+			<unitdate type="inclusive" normal="1991/1992">1991-1992</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">6</container>
+			<unittitle>Minutes and Other Administrative Materials</unittitle>
+			<unitdate type="inclusive" normal="1993">1993</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">7</container>
+			<unittitle>Correspondence and Other Materials</unittitle>
+			<unitdate type="inclusive" normal="1993/1994">1993-1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">1</container>
+			<unittitle>Miscellaneous Materials</unittitle>
+			<unitdate type="inclusive" normal="1994/1995">1994-1995</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">2</container>
+			<unittitle>President’s Correspondence</unittitle>
+			<unitdate type="inclusive" normal="1995/1996">1995-1996</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">3</container>
+			<unittitle>Material from Board Minutes</unittitle>
+			<unitdate type="inclusive" normal="1994/1995">1994-1995</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">4</container>
+			<unittitle>Material from Board Minutes</unittitle>
+			<unitdate type="inclusive" normal="1995/1996">1995-1996</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">5</container>
+			<unittitle>Interest Groups and Committees Archives</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">6</container>
+			<unittitle>Interest Groups and Committees Awards Committee</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">7</container>
+			<unittitle>Interest Groups and Committees Children’s and Young Adult Interest Group</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">8</container>
+			<unittitle>Interest Groups and Committees Government Documents Interest Group</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">1</container>
+			<unittitle>Interest Groups and Committees Reference Interest Group including Reference Group Round-up</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">2</container>
+			<unittitle>Interest Groups and Committees Elections Committee</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">3</container>
+			<unittitle>Interest Groups and Committees Preservation Interest Group</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">17</container>
+			<container type="Folder">1</container>
+			<unittitle>Manual Drafting Committee Report</unittitle>
+			<unitdate type="inclusive" normal="1965-05-10">May 10 1965</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">17</container>
+			<container type="Folder">2</container>
+			<unittitle>Manual for Officers and Committee Chairs</unittitle>
+			<unitdate type="inclusive" normal="1965">1965</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">17</container>
+			<container type="Folder">3</container>
+			<unittitle>Handbook</unittitle>
+			<unitdate type="inclusive" normal="1965">1965</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">17</container>
+			<container type="Folder">4</container>
+			<unittitle>Handbook</unittitle>
+			<unitdate type="inclusive" normal="1984">1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">17</container>
+			<container type="Folder">5</container>
+			<unittitle>Handbook</unittitle>
+			<unitdate type="inclusive" normal="1984">1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">17</container>
+			<container type="Folder">6</container>
+			<unittitle>Handbook</unittitle>
+			<unitdate type="inclusive" normal="1988/1989">1988-1989</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">17</container>
+			<container type="Folder">7</container>
+			<unittitle>Handbook</unittitle>
+			<unitdate type="inclusive" normal="1989/1990">1989-1990</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">17</container>
+			<container type="Folder">8</container>
+			<unittitle>Handbook</unittitle>
+			<unitdate type="inclusive" normal="1991/1992">1991-1992</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">17</container>
+			<container type="Folder">9</container>
+			<unittitle>Handbook</unittitle>
+			<unitdate type="inclusive" normal="1992/1993">1992-1993</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">17</container>
+			<container type="Folder">10</container>
+			<unittitle>Handbook</unittitle>
+			<unitdate type="inclusive" normal="1993/1994">1993-1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">17</container>
+			<container type="Folder">11</container>
+			<unittitle>Handbook</unittitle>
+			<unitdate type="inclusive" normal="1994/1995">1994-1995</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">17</container>
+			<container type="Folder">12</container>
+			<unittitle>Handbook</unittitle>
+			<unitdate type="inclusive" normal="1995/1996">1995-1996</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">17</container>
+			<container type="Folder">13</container>
+			<unittitle>Legislative Day</unittitle>
+			<unitdate type="inclusive" normal="1979">1979</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">17</container>
+			<container type="Folder">14</container>
+			<unittitle>Legislative Day</unittitle>
+			<unitdate type="inclusive" normal="1979">1979</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">18</container>
+			<container type="Folder">1</container>
+			<unittitle>Legislative Day</unittitle>
+			<unitdate type="inclusive" normal="1979">1979</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">18</container>
+			<container type="Folder">2</container>
+			<unittitle>Legislative Day</unittitle>
+			<unitdate type="inclusive" normal="1980">1980</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">18</container>
+			<container type="Folder">3</container>
+			<unittitle>Legislative Day</unittitle>
+			<unitdate type="inclusive" normal="1981">1981</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">18</container>
+			<container type="Folder">4</container>
+			<unittitle>Legislative Day</unittitle>
+			<unitdate type="inclusive" normal="1982">1982</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">19</container>
+			<container type="Folder">1</container>
+			<unittitle>ALA Legislative Update “Handouts and Other Materials”</unittitle>
+			<unitdate type="inclusive" normal="1985">1985</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">19</container>
+			<container type="Folder">2</container>
+			<unittitle>Library Committee-Bank Receipts and Statements</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">19</container>
+			<container type="Folder">3</container>
+			<unittitle>Deposits at NS and T Bank</unittitle>
+			<unitdate type="inclusive" normal="1982/1985">1982-1985</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">19</container>
+			<container type="Folder">4</container>
+			<unittitle>Deposits at NS and T Bank</unittitle>
+			<unitdate type="inclusive" normal="1982/1985">1982-1985</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">19</container>
+			<container type="Folder">5</container>
+			<unittitle>Legislative Day Income and Expenditures; Financial Contributors and Other Financial</unittitle>
+			<unitdate type="inclusive" normal="1983">1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">19</container>
+			<container type="Folder">6</container>
+			<unittitle>Information</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">19</container>
+			<container type="Folder">7</container>
+			<unittitle>Information</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">19</container>
+			<container type="Folder">8</container>
+			<unittitle>Legislative Day Invitation to Reception and Other Brochures</unittitle>
+			<unitdate type="inclusive" normal="1983">1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">19</container>
+			<container type="Folder">9</container>
+			<unittitle>Legislative Day Invitation to Reception and Other Brochures</unittitle>
+			<unitdate type="inclusive" normal="1984">1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">19</container>
+			<container type="Folder">10</container>
+			<unittitle>Legislative Day Invitation and Other Brochures</unittitle>
+			<unitdate type="inclusive" normal="1984">1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">19</container>
+			<container type="Folder">11</container>
+			<unittitle>Legislative Day Letters/Memos /Other Correspondence</unittitle>
+			<unitdate type="inclusive" normal="1982">1982</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">19</container>
+			<container type="Folder">12</container>
+			<unittitle>Legislative Day Letters/Memos/Other Correspondence</unittitle>
+			<unitdate type="inclusive" normal="1983">1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">19</container>
+			<container type="Folder">13</container>
+			<unittitle>Legislative Day Letters/Memos/Other Correspondence and lists of Committee Members</unittitle>
+			<unitdate type="inclusive" normal="1983">1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">19</container>
+			<container type="Folder">14</container>
+			<unittitle>Legislative Day Letters/Memos/Other Correspondence</unittitle>
+			<unitdate type="inclusive" normal="1984">1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">20</container>
+			<container type="Folder">1</container>
+			<unittitle>Legislative Day Mailing Lists/Vendors/Sister Associations Contributor Status</unittitle>
+			<unitdate type="inclusive" normal="1982">1982</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">20</container>
+			<container type="Folder">2</container>
+			<unittitle>Legislative Day Mailing Lists/Vendors/Sister Associations Contributor Status</unittitle>
+			<unitdate type="inclusive" normal="1983">1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">20</container>
+			<container type="Folder">3</container>
+			<unittitle>Legislative Day Mailing Lists/Vendors/Sister Associations Contributor Status</unittitle>
+			<unitdate type="inclusive" normal="1984">1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">20</container>
+			<container type="Folder">4</container>
+			<unittitle>Legislative Day Photographs and Negatives</unittitle>
+			<unitdate type="inclusive" normal="1983">1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">20</container>
+			<container type="Folder">5</container>
+			<unittitle>Legislative Day Questions and Reports on Congressional Office Visits; Reports States</unittitle>
+			<unitdate type="inclusive" normal="1982">1982</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">20</container>
+			<container type="Folder">6</container>
+			<unittitle>Arizona to Georgia</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">20</container>
+			<container type="Folder">7</container>
+			<unittitle>Legislative Day Reports on Congressional Office Visits Hawaii to North Carolina</unittitle>
+			<unitdate type="inclusive" normal="1982">1982</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">20</container>
+			<container type="Folder">8</container>
+			<unittitle>Legislative Day Reports on Congressional Office Visits Nebraska to West Virginia</unittitle>
+			<unitdate type="inclusive" normal="1982">1982</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">20</container>
+			<container type="Folder">9</container>
+			<unittitle>Legislative Day Responses to Invitation to Reception</unittitle>
+			<unitdate type="inclusive" normal="1984">1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">21</container>
+			<container type="Folder">1</container>
+			<unittitle>OPM Standards</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">21</container>
+			<container type="Folder">2</container>
+			<unittitle>OMB Circular and FES OF Position Classification</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">21</container>
+			<container type="Folder">3</container>
+			<unittitle>Legislative Day Expenses</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">21</container>
+			<container type="Folder">4</container>
+			<unittitle>Legislative Day Corporations</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">21</container>
+			<container type="Folder">5</container>
+			<unittitle>Legislative Day Income Associations</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">21</container>
+			<container type="Folder">6</container>
+			<unittitle>Legislative Day Associations</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">21</container>
+			<container type="Folder">7</container>
+			<unittitle>Legislative Day Final Report</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">21</container>
+			<container type="Folder">8</container>
+			<unittitle>Legislative Day Financial Report</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">21</container>
+			<container type="Folder">9</container>
+			<unittitle>Legislative Day Expenditures</unittitle>
+			<unitdate type="inclusive" normal="1985">1985</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">21</container>
+			<container type="Folder">10</container>
+			<unittitle>Legislative Day Photographs</unittitle>
+			<unitdate type="inclusive" normal="1996">1996</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">21</container>
+			<container type="Folder">11</container>
+			<unittitle>DCLA Announcements</unittitle>
+			<unitdate type="inclusive" normal="1966/1974">1966-1974</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">21</container>
+			<container type="Folder">12</container>
+			<unittitle>DCLA Announcements</unittitle>
+			<unitdate type="inclusive" normal="1966/1974">1966-1974</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">21</container>
+			<container type="Folder">13</container>
+			<unittitle>DCLA Budget and Finance</unittitle>
+			<unitdate type="inclusive" normal="1969/1970">1969-1970</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">21</container>
+			<container type="Folder">14</container>
+			<unittitle>DCLA Budget and Finance</unittitle>
+			<unitdate type="inclusive" normal="1969/1970">1969-1970</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">21</container>
+			<container type="Folder">15</container>
+			<unittitle>DCLA Action (Pending) Treasurer</unittitle>
+			<unitdate type="inclusive" normal="1972/1974">1972-1974</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">21</container>
+			<container type="Folder">16</container>
+			<unittitle>DCLA Treasurer’s Notes</unittitle>
+			<unitdate type="inclusive" normal="1972">1972</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">21</container>
+			<container type="Folder">17</container>
+			<unittitle>DCLA Board Meeting Notes (Treasurer’s Notes)</unittitle>
+			<unitdate type="inclusive" normal="1972/1973">1972-1973</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">21</container>
+			<container type="Folder">18</container>
+			<unittitle>DCLA Board Meeting Notes (Treasurer’s Notes)</unittitle>
+			<unitdate type="inclusive" normal="1972/1973">1972-1973</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">21</container>
+			<container type="Folder">19</container>
+			<unittitle>DCLA Board Meeting Notes (Treasurer’s Notes)</unittitle>
+			<unitdate type="inclusive" normal="1973/1974">1973-1974</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">21</container>
+			<container type="Folder">20</container>
+			<unittitle>DCLA Board Meeting Notes (Treasurer’s Notes)</unittitle>
+			<unitdate type="inclusive" normal="1973/1974">1973-1974</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">22</container>
+			<container type="Folder">1</container>
+			<unittitle>DCLA Informational Materials Treasurer</unittitle>
+			<unitdate type="inclusive" normal="1972/1974">1972-1974</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">22</container>
+			<container type="Folder">2</container>
+			<unittitle>DCLA Board Meeting Notes</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">22</container>
+			<container type="Folder">3</container>
+			<unittitle>DCLA Instruction Information Treasurer</unittitle>
+			<unitdate type="inclusive" normal="1972/1974">1972-1974</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">22</container>
+			<container type="Folder">4</container>
+			<unittitle>DC Library Jobline COG (223-2272)</unittitle>
+			<unitdate type="inclusive" normal="1973/1974">1973-74</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">22</container>
+			<container type="Folder">5</container>
+			<unittitle>DC Library Workshop Communications in the Library</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">22</container>
+			<container type="Folder">6</container>
+			<unittitle>DC Library Workshop</unittitle>
+			<unitdate type="inclusive" normal="1969">1969</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">22</container>
+			<container type="Folder">7</container>
+			<unittitle>DC Library Workshop</unittitle>
+			<unitdate type="inclusive" normal="1969">1969</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">22</container>
+			<container type="Folder">8</container>
+			<unittitle>Joint Spring Workshop</unittitle>
+			<unitdate type="inclusive" normal="1972">1972</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">22</container>
+			<container type="Folder">9</container>
+			<unittitle>Joint Spring Workshop</unittitle>
+			<unitdate type="inclusive" normal="1973">1973</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">22</container>
+			<container type="Folder">10</container>
+			<unittitle>Joint Spring Workshop</unittitle>
+			<unitdate type="inclusive" normal="1974">1974</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">22</container>
+			<container type="Folder">11</container>
+			<unittitle>Joint Spring Workshop</unittitle>
+			<unitdate type="inclusive" normal="1975">1975</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">22</container>
+			<container type="Folder">12</container>
+			<unittitle>Joint Spring Workshop</unittitle>
+			<unitdate type="inclusive" normal="1975">1975</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">22</container>
+			<container type="Folder">13</container>
+			<unittitle>Joint Spring Workshop</unittitle>
+			<unitdate type="inclusive" normal="1975">1975</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">22</container>
+			<container type="Folder">14</container>
+			<unittitle>Spring Workshop Programs</unittitle>
+			<unitdate type="inclusive" normal="1978/1979">1978-1979</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">22</container>
+			<container type="Folder">15</container>
+			<unittitle>“We the People”</unittitle>
+			<unitdate type="inclusive" normal="1984/1986">1984-1986</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">22</container>
+			<container type="Folder">16</container>
+			<unittitle>“We the People”</unittitle>
+			<unitdate type="inclusive" normal="1984/1986">1984-1986</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">23</container>
+			<container type="Folder">1</container>
+			<unittitle>Ledgers and Notes</unittitle>
+			<unitdate type="inclusive" normal="1960/1969">1960-1969</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">23</container>
+			<container type="Folder">2</container>
+			<unittitle>Bank Statements</unittitle>
+			<unitdate type="inclusive" normal="1969/1970">1969-1970</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">23</container>
+			<container type="Folder">3</container>
+			<unittitle>Check Ledger</unittitle>
+			<unitdate type="inclusive" normal="1969">1969</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">23</container>
+			<container type="Folder">4</container>
+			<unittitle>DCLA Banks</unittitle>
+			<unitdate type="inclusive" normal="1973">1973</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">23</container>
+			<container type="Folder">5</container>
+			<unittitle>Bank Statements</unittitle>
+			<unitdate type="inclusive" normal="1970/1971">1970-1971</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">23</container>
+			<container type="Folder">6</container>
+			<unittitle>Bills</unittitle>
+			<unitdate type="inclusive" normal="1970/1971">1970-1971</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">23</container>
+			<container type="Folder">7</container>
+			<unittitle>Check Ledger</unittitle>
+			<unitdate type="inclusive" normal="1972/1973">1972-1973</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">23</container>
+			<container type="Folder">8</container>
+			<unittitle>DCLA Budget</unittitle>
+			<unitdate type="inclusive">1972-1973, 1973-1974</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">23</container>
+			<container type="Folder">9</container>
+			<unittitle>DCLA Membership Renewals</unittitle>
+			<unitdate type="inclusive" normal="1972/1973">1972-1973</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">23</container>
+			<container type="Folder">10</container>
+			<unittitle>Treasurer’s Report</unittitle>
+			<unitdate type="inclusive" normal="1972/1974">1972-1974</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">23</container>
+			<container type="Folder">11</container>
+			<unittitle>Bank Statements and Receipts</unittitle>
+			<unitdate type="inclusive" normal="1972/1974">1972-1974</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">23</container>
+			<container type="Folder">12</container>
+			<unittitle>Bank Statements</unittitle>
+			<unitdate type="inclusive" normal="1972">1972</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">23</container>
+			<container type="Folder">13</container>
+			<unittitle>DCLA Bills Paid</unittitle>
+			<unitdate type="inclusive" normal="1972/1973">1972-1973</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">23</container>
+			<container type="Folder">14</container>
+			<unittitle>DCLA Bills Paid</unittitle>
+			<unitdate type="inclusive" normal="1972/1973">1972-1973</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">23</container>
+			<container type="Folder">15</container>
+			<unittitle>DCLA Correspondence</unittitle>
+			<unitdate type="inclusive" normal="1972/1974">1972-1974</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">23</container>
+			<container type="Folder">16</container>
+			<unittitle>Check Register</unittitle>
+			<unitdate type="inclusive" normal="1973/1974">1973-1974</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">23</container>
+			<container type="Folder">17</container>
+			<unittitle>DCLA Memberships</unittitle>
+			<unitdate type="inclusive" normal="1973/1974">1973-1974</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">23</container>
+			<container type="Folder">18</container>
+			<unittitle>Bills Paid</unittitle>
+			<unitdate type="inclusive" normal="1973/1974">1973-1974</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">23</container>
+			<container type="Folder">19</container>
+			<unittitle>Bills Paid</unittitle>
+			<unitdate type="inclusive" normal="1973/1974">1973-1974</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">24</container>
+			<container type="Folder">1</container>
+			<unittitle>Bank Statements</unittitle>
+			<unitdate type="inclusive" normal="1974/1975">1974-75</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">24</container>
+			<container type="Folder">2</container>
+			<unittitle>Bills Paid</unittitle>
+			<unitdate type="inclusive" normal="1974/1975">1974-1975</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">24</container>
+			<container type="Folder">3</container>
+			<unittitle>Bills Paid</unittitle>
+			<unitdate type="inclusive" normal="1974/1975">1974-1975</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">24</container>
+			<container type="Folder">4</container>
+			<unittitle>DCLA Bank Statements and Other Materials</unittitle>
+			<unitdate type="inclusive" normal="1974/1975">1974-1975</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">24</container>
+			<container type="Folder">5</container>
+			<unittitle>Membership</unittitle>
+			<unitdate type="inclusive" normal="1974/1975">1974-1975</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">24</container>
+			<container type="Folder">6</container>
+			<unittitle>Membership</unittitle>
+			<unitdate type="inclusive" normal="1974/1975">1974-1975</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">24</container>
+			<container type="Folder">7</container>
+			<unittitle>DCLA Treasurer’s Reports</unittitle>
+			<unitdate type="inclusive" normal="1974/1976">1974-1976</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">24</container>
+			<container type="Folder">8</container>
+			<unittitle>Treasurer’s Reports</unittitle>
+			<unitdate type="inclusive" normal="1975/1978">1975-1978</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">24</container>
+			<container type="Folder">9</container>
+			<unittitle>Treasurer’s Reports</unittitle>
+			<unitdate type="inclusive" normal="1975/1978">1975-1978</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">24</container>
+			<container type="Folder">10</container>
+			<unittitle>Check Stubs</unittitle>
+			<unitdate type="inclusive" normal="1975/1977">1975-1977</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">24</container>
+			<container type="Folder">11</container>
+			<unittitle>Membership</unittitle>
+			<unitdate type="inclusive" normal="1976/1978">1976-1978</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">24</container>
+			<container type="Folder">12</container>
+			<unittitle>DCLA Bills Paid</unittitle>
+			<unitdate type="inclusive" normal="1975/1976">1975-1976</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">24</container>
+			<container type="Folder">13</container>
+			<unittitle>Bank Statements</unittitle>
+			<unitdate type="inclusive" normal="1975/1977">1975-1977</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">24</container>
+			<container type="Folder">14</container>
+			<unittitle>DCLA Census Workshop</unittitle>
+			<unitdate type="inclusive">28096</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">24</container>
+			<container type="Folder">15</container>
+			<unittitle>Bank Statements</unittitle>
+			<unitdate type="inclusive" normal="1976/1977">1976-1977</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">24</container>
+			<container type="Folder">16</container>
+			<unittitle>Bills Paid</unittitle>
+			<unitdate type="inclusive" normal="1976/1977">1976-1977</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">24</container>
+			<container type="Folder">17</container>
+			<unittitle>Bills Paid</unittitle>
+			<unitdate type="inclusive" normal="1976/1977">1976-1977</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">24</container>
+			<container type="Folder">18</container>
+			<unittitle>Membership</unittitle>
+			<unitdate type="inclusive" normal="1977/1978">1977-1978</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">24</container>
+			<container type="Folder">19</container>
+			<unittitle>Bank Statements</unittitle>
+			<unitdate type="inclusive" normal="1977/1978">1977-1978</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">24</container>
+			<container type="Folder">20</container>
+			<unittitle>Billing</unittitle>
+			<unitdate type="inclusive" normal="1977/1978">1977-1978</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">25</container>
+			<container type="Folder">1</container>
+			<unittitle>Saving Certificates</unittitle>
+			<unitdate type="inclusive" normal="1978/1980">1978-1980</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">25</container>
+			<container type="Folder">2</container>
+			<unittitle>Invoices</unittitle>
+			<unitdate type="inclusive" normal="1978/1979">1978-1979</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">25</container>
+			<container type="Folder">3</container>
+			<unittitle>Invoices</unittitle>
+			<unitdate type="inclusive" normal="1978/1979">1978-1979</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">25</container>
+			<container type="Folder">4</container>
+			<unittitle>Informatics</unittitle>
+			<unitdate type="inclusive" normal="1978/1979">1978-1979</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">25</container>
+			<container type="Folder">5</container>
+			<unittitle>Income Tax Form</unittitle>
+			<unitdate type="inclusive" normal="1979">1979</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">25</container>
+			<container type="Folder">6</container>
+			<unittitle>Check Receipts</unittitle>
+			<unitdate type="inclusive" normal="1977/1979">1977-1979</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">25</container>
+			<container type="Folder">7</container>
+			<unittitle>Balance Sheets</unittitle>
+			<unitdate type="inclusive" normal="1979/1980">1979-1980</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">25</container>
+			<container type="Folder">8</container>
+			<unittitle>Check Ledger</unittitle>
+			<unitdate type="inclusive" normal="1979/1980">1979-1980</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">25</container>
+			<container type="Folder">9</container>
+			<unittitle>Invoices</unittitle>
+			<unitdate type="inclusive" normal="1979/1980">1979-1980</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">25</container>
+			<container type="Folder">10</container>
+			<unittitle>Invoices</unittitle>
+			<unitdate type="inclusive" normal="1979/1980">1979-1980</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">25</container>
+			<container type="Folder">11</container>
+			<unittitle>Invoices</unittitle>
+			<unitdate type="inclusive" normal="1979/1980">1979-1980</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">25</container>
+			<container type="Folder">12</container>
+			<unittitle>Correspondence and Invoices</unittitle>
+			<unitdate type="inclusive" normal="1979/1980">1979-1980</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">25</container>
+			<container type="Folder">13</container>
+			<unittitle>Membership Lists</unittitle>
+			<unitdate type="inclusive" normal="1979/1980">1979-1980</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">25</container>
+			<container type="Folder">14</container>
+			<unittitle>Membership</unittitle>
+			<unitdate type="inclusive" normal="1979/1980">1979-1980</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">25</container>
+			<container type="Folder">15</container>
+			<unittitle>Balance Sheets</unittitle>
+			<unitdate type="inclusive" normal="1985/1986">1985-1986</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">25</container>
+			<container type="Folder">16</container>
+			<unittitle>Budget</unittitle>
+			<unitdate type="inclusive" normal="1986/1987">1986-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">25</container>
+			<container type="Folder">17</container>
+			<unittitle>Treasurer’s Reports</unittitle>
+			<unitdate type="inclusive" normal="1986/1987">1986-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">25</container>
+			<container type="Folder">18</container>
+			<unittitle>Fund for Government Investors</unittitle>
+			<unitdate type="inclusive" normal="1986/1987">1986-1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">25</container>
+			<container type="Folder">19</container>
+			<unittitle>Budget</unittitle>
+			<unitdate type="inclusive" normal="1987/1988">1987-1988</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">25</container>
+			<container type="Folder">20</container>
+			<unittitle>Treasurer’s Report</unittitle>
+			<unitdate type="inclusive" normal="1987/1988">1987-1988</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">25</container>
+			<container type="Folder">21</container>
+			<unittitle>Fund for Government Investors</unittitle>
+			<unitdate type="inclusive" normal="1987/1988">1987-1988</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">25</container>
+			<container type="Folder">22</container>
+			<unittitle>Budget</unittitle>
+			<unitdate type="inclusive" normal="1988/1989">1988-1989</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">26</container>
+			<container type="Folder">1</container>
+			<unittitle>Check Register</unittitle>
+			<unitdate type="inclusive" normal="1988/1989">1988-1989</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">26</container>
+			<container type="Folder">2</container>
+			<unittitle>Treasurer’s Reports</unittitle>
+			<unitdate type="inclusive" normal="1988/1989">1988-1989</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">26</container>
+			<container type="Folder">3</container>
+			<unittitle>703 Miscellaneous Income</unittitle>
+			<unitdate type="inclusive" normal="1988/1989">1988-1989</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">26</container>
+			<container type="Folder">4</container>
+			<unittitle>Budget</unittitle>
+			<unitdate type="inclusive" normal="1989/1990">1989-1990</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">26</container>
+			<container type="Folder">5</container>
+			<unittitle>Signature Information</unittitle>
+			<unitdate type="inclusive" normal="1989/1990">1989-1990</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">26</container>
+			<container type="Folder">6</container>
+			<unittitle>Membership Information</unittitle>
+			<unitdate type="inclusive" normal="1989/1990">1989-1990</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">26</container>
+			<container type="Folder">7</container>
+			<unittitle>Miscellaneous Income 703</unittitle>
+			<unitdate type="inclusive" normal="1989/1990">1989-1990</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">26</container>
+			<container type="Folder">8</container>
+			<unittitle>Statements</unittitle>
+			<unitdate type="inclusive" normal="1989/1990">1989-1990</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">26</container>
+			<container type="Folder">9</container>
+			<unittitle>Budget</unittitle>
+			<unitdate type="inclusive" normal="1990/1992">1990-1992</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">26</container>
+			<container type="Folder">10</container>
+			<unittitle>Perpetual CD</unittitle>
+			<unitdate type="inclusive" normal="1990/1992">1990-1992</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">26</container>
+			<container type="Folder">11</container>
+			<unittitle>Budget</unittitle>
+			<unitdate type="inclusive" normal="1990/1991">1990-1991</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">26</container>
+			<container type="Folder">12</container>
+			<unittitle>American Security Bank Statements</unittitle>
+			<unitdate type="inclusive" normal="1990/1991">1990-1991</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">26</container>
+			<container type="Folder">13</container>
+			<unittitle>Presstar</unittitle>
+			<unitdate type="inclusive" normal="1990/1991">1990-1991</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">26</container>
+			<container type="Folder">14</container>
+			<unittitle>Signatures</unittitle>
+			<unitdate type="inclusive" normal="1990/1991">1990-1991</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">26</container>
+			<container type="Folder">15</container>
+			<unittitle>Miscellaneous Information and Bills</unittitle>
+			<unitdate type="inclusive" normal="1990/1991">1990-1991</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">26</container>
+			<container type="Folder">16</container>
+			<unittitle>Management Interest Group</unittitle>
+			<unitdate type="inclusive" normal="1990">1990</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">26</container>
+			<container type="Folder">17</container>
+			<unittitle>Government Documents Interest Group</unittitle>
+			<unitdate type="inclusive" normal="1990/1991">1990-1991</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">26</container>
+			<container type="Folder">18</container>
+			<unittitle>American Security Bank Statements</unittitle>
+			<unitdate type="inclusive" normal="1991/1994">1991-1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">26</container>
+			<container type="Folder">19</container>
+			<unittitle>American Security Bank Statements</unittitle>
+			<unitdate type="inclusive" normal="1991/1994">1991-1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">26</container>
+			<container type="Folder">20</container>
+			<unittitle>Presstar August-November</unittitle>
+			<unitdate type="inclusive" normal="1991">1991</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">26</container>
+			<container type="Folder">21</container>
+			<unittitle>Ads</unittitle>
+			<unitdate type="inclusive" normal="1991">1991</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">26</container>
+			<container type="Folder">22</container>
+			<unittitle>Membership Committee New Members Reception</unittitle>
+			<unitdate type="inclusive" normal="1991">1991</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">26</container>
+			<container type="Folder">23</container>
+			<unittitle>Membership Committee New Members Reception</unittitle>
+			<unitdate type="inclusive" normal="1991">1991</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">26</container>
+			<container type="Folder">24</container>
+			<unittitle>Planning Breakfast and Planning Lunch</unittitle>
+			<unitdate type="inclusive">June 1991, November 1991</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">26</container>
+			<container type="Folder">25</container>
+			<unittitle>Banquet</unittitle>
+			<unitdate type="inclusive" normal="1991-05">May 1991</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">26</container>
+			<container type="Folder">26</container>
+			<unittitle>ALA Councilor</unittitle>
+			<unitdate type="inclusive" normal="1991">1991</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">26</container>
+			<container type="Folder">27</container>
+			<unittitle>Children’s and Young Adults Interest Group</unittitle>
+			<unitdate type="inclusive" normal="1991">1991</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">26</container>
+			<container type="Folder">28</container>
+			<unittitle>Library Technology/Technical Services Interest Group</unittitle>
+			<unitdate type="inclusive" normal="1991">1991</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">26</container>
+			<container type="Folder">29</container>
+			<unittitle>Awards Committee</unittitle>
+			<unitdate type="inclusive" normal="1991">1991</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">27</container>
+			<container type="Folder">1</container>
+			<unittitle>Contributions</unittitle>
+			<unitdate type="inclusive" normal="1991/1992">1991-1992</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">27</container>
+			<container type="Folder">2</container>
+			<unittitle>PSI</unittitle>
+			<unitdate type="inclusive" normal="1991/1992">1991-1992</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">27</container>
+			<container type="Folder">3</container>
+			<unittitle>Miscellaneous Correspondence</unittitle>
+			<unitdate type="inclusive" normal="1991/1992">1991-1992</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">27</container>
+			<container type="Folder">4</container>
+			<unittitle>Membership</unittitle>
+			<unitdate type="inclusive" normal="1991/1992">1991-1992</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">27</container>
+			<container type="Folder">5</container>
+			<unittitle>Miscellaneous Expenses</unittitle>
+			<unitdate type="inclusive" normal="1991/1992">1991-1992</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">27</container>
+			<container type="Folder">6</container>
+			<unittitle>Assistant Treasurer</unittitle>
+			<unitdate type="inclusive" normal="1991/1992">1991-1992</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">27</container>
+			<container type="Folder">7</container>
+			<unittitle>Library Directory Project</unittitle>
+			<unitdate type="inclusive" normal="1992">1992</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">27</container>
+			<container type="Folder">8</container>
+			<unittitle>Banquet May</unittitle>
+			<unitdate type="inclusive" normal="1992">1992</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">27</container>
+			<container type="Folder">9</container>
+			<unittitle>Children’s and Young Adult Interest Group</unittitle>
+			<unitdate type="inclusive" normal="1992">1992</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">27</container>
+			<container type="Folder">10</container>
+			<unittitle>Government Documents Interest Group</unittitle>
+			<unitdate type="inclusive" normal="1992">1992</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">27</container>
+			<container type="Folder">11</container>
+			<unittitle>Library Technology Interest Group</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">27</container>
+			<container type="Folder">12</container>
+			<unittitle>Management Interest Group</unittitle>
+			<unitdate type="inclusive" normal="1992">1992</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">27</container>
+			<container type="Folder">13</container>
+			<unittitle>Genealogy Interest Group</unittitle>
+			<unitdate type="inclusive" normal="1992">1992</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">27</container>
+			<container type="Folder">14</container>
+			<unittitle>Technical Services Interest Group</unittitle>
+			<unitdate type="inclusive" normal="1992">1992</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">27</container>
+			<container type="Folder">15</container>
+			<unittitle>DCLA Publicity Materials</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">27</container>
+			<container type="Folder">16</container>
+			<unittitle>Treasurer’s Report and Budget</unittitle>
+			<unitdate type="inclusive" normal="1992/1993">1992-1993</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">27</container>
+			<container type="Folder">17</container>
+			<unittitle>DCLA Paid Bills</unittitle>
+			<unitdate type="inclusive" normal="1993/1994">1993-1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">27</container>
+			<container type="Folder">18</container>
+			<unittitle>DCLA Paid Bills</unittitle>
+			<unitdate type="inclusive" normal="1993/1994">1993-1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">27</container>
+			<container type="Folder">19</container>
+			<unittitle>DCLA Paid Bills</unittitle>
+			<unitdate type="inclusive" normal="1993/1994">1993-1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">27</container>
+			<container type="Folder">20</container>
+			<unittitle>Membership Brochures</unittitle>
+			<unitdate type="inclusive" normal="1994/1995">1994-1995</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">27</container>
+			<container type="Folder">21</container>
+			<unittitle>Computer Disks Unknown Date</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">27</container>
+			<container type="Folder">22</container>
+			<unittitle>Computer Disks</unittitle>
+			<unitdate type="inclusive">1992-1993, 1993-1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">28</container>
+			<container type="Folder">1</container>
+			<unittitle>Balances Sheets</unittitle>
+			<unitdate type="inclusive" normal="1967/1970">1967-1970</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">28</container>
+			<container type="Folder">2</container>
+			<unittitle>Balances Sheets</unittitle>
+			<unitdate type="inclusive" normal="1970/1973">1970-1973</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">28</container>
+			<container type="Folder">3</container>
+			<unittitle>Balance Sheets</unittitle>
+			<unitdate type="inclusive" normal="1973/1977">1973-1977</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">28</container>
+			<container type="Folder">4</container>
+			<unittitle>Invoices</unittitle>
+			<unitdate type="inclusive" normal="1971/1972">1971-1972</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">28</container>
+			<container type="Folder">5</container>
+			<unittitle>Invoices</unittitle>
+			<unitdate type="inclusive" normal="1971/1972">1971-1972</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">28</container>
+			<container type="Folder">6</container>
+			<unittitle>Invoices</unittitle>
+			<unitdate type="inclusive" normal="1971/1972">1971-1972</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">28</container>
+			<container type="Folder">7</container>
+			<unittitle>Fiscal Year Disbursements</unittitle>
+			<unitdate type="inclusive">1977-1978, 1976-1977</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">28</container>
+			<container type="Folder">8</container>
+			<unittitle>Receipts</unittitle>
+			<unitdate type="inclusive" normal="1978/1979">1978-1979</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">28</container>
+			<container type="Folder">9</container>
+			<unittitle>Bank Statements</unittitle>
+			<unitdate type="inclusive" normal="1978/1979">1978-1979</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">28</container>
+			<container type="Folder">10</container>
+			<unittitle>Balance Sheets</unittitle>
+			<unitdate type="inclusive" normal="1978/1979">1978-1979</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">28</container>
+			<container type="Folder">11</container>
+			<unittitle>Receipts and Membership Lists</unittitle>
+			<unitdate type="inclusive" normal="1978/1979">1978-1979</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">28</container>
+			<container type="Folder">12</container>
+			<unittitle>Balance Sheets</unittitle>
+			<unitdate type="inclusive" normal="1979/1980">1979-1980</unitdate>
+		</did>
+	</c02>
+</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 2: Publications</unittitle>
+		</did>
+	<c02 level="file">
+		<did>
+			<container type="Box">29</container>
+			<container type="Folder">1</container>
+			<unittitle>Library Association of Washington City -Handbook With Notes on Libraries in Washington - Washington D.C.</unittitle>
+			<unitdate type="inclusive" normal="1897">1897</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">29</container>
+			<container type="Folder">2</container>
+			<unittitle>Library Association of Washington City -Handbook With Notes on Libraries in Washington - Supplement - Washington D.C. (3 copies)</unittitle>
+			<unitdate type="inclusive" normal="1898">1898</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">29</container>
+			<container type="Folder">3</container>
+			<unittitle>Library Association of Washington City -Handbook/Constitution/List of Members - Second Supplement - Washington D.C.</unittitle>
+			<unitdate type="inclusive" normal="1990">1990</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">29</container>
+			<container type="Folder">4</container>
+			<unittitle>Library Association of Washington City -Handbook/Constitution/List of Members - Second Supplement - Washington D.C.</unittitle>
+			<unitdate type="inclusive" normal="1990">1990</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">29</container>
+			<container type="Folder">5</container>
+			<unittitle>District of Columbia Library Association Handbook</unittitle>
+			<unitdate type="inclusive" normal="1904-02">February 1904</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">29</container>
+			<container type="Folder">6</container>
+			<unittitle>Library of Congress</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">29</container>
+			<container type="Folder">7</container>
+			<unittitle>Government Printing Office</unittitle>
+			<unitdate type="inclusive" normal="1914">1914</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">29</container>
+			<container type="Folder">8</container>
+			<unittitle>Government Printing Office</unittitle>
+			<unitdate type="inclusive" normal="1914">1914</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">29</container>
+			<container type="Folder">9</container>
+			<unittitle>District of Columbia Library Association- Handbook - Washington D.C. - District of Columbia Library Association</unittitle>
+			<unitdate type="inclusive" normal="1930">1930</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">29</container>
+			<container type="Folder">10</container>
+			<unittitle>District of Columbia Library Association - Handbook 1934 - Washington D.C. - District of Columbia Library Association</unittitle>
+			<unitdate type="inclusive" normal="1934">1934</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">29</container>
+			<container type="Folder">11</container>
+			<unittitle>D.C. Libraries - Handbook - Vol.7. No.3</unittitle>
+			<unitdate type="inclusive" normal="1936-04">April 1936</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">29</container>
+			<container type="Folder">12</container>
+			<unittitle>D.C. Libraries - Handbook - Vol.9 No.3</unittitle>
+			<unitdate type="inclusive" normal="1938-04">April 1938</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">29</container>
+			<container type="Folder">13</container>
+			<unittitle>D.C. Libraries - Handbook - Vol.9 No.3</unittitle>
+			<unitdate type="inclusive" normal="1938-04">April 1938</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">29</container>
+			<container type="Folder">14</container>
+			<unittitle>D.C. Libraries - Handbook of the District of Columbia Library Association -Supplement - Vol. 11 No.3</unittitle>
+			<unitdate type="inclusive" normal="1940-04">April 1940</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">29</container>
+			<container type="Folder">15</container>
+			<unittitle>D.C. Libraries - Handbook of the District of Columbia Library Association - Vol. 13 No. 3</unittitle>
+			<unitdate type="inclusive" normal="1942-07">July 1942</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">29</container>
+			<container type="Folder">16</container>
+			<unittitle>D.C. Libraries - Handbook of the District of Columbia Library Association - Vol.15 No.4 (2 copies; one hardbound)</unittitle>
+			<unitdate type="inclusive" normal="1944-07">July 1944</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">29</container>
+			<container type="Folder">17</container>
+			<unittitle>D.C. Libraries - Handbook of the District of Columbia Library Association - Vol. 17 No. 4 (2 copies; one hardbound)</unittitle>
+			<unitdate type="inclusive" normal="1946-07">July 1946</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">29</container>
+			<container type="Folder">18</container>
+			<unittitle>D.C. Libraries - Handbook of the District of Columbia Library Association - Vol.19 No. 4 (2 copies)</unittitle>
+			<unitdate type="inclusive" normal="1948-07">July 1948</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">29</container>
+			<container type="Folder">19</container>
+			<unittitle>D.C. Libraries - Handbook of the District of Columbia Library Association - Vol. 21 No. 4 and Vol. 22 No.1 (3 copies)</unittitle>
+			<unitdate type="inclusive">July 1950, October 1950</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">29</container>
+			<container type="Folder">20</container>
+			<unittitle>D.C. Libraries - Handbook of the District of Columbia Library Association - Vol.23 No. 3 (3 copies; one hardbound)</unittitle>
+			<unitdate type="inclusive" normal="1952-07">July 1952</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">30</container>
+			<container type="Folder">1</container>
+			<unittitle>District of Columbia Library Association - Handbook and Directory 1954 published by the Association with the cooperation of the Library of Congress - Washington D.C. (3 Copies)</unittitle>
+			<unitdate type="inclusive" normal="1954">1954</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">30</container>
+			<container type="Folder">2</container>
+			<unittitle>D.C. Libraries - District of Columbia Library Association - Handbook and Directory - Vol.29</unittitle>
+			<unitdate type="inclusive" normal="1958-01">January 1958</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">30</container>
+			<container type="Folder">3</container>
+			<unittitle>D.C. Libraries - District of Columbia Library Association - Handbook and Directory 1960</unittitle>
+			<unitdate type="inclusive" normal="1959-10">October 1959</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">30</container>
+			<container type="Folder">4</container>
+			<unittitle>D.C. Libraries - District of Columbia Library Association - Handbook and Directory 1962 - Volume 32; Number 4</unittitle>
+			<unitdate type="inclusive" normal="1961-10">October 1961</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">30</container>
+			<container type="Folder">5</container>
+			<unittitle>D.C. Libraries - District of Columbia Library Association - Handbook and Directory 1964 - Volume 34; Number 4</unittitle>
+			<unitdate type="inclusive" normal="1963-10">October 1963</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">30</container>
+			<container type="Folder">6</container>
+			<unittitle>District of Columbia Library Association - Membership Directory</unittitle>
+			<unitdate type="inclusive" normal="1967">1967</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">30</container>
+			<container type="Folder">7</container>
+			<unittitle>District of Columbia Library Association - Membership Directory</unittitle>
+			<unitdate type="inclusive" normal="1967">1967</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">30</container>
+			<container type="Folder">8</container>
+			<unittitle>District of Columbia Library Association - Membership Directory</unittitle>
+			<unitdate type="inclusive" normal="1967">1967</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">30</container>
+			<container type="Folder">9</container>
+			<unittitle>Correspondence relating to publications</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">30</container>
+			<container type="Folder">10</container>
+			<unittitle>District of Columbia Library Association - Washington’s Facilities for Training in Library Science - Washington D.C. (2 Copies)</unittitle>
+			<unitdate type="inclusive" normal="1923">1923</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">30</container>
+			<container type="Folder">11</container>
+			<unittitle>MLA and DCLA Joint Conference Program</unittitle>
+			<unitdate type="inclusive" normal="1926">1926</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">30</container>
+			<container type="Folder">12</container>
+			<unittitle>George F. Bowerman - The New Biography - Washington D.C. - District of Columbia Library Association - 1929. A paper read by the Librarian of the Public Library before the Columbian Library Association</unittitle>
+			<unitdate type="inclusive" normal="1929-01-19">January 19 1929</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">30</container>
+			<container type="Folder">13</container>
+			<unittitle>Eleanor Rossevelt - What Libraries Mean to the Nation: An Address given at the District of Columbia Library Association Dinner - April 1</unittitle>
+			<unitdate type="inclusive" normal="1936">1936</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">30</container>
+			<container type="Folder">14</container>
+			<unittitle>Ainsworth R. Spofford - What to Read. When you Read: How to Read: An Address to the Teachers of the Public Schools of Washington - October 20 1883 - Washington</unittitle>
+			<unitdate type="inclusive" normal="1883">1883</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">30</container>
+			<container type="Folder">15</container>
+			<unittitle>Brief and Specifications for Library Service in the Federal Government. Submitted to the Personnel Classification Board by the Committee of Government Librarians - Miles O. Price - Chairman. Washington DC: District of Columbia Library Association</unittitle>
+			<unitdate type="inclusive" normal="1923">1923</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">30</container>
+			<container type="Folder">16</container>
+			<unittitle>DCLA Program</unittitle>
+			<unitdate type="inclusive" normal="1937-05-04">May 4 1937</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">30</container>
+			<container type="Folder">17</container>
+			<unittitle>Speech by Helen Keller given at DCLA Meeting</unittitle>
+			<unitdate type="inclusive" normal="1942">1942</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">30</container>
+			<container type="Folder">18</container>
+			<unittitle>Program of the Sixth Convention of the Inter-American Bibliographical and Library Association in a joint meeting with DCLA</unittitle>
+			<unitdate type="inclusive" normal="1943-02-20">February 20 1943</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">30</container>
+			<container type="Folder">19</container>
+			<unittitle>Inter-American Library Conference co-sponsored with Inter-American Bibliographical and Library Association/DCLA/DCSLA</unittitle>
+			<unitdate type="inclusive" normal="1946-03-30">March 30 1946</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">30</container>
+			<container type="Folder">20</container>
+			<unittitle>Membership Brochures and Application Forms</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">30</container>
+			<container type="Folder">21</container>
+			<unittitle>Membership Brochures and Application Forms</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">30</container>
+			<container type="Folder">22</container>
+			<unittitle>Program Brochures</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">30</container>
+			<container type="Folder">23</container>
+			<unittitle>Meeting Announcements and Brochures</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">30</container>
+			<container type="Folder">24</container>
+			<unittitle>Clips and Quotes</unittitle>
+			<unitdate type="inclusive" normal="1967-11/1970-05">November 1967 - May 1970</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">30</container>
+			<container type="Folder">25</container>
+			<unittitle>Washington Area Library Directory floppy disk copies</unittitle>
+			<unitdate type="inclusive">1992, 1996</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">30</container>
+			<container type="Folder">26</container>
+			<unittitle>Washington Area Library Directory</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">30</container>
+			<container type="Folder">27</container>
+			<unittitle>DCLA Member Mailing Labels</unittitle>
+			<unitdate type="inclusive" normal="1973">1973</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">30</container>
+			<container type="Folder">28</container>
+			<unittitle>DCLA Member Mailing Labels</unittitle>
+			<unitdate type="inclusive" normal="1973">1973</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">31</container>
+			<container type="Folder">1</container>
+			<unittitle>D.C. Libraries issues</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">32</container>
+			<container type="Folder">1</container>
+			<unittitle>D.C. Libraries issues</unittitle>
+			<unitdate type="inclusive" normal="1930/1970">1930-1970</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">33</container>
+			<container type="Folder">1</container>
+			<unittitle>D.C. Libraries issues</unittitle>
+			<unitdate type="inclusive" normal="1955/1970">1955-1970</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">34</container>
+			<container type="Folder">1</container>
+			<unittitle>Inter-com</unittitle>
+			<unitdate type="inclusive" normal="1971">1971</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">35</container>
+			<container type="Folder">1</container>
+			<unittitle>Inter-com</unittitle>
+			<unitdate type="inclusive" normal="1984/1994">1984-1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">36</container>
+			<container type="Folder">1</container>
+			<unittitle>Inter-com</unittitle>
+			<unitdate type="inclusive" normal="1995">1995</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">37</container>
+			<container type="Folder">1</container>
+			<unittitle>Inter-com</unittitle>
+			<unitdate type="inclusive" normal="1971/1983">1971-1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">38</container>
+			<container type="Folder">1</container>
+			<unittitle>Inter-com</unittitle>
+			<unitdate type="inclusive" normal="1984/1996">1984-1996</unitdate>
+		</did>
+	</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 3: Miscellaneous</unittitle>
+		</did>
+	<c02 level="file">
+		<did>
+			<container type="Box">39</container>
+			<container type="Folder">1</container>
+			<unittitle>Invitations to the Centennial Gala</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">39</container>
+			<container type="Folder">2</container>
+			<unittitle>John Y. Cole - Capital Libraries and Librarian: A Brief History of the District of Columbia Library Association. Washington: Library of Congress (4 copies)</unittitle>
+			<unitdate type="inclusive" normal="1994">1994</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">39</container>
+			<container type="Folder">3</container>
+			<unittitle>Publicity for “Capital Libraries and Librarians”</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">39</container>
+			<container type="Folder">4</container>
+			<unittitle>Publicity for “Capital Libraries and Librarians”</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">39</container>
+			<container type="Folder">5</container>
+			<unittitle>Centennial Banquet program</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">39</container>
+			<container type="Folder">6</container>
+			<unittitle>“Centennial Times”</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">39</container>
+			<container type="Folder">7</container>
+			<unittitle>Centennial Public Relations</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">39</container>
+			<container type="Folder">8</container>
+			<unittitle>Copies of photographs used in “Capital Libraries and Librarians”</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">39</container>
+			<container type="Folder">9</container>
+			<unittitle>Copies of photographs used in the traveling exhibit</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">39</container>
+			<container type="Folder">10</container>
+			<unittitle>Photographs of the Capitol</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">39</container>
+			<container type="Folder">11</container>
+			<unittitle>Grant Application to the DC Humanities Council</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">39</container>
+			<container type="Folder">12</container>
+			<unittitle>DCLA Research</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">39</container>
+			<container type="Folder">13</container>
+			<unittitle>Tree planting</unittitle>
+			<unitdate type="inclusive" normal="1993-04-21">4/21/93</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">39</container>
+			<container type="Folder">14</container>
+			<unittitle>John Cole Research</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">39</container>
+			<container type="Folder">15</container>
+			<unittitle>Draft of Text for “Capital Libraries and Librarians”</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">39</container>
+			<container type="Folder">16</container>
+			<unittitle>Copies of photographs considered for use and research letters</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">39</container>
+			<container type="Folder">17</container>
+			<unittitle>Copies of items used in the exhibit and the book</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">39</container>
+			<container type="Folder">18</container>
+			<unittitle>Early Libraries</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">39</container>
+			<container type="Folder">19</container>
+			<unittitle>Early Handbook Covers for possible use in exhibit and look</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">39</container>
+			<container type="Folder">20</container>
+			<unittitle>Eleanor Roosevelt</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">39</container>
+			<container type="Folder">21</container>
+			<unittitle>Draft of Text for panels and book</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">39</container>
+			<container type="Folder">22</container>
+			<unittitle>LC photo research with Mary and Kathryn</unittitle>
+			<unitdate type="inclusive" normal="1993-12-17">12/17/93</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">40</container>
+			<container type="Folder">1</container>
+			<unittitle>Statements of Work to the Humanities Council</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">40</container>
+			<container type="Folder">2</container>
+			<unittitle>Dodge Hotel</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">40</container>
+			<container type="Folder">3</container>
+			<unittitle>Panel showing who exhibit funders are</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">40</container>
+			<container type="Folder">4</container>
+			<unittitle>Truax</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">40</container>
+			<container type="Folder">5</container>
+			<unittitle>Victory Book Campaign (Docutext Copies)</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">40</container>
+			<container type="Folder">6</container>
+			<unittitle>Docutext Copy of Capitol Photograph</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">40</container>
+			<container type="Folder">7</container>
+			<unittitle>DCLA Logo Docutext Copy</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">40</container>
+			<container type="Folder">8</container>
+			<unittitle>Docutext copies of photograph and other material from exhibit</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">40</container>
+			<container type="Folder">9</container>
+			<unittitle>Material from exhibit (some not used)</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">40</container>
+			<container type="Folder">10</container>
+			<unittitle>Historic Correspondence and photographs</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">40</container>
+			<container type="Folder">11</container>
+			<unittitle>Resolutions and brochures</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">40</container>
+			<container type="Folder">12</container>
+			<unittitle>Spring Banquet</unittitle>
+			<unitdate type="inclusive" normal="1983">1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">40</container>
+			<container type="Folder">13</container>
+			<unittitle>Spring Banquet Photographs</unittitle>
+			<unitdate type="inclusive" normal="1983">1983</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">40</container>
+			<container type="Folder">14</container>
+			<unittitle>ALA Washington Newsletter (not complete)</unittitle>
+			<unitdate type="inclusive" normal="1977">1977</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">40</container>
+			<container type="Folder">15</container>
+			<unittitle>ALA Washington Newsletter (not complete)</unittitle>
+			<unitdate type="inclusive" normal="1978">1978</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">40</container>
+			<container type="Folder">16</container>
+			<unittitle>ALA Washington Newsletter (not complete)</unittitle>
+			<unitdate type="inclusive" normal="1979">1979</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">40</container>
+			<container type="Folder">17</container>
+			<unittitle>ALA Washington Newsletter (not complete)</unittitle>
+			<unitdate type="inclusive" normal="1980">1980</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">40</container>
+			<container type="Folder">18</container>
+			<unittitle>ALA Washington Newsletter (not complete)</unittitle>
+			<unitdate type="inclusive" normal="1985">1985</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">40</container>
+			<container type="Folder">19</container>
+			<unittitle>ALA Washington Newsletters (not complete)</unittitle>
+			<unitdate type="inclusive" normal="1986">1986</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">40</container>
+			<container type="Folder">20</container>
+			<unittitle>ALA Washington Newsletter (not complete)</unittitle>
+			<unitdate type="inclusive" normal="1987">1987</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">40</container>
+			<container type="Folder">21</container>
+			<unittitle>ALA Washington Newsletter (not complete) 1988</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">41</container>
+			<container type="Folder">1</container>
+			<unittitle>WHCLIST</unittitle>
+			<unitdate type="inclusive" normal="1986">1986</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">41</container>
+			<container type="Folder">2</container>
+			<unittitle>Government Libraries Budgets - ALA Request for Action</unittitle>
+			<unitdate type="inclusive" normal="1988">1988</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">41</container>
+			<container type="Folder">3</container>
+			<unittitle>Addressing Ethnic and Cultural Diversity ALA Report</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">41</container>
+			<container type="Folder">4</container>
+			<unittitle>ALA Chapter Relations Meeting</unittitle>
+			<unitdate type="inclusive" normal="1990">1990</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">41</container>
+			<container type="Folder">5</container>
+			<unittitle>ALA Council Minutes Midwinter</unittitle>
+			<unitdate type="inclusive" normal="1990">1990</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">41</container>
+			<container type="Folder">6</container>
+			<unittitle>ALA Council Minutes Annual Meeting</unittitle>
+			<unitdate type="inclusive" normal="1990">1990</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">41</container>
+			<container type="Folder">7</container>
+			<unittitle>ALA Council Minutes Midwinter</unittitle>
+			<unitdate type="inclusive" normal="1991">1991</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">41</container>
+			<container type="Folder">8</container>
+			<unittitle>Membership List</unittitle>
+			<unitdate type="inclusive" normal="1991-02-04">2/4/91</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">42</container>
+			<container type="Folder">1</container>
+			<unittitle>DCLA Tee Shirt</unittitle>
+			<unitdate type="inclusive" normal="1996">1996</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">43</container>
+			<container type="Folder">1</container>
+			<unittitle>“Centennial Times” (2 copies)</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">44</container>
+			<container type="Folder">2</container>
+			<unittitle>Proclamation from DC City Council</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">45</container>
+			<container type="Folder">1</container>
+			<unittitle>Photo Album from New Member Reception</unittitle>
+			<unitdate type="inclusive" normal="1993-10-28">10/28/93</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">46</container>
+			<container type="Folder">1</container>
+			<unittitle>Panels from traveling exhibit for DCLA Centennial (see map case in Archives)</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	</c01>
+</dsc>
+</archdesc>
+</ead>

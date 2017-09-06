@@ -1,0 +1,270 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type="text/xml" href="I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/eadcbs6rev.xsl"?><!DOCTYPE ead PUBLIC "-//Society of American Archivists//DTD ead.dtd (Encoded Archival Description (EAD) Version 1.0)//EN" "I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/ead.dtd">
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" repositoryencoding="iso15511" relatedencoding="MARC21">
+	<eadid mainagencycode="DWP" countrycode="US" url="http://washingtoniana.dclibrary.org">094CapitolHill</eadid>
+<filedesc>
+<titlestmt>
+	<titleproper encodinganalog="245$a">Capitol Hill History Club</titleproper>
+	<subtitle>An inventory of Capitol Hill History Club Programs at DC Public Library</subtitle>
+	<author encodinganalog="245$c">Finding aid prepared by Rachel Telford.</author>
+</titlestmt>
+<publicationstmt>
+<publisher encodinganalog="260$b">DC Public Library, Special Collections</publisher>
+	<date type="publication" encodinganalog="260$c" normal="2006-11">2006-11</date>
+<address><addressline>901 G Street NW</addressline><addressline>DC Public Library</addressline><addressline>Washington, D.C. 20009</addressline></address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation encodinganalog="500">EAD encoded by Paul Kelly on
+	<date normal="2017-04-21">2017-04-21</date>
+</creation>
+<langusage>English</langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory" relatedencoding="MARC21">
+<did id="a1">
+<head>Descriptive Summary</head>
+<repository label="Repository:" encodinganalog="852$a"><corpname>DC Public Library, Special Collections</corpname></repository>
+	<unitdate encodinganalog="260$c" label="Dates:" type="inclusive" normal="1920/1954">1920-1954</unitdate>
+	<unittitle label="Title:" encodinganalog="245$a">Capitol Hill History Club Programs Collection</unittitle>
+<physdesc label="Extent:" encodinganalog="300$a"><extent>0.25 linear feet; 1 box</extent></physdesc>
+<unitid encodinganalog="090" label="Collection Number:" countrycode="US" repositorycode="DCU">094</unitid>
+<langmaterial encodinganalog="041" label="Language:"><language langcode="eng">English</language></langmaterial>
+</did>
+	
+<dsc type="combined" id="a23">
+<head>Detailed Description of the Collection</head>
+<c01 level="series">
+   <did>
+	<unittitle>Series 1</unittitle>
+    </did>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">1</container>
+			<unittitle>No Subject of Study</unittitle>
+			<unitdate type="inclusive" normal="1920/1921">1920-1921</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">2</container>
+			<unittitle>Alaska</unittitle>
+			<unitdate type="inclusive" normal="1922/1923">1922-1923</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">3</container>
+			<unittitle>The North American Indian</unittitle>
+			<unitdate type="inclusive" normal="1923/1924">1923-1924</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">4</container>
+			<unittitle>Miscellaneous Program</unittitle>
+			<unitdate type="inclusive" normal="1924/1925">1924-1925</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">5</container>
+			<unittitle>Australasia</unittitle>
+			<unitdate type="inclusive" normal="1925/1926">1925-1926</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">6</container>
+			<unittitle>Latin America</unittitle>
+			<unitdate type="inclusive" normal="1927/1928">1927-1928</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">7</container>
+			<unittitle>Miscellaneous Topics</unittitle>
+			<unitdate type="inclusive" normal="1930/1931">1930-1931</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">8</container>
+			<unittitle>Early American History</unittitle>
+			<unitdate type="inclusive" normal="1931/1932">1931-1932</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">9</container>
+			<unittitle>The Expansion of the United States</unittitle>
+			<unitdate type="inclusive" normal="1932/1933">1932-1933</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">10</container>
+			<unittitle>History and Romance of the United States, 1792-1934</unittitle>
+			<unitdate type="inclusive" normal="1934/1935">1934-1935</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">11</container>
+			<unittitle>History in the Making</unittitle>
+			<unitdate type="inclusive" normal="1935/1936">1935-1936</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">12</container>
+			<unittitle>History in the Making</unittitle>
+			<unitdate type="inclusive" normal="1936/1937">1936-1937</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">13</container>
+			<unittitle>Glimpses of the Past and Present</unittitle>
+			<unitdate type="inclusive" normal="1937/1938">1937-1938</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">14</container>
+			<unittitle>The Constitution of the United States and the World Today</unittitle>
+			<unitdate type="inclusive" normal="1938/1939">1938-1939</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">15</container>
+			<unittitle>Portraits and Personalities</unittitle>
+			<unitdate type="inclusive" normal="1939/1940">1939-1940</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">16</container>
+			<unittitle>History of the Arts and Sciences</unittitle>
+			<unitdate type="inclusive" normal="1940/1941">1940-1941</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">17</container>
+			<unittitle>Latin America</unittitle>
+			<unitdate type="inclusive" normal="1941/1942">1941-1942</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">18</container>
+			<unittitle>Latin America</unittitle>
+			<unitdate type="inclusive" normal="1942/1943">1942-1943</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">19</container>
+			<unittitle>Bringing the World to You</unittitle>
+			<unitdate type="inclusive" normal="1943/1944">1943-1944</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">20</container>
+			<unittitle>A Glimpse of the World Today</unittitle>
+			<unitdate type="inclusive" normal="1944/1945">1944-1945</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">21</container>
+			<unittitle>History, Music, Drama</unittitle>
+			<unitdate type="inclusive" normal="1945/1946">1945-1946</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">22</container>
+			<unittitle>The World of Today</unittitle>
+			<unitdate type="inclusive" normal="1946/1947">1946-1947</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">23</container>
+			<unittitle>Review of Fifty Years</unittitle>
+			<unitdate type="inclusive" normal="1947/1948">1947-1948</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">24</container>
+			<unittitle>Some Far Away Lands</unittitle>
+			<unitdate type="inclusive" normal="1948/1949">1948-1949</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">25</container>
+			<unittitle>The World We Live In</unittitle>
+			<unitdate type="inclusive" normal="1949/1950">1949-1950</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">26</container>
+			<unittitle>World-Minded People</unittitle>
+			<unitdate type="inclusive" normal="1950/1951">1950-1951</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">27</container>
+			<unittitle>Wider Horizons</unittitle>
+			<unitdate type="inclusive" normal="1952/1953">1952-1953</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">28</container>
+			<unittitle>Wider Horizons</unittitle>
+			<unitdate type="inclusive" normal="1953/1954">1953-1954</unitdate>
+		</did>
+	</c02>
+</c01>
+</dsc>
+</archdesc>
+</ead>

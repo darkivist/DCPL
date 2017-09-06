@@ -1,0 +1,2520 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type="text/xml" href="I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/eadcbs6rev.xsl"?><!DOCTYPE ead PUBLIC "-//Society of American Archivists//DTD ead.dtd (Encoded Archival Description (EAD) Version 1.0)//EN" "I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/ead.dtd">
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" repositoryencoding="iso15511" relatedencoding="MARC21">
+	<eadid mainagencycode="DWP" countrycode="US" url="http://washingtoniana.dclibrary.org">076Hine</eadid>
+<filedesc>
+<titlestmt>
+	<titleproper encodinganalog="245$a">Lemon and Mary Hine</titleproper>
+	<subtitle>An inventory of Lemon and Mary Hine at DC Public Library</subtitle>
+	<author encodinganalog="245$c">Finding aid prepared by Ryan P. Semmes.</author>
+</titlestmt>
+<publicationstmt>
+<publisher encodinganalog="260$b">DC Public Library, Special Collections</publisher>
+	<date type="publication" encodinganalog="260$c" normal="2006-10">2006-10</date>
+<address><addressline>901 G Street NW</addressline><addressline>DC Public Library</addressline><addressline>Washington, D.C. 20009</addressline></address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation encodinganalog="500">EAD encoded by Paul Kelly on
+	<date normal="2017-04-21">2017-04-21</date>
+</creation>
+<langusage>English</langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory" relatedencoding="MARC21">
+<did id="a1">
+<head>Descriptive Summary</head>
+<repository label="Repository:" encodinganalog="852$a"><corpname>DC Public Library, Special Collections</corpname></repository>
+	<unitdate encodinganalog="260$c" label="Dates:" type="inclusive" normal="1855/1993">1855-1993</unitdate>
+	<unittitle label="Title:" encodinganalog="245$a">Lemon and Mary Hine Papers</unittitle>
+<physdesc label="Extent:" encodinganalog="300$a"><extent>4 linear feet; 6 boxes</extent></physdesc>
+<unitid encodinganalog="090" label="Collection Number:" countrycode="US" repositorycode="DCU">076</unitid>
+<langmaterial encodinganalog="041" label="Language:"><language langcode="eng">English</language></langmaterial>
+</did>
+	
+<dsc type="combined" id="a23">
+<head>Detailed Description of the Collection</head>
+<c01 level="series">
+   <did>
+   	<unittitle>Series 1: Correspondence</unittitle>
+    </did>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">1</container>
+			<unittitle>Della to Lemon</unittitle>
+			<unitdate type="inclusive">September; Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">2</container>
+			<unittitle>Frank Hemenway to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1861-08-13">August 13 1861</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">3</container>
+			<unittitle>B. L. Hill to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1855-05-11">May 11 1855</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">4</container>
+			<unittitle>D. M. Hine to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1856-12-13">December 13 1856</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">5</container>
+			<unittitle>H. S. Hine to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1856-09-28">September 28 1856</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">6</container>
+			<unittitle>[H. Franklick] to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1856-09-15">September 15 1856</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">7</container>
+			<unittitle>W. C. McGouigal to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1858-01-16">January 16 1858</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">8</container>
+			<unittitle>Marnie to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1885-09-05">September 5 1885</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">9</container>
+			<unittitle>Mary to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1857-06-16">June 16 1857</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">10</container>
+			<unittitle>Mary to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1857-07-18">July 18 1857</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">11</container>
+			<unittitle>Mary to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1857-09-15">September 15 1857</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">12</container>
+			<unittitle>Mary to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1857-10">October 1857</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">13</container>
+			<unittitle>Mary to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1857-11-26">November 26 1857</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">14</container>
+			<unittitle>Mary to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1858-01-04">January 4 1858</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">15</container>
+			<unittitle>Mary to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1858-05-19">May 19 1858</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">16</container>
+			<unittitle>Mary to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1858-04-17">April 17 1858</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">17</container>
+			<unittitle>Mary to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1858-06-08">June 8 1858</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">18</container>
+			<unittitle>Mary to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1858-07-04">July 4 1858</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">19</container>
+			<unittitle>Mary to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1858-07-10">July 10 1858</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">20</container>
+			<unittitle>Mary to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1858-07-27">July 27 1858</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">21</container>
+			<unittitle>Mary to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1858-08">August 1858</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">22</container>
+			<unittitle>Mary to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1858-08-11">August 11 1858</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">23</container>
+			<unittitle>Mary to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1858-09-17">September 17 1858</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">24</container>
+			<unittitle>Mary to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1858-09-19">September 19 1858</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">25</container>
+			<unittitle>Mary to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1858-09-30">September 30 1858</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">26</container>
+			<unittitle>Mary to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1858-10-30">October 30 1858</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">27</container>
+			<unittitle>Mary to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1858-11-20">November 20 1858</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">28</container>
+			<unittitle>Mary to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1859-01-03">January 3 1859</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">29</container>
+			<unittitle>Mary to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1859-01-08">January 8 1859</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">30</container>
+			<unittitle>Mary to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1859-01-18">January 18 1859</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">31</container>
+			<unittitle>Mary to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1859-03-01">March 1 1859</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">32</container>
+			<unittitle>Mary to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1859-03-08">March 8 1859</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">33</container>
+			<unittitle>Mary to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1859-09-28">September 28 1859</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">34</container>
+			<unittitle>Mary to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1859-10-14">October 14 1859</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">35</container>
+			<unittitle>Mary to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1859-11-11">November 11 1859</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">36</container>
+			<unittitle>Mary to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1859-11-26">November 26 1859</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">37</container>
+			<unittitle>Mary to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1859-12-19">December 19 1859</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">38</container>
+			<unittitle>Mary to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1859-12-24">December 24 1859</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">39</container>
+			<unittitle>Mary to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1859-12-29">December 29 1859</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">40</container>
+			<unittitle>Mary to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1860-01-04">January 4 1860</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">41</container>
+			<unittitle>Mary to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1860-01-12">January 12 1860</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">42</container>
+			<unittitle>Mary to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1860-01-19">January 19 1860</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">43</container>
+			<unittitle>Mary to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1860-01-26">January 26 1860</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">44</container>
+			<unittitle>Mary to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1860-02-02">February 2 1860</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">45</container>
+			<unittitle>Mary to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1860-02-10">February 10 1860</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">46</container>
+			<unittitle>Mary to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1860-02-16">February 16 1860</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">47</container>
+			<unittitle>Mary to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1860-03-06">March 6 1860</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">48</container>
+			<unittitle>Mary to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1860-03-12">March 12 1860</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">49</container>
+			<unittitle>Mary to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1860-03-17">March 17 1860</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">50</container>
+			<unittitle>Mary to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1860-03-21">March 21 1860</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">51</container>
+			<unittitle>Mary to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1860-03-28">March 28 1860</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">52</container>
+			<unittitle>Mary to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1860-04-01">April 1 1860</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">53</container>
+			<unittitle>Mary to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1860-04-06">April 6 1860</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">54</container>
+			<unittitle>Mary to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1860-04-10">April 10 1860</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">55</container>
+			<unittitle>Mary to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1860-04-14">April 14 1860</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">56</container>
+			<unittitle>Mary to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1860-04-19">April 19 1860</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">57</container>
+			<unittitle>Mary to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1860-04-22">April 22 1860</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">58</container>
+			<unittitle>Mary to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1860-11-20">November 20 1860</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">59</container>
+			<unittitle>Mary to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1860-12-06">December 6 1860</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">60</container>
+			<unittitle>Mary to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1860-12-08">December 8 1860</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">61</container>
+			<unittitle>Mary to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1862-03-07">March 7 1862</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">62</container>
+			<unittitle>Mary to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1862-03-18">March 18 1862</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">63</container>
+			<unittitle>Mary to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1862-04-15">April 15 1862</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">64</container>
+			<unittitle>Mary to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1864-07-31">July 31 1864</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">65</container>
+			<unittitle>Mary to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1864-08-07">August 7 1864</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">66</container>
+			<unittitle>Mary to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1864-08-15">August 15 1864</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">67</container>
+			<unittitle>Mary to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1864-10-09">October 9 1864</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">68</container>
+			<unittitle>Mary to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1864-10-15">October 15 1864</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">69</container>
+			<unittitle>Mary to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1864-10-16">October 16 1864</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">70</container>
+			<unittitle>Mary to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1866-10-28">October 28 1866</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">71</container>
+			<unittitle>Mary to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1885-08-08">August 8 1885</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">72</container>
+			<unittitle>Mary to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1885-08-17">August 17 1885</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">73</container>
+			<unittitle>Mary to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1885-08-25">August 25 1885</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">74</container>
+			<unittitle>Mary to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1885-09-04">September 4 1885</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">75</container>
+			<unittitle>Mollie to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1858-05-10">May 10 1858</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">76</container>
+			<unittitle>Mollie to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1859-12-11">December 11 1859</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">77</container>
+			<unittitle>Lt. James S. Ransom to Lemon</unittitle>
+			<unitdate type="inclusive" normal="1862-01-11">January 11 1862</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">78</container>
+			<unittitle>Mary (and Bessie) to Marnie</unittitle>
+			<unitdate type="inclusive" normal="1885-07-27">July 27 1885</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">79</container>
+			<unittitle>Mary to Marnie</unittitle>
+			<unitdate type="inclusive" normal="1885-08-01">August 1 1885</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">80</container>
+			<unittitle>Mary to Marnie</unittitle>
+			<unitdate type="inclusive" normal="1885-08-11">August 11 1885</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">81</container>
+			<unittitle>Mary to Marnie</unittitle>
+			<unitdate type="inclusive" normal="1885-09-07">September 7 1885</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">1</container>
+			<unittitle>Lemon to James Dawson</unittitle>
+			<unitdate type="inclusive" normal="1865-09-11">September 11 1865</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">2</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1855-04-09">April 9 1855</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">3</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1855-07-16">July 16 1855</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">4</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1857-04-10">April 10 1857</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">5</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1857-05-08">May 8 1857</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">6</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1857-07-25">July 25 1857</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">7</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1857-08-02">August 2 1857</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">8</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1857-08-10">August 10 1857</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">9</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1857-09-23">September 23 1857</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">10</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1857-10-05">October 5 1857</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">11</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1857-10-27">October 27 1857</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">12</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1857-12-20">December 20 1857</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">13</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1858-01-08">January 8 1858</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">14</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1858-01-18">January 18 1858</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">15</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1858-01-26">January 26 1858</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">16</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1858-02-26">February 26 1858</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">17</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1858-03-10">March 10 1858</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">18</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1858-03-28">March 28 1858</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">19</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1858-05-01">May 1 1858</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">20</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1858-05-09">May 9 1858</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">21</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1858-05-28">May 28 1858</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">22</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive">June 20 and 27 1858</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">23</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1858-07-05">July 5 1858</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">24</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1858-08-05">August 5 1858</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">25</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1858-08-28">August 28 1858</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">26</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1858-09-02">September 2 1858</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">27</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1858-09-28">September 28 1858</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">28</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1858-11-06">November 6 1858</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">29</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1858-11-21">November 21 1858</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">30</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1858-11-27">November 27 1858</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">31</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1858-12-12">December 12 1858</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">32</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1858-12-12">December 12 1858</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">33</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1859-01-24">January 24 1859</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">34</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1859-02-23">February 23 1859</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">35</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1859-10-23">October 23 1859</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">36</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1859-11-20">November 20 1859</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">37</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1859-12-04">December 4 1859</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">38</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1859-12-15">December 15 1859</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">39</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1859-12-27">December 27 1859</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">40</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1860-01-15">January 15 1860</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">41</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1860-01-21">January 21 1860</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">42</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1860-01-29">January 29 1860</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">43</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1860-02-05">February 5 1860</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">44</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1860-02-12">February 12 1860</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">45</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1860-03-07">March 7 1860</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">46</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1860-03-11">March 11 1860</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">47</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1860-03-16">March 16 1860</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">48</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive">March 18 and 22 1860</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">49</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1860-03-25">March 25 1860</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">50</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1860-04-01">April 1 1860</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">51</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1860-04-06">April 6 1860</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">52</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1860-04-10">April 10 1860</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">53</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1860-04-13">April 13 1860</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">54</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1860-04-16">April 16 1860</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">55</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1860-04-17">April 17 1860</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">56</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1860-04-22">April 22 1860</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">57</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1860-10-03">October 3 1860</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">58</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1860-11-16">November 16 1860</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">59</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1860-11-21">November 21 1860</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">60</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1860-11-25">November 25 1860</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">61</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1860-12-01">December 1 1860</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">62</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1860-12-06">December 6 1860</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">63</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1860-12-09">December 9 1860</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">64</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1860-12-16">December 16 1860</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">65</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1860-12-16">December 16 1860</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">66</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1861-09-12">September 12 1861</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">67</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1861-09-14">September 14 1861</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">68</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1861-09-16">September 16 1861</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">69</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1861-09-19">September 19 1861</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">70</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1861-09-21">September 21 1861</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">71</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1861-09-25">September 25 1861</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">72</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1861-09-27">September 27 1861</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">73</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1861-10-01">October 1 1861</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">74</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1861-10-06">October 6 1861</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">75</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1861-10-09">October 9 1861</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">76</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1861-10-12">October 12 1861</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">77</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1861-10-18">October 18 1861</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">78</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1861-10-20">October 20 1861</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">79</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1861-10-27">October 27 1861</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">80</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1861-10-29">October 29 1861</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">81</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1861-11-03">November 3 1861</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">82</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1861-11-11">November 11 1861</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">83</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1861-11-21">November 21 1861</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">84</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1861-11-26">November 26 1861</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">85</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1861-11-30">November 30 1861</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">86</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1861-12-02">December 2 1861</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">87</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1861-12-09">December 9 1861</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">88</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1861-12-19">December 19 1861</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">89</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1861-12-22">December 22 1861</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">1</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1862-01-11">January 11 1862</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">2</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1862-01-18">January 18 1862</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">3</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1862-01-22">January 22 1862</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">4</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1862-01-23">January 23 1862</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">5</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1862-01-30">January 30 1862</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">6</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1862-02-05">February 5 1862</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">7</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1862-02-08">February 8 1862</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">8</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1862-02-09">February 9 1862</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">9</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1862-02-19">February 19 1862</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">10</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1862-02-23">February 23 1862</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">11</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1862-02-24">February 24 1862</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">12</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1862-02-26">February 26 1862</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">13</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1862-03-11">March 11 1862</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">14</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1862-03-14">March 14 1862</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">15</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1862-03-29">March 29 1862</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">16</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1862-04-06">April 6 1862</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">17</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1862-05-02">May 2 1862</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">18</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1862-05-10">May 10 1862</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">19</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1862-05-18">May 18 1862</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">20</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1862-05-25">May 25 1862</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">21</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1862-06-07">June 7 1862</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">22</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1862-06-15">June 15 1862</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">23</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1862-07-07">July 7 1862</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">24</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1862-07-13">July 13 1862</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">25</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1862-08-11">August 11 1862</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">26</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1862-08-14">August 14 1862</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">27</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1862-08-17">August 17 1862</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">28</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1862-08-24">August 24 1862</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">29</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1862-08-28">August 28 1862</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">30</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1862-08-31">August 31 1862</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">31</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1862-09-03">September 3 1862</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">32</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1862-09-05">September 5 1862</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">33</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1862-09-10">September 10 1862</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">34</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1862-09-15">September 15 1862</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">35</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1862-09-18">September 18 1862</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">36</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1862-09-24">September 24 1862</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">37</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1862-09-27">September 27 1862</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">38</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1862-10-02">October 2 1862</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">39</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1862-10-07">October 7 1862</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">40</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1864-09-01">September 1 1864</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">41</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1865-01-20">January 20 1865</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">42</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1866-06-13">June 13 1866</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">43</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1866-06-21">June 21 1866</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">44</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1866-07-02">July 2 1866</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">45</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1866-07-08">July 8 1866</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">46</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1866-07-23">July 23 1866</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">47</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1866-08-02">August 2 1866</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">48</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1866-09-06">September 6 1866</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">49</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1866-09-21">September 21 1866</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">50</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1866-10-02">October 2 1866</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">51</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1866-10-08">October 8 1866</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">52</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1866-10-24">October 24 1866</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">53</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1885-03-12">March 12 1885</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">54</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1885-03-14">March 14 1885</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">55</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive" normal="1885-07-07">July 7 1885</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">56</container>
+			<unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">1</container>
+			<unittitle>Alice to Mary</unittitle>
+			<unitdate type="inclusive" normal="1885-10-25">October 25 1885</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">2</container>
+			<unittitle>Alpha to Mary</unittitle>
+			<unitdate type="inclusive" normal="1861-03-31">March 31 1861</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">3</container>
+			<unittitle>M. A. Bassett to Mary</unittitle>
+			<unitdate type="inclusive" normal="1861-12-01">December 1 1861</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">4</container>
+			<unittitle>M. A. Bassett to Mary</unittitle>
+			<unitdate type="inclusive" normal="1862-04-19">April 19 1862</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">5</container>
+			<unittitle>M. A. Bassett to Mary</unittitle>
+			<unitdate type="inclusive" normal="1862-09-17">September 17 1862</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">6</container>
+			<unittitle>Julia T. Budfish to Mary</unittitle>
+			<unitdate type="inclusive" normal="1885-06-09">June 9 1885</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">7</container>
+			<unittitle>Della to Mary</unittitle>
+			<unitdate type="inclusive" normal="1866-12-03">December 3 1866</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">8</container>
+			<unittitle>Della to Mary</unittitle>
+			<unitdate type="inclusive" normal="1885-07-08">July 8 1885</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">9</container>
+			<unittitle>Emeline to Mary</unittitle>
+			<unitdate type="inclusive" normal="1860-06-02">June 2 1860</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">10</container>
+			<unittitle>Emeline to Mary</unittitle>
+			<unitdate type="inclusive" normal="1865-09-25">September 25 1865</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">11</container>
+			<unittitle>Emeline to Mary</unittitle>
+			<unitdate type="inclusive" normal="1866-01-13">January 13 1866</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">12</container>
+			<unittitle>Emeline to Mary</unittitle>
+			<unitdate type="inclusive" normal="1866-12-09">December 9 1866</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">13</container>
+			<unittitle>Emeline to Mary</unittitle>
+			<unitdate type="inclusive" normal="1885-03-23">March 23 1885</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">14</container>
+			<unittitle>Emeline to Mary</unittitle>
+			<unitdate type="inclusive" normal="1885-04-19">April 19 1885</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">15</container>
+			<unittitle>Emeline to Mary</unittitle>
+			<unitdate type="inclusive" normal="1885-05-17">May 17 1885</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">16</container>
+			<unittitle>Emeline to Mary</unittitle>
+			<unitdate type="inclusive" normal="1885-06-14">June 14 1885</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">17</container>
+			<unittitle>Emeline to Mary</unittitle>
+			<unitdate type="inclusive" normal="1885-06-18">June 18 1885</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">18</container>
+			<unittitle>Emeline to Mary</unittitle>
+			<unitdate type="inclusive" normal="1885-07-11">July 11 1885</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">19</container>
+			<unittitle>Emeline to Mary</unittitle>
+			<unitdate type="inclusive" normal="1885-09">September 1885</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">20</container>
+			<unittitle>Emeline to Mary</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">21</container>
+			<unittitle>Emeline to Mary</unittitle>
+			<unitdate type="inclusive">September 14; Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">22</container>
+			<unittitle>Frankie to Mary</unittitle>
+			<unitdate type="inclusive" normal="1866-08-31">August 31 1866</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">23</container>
+			<unittitle>Grandma to Mary</unittitle>
+			<unitdate type="inclusive" normal="1866-12-13">December 13 1866</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">24</container>
+			<unittitle>Laura to Mary</unittitle>
+			<unitdate type="inclusive" normal="1862-04-26">April 26 1862</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">25</container>
+			<unittitle>Laura to Mary</unittitle>
+			<unitdate type="inclusive" normal="1866-08-05">August 5 1866</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">26</container>
+			<unittitle>Laurie to Mary</unittitle>
+			<unitdate type="inclusive" normal="1862-07-10">July 10 1862</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">27</container>
+			<unittitle>Linda to Mary</unittitle>
+			<unitdate type="inclusive">April 6; Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">28</container>
+			<unittitle>Lirrie to Mary</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">29</container>
+			<unittitle>Lirrie to Mary</unittitle>
+			<unitdate type="inclusive" normal="1860-07-09">July 9 1860</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">30</container>
+			<unittitle>Lirrie to Mary</unittitle>
+			<unitdate type="inclusive" normal="1860-11-12">November 12 1860</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">31</container>
+			<unittitle>Lirrie to Mary</unittitle>
+			<unitdate type="inclusive" normal="1860-11-23">November 23 1860</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">32</container>
+			<unittitle>Lirrie to Mary</unittitle>
+			<unitdate type="inclusive" normal="1866-03-06">March 6 1866</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">33</container>
+			<unittitle>Lirrie to Mary and Oliver</unittitle>
+			<unitdate type="inclusive" normal="1866-05-15">May 15 1866</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">34</container>
+			<unittitle>Lirrie to Mary</unittitle>
+			<unitdate type="inclusive" normal="1885-03-30">March 30 1885</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">35</container>
+			<unittitle>Lirrie to Mary</unittitle>
+			<unitdate type="inclusive" normal="1885-04-08">April 8 1885</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">36</container>
+			<unittitle>Marnie to Mary</unittitle>
+			<unitdate type="inclusive" normal="1885-09-11">September 11 1885</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">37</container>
+			<unittitle>May to Mary</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">38</container>
+			<unittitle>MJG to Mary</unittitle>
+			<unitdate type="inclusive">February 26; Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">39</container>
+			<unittitle>Mother to Mary</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">40</container>
+			<unittitle>Mother to Mary</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">41</container>
+			<unittitle>Mother to Mary</unittitle>
+			<unitdate type="inclusive">July 12; Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">42</container>
+			<unittitle>OGY to Mary</unittitle>
+			<unitdate type="inclusive" normal="1860-06-01">June 1 1860</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">43</container>
+			<unittitle>M. Otis to Mary</unittitle>
+			<unitdate type="inclusive" normal="1850-10">October 1850</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">44</container>
+			<unittitle>Phebe to Mary</unittitle>
+			<unitdate type="inclusive" normal="1860-09-25">September 25 1860</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">45</container>
+			<unittitle>Phebe to Mary</unittitle>
+			<unitdate type="inclusive" normal="1862-09-28">September 28 1862</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">46</container>
+			<unittitle>Sister to Mary</unittitle>
+			<unitdate type="inclusive" normal="1866-12-23">December 23 1866</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">47</container>
+			<unittitle>Ruth Tillinghast to Mary</unittitle>
+			<unitdate type="inclusive" normal="1860-08-27">August 27 1860</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">48</container>
+			<unittitle>Ruth Tillinghast to Mary</unittitle>
+			<unitdate type="inclusive" normal="1861-01-10">January 10 1861</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">49</container>
+			<unittitle>Ruth Tillinghast to Mary</unittitle>
+			<unitdate type="inclusive" normal="1861-07-27">July 27 1861</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">50</container>
+			<unittitle>Ruth Tillinghast to Mary</unittitle>
+			<unitdate type="inclusive" normal="1866-04-25">April 25 1866</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">51</container>
+			<unittitle>Ruth Tillinghast to Mary</unittitle>
+			<unitdate type="inclusive" normal="1866-05-09">May 9 1866</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">52</container>
+			<unittitle>Ruth Tillinghast to Mary</unittitle>
+			<unitdate type="inclusive" normal="1885-01-24">January 24 1885</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">53</container>
+			<unittitle>Ruth Tillinghast to Mary</unittitle>
+			<unitdate type="inclusive" normal="1885-03-09">March 9 1885</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">54</container>
+			<unittitle>Ruth Tillinghast to Mary</unittitle>
+			<unitdate type="inclusive" normal="1885-05-11">May 11 1885</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">55</container>
+			<unittitle>Ruth Tillinghast to Mary</unittitle>
+			<unitdate type="inclusive" normal="1885-06-22">June 22 1885</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">56</container>
+			<unittitle>Ruth Tillinghast to Mary</unittitle>
+			<unitdate type="inclusive" normal="1885-07-07">July 7 1885</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">57</container>
+			<unittitle>Ruth Tillinghast to Mary</unittitle>
+			<unitdate type="inclusive" normal="1885-09-24">September 24 1885</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">58</container>
+			<unittitle>Ruth Tillinghast to Mary</unittitle>
+			<unitdate type="inclusive" normal="1885-10-14">October 14 1885</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">59</container>
+			<unittitle>Ruth Tillinghast to Mary</unittitle>
+			<unitdate type="inclusive">42791</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">60</container>
+			<unittitle>Ruth Tillinghast to Mary</unittitle>
+			<unitdate type="inclusive">42824</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">61</container>
+			<unittitle>Ruth Tillinghast to Mary</unittitle>
+			<unitdate type="inclusive">42952</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">62</container>
+			<unittitle>Unknown to Mary</unittitle>
+			<unitdate type="inclusive" normal="1862-02-20">February 20 1862</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">63</container>
+			<unittitle>Blanche to Ollie Hine</unittitle>
+			<unitdate type="inclusive" normal="1885-07-29">July 29 1885</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">64</container>
+			<unittitle>Mary to Ollie Hine</unittitle>
+			<unitdate type="inclusive" normal="1885-08-03">August 3 1885</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">65</container>
+			<unittitle>Mary to Ollie Hine</unittitle>
+			<unitdate type="inclusive" normal="1885-08-28">August 28 1885</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">66</container>
+			<unittitle>Will to Ollie Hine</unittitle>
+			<unitdate type="inclusive" normal="1885-08-15">August 15 1885</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">67</container>
+			<unittitle>Richard Wright to W. L. Wright</unittitle>
+			<unitdate type="inclusive" normal="1993-01-18">January 18,1993</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">1</container>
+			<unittitle>Envelopes</unittitle>
+			<unitdate type="inclusive" normal="1858/1885">1858-1885</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">2</container>
+			<unittitle>Invitations</unittitle>
+			<unitdate type="inclusive" normal="1885">1885</unitdate>
+		</did>
+	</c02>
+</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 2: Ephemera</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">5</container>
+				<container type="Folder">3</container>
+				<unittitle>The Boy’s News by C. L. Hine</unittitle>
+				<unitdate type="inclusive" normal="05/1875-12">May-December 1875</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">5</container>
+				<container type="Folder">4</container>
+				<unittitle>“A History of the City of Washington”</unittitle>
+				<unitdate type="inclusive" normal="1903">1903</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">5</container>
+				<container type="Folder">5</container>
+				<unittitle>Last Will and Testament - Lemon Hine</unittitle>
+				<unitdate type="inclusive" normal="1901-10-09">October 9 1901</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">5</container>
+				<container type="Folder">6</container>
+				<unittitle>“The Old Songs Grandma Hine Sang…”</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">5</container>
+				<container type="Folder">7</container>
+				<unittitle>Prayer Card</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">5</container>
+				<container type="Folder">8</container>
+				<unittitle>Proceedings with Reference to the Death of Lemon G. Hine</unittitle>
+				<unitdate type="inclusive" normal="1914-01-20">January 20 1914</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">5</container>
+				<container type="Folder">9</container>
+				<unittitle>Publications of C. L. Hine</unittitle>
+				<unitdate type="inclusive" normal="1876/1877">1876-1877</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">5</container>
+				<container type="Folder">10</container>
+				<unittitle>Receipts</unittitle>
+				<unitdate type="inclusive" normal="1866">1866</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">5</container>
+				<container type="Folder">11</container>
+				<unittitle>Simpson and Hine Real Estate and Lumber</unittitle>
+				<unitdate type="inclusive" normal="1856">1856</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 3: Photographs</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">5</container>
+				<container type="Folder">12</container>
+				<unittitle>Lemon G. Hine</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">5</container>
+				<container type="Folder">13</container>
+				<unittitle>Mary Tillinghast Hine</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">5</container>
+				<container type="Folder">14</container>
+				<unittitle>Prospect Hill - Hine Residence</unittitle>
+				<unitdate type="inclusive" normal="1895">1895</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">6</container>
+				<container type="Folder">1</container>
+				<unittitle>Daguerreotype Case with image of man (possibly young Lemon G. Hine)</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+	</c01>
+</dsc>
+</archdesc>
+</ead>

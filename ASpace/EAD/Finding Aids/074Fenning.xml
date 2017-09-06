@@ -1,0 +1,669 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type="text/xml" href="I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/eadcbs6rev.xsl"?><!DOCTYPE ead PUBLIC "-//Society of American Archivists//DTD ead.dtd (Encoded Archival Description (EAD) Version 1.0)//EN" "I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/ead.dtd">
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" repositoryencoding="iso15511" relatedencoding="MARC21">
+	<eadid mainagencycode="DWP" countrycode="US" url="http://washingtoniana.dclibrary.org">074Fenning</eadid>
+<filedesc>
+<titlestmt>
+	<titleproper encodinganalog="245$a">Karl Fenning</titleproper>
+	<subtitle>An inventory of Karl Fenning at DC Public Library</subtitle>
+	<author encodinganalog="245$c">Finding aid prepared by Rachel Telford.</author>
+</titlestmt>
+<publicationstmt>
+<publisher encodinganalog="260$b">DC Public Library, Special Collections</publisher>
+	<date type="publication" encodinganalog="260$c" normal="2006-11">2006-11</date>
+<address><addressline>901 G Street NW</addressline><addressline>DC Public Library</addressline><addressline>Washington, D.C. 20009</addressline></address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation encodinganalog="500">EAD encoded by Paul Kelly on
+	<date normal="2017-04-21">2017-04-21</date>
+</creation>
+<langusage>English</langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory" relatedencoding="MARC21">
+<did id="a1">
+<head>Descriptive Summary</head>
+<repository label="Repository:" encodinganalog="852$a"><corpname>DC Public Library, Special Collections</corpname></repository>
+	<unitdate encodinganalog="260$c" label="Dates:" type="inclusive" normal="1881/1962">1881-1962</unitdate>
+	<unittitle label="Title:" encodinganalog="245$a">Karl Fenning Papers</unittitle>
+<physdesc label="Extent:" encodinganalog="300$a"><extent>4.5 linear feet; 4 boxes</extent></physdesc>
+<unitid encodinganalog="090" label="Collection Number:" countrycode="US" repositorycode="DCU">074</unitid>
+<langmaterial encodinganalog="041" label="Language:"><language langcode="eng">English</language></langmaterial>
+</did>
+	
+<dsc type="combined" id="a23">
+<head>Detailed Description of the Collection</head>
+<c01 level="series">
+   <did>
+   	<unittitle>Series 1: Professional Papers</unittitle>
+    </did>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">1</container>
+			<unittitle>Biography</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">2</container>
+			<unittitle>General Correspondence</unittitle>
+			<unitdate type="inclusive" normal="1903/1925">1903-1925</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">3</container>
+			<unittitle>General Correspondence</unittitle>
+			<unitdate type="inclusive" normal="1926/1962">1926-1962</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">4</container>
+			<unittitle>Department of Agriculture Appointments</unittitle>
+			<unitdate type="inclusive" normal="1900/1901">1900-1901</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">5</container>
+			<unittitle>Department of the Interior Appointments</unittitle>
+			<unitdate type="inclusive" normal="1902">1902</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">6</container>
+			<unittitle>Clippings</unittitle>
+			<unitdate type="inclusive">1904, 1917, 1921</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">7</container>
+			<unittitle>Publications: “A Neglected Well of Information” Scientific American</unittitle>
+			<unitdate type="inclusive" normal="1924">1924</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">8</container>
+			<unittitle>"Patent Office” Chemical Age</unittitle>
+			<unitdate type="inclusive" normal="1924">1924</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">9</container>
+			<unittitle>Teaching and Lectures: Correspondence</unittitle>
+			<unitdate type="inclusive" normal="1925/1926">1925-1926</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">10</container>
+			<unittitle>Teaching and Lectures: Correspondence</unittitle>
+			<unitdate type="inclusive">1932, 1947-1948</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">11</container>
+			<unittitle>Civil Service Application</unittitle>
+			<unitdate type="inclusive" normal="1942">1942</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">12</container>
+			<unittitle>General Professional Papers</unittitle>
+			<unitdate type="inclusive" normal="1908">1908</unitdate>
+		</did>
+	</c02>
+</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 2: Personal Papers</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">1</container>
+				<container type="Folder">13</container>
+				<unittitle>General Correspondence</unittitle>
+				<unitdate type="inclusive">1898-1926, 1948, 1953</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">1</container>
+				<container type="Folder">14</container>
+				<unittitle>General Correspondence - Carrie J. Kingdon to Karl Fenning</unittitle>
+				<unitdate type="inclusive" normal="1914-11">November 1914</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">1</container>
+				<container type="Folder">15</container>
+				<unittitle>Trinity College</unittitle>
+				<unitdate type="inclusive" normal="1899/1905">1899-1905</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">1</container>
+				<container type="Folder">16</container>
+				<unittitle>Trinity College: Phi Gamma Delta</unittitle>
+				<unitdate type="inclusive">1901-1904, 1948</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">1</container>
+				<container type="Folder">17</container>
+				<unittitle>Law School</unittitle>
+				<unitdate type="inclusive" normal="1903/1905">1903-1905</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">1</container>
+				<container type="Folder">18</container>
+				<unittitle>Property</unittitle>
+				<unitdate type="inclusive" normal="1917">1917</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">2</container>
+				<container type="Folder">1</container>
+				<unittitle>Family: Ancestry</unittitle>
+				<unitdate type="inclusive" normal="1899/1942">1899-1942</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">2</container>
+				<container type="Folder">2</container>
+				<unittitle>Family: Ancestry Correspondence</unittitle>
+				<unitdate type="inclusive" normal="1899/1942">1899-1942</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">2</container>
+				<container type="Folder">3</container>
+				<unittitle>Family: Hazel Fenning</unittitle>
+				<unitdate type="inclusive">1917, 1936, 1939</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">2</container>
+				<container type="Folder">4</container>
+				<unittitle>Family: Frederick A. Fenning</unittitle>
+				<unitdate type="inclusive">1907, 1936, 1944, 1964</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">2</container>
+				<container type="Folder">5</container>
+				<unittitle>Family: Annie Dey Fenning - Sketchbook</unittitle>
+				<unitdate type="inclusive" normal="1870">1870</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">2</container>
+				<container type="Folder">6</container>
+				<unittitle>Family: Annie Dey Fenning</unittitle>
+				<unitdate type="inclusive" normal="1921">1921</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">2</container>
+				<container type="Folder">7</container>
+				<unittitle>General Personal Papers</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">2</container>
+				<container type="Folder">8</container>
+				<unittitle>General Personal Papers</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">2</container>
+				<container type="Folder">9</container>
+				<unittitle>Memorabilia</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 3: Photographs</unittitle>
+		</did>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">10</container>
+			<unittitle>Childhood</unittitle>
+			<unitdate type="inclusive" normal="1882/1900">1882-1900</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">11</container>
+			<unittitle>Trinity Commencement</unittitle>
+			<unitdate type="inclusive" normal="1903">1903</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">12</container>
+			<unittitle>Fenning and Family</unittitle>
+			<unitdate type="inclusive" normal="1912">1912</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">13</container>
+			<unittitle>Patent Office Photograph</unittitle>
+			<unitdate type="inclusive" normal="1925">1925</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">14</container>
+			<unittitle>House</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">15</container>
+			<unittitle>Woman</unittitle>
+			<unitdate type="inclusive" normal="1919">1919</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">16</container>
+			<unittitle>Postcard: Huguenot Memorial Church - Pelham Manor NY</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">17</container>
+			<unittitle>House - Woman - Man</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">1</container>
+			<unittitle>Framed Photo of Katherine Hine Fenning</unittitle>
+			<unitdate type="inclusive" normal="1910">1910</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">2</container>
+			<unittitle>Adirondacks</unittitle>
+			<unitdate type="inclusive" normal="1901">1901</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">3</container>
+			<unittitle>Harper Ferry - Train Scene</unittitle>
+			<unitdate type="inclusive" normal="1904">1904</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">4</container>
+			<unittitle>Karl Fenning</unittitle>
+			<unitdate type="inclusive" normal="1896">1896</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">5</container>
+			<unittitle>Karl Fenning</unittitle>
+			<unitdate type="inclusive" normal="1904">1904</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">6</container>
+			<unittitle>Karl Fenning - Trinity Commencement</unittitle>
+			<unitdate type="inclusive" normal="1903">1903</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">7</container>
+			<unittitle>Karl Fenning</unittitle>
+			<unitdate type="inclusive" normal="1900">1900</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">8</container>
+			<unittitle>Karl Fenning (more likely Frederick Fenning)</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">9</container>
+			<unittitle>Karl Fenning’s birthplace - interior and exterior</unittitle>
+			<unitdate type="inclusive" normal="1881">1881</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">10</container>
+			<unittitle>Karl Fenning and Annie Dey Fenning - framed</unittitle>
+			<unitdate type="inclusive" normal="1905">1905</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">11</container>
+			<unittitle>Karl Fenning - framed</unittitle>
+			<unitdate type="inclusive" normal="1908">1908</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">12</container>
+			<unittitle>Annie Fenning - framed</unittitle>
+			<unitdate type="inclusive" normal="1900">1900</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">13</container>
+			<unittitle>Mother of Annie Fenning (?) - framed</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">14</container>
+			<unittitle>Photo Album - DC Area - Mt. Vernon</unittitle>
+			<unitdate type="inclusive" normal="1900">1900</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">15</container>
+			<unittitle>Photo Album - Trinity College - Yosemite - Summer Jobs - DC Area - Hazel O’Neil Fenning</unittitle>
+			<unitdate type="inclusive" normal="1910/1925">1910-1925</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">16</container>
+			<unittitle>House</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">17</container>
+			<unittitle>Building</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">18</container>
+			<unittitle>Man - dog - house</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">19</container>
+			<unittitle>Annie Fenning - Asbury Park NJ</unittitle>
+			<unitdate type="inclusive" normal="1907">1907</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">20</container>
+			<unittitle>Mirror Lake - Yosemite</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">21</container>
+			<unittitle>Washington DC scenes</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">22</container>
+			<unittitle>The New Lucerne Hotel Booklet</unittitle>
+			<unitdate type="inclusive" normal="1912/1913">1912-1913</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">23</container>
+			<unittitle>Thomas Brokaw - Orlando FL</unittitle>
+			<unitdate type="inclusive" normal="1914">1914</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">24</container>
+			<unittitle>Karl and Annie Fenning - Orlando</unittitle>
+			<unitdate type="inclusive" normal="1914">1914</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">25</container>
+			<unittitle>D.K. Dey</unittitle>
+			<unitdate type="inclusive" normal="1906-10">October 1906</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">26</container>
+			<unittitle>Postcard: to Annie Fenning from Carrie J. Kingdon - 13 Brainard St. Mt. Holly NJ</unittitle>
+			<unitdate type="inclusive" normal="1909">1909</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">27</container>
+			<unittitle>Thomas Brokaw - woman - house</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">28</container>
+			<unittitle>Mr. and Mrs. Thomas Brokaw</unittitle>
+			<unitdate type="inclusive" normal="1919">1919</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">1</container>
+			<unittitle>Photos: Katherine Fenning</unittitle>
+			<unitdate type="inclusive" normal="1902/1912">1902-1912</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">2</container>
+			<unittitle>Photo: Karl Fenning and 6 men</unittitle>
+			<unitdate type="inclusive" normal="1903">1903</unitdate>
+		</did>
+	</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 4: Ephemera</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">3</container>
+				<unittitle>Baby book of Katherine Hine Fenning</unittitle>
+				<unitdate type="inclusive" normal="1902">1902</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">4</container>
+				<unittitle>Certificate - Admitted to Practice Law in Ohio</unittitle>
+				<unitdate type="inclusive" normal="1911">1911</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">5</container>
+				<unittitle>Certificate - Member - Ohio Sons of the American Revolution</unittitle>
+				<unitdate type="inclusive" normal="1912">1912</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">6</container>
+				<unittitle>Certificate - Appointed Scoutmaster - Boy Scouts of America</unittitle>
+				<unitdate type="inclusive" normal="1913">1913</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">7</container>
+				<unittitle>Certificate - Admitted - Attorney and Counselor - US Court of Appeals - Sixth Circuit</unittitle>
+				<unitdate type="inclusive" normal="1916">1916</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">8</container>
+				<unittitle>Certificate - Admitted - Attorney and Counselor - Supreme Court of the United States</unittitle>
+				<unitdate type="inclusive" normal="1925">1925</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">9</container>
+				<unittitle>Certificate - Member - American Arbitration Association - National Panel of Arbitrators</unittitle>
+				<unitdate type="inclusive" normal="1941">1941</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">10</container>
+				<unittitle>Passport - Karl Fenning</unittitle>
+				<unitdate type="inclusive" normal="1916">1916</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">11</container>
+				<unittitle>DC Metropolitan Police Badge</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">12</container>
+				<unittitle>Wallet, labeled KHF</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">13</container>
+				<unittitle>Wallet - Trinity Senior Prom</unittitle>
+				<unitdate type="inclusive" normal="1903">1903</unitdate>
+			</did>
+		</c02>
+	</c01>
+</dsc>
+</archdesc>
+</ead>

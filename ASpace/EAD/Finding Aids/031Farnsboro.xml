@@ -1,0 +1,621 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type="text/xml" href="I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/eadcbs6rev.xsl"?><!DOCTYPE ead PUBLIC "-//Society of American Archivists//DTD ead.dtd (Encoded Archival Description (EAD) Version 1.0)//EN" "I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/ead.dtd">
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" repositoryencoding="iso15511" relatedencoding="MARC21">
+	<eadid mainagencycode="DWP" countrycode="US" url="http://washingtoniana.dclibrary.org">031Farnsboro</eadid>
+<filedesc>
+<titlestmt>
+	<titleproper encodinganalog="245$a">Farnsboro Tenants Association</titleproper>
+	<subtitle>An inventory of Farnsboro Tenants Association at DC Public Library</subtitle>
+	<author encodinganalog="245$c">Finding aid prepared by DC Public Library.</author>
+</titlestmt>
+<publicationstmt>
+<publisher encodinganalog="260$b">DC Public Library, Special Collections</publisher>
+	<date type="publication" encodinganalog="260$c" normal="2001-02">2001-02</date>
+<address><addressline>901 G Street NW</addressline><addressline>DC Public Library</addressline><addressline>Washington, D.C. 20009</addressline></address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation encodinganalog="500">EAD encoded by Paul Kelly on
+	<date normal="2017-04-20">2017-04-20</date>
+</creation>
+<langusage>English</langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory" relatedencoding="MARC21">
+<did id="a1">
+<head>Descriptive Summary</head>
+<repository label="Repository:" encodinganalog="852$a"><corpname>DC Public Library, Special Collections</corpname></repository>
+	<unitdate encodinganalog="260$c" label="Dates:" type="inclusive" normal="1972/1978">1972-1978</unitdate>
+	<unittitle label="Title:" encodinganalog="245$a">Farnsboro Tenants Association Records</unittitle>
+<physdesc label="Extent:" encodinganalog="300$a"><extent>2 linear feet; 5 boxes</extent></physdesc>
+<unitid encodinganalog="090" label="Collection Number:" countrycode="US" repositorycode="DCU">031</unitid>
+<langmaterial encodinganalog="041" label="Language:"><language langcode="eng">English</language></langmaterial>
+</did>
+	
+<dsc type="combined" id="a23">
+<head>Detailed Description of the Collection</head>
+<c01 level="series">
+   <did>
+   	<unittitle>Series 1: General Alphabetical Files, 1975-1978</unittitle>
+    </did>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">1</container>
+			<unittitle>Administrative materials</unittitle>
+			<unitdate type="inclusive" normal="1978">1978</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">2</container>
+			<unittitle>Apartment 201 Detail</unittitle>
+			<unitdate type="inclusive" normal="1978">1978</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">3</container>
+			<unittitle>Apartment 201 - Letters to and from Lester Leonard</unittitle>
+			<unitdate type="inclusive" normal="1975/1978">1975-1978</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">4</container>
+			<unittitle>Application to convert to condominiums</unittitle>
+			<unitdate type="inclusive" normal="1976/1978">1976-1978</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">5</container>
+			<unittitle>Building buy cooperative or condominium</unittitle>
+			<unitdate type="inclusive" normal="1978">1978</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">6</container>
+			<unittitle>Clippings</unittitle>
+			<unitdate type="inclusive" normal="1976/1984">1976-1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">7</container>
+			<unittitle>Condominium Cafe</unittitle>
+			<unitdate type="inclusive" normal="1976/1978">1976-1978</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">8</container>
+			<unittitle>Condominium conversion press file</unittitle>
+			<unitdate type="inclusive" normal="1978">1978</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">9</container>
+			<unittitle>Condominium protest</unittitle>
+			<unitdate type="inclusive" normal="1978-06">June 1978</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">10</container>
+			<unittitle>Decatur Associates</unittitle>
+			<unitdate type="inclusive" normal="1978">1978</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">11</container>
+			<unittitle>District Capital Corporation</unittitle>
+			<unitdate type="inclusive" normal="1975/1976">1975-1976</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">12</container>
+			<unittitle>Emergency Committee to save rental housing</unittitle>
+			<unitdate type="inclusive" normal="1978">1978</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">13</container>
+			<unittitle>Final accounting</unittitle>
+			<unitdate type="inclusive" normal="1978">1978</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">14</container>
+			<unittitle>Genesis and member information</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">15</container>
+			<unittitle>Inspections</unittitle>
+			<unitdate type="inclusive" normal="1977/1978">1977-1978</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">16</container>
+			<unittitle>Maintenance problems</unittitle>
+			<unitdate type="inclusive">1957, 1971-1973, 1976-78</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">17</container>
+			<unittitle>Meetings</unittitle>
+			<unitdate type="inclusive" normal="1975/1977">1975-1977</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">18</container>
+			<unittitle>Meeting notes and other administrative papers</unittitle>
+			<unitdate type="inclusive" normal="1975-10/1977-12">October 1975-December 1977</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">19</container>
+			<unittitle>Meeting notes and other administrative papers</unittitle>
+			<unitdate type="inclusive" normal="03/1978-07">March-July 1978</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">20</container>
+			<unittitle>Meeting notes and other administrative papers</unittitle>
+			<unitdate type="inclusive" normal="1978">1978</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">21</container>
+			<unittitle>Meeting notes and other administrative papers</unittitle>
+			<unitdate type="inclusive" normal="1978-10">October 1978</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">22</container>
+			<unittitle>Meeting notes and other administrative papers</unittitle>
+			<unitdate type="inclusive" normal="1978-11">November 1978</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">1</container>
+			<unittitle>Member and tenant lists</unittitle>
+			<unitdate type="inclusive" normal="1974/1976">1974-1976</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">2</container>
+			<unittitle>Members</unittitle>
+			<unitdate type="inclusive" normal="1975">1975</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">3</container>
+			<unittitle>Minutes and attendance lists</unittitle>
+			<unitdate type="inclusive" normal="1975/1977">1975-1977</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">4</container>
+			<unittitle>Permission to be Inspected and Questionnaire</unittitle>
+			<unitdate type="inclusive" normal="1977-02">February 1977</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">5</container>
+			<unittitle>PG and E</unittitle>
+			<unitdate type="inclusive" normal="1976">1976</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">6</container>
+			<unittitle>Purchase Agreement</unittitle>
+			<unitdate type="inclusive" normal="1978">1978</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">7</container>
+			<unittitle>Registration</unittitle>
+			<unitdate type="inclusive">October 29 1975 and March 13 1978</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">8</container>
+			<unittitle>Registration analysis</unittitle>
+			<unitdate type="inclusive" normal="1975-10-29">October 29 1975</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">9</container>
+			<unittitle>Registration</unittitle>
+			<unitdate type="inclusive" normal="1978-03-30">March 30 1978</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">10</container>
+			<unittitle>Rental information</unittitle>
+			<unitdate type="inclusive" normal="1976">1976</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">11</container>
+			<unittitle>Rents</unittitle>
+			<unitdate type="inclusive" normal="1970/1976">1970-1976</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">12</container>
+			<unittitle>Rent advice</unittitle>
+			<unitdate type="inclusive" normal="1972/1978">1972-1978</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">13</container>
+			<unittitle>Rent increases</unittitle>
+			<unitdate type="inclusive" normal="1975/1977">1975-1977</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">14</container>
+			<unittitle>Rent information</unittitle>
+			<unitdate type="inclusive" normal="1975/1977">1975-1977</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">15</container>
+			<unittitle>Rent refunds</unittitle>
+			<unitdate type="inclusive" normal="1976/1978">1976-1978</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">16</container>
+			<unittitle>Responses to questionnaire violations</unittitle>
+			<unitdate type="inclusive" normal="1977">1977</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">17</container>
+			<unittitle>Settlement agreement</unittitle>
+			<unitdate type="inclusive" normal="1978">1978</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">18</container>
+			<unittitle>Tenant forms</unittitle>
+			<unitdate type="inclusive" normal="1976">1976</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">19</container>
+			<unittitle>Tenant matters</unittitle>
+			<unitdate type="inclusive" normal="1976">1976</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">20</container>
+			<unittitle>Tenant purchasing data</unittitle>
+			<unitdate type="inclusive" normal="1978">1978</unitdate>
+		</did>
+	</c02>
+</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 2: Legal and Governmental Materials, 1975-1978</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">1</container>
+				<unittitle>ANC</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">2</container>
+				<unittitle>ANC newsletters</unittitle>
+				<unitdate type="inclusive" normal="1978">1978</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">3</container>
+				<unittitle>Exhibits</unittitle>
+				<unitdate type="inclusive" normal="1975">1975</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">4</container>
+				<unittitle>Housing code violations</unittitle>
+				<unitdate type="inclusive" normal="1977">1977</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">5</container>
+				<unittitle>Housing regulations no. 19-23 change</unittitle>
+				<unitdate type="inclusive" normal="1972">1972</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">6</container>
+				<unittitle>Landlord tenant regulations and forms</unittitle>
+				<unitdate type="inclusive" normal="1975/1978">1975-1978</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">7</container>
+				<unittitle>Lawyers</unittitle>
+				<unitdate type="inclusive" normal="1978">1978</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">8</container>
+				<unittitle>Legal assistance</unittitle>
+				<unitdate type="inclusive" normal="1979">1979</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">9</container>
+				<unittitle>Legal notes</unittitle>
+				<unitdate type="inclusive" normal="1975/1976">1975-1976</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">10</container>
+				<unittitle>Regulations of the D.C. Rental Accommodations Commission</unittitle>
+				<unitdate type="inclusive" normal="1976-04-26">April 26 1976</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">11</container>
+				<unittitle>Regulations of the D.C. Rental Accommodations Commission</unittitle>
+				<unitdate type="inclusive" normal="1977">1977</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">12</container>
+				<unittitle>Regulations of the D.C. Rental Accommodations Commission</unittitle>
+				<unitdate type="inclusive" normal="1977">1977</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 3: Petitions 1976-1978</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">1</container>
+				<unittitle>Allied tenant petitions</unittitle>
+				<unitdate type="inclusive" normal="1978">1978</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">2</container>
+				<unittitle>Condominium conversion petition</unittitle>
+				<unitdate type="inclusive" normal="1977">1977</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">3</container>
+				<unittitle>Rental accommodations petitions</unittitle>
+				<unitdate type="inclusive" normal="1975/1976">1975-1976</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">4</container>
+				<unittitle>Rental accommodations petitions</unittitle>
+				<unitdate type="inclusive" normal="1975/1976">1975-1976</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">5</container>
+				<unittitle>Rental accommodations petitions</unittitle>
+				<unitdate type="inclusive" normal="1975/1976">1975-1976</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">6</container>
+				<unittitle>Tenant petition 164</unittitle>
+				<unitdate type="inclusive" normal="1976">1976</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">7</container>
+				<unittitle>Tenant petition 1034</unittitle>
+				<unitdate type="inclusive" normal="1977/1978">1977-1978</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">8</container>
+				<unittitle>Tenant petitions (6 folders)</unittitle>
+				<unitdate type="inclusive" normal="1975/1978">1975-1978</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 4: Correspondence 1975-1978</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">5</container>
+				<container type="Folder">1</container>
+				<unittitle>Correspondence</unittitle>
+				<unitdate type="inclusive" normal="1976/1977">1976-1977</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">5</container>
+				<container type="Folder">2</container>
+				<unittitle>Correspondence and memoranda</unittitle>
+				<unitdate type="inclusive" normal="1975/1976">1975-1976</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">5</container>
+				<container type="Folder">3</container>
+				<unittitle>Correspondence and memoranda</unittitle>
+				<unitdate type="inclusive" normal="1977/1978">1977-1978</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">5</container>
+				<container type="Folder">4</container>
+				<unittitle>Correspondence re problems</unittitle>
+				<unitdate type="inclusive" normal="1973/1976">1973-1976</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">5</container>
+				<container type="Folder">5</container>
+				<unittitle>Correspondence re problems</unittitle>
+				<unitdate type="inclusive" normal="1977">1977</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">5</container>
+				<container type="Folder">6</container>
+				<unittitle>Duplicate correspondence and other documents</unittitle>
+				<unitdate type="inclusive" normal="1975/1978">1975-1978</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">5</container>
+				<container type="Folder">7</container>
+				<unittitle>Duplicate correspondence and other documents</unittitle>
+				<unitdate type="inclusive" normal="1975/1978">1975-1978</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">5</container>
+				<container type="Folder">8</container>
+				<unittitle>Tenant correspondence</unittitle>
+				<unitdate type="inclusive" normal="1975/1977">1975-1977</unitdate>
+			</did>
+		</c02>
+	</c01>
+</dsc>
+</archdesc>
+</ead>

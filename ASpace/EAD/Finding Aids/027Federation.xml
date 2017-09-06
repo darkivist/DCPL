@@ -1,0 +1,970 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type="text/xml" href="I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/eadcbs6rev.xsl"?><!DOCTYPE ead PUBLIC "-//Society of American Archivists//DTD ead.dtd (Encoded Archival Description (EAD) Version 1.0)//EN" "I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/ead.dtd">
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" repositoryencoding="iso15511" relatedencoding="MARC21">
+	<eadid mainagencycode="DWP" countrycode="US" url="http://washingtoniana.dclibrary.org">027Federation</eadid>
+<filedesc>
+<titlestmt>
+	<titleproper encodinganalog="245$a">DC Federation of Civic Associations</titleproper>
+	<subtitle>An inventory of DC Federation of Civic Associations at DC Public Library</subtitle>
+<author encodinganalog="245$c">Finding aid prepared by DC Public Library.</author>
+</titlestmt>
+<publicationstmt>
+<publisher encodinganalog="260$b">DC Public Library, Special Collections</publisher>
+	<date type="publication" encodinganalog="260$c" normal="2002-10-11">2002-10-11</date>
+<address><addressline>901 G Street NW</addressline><addressline>DC Public Library</addressline><addressline>Washington, D.C. 20009</addressline></address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation encodinganalog="500">EAD encoded by Paul Kelly on
+	<date normal="2017-04-20">2017-04-20</date>
+</creation>
+<langusage>English</langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory" relatedencoding="MARC21">
+<did id="a1">
+<head>Descriptive Summary</head>
+<repository label="Repository:" encodinganalog="852$a"><corpname>DC Public Library, Special Collections</corpname></repository>
+	<unitdate encodinganalog="260$c" label="Dates:" type="inclusive" normal="1960/1979">1960-1979</unitdate>
+	<unittitle label="Title:" encodinganalog="245$a">DC Federation of Civic Associations Records</unittitle>
+<physdesc label="Extent:" encodinganalog="300$a"><extent>6.5 linear feet; 16 boxes</extent></physdesc>
+<unitid encodinganalog="090" label="Collection Number:" countrycode="US" repositorycode="DCU">027</unitid>
+<langmaterial encodinganalog="041" label="Language:"><language langcode="eng">English</language></langmaterial>
+</did>
+	
+<dsc type="combined" id="a23">
+<head>Detailed Description of the Collection</head>
+<c01 level="series">
+   <did>
+   	<unittitle>Series 1: Federation Awards, 1963-1984</unittitle>
+    </did>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">1</container>
+			<unittitle>Federation Awards</unittitle>
+			<unitdate type="inclusive" normal="1963/1972">1963-1972</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">1</container>
+			<unittitle>Federation Awards</unittitle>
+			<unitdate type="inclusive" normal="1973/1977">1973-1977</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">1</container>
+			<unittitle>Federation Awards</unittitle>
+			<unitdate type="inclusive" normal="1977/1984">1977-1984</unitdate>
+		</did>
+	</c02>
+</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 2: Topics, 1960-1979</unittitle>
+		</did>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">1</container>
+			<unittitle>Announcements</unittitle>
+			<unitdate type="inclusive" normal="1970/1973">1970-1973</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">2</container>
+			<unittitle>Announcements</unittitle>
+			<unitdate type="inclusive" normal="1970/1973">1970-1973</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">3</container>
+			<unittitle>Announcements</unittitle>
+			<unitdate type="inclusive" normal="1970/1973">1970-1973</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">4</container>
+			<unittitle>Black Tie Ball</unittitle>
+			<unitdate type="inclusive" normal="1972/1974">1972-1974</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">5</container>
+			<unittitle>Black Tie Ball</unittitle>
+			<unitdate type="inclusive" normal="1972/1974">1972-1974</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">6</container>
+			<unittitle>Black Tie Ball</unittitle>
+			<unitdate type="inclusive" normal="1972/1974">1972-1974</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">7</container>
+			<unittitle>City Planning documents</unittitle>
+			<unitdate type="inclusive" normal="1970/1980">1970-1980</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">8</container>
+			<unittitle>City Planning documents</unittitle>
+			<unitdate type="inclusive" normal="1970/1980">1970-1980</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">1</container>
+			<unittitle>Civic Responsibility Week</unittitle>
+			<unitdate type="inclusive" normal="1965/1979">1965-1979</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">2</container>
+			<unittitle>Civil Protection Committee</unittitle>
+			<unitdate type="inclusive" normal="1967/1979">1967-1979</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">3</container>
+			<unittitle>Civil Protection Committee</unittitle>
+			<unitdate type="inclusive" normal="1967/1979">1967-1979</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">4</container>
+			<unittitle>Civil Protection Committee</unittitle>
+			<unitdate type="inclusive" normal="1967/1979">1967-1979</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">5</container>
+			<unittitle>Consumer protection committee documents</unittitle>
+			<unitdate type="inclusive" normal="1969/1979">1969-1979</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">6</container>
+			<unittitle>Cultural Arts Committee</unittitle>
+			<unitdate type="inclusive" normal="1967/1973">1967-1973</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">7</container>
+			<unittitle>Cultural Arts Committee</unittitle>
+			<unitdate type="inclusive" normal="1967/1973">1967-1973</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">8</container>
+			<unittitle>Cultural Arts/Scholarship fundraiser project</unittitle>
+			<unitdate type="inclusive" normal="1973">1973</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">9</container>
+			<unittitle>Economic Development Committee</unittitle>
+			<unitdate type="inclusive" normal="1970/1979">1970-1979</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">10</container>
+			<unittitle>Economic Development Committee</unittitle>
+			<unitdate type="inclusive" normal="1970/1979">1970-1979</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">1</container>
+			<unittitle>Education Committee</unittitle>
+			<unitdate type="inclusive" normal="1973/1979">1973-1979</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">2</container>
+			<unittitle>Education Committee</unittitle>
+			<unitdate type="inclusive" normal="1973/1979">1973-1979</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">3</container>
+			<unittitle>Endorsement Policy</unittitle>
+			<unitdate type="inclusive" normal="1970">1970</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">4</container>
+			<unittitle>Environmental Committee</unittitle>
+			<unitdate type="inclusive" normal="1972/1979">1972-1979</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">5</container>
+			<unittitle>Annual Father Day’s celebration</unittitle>
+			<unitdate type="inclusive" normal="1977/1984">1977-1984</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">6</container>
+			<unittitle>Financial records</unittitle>
+			<unitdate type="inclusive" normal="1960/1964">1960-1964</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">7</container>
+			<unittitle>Financial records</unittitle>
+			<unitdate type="inclusive" normal="1960/1964">1960-1964</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">8</container>
+			<unittitle>Financial records</unittitle>
+			<unitdate type="inclusive" normal="1960/1964">1960-1964</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">9</container>
+			<unittitle>Financial records</unittitle>
+			<unitdate type="inclusive" normal="1960/1964">1960-1964</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">10</container>
+			<unittitle>Financial records</unittitle>
+			<unitdate type="inclusive" normal="1974/1975">1974-1975</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">1</container>
+			<unittitle>Financial records</unittitle>
+			<unitdate type="inclusive" normal="1975/1979">1975-1979</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">2</container>
+			<unittitle>Financial records</unittitle>
+			<unitdate type="inclusive" normal="1975/1979">1975-1979</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">3</container>
+			<unittitle>Financial records</unittitle>
+			<unitdate type="inclusive" normal="1975/1979">1975-1979</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">4</container>
+			<unittitle>Financial records</unittitle>
+			<unitdate type="inclusive" normal="1975/1979">1975-1979</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">5</container>
+			<unittitle>Honorary Life members</unittitle>
+			<unitdate type="inclusive" normal="1972">1972</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">6</container>
+			<unittitle>Lottery</unittitle>
+			<unitdate type="inclusive" normal="1973">1973</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">7</container>
+			<unittitle>Meeting attendance records</unittitle>
+			<unitdate type="inclusive" normal="1970/1978">1970-1978</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">8</container>
+			<unittitle>Membership orientation</unittitle>
+			<unitdate type="inclusive" normal="1975">1975</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">9</container>
+			<unittitle>Membership orientation</unittitle>
+			<unitdate type="inclusive" normal="1975">1975</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">10</container>
+			<unittitle>Membership orientation</unittitle>
+			<unitdate type="inclusive" normal="1975">1975</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">11</container>
+			<unittitle>Membership orientation</unittitle>
+			<unitdate type="inclusive" normal="1975">1975</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">12</container>
+			<unittitle>Mothers Day program</unittitle>
+			<unitdate type="inclusive" normal="1972/1979">1972-1979</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">13</container>
+			<unittitle>Mothers Day program</unittitle>
+			<unitdate type="inclusive" normal="1972/1979">1972-1979</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">14</container>
+			<unittitle>Mothers Day program</unittitle>
+			<unitdate type="inclusive" normal="1972/1979">1972-1979</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">15</container>
+			<unittitle>Mothers Day program</unittitle>
+			<unitdate type="inclusive" normal="1972/1979">1972-1979</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">16</container>
+			<unittitle>Mothers Day program</unittitle>
+			<unitdate type="inclusive" normal="1972/1979">1972-1979</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">17</container>
+			<unittitle>Mothers Day program</unittitle>
+			<unitdate type="inclusive" normal="1972/1979">1972-1979</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">18</container>
+			<unittitle>Mothers Day program</unittitle>
+			<unitdate type="inclusive" normal="1972/1979">1972-1979</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">19</container>
+			<unittitle>Mothers Day program</unittitle>
+			<unitdate type="inclusive" normal="1972/1979">1972-1979</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">20</container>
+			<unittitle>News Media Committee</unittitle>
+			<unitdate type="inclusive" normal="1972/1973">1972-1973</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">21</container>
+			<unittitle>New Media</unittitle>
+			<unitdate type="inclusive" normal="1973">1973</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">1</container>
+			<unittitle>President’s papers</unittitle>
+			<unitdate type="inclusive" normal="1965/1979">1965-1979</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">2</container>
+			<unittitle>President’s testimonial for B. Alexander</unittitle>
+			<unitdate type="inclusive" normal="1974">1974</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">3</container>
+			<unittitle>Public utilities issues</unittitle>
+			<unitdate type="inclusive" normal="1970/1979">1970-1979</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">4</container>
+			<unittitle>Recreation</unittitle>
+			<unitdate type="inclusive" normal="1972/1979">1972-1979</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">5</container>
+			<unittitle>Recreation</unittitle>
+			<unitdate type="inclusive" normal="1972/1979">1972-1979</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">6</container>
+			<unittitle>Reference materials</unittitle>
+			<unitdate type="inclusive" normal="1966/1971">1966-1971</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">7</container>
+			<unittitle>Reference materials</unittitle>
+			<unitdate type="inclusive" normal="1966/1971">1966-1971</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">8</container>
+			<unittitle>Reference materials</unittitle>
+			<unitdate type="inclusive" normal="1966/1971">1966-1971</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">1</container>
+			<unittitle>Reference Materials</unittitle>
+			<unitdate type="inclusive" normal="1979">1979</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">2</container>
+			<unittitle>Rosters</unittitle>
+			<unitdate type="inclusive" normal="1965/1979">1965-1979</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">3</container>
+			<unittitle>Rosters</unittitle>
+			<unitdate type="inclusive" normal="1965/1979">1965-1979</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">4</container>
+			<unittitle>Rosters</unittitle>
+			<unitdate type="inclusive" normal="1965/1979">1965-1979</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">5</container>
+			<unittitle>Rosters</unittitle>
+			<unitdate type="inclusive" normal="1965/1979">1965-1979</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">1</container>
+			<unittitle>Salute to Seniors</unittitle>
+			<unitdate type="inclusive" normal="1968/1979">1968-1979</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">2</container>
+			<unittitle>Sanitation Committee</unittitle>
+			<unitdate type="inclusive" normal="1969/1971">1969-1971</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">3</container>
+			<unittitle>Speakers Bureau Project</unittitle>
+			<unitdate type="inclusive" normal="1968">1968</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">4</container>
+			<unittitle>Treasurers Reports</unittitle>
+			<unitdate type="inclusive" normal="1975/1985">1975-1985</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">5</container>
+			<unittitle>Transportation</unittitle>
+			<unitdate type="inclusive" normal="1969/1979">1969-1979</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">6</container>
+			<unittitle>Urban Development Committee</unittitle>
+			<unitdate type="inclusive" normal="1969/1973">1969-1973</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">7</container>
+			<unittitle>Zoning</unittitle>
+			<unitdate type="inclusive" normal="1966/1972">1966-1972</unitdate>
+		</did>
+	</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 3: Newsletters, 1964-1979</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">10</container>
+				<container type="Folder">8</container>
+				<unittitle>Newsletters</unittitle>
+				<unitdate type="inclusive" normal="1966/1972">1966-1972</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">11</container>
+				<container type="Folder">1</container>
+				<unittitle>Newsletters</unittitle>
+				<unitdate type="inclusive" normal="1973/1979">1973-1979</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">11</container>
+				<container type="Folder">2</container>
+				<unittitle>Brightwood Newsletters</unittitle>
+				<unitdate type="inclusive" normal="1972/1977">1972-1977</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">11</container>
+				<container type="Folder">3</container>
+				<unittitle>Burleith Newsletters</unittitle>
+				<unitdate type="inclusive" normal="1973/1979">1973-1979</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">11</container>
+				<container type="Folder">4</container>
+				<unittitle>Capitol View Newsletters</unittitle>
+				<unitdate type="inclusive" normal="1970/1984">1970-1984</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">11</container>
+				<container type="Folder">5</container>
+				<unittitle>Capitol View Newsletters</unittitle>
+				<unitdate type="inclusive" normal="1970/1984">1970-1984</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">11</container>
+				<container type="Folder">6</container>
+				<unittitle>Capitol View Newsletters</unittitle>
+				<unitdate type="inclusive" normal="1970/1984">1970-1984</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">12</container>
+				<container type="Folder">1</container>
+				<unittitle>North Michigan Park Newsletters</unittitle>
+				<unitdate type="inclusive" normal="1972/1979">1972-1979</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">12</container>
+				<container type="Folder">2</container>
+				<unittitle>Public Interest Community News</unittitle>
+				<unitdate type="inclusive" normal="1976/1979">1976-1979</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">12</container>
+				<container type="Folder">3</container>
+				<unittitle>Southeast Civic Association</unittitle>
+				<unitdate type="inclusive" normal="1964/1974">1964-1974</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">12</container>
+				<container type="Folder">4</container>
+				<unittitle>Southeast Civic Association</unittitle>
+				<unitdate type="inclusive" normal="1964/1974">1964-1974</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">12</container>
+				<container type="Folder">5</container>
+				<unittitle>Southeast Civic Association</unittitle>
+				<unitdate type="inclusive" normal="1964/1974">1964-1974</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">12</container>
+				<container type="Folder">6</container>
+				<unittitle>Southwester Newsletter</unittitle>
+				<unitdate type="inclusive" normal="1976/1978">1976-1978</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 4: Interfederation and National Business, 1967-1978</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">12</container>
+				<container type="Folder">7</container>
+				<unittitle>Interfederation Council Constitution</unittitle>
+				<unitdate type="inclusive">1967, 1973</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">12</container>
+				<container type="Folder">8</container>
+				<unittitle>Interfederation Council meeting minutes</unittitle>
+				<unitdate type="inclusive" normal="1969/1974">1969-1974</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">12</container>
+				<container type="Folder">9</container>
+				<unittitle>National Association of Neighborhoods</unittitle>
+				<unitdate type="inclusive" normal="1977/1978">1977-1978</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 5: Meeting Minutes, 1965-1978</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">13</container>
+				<container type="Folder">1</container>
+				<unittitle>Meeting minutes</unittitle>
+				<unitdate type="inclusive" normal="1965/1970">1965-1970</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">13</container>
+				<container type="Folder">2</container>
+				<unittitle>Meeting minutes</unittitle>
+				<unitdate type="inclusive" normal="1965/1970">1965-1970</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">13</container>
+				<container type="Folder">3</container>
+				<unittitle>Meeting minutes</unittitle>
+				<unitdate type="inclusive" normal="1965/1970">1965-1970</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">13</container>
+				<container type="Folder">4</container>
+				<unittitle>Meeting minutes</unittitle>
+				<unitdate type="inclusive" normal="1965/1970">1965-1970</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">13</container>
+				<container type="Folder">5</container>
+				<unittitle>Meeting minutes</unittitle>
+				<unitdate type="inclusive" normal="1965/1970">1965-1970</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">13</container>
+				<container type="Folder">6</container>
+				<unittitle>Meeting minutes</unittitle>
+				<unitdate type="inclusive" normal="1965/1970">1965-1970</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">14</container>
+				<container type="Folder">1</container>
+				<unittitle>Meeting minutes</unittitle>
+				<unitdate type="inclusive" normal="1971/1972">1971-1972</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">14</container>
+				<container type="Folder">2</container>
+				<unittitle>Meeting minutes</unittitle>
+				<unitdate type="inclusive" normal="1971/1972">1971-1972</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">14</container>
+				<container type="Folder">3</container>
+				<unittitle>Meeting minutes</unittitle>
+				<unitdate type="inclusive" normal="1971/1972">1971-1972</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">14</container>
+				<container type="Folder">4</container>
+				<unittitle>Meeting minutes</unittitle>
+				<unitdate type="inclusive" normal="1971/1972">1971-1972</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">14</container>
+				<container type="Folder">5</container>
+				<unittitle>Meeting minutes</unittitle>
+				<unitdate type="inclusive" normal="1971/1972">1971-1972</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">14</container>
+				<container type="Folder">6</container>
+				<unittitle>Meeting minutes</unittitle>
+				<unitdate type="inclusive" normal="1971/1972">1971-1972</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">15</container>
+				<container type="Folder">1</container>
+				<unittitle>Meeting minutes</unittitle>
+				<unitdate type="inclusive" normal="1973/1977">1973-1977</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">15</container>
+				<container type="Folder">2</container>
+				<unittitle>Meeting minutes</unittitle>
+				<unitdate type="inclusive" normal="1973/1977">1973-1977</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">15</container>
+				<container type="Folder">3</container>
+				<unittitle>Meeting minutes</unittitle>
+				<unitdate type="inclusive" normal="1973/1977">1973-1977</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">15</container>
+				<container type="Folder">4</container>
+				<unittitle>Meeting minutes</unittitle>
+				<unitdate type="inclusive" normal="1973/1977">1973-1977</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">15</container>
+				<container type="Folder">5</container>
+				<unittitle>Executive Committee and Delegate Assembly</unittitle>
+				<unitdate type="inclusive" normal="1976">1976</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">15</container>
+				<container type="Folder">6</container>
+				<unittitle>Executive Committee Meetings</unittitle>
+				<unitdate type="inclusive" normal="1978">1978</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">15</container>
+				<container type="Folder">7</container>
+				<unittitle>Executive Committee Meetings</unittitle>
+				<unitdate type="inclusive" normal="1978">1978</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">16</container>
+				<container type="Folder">1</container>
+				<unittitle>Executive Committee Meetings</unittitle>
+				<unitdate type="inclusive" normal="1978/1979">1978-1979</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">16</container>
+				<container type="Folder">2</container>
+				<unittitle>Executive Committee Meetings</unittitle>
+				<unitdate type="inclusive" normal="1978/1979">1978-1979</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">16</container>
+				<container type="Folder">3</container>
+				<unittitle>Executive Committee Meetings</unittitle>
+				<unitdate type="inclusive" normal="1978/1979">1978-1979</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">16</container>
+				<container type="Folder">4</container>
+				<unittitle>Executive Committee Meetings</unittitle>
+				<unitdate type="inclusive" normal="1978/1979">1978-1979</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">16</container>
+				<container type="Folder">5</container>
+				<unittitle>Executive Committee Meetings</unittitle>
+				<unitdate type="inclusive" normal="1978/1979">1978-1979</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">16</container>
+				<container type="Folder">6</container>
+				<unittitle>Executive Committee Meetings</unittitle>
+				<unitdate type="inclusive" normal="1978/1979">1978-1979</unitdate>
+			</did>
+		</c02>
+	</c01>
+</dsc>
+</archdesc>
+</ead>

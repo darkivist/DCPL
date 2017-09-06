@@ -1,0 +1,1256 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type="text/xml" href="I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/eadcbs6rev.xsl"?><!DOCTYPE ead PUBLIC "-//Society of American Archivists//DTD ead.dtd (Encoded Archival Description (EAD) Version 1.0)//EN" "I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/ead.dtd">
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" repositoryencoding="iso15511" relatedencoding="MARC21">
+	<eadid mainagencycode="DWP" countrycode="US" url="http://washingtoniana.dclibrary.org">057CapitalBike</eadid>
+<filedesc>
+<titlestmt>
+	<titleproper encodinganalog="245$a">Capital Bicycle Club</titleproper>
+	<subtitle>An inventory of Capital Bicycle Club at DC Public Library</subtitle>
+	<author encodinganalog="245$c">Finding aid prepared by Kari Schmidt.</author>
+</titlestmt>
+<publicationstmt>
+<publisher encodinganalog="260$b">DC Public Library, Special Collections</publisher>
+	<date type="publication" encodinganalog="260$c" normal="2002-11">2002-11</date>
+<address><addressline>901 G Street NW</addressline><addressline>DC Public Library</addressline><addressline>Washington, D.C. 20009</addressline></address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation encodinganalog="500">EAD encoded by Paul Kelly on
+	<date normal="2017-04-20">2017-04-20</date>
+</creation>
+<langusage>English</langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory" relatedencoding="MARC21">
+<did id="a1">
+<head>Descriptive Summary</head>
+<repository label="Repository:" encodinganalog="852$a"><corpname>DC Public Library, Special Collections</corpname></repository>
+	<unitdate encodinganalog="260$c" label="Dates:" type="inclusive" normal="1880/1929">1880-1929</unitdate>
+	<unittitle label="Title:" encodinganalog="245$a">Capital Bicycle Club Collection</unittitle>
+<physdesc label="Extent:" encodinganalog="300$a"><extent>8.5 linear feet; 10 boxes</extent></physdesc>
+<unitid encodinganalog="090" label="Collection Number:" countrycode="US" repositorycode="DCU">057</unitid>
+<langmaterial encodinganalog="041" label="Language:"><language langcode="eng">English</language></langmaterial>
+</did>
+	
+<dsc type="combined" id="a23">
+<head>Detailed Description of the Collection</head>
+<c01 level="series">
+   <did>
+   	<unittitle>Series 1: Photographs, 1882-1890</unittitle>
+    </did>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">1</container>
+			<unittitle>Natural Bridge Tour - C. Allen/M. Hansmann/L.W. Seely (photograph by Max Hansmann - negative 14020)</unittitle>
+			<unitdate type="inclusive" normal="1882-09">September 1882</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">2</container>
+			<unittitle>Natural Bridge Tour - C. Allen/M. Hansmann/L.W. Seely (photograph by Max Hansmann - duplicate - negative 14020)</unittitle>
+			<unitdate type="inclusive" normal="1882-09">September 1882</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">3</container>
+			<unittitle>Natural Bridge Tour - C. Allen/L.W. Seely/M. Hansmann (photograph by Max Hansmann - negative 14028)</unittitle>
+			<unitdate type="inclusive" normal="1882-09">September 1882</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">4</container>
+			<unittitle>Natural Bridge Tour - C. Allen</unittitle>
+			<unitdate type="inclusive" normal="1882-09">September 1882</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">5</container>
+			<unittitle>Small mounted photo prints of Natural Bridge Tour - (photographs by Max Hansmann - no negative)</unittitle>
+			<unitdate type="inclusive" normal="1882-09">September 1882</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">6</container>
+			<unittitle>Clubhouse - 919 G Street N.W. - Exterior group shot (photographer unknown - no negative)</unittitle>
+			<unitdate type="inclusive" normal="1882/1884">1882-1884</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">7</container>
+			<unittitle>League of American Wheelmen - Washington Athletic Park - 9th and S Streets N.W. - “The Collision” (photographer unknown - negative 6336)</unittitle>
+			<unitdate type="inclusive" normal="1884-05-20">May 20 1884</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">8</container>
+			<unittitle>League of American Wheelmen - Washington Athletic Park - 9th and S Streets N.W. - Polo Games (photographer unknown - negative 6337)</unittitle>
+			<unitdate type="inclusive" normal="1884-05-20">May 20 1884</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">9</container>
+			<unittitle>League of American Wheelmen - Washington Athletic Park - 9th and S Streets N.W. - LAW Races (photographer unknown - negative 6338)</unittitle>
+			<unitdate type="inclusive" normal="1884-05-20">May 20 1884</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">10</container>
+			<unittitle>League of American Wheelmen - Washington Athletic Park - 9th and S Streets N.W. - “The Stack” (photographer unknown - negative 6339)</unittitle>
+			<unitdate type="inclusive" normal="1884-05-20">May 20 1884</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">11</container>
+			<unittitle>League of American Wheelmen - Washington Athletic Park - 9th and S Streets N.W. - “The March” (photographer unknown - negative 6340)</unittitle>
+			<unitdate type="inclusive" normal="1884-05-20">May 20 1884</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">12</container>
+			<unittitle>League of American Wheelmen - Washington Athletic Park - 9th and S Streets N.W. - LAW Races (photographer unknown - negative 6341)</unittitle>
+			<unitdate type="inclusive" normal="1884-05-20">May 20 1884</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">13</container>
+			<unittitle>League of American Wheelmen - Washington Athletic Park - 9th and S Streets N.W. - LAW Races (photographer unknown - negative 6342)</unittitle>
+			<unitdate type="inclusive" normal="1884-05-20">May 20 1884</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">14</container>
+			<unittitle>League of American Wheelmen - Washington Athletic Park - 9th and S Streets N.W. - 1 Mile Race (photographer unknown - negative 6343)</unittitle>
+			<unitdate type="inclusive" normal="1884-05-20">May 20 1884</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">15</container>
+			<unittitle>League of American Wheelmen - Washington Athletic Park - 9th and S Streets N.W. - 3 Mile Race (photographer unknown - negative 6344)</unittitle>
+			<unitdate type="inclusive" normal="1884-05-20">May 20 1884</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">16</container>
+			<unittitle>League of American Wheelmen - Washington Athletic Park - 9th and S Streets N.W. - “Finley fancy riding on Star” (photographer unknown - negative 6345)</unittitle>
+			<unitdate type="inclusive" normal="1884-05-20">May 20 1884</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">17</container>
+			<unittitle>League of American Wheelmen - Washington Athletic Park - 9th and S Streets N.W. - “Finley fancy riding on Star – Backward in Saddle” (photographer unknown - negative 6346)</unittitle>
+			<unitdate type="inclusive" normal="1884-05-20">May 20 1884</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">18</container>
+			<unittitle>League of American Wheelmen - Washington Athletic Park - 9th and S Streets N.W. - “Finley and Chickering on Star – Head Down” (photographer unknown - negative 6347)</unittitle>
+			<unitdate type="inclusive" normal="1884-05-20">May 20 1884</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">19</container>
+			<unittitle>League of American Wheelmen - Washington Athletic Park - 9th and S Streets N.W. - “Finley and Chickering on Star” (photographer unknown - negative 6348)</unittitle>
+			<unitdate type="inclusive" normal="1884-05-20">May 20 1884</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">20</container>
+			<unittitle>League of American Wheelmen - Washington Athletic Park - 9th and S Streets N.W. - “A Shooting Star” Rex Smith riding down Capitol Steps (photographer unknown - negative 6349)</unittitle>
+			<unitdate type="inclusive" normal="1884-05-20">May 20 1884</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">21</container>
+			<unittitle>League of American Wheelmen - Washington Athletic Park - 9th and S Streets N.W. - “Parade of the Capital Club – The March” (photographer unknown - negative 6350)</unittitle>
+			<unitdate type="inclusive" normal="1884-05-20">May 20 1884</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">22</container>
+			<unittitle>League of American Wheelmen - Washington Athletic Park - 9th and S Streets N.W. - “Finley fancy riding on Star” (photographer unknown - negative 6351)</unittitle>
+			<unitdate type="inclusive" normal="1884-05-20">May 20 1884</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">23</container>
+			<unittitle>League of American Wheelmen - Washington Athletic Park - 9th and S Streets N.W. - “Finley fancy riding on Star (before steering rod on one foot)” (photographer unknown - negative 6352)</unittitle>
+			<unitdate type="inclusive" normal="1884-05-20">May 20 1884</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">24</container>
+			<unittitle>League of American Wheelmen - Washington Athletic Park - 9th and S Streets N.W. - 5 Mile Race (photographer unknown - negative 6353)</unittitle>
+			<unitdate type="inclusive" normal="1884-05-20">May 20 1884</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">25</container>
+			<unittitle>League of American Wheelmen - Washington Athletic Park - 9th and S Streets N.W. - 1 Mile Race (photographer unknown - negative 6354)</unittitle>
+			<unitdate type="inclusive" normal="1884-05-20">May 20 1884</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">26</container>
+			<unittitle>League of American Wheelmen - Washington Athletic Park - 9th and S Streets N.W. - 3 Mile Race (photographer unknown - negative 6355)</unittitle>
+			<unitdate type="inclusive" normal="1884-05-20">May 20 1884</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">27</container>
+			<unittitle>League of American Wheelmen - Washington Athletic Park - 9th and S Streets N.W. - 10 Mile Race (photographer unknown - negative 6356)</unittitle>
+			<unitdate type="inclusive" normal="1884-05-20">May 20 1884</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">28</container>
+			<unittitle>League of American Wheelmen - Washington Athletic Park - 9th and S Streets N.W. - 5 Mile Race (photographer unknown - negative 6357)</unittitle>
+			<unitdate type="inclusive" normal="1884-05-20">May 20 1884</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">29</container>
+			<unittitle>League of American Wheelmen - Washington Athletic Park - 9th and S Streets N.W. - “Parade of the Capital Bicycle Club – The Stack” (photographer unknown - negative 6358)</unittitle>
+			<unitdate type="inclusive" normal="1884-05-20">May 20 1884</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">30</container>
+			<unittitle>League of American Wheelmen - Washington Athletic Park - 9th and S Streets N.W. - 3 Mile Race (photographer unknown - negative 6359)</unittitle>
+			<unitdate type="inclusive" normal="1884-05-20">May 20 1884</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">31</container>
+			<unittitle>League of American Wheelmen - Washington Athletic Park - 9th and S Streets N.W. - 1 Mile Race (photographer unknown - negative 6360)</unittitle>
+			<unitdate type="inclusive" normal="1884-05-20">May 20 1884</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">32</container>
+			<unittitle>League of American Wheelmen - Washington Athletic Park - 9th and S Streets N.W. - 25 Mile Race (photographer unknown - negative 6361)</unittitle>
+			<unitdate type="inclusive" normal="1884-05-20">May 20 1884</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">33</container>
+			<unittitle>League of American Wheelmen - Washington Athletic Park - 9th and S Streets N.W. - “LAW Parade Review in front of Arlington Hotel” (photographer unknown - negative 6362)</unittitle>
+			<unitdate type="inclusive" normal="1884-05-20">May 20 1884</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">34</container>
+			<unittitle>League of American Wheelmen - Washington Athletic Park - 9th and S Streets N.W. - “LAW Parade - May 1884 - Capital Bicycle Club parading in front of Arlington Hotel” (photographer unknown - negative 4086)</unittitle>
+			<unitdate type="inclusive" normal="1884-05-20">May 20 1884</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">35</container>
+			<unittitle>League of American Wheelmen - Washington Athletic Park - 9th and S Streets N.W. - 10 Mile Race (photographer unknown - negative 6363)</unittitle>
+			<unitdate type="inclusive" normal="1884-05-20">May 20 1884</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">36</container>
+			<unittitle>League of American Wheelmen - Washington Athletic Park - 9th and S Streets N.W. - 25 Mile Race (photographer unknown - negative 6364)</unittitle>
+			<unitdate type="inclusive" normal="1884-05-20">May 20 1884</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">37</container>
+			<unittitle>League of American Wheelmen - Washington Athletic Park - 9th and S Streets N.W. - “Close Quarters” (photographer unknown - negative 6365)</unittitle>
+			<unitdate type="inclusive" normal="1884-05-20">May 20 1884</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">38</container>
+			<unittitle>League of American Wheelmen - Washington Athletic Park - 9th and S Streets N.W. - Unknown (photographer unknown - negative 6366)</unittitle>
+			<unitdate type="inclusive" normal="1884-05-20">May 20 1884</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">39</container>
+			<unittitle>League of American Wheelmen - Washington Athletic Park - 9th and S Streets N.W. - 1 Mile Race (photographer unknown - negative 6367)</unittitle>
+			<unitdate type="inclusive" normal="1884-05-20">May 20 1884</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">40</container>
+			<unittitle>League of American Wheelmen - Washington Athletic Park - 9th and S Streets N.W. - “Rex Smith riding on one wheel standing in saddle” (photographer unknown - negative 6368)</unittitle>
+			<unitdate type="inclusive" normal="1884-05-20">May 20 1884</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">41</container>
+			<unittitle>League of American Wheelmen - Washington Athletic Park - 9th and S Streets N.W. - 1 Mile Race (photographer unknown - negative 6369)</unittitle>
+			<unitdate type="inclusive" normal="1884-05-20">May 20 1884</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">42</container>
+			<unittitle>League of American Wheelmen - Washington Athletic Park - 9th and S Streets N.W. - 3 Mile Race (photographer unknown - negative 6370)</unittitle>
+			<unitdate type="inclusive" normal="1884-05-20">May 20 1884</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">43</container>
+			<unittitle>League of American Wheelmen - Washington Athletic Park - 9th and S Streets N.W. (Cyanotypes) - “Club Races” (photographer unknown - negative 7558)</unittitle>
+			<unitdate type="inclusive" normal="1884-05-20">May 20 1884</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">44</container>
+			<unittitle>League of American Wheelmen - Washington Athletic Park - 9th and S Streets N.W. (Cyanotypes) - “The Finish” (photograph by Max Hansmann - negative 7562)</unittitle>
+			<unitdate type="inclusive" normal="1884-05-20">May 20 1884</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">45</container>
+			<unittitle>League of American Wheelmen - Washington Athletic Park - 9th and S Streets N.W. (Cyanotypes) - Unknown (photographer unknown - negative 7563)</unittitle>
+			<unitdate type="inclusive" normal="1884-05-20">May 20 1884</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">46</container>
+			<unittitle>League of American Wheelmen - Washington Athletic Park - 9th and S Streets N.W. (Cyanotypes) - “The Finish” (photograph by Max Hansmann - no negative)</unittitle>
+			<unitdate type="inclusive" normal="1884-05-20">May 20 1884</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">47</container>
+			<unittitle>League of American Wheelmen - Washington Athletic Park - 9th and S Streets N.W. (Cyanotypes) - Unknown (photograph by Max Hansmann - no negative)</unittitle>
+			<unitdate type="inclusive" normal="1884-05-20">May 20 1884</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">48</container>
+			<unittitle>Cabin John Bridge - C. Allen - L.W. Seely - M. Hansmann (photograph by Max Hansmann - negative 9233)</unittitle>
+			<unitdate type="inclusive" normal="1884">1884</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">49</container>
+			<unittitle>Cabin John Bridge- C. Allen - L.W. Seely - M. Hansmann (photograph by Max Hansmann - duplicate - negative 9233)</unittitle>
+			<unitdate type="inclusive" normal="1884">1884</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">50</container>
+			<unittitle>Cabin John Bridge - C. Allen - L.W. Seely - M. Hansmann (photograph by Max Hansmann - cyanotype - negative 9290)</unittitle>
+			<unitdate type="inclusive" normal="1884">1884</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">51</container>
+			<unittitle>Will Robertson and Rex Smith on Capitol Steps - Will Robertson (photographer unknown - negative 154620)</unittitle>
+			<unitdate type="inclusive" normal="1884">1884</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">52</container>
+			<unittitle>Will Robertson and Rex Smith on Capitol Steps - Rex Smith (photographer unknown - negative 8068)</unittitle>
+			<unitdate type="inclusive" normal="1884">1884</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">53</container>
+			<unittitle>Portrait of Herbert S. “Bert” Owen - “First man to ride down Capitol Steps” (photographer unknown - negative 9227)</unittitle>
+			<unitdate type="inclusive" normal="1885">1885</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">54</container>
+			<unittitle>Capital Outing to Martha’s Vineyard - Massachusetts - Group shot - Clubhouse 919 G Street N.W. (photograph by Max Hansmann - cyanotype - negative 9289)</unittitle>
+			<unitdate type="inclusive" normal="1885-08">August 1885</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">55</container>
+			<unittitle>New Clubhouse - 409 15th Street N.W. (Cyanotypes) - Group shot - “Site of new clubhouse” (photographer unknown - no negative)</unittitle>
+			<unitdate type="inclusive" normal="1886-05-18">May 18 1886</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">56</container>
+			<unittitle>New Clubhouse - 409 15th Street N.W. (Cyanotypes) - Group shot - “Laying the clubhouse cornerstone” (photograph by Max Hansmann - no negative)</unittitle>
+			<unitdate type="inclusive" normal="1886">1886</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">57</container>
+			<unittitle>New Clubhouse - 409 15th Street N.W. (Cyanotypes) - Group shot - “Setting the Keystone of Arch” (photographer unknown- no negative)</unittitle>
+			<unitdate type="inclusive" normal="1886">1886</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">58</container>
+			<unittitle>New Clubhouse - 409 15th Street N.W. (Cyanotypes) - Group shot - “Laying corner stone” (photograph by Max Hansmann - no negative)</unittitle>
+			<unitdate type="inclusive" normal="1886">1886</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">59</container>
+			<unittitle>Procession of the Sacred Cat - Group shot (photograph by Max Hansmann - negative 6374)</unittitle>
+			<unitdate type="inclusive" normal="1887-02-22">February 22 1887</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">60</container>
+			<unittitle>Procession of the Sacred Cat -Group shot (photograph by Max Hansmann - negative 6376)</unittitle>
+			<unitdate type="inclusive" normal="1887-02-22">February 22 1887</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">61</container>
+			<unittitle>Procession of the Sacred Cat - Group shot (photograph by Max Hansmann - cyanotype - no negative)</unittitle>
+			<unitdate type="inclusive" normal="1887-02-22">February 22 1887</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">62</container>
+			<unittitle>Procession of the Sacred Cat - Group shot (photograph by Max Hansmann - cyanotype - no negative)</unittitle>
+			<unitdate type="inclusive" normal="1887-02-22">February 22 1887</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">63</container>
+			<unittitle>Procession of the Sacred Cat - Group shot (photograph by Max Hansmann - cyanotype - negative 8250)</unittitle>
+			<unitdate type="inclusive" normal="1887-02-22">February 22 1887</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">64</container>
+			<unittitle>Procession of the Sacred Cat - Group shot (photograph by Max Hansmann - cyanotype - no negative)</unittitle>
+			<unitdate type="inclusive" normal="1887-02-22">February 22 1887</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">1</container>
+			<unittitle>Herbert S. “Bert” Owen’s Birthday Run - “Entering Cosmopolitan Club Park” (photograph by Max Hansmann - negative 6294)</unittitle>
+			<unitdate type="inclusive" normal="1888-05-07">May 7 1888</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">2</container>
+			<unittitle>Herbert S. “Bert” Owen’s Birthday Run - “Entering Cosmopolitan Club Park” (photograph by Max Hansmann - cyanotype - negative 6294)</unittitle>
+			<unitdate type="inclusive" normal="1888-05-07">May 7 1888</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">3</container>
+			<unittitle>Herbert S. “Bert” Owen’s Birthday Run - “Entering Cosmopolitan Club Park” (photograph by Max Hansmann - negative 6295)</unittitle>
+			<unitdate type="inclusive" normal="1888-05-07">May 7 1888</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">4</container>
+			<unittitle>Herbert S. “Bert” Owen’s Birthday Run - “Entering Cosmopolitan Club Park” (photograph by Max Hansmann - cyanotype - negative 6295)</unittitle>
+			<unitdate type="inclusive" normal="1888-05-07">May 7 1888</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">5</container>
+			<unittitle>Herbert S. “Bert” Owen’s Birthday Run - “The Crowd – Cosmopolitan Club Park” (photograph by Max Hansmann - negative 6296)</unittitle>
+			<unitdate type="inclusive" normal="1888-05-07">May 7 1888</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">6</container>
+			<unittitle>Herbert S. “Bert” Owen’s Birthday Run - “The Crowd – Cosmopolitan Club Park” (photograph by Max Hansmann - cyanotype - negative 6296)</unittitle>
+			<unitdate type="inclusive" normal="1888-05-07">May 7 1888</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">7</container>
+			<unittitle>Herbert S. “Bert” Owen’s Birthday Run - “Ready for Bert Owen’s Birthday Run: he at head of line” (photograph by Max Hansmann - negative 6371)</unittitle>
+			<unitdate type="inclusive" normal="1888-05-07">May 7 1888</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">8</container>
+			<unittitle>Herbert S. “Bert” Owen’s Birthday Run - “Ready for Bert Owen’s Birthday Run: he at head of line” (photograph by Max Hansmann - cyanotype - negative 6371)</unittitle>
+			<unitdate type="inclusive" normal="1888-05-07">May 7 1888</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">9</container>
+			<unittitle>Herbert S. “Bert” Owen’s Birthday Run - “Start from Capital Bicycle Club’s House” (photograph by Max Hansmann - cyanotype - no negative)</unittitle>
+			<unitdate type="inclusive" normal="1888-05-07">May 7 1888</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">10</container>
+			<unittitle>Herbert S. “Bert” Owen’s Birthday Run - “The Crowd – Cosmopolitan Club Park” (photograph by Max Hansmann - negative 6372)</unittitle>
+			<unitdate type="inclusive" normal="1888-05-07">May 7 1888</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">11</container>
+			<unittitle>Herbert S. “Bert” Owen’s Birthday Run - “The Crowd – Cosmopolitan Club Park” (photograph by Max Hansmann - cyanotype - negative 6372)</unittitle>
+			<unitdate type="inclusive" normal="1888-05-07">May 7 1888</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">12</container>
+			<unittitle>Herbert S. “Bert” Owen’s Birthday Run - “The Start” (photograph by Max Hansmann - negative 6373)</unittitle>
+			<unitdate type="inclusive" normal="1888-05-07">May 7 1888</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">13</container>
+			<unittitle>Herbert S. “Bert” Owen’s Birthday Run - “The Parade – Brightwood” (photograph by Max Hansmann - negative 6375)</unittitle>
+			<unitdate type="inclusive" normal="1888-05-07">May 7 1888</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">14</container>
+			<unittitle>Herbert S. “Bert” Owen’s Birthday Run - “The Celebrated Cow-Boy Band” (photograph by Max Hansmann - negative 6378)</unittitle>
+			<unitdate type="inclusive" normal="1888-05-07">May 7 1888</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">15</container>
+			<unittitle>Herbert S. “Bert” Owen’s Birthday Run - “The Crowd – Cosmopolitan Club Park” (photograph by Max Hansmann - negative 6379)</unittitle>
+			<unitdate type="inclusive" normal="1888-05-07">May 7 1888</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">16</container>
+			<unittitle>Herbert S. “Bert” Owen’s Birthday Run - “Follow-my-leader - Followers in trouble” (photograph by Max Hansmann - cyanotype - negative 7559)</unittitle>
+			<unitdate type="inclusive" normal="1888-05-07">May 7 1888</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">17</container>
+			<unittitle>Herbert S. “Bert” Owen’s Birthday Run - “Follow-me-leader – No trouble for Bert” (photograph by Max Hansmann - cyanotype - negative 7560)</unittitle>
+			<unitdate type="inclusive" normal="1888-05-07">May 7 1888</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">18</container>
+			<unittitle>Herbert S. “Bert” Owen’s Birthday Run - “Follow-my-leader – A follower in trouble” (photograph by Max Hansmann - cyanotype - no negative)</unittitle>
+			<unitdate type="inclusive" normal="1888-05-07">May 7 1888</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">19</container>
+			<unittitle>Herbert S. “Bert” Owen’s Birthday Run - Unknown (photograph by Max Hansmann - cyanotype - negative 7938)</unittitle>
+			<unitdate type="inclusive" normal="1888-05-07">May 7 1888</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">20</container>
+			<unittitle>Herbert S. “Bert” Owen’s Birthday Run - “Follow-my-leader – A follower in trouble” (photograph by Max Hansmann - negative 7984)</unittitle>
+			<unitdate type="inclusive" normal="1888-05-07">May 7 1888</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">21</container>
+			<unittitle>Herbert S. “Bert” Owen’s Birthday Run - “Follow-my-leader – The Ravine” (photograph by Max Hansmann - cyanotype - no negative)</unittitle>
+			<unitdate type="inclusive" normal="1888-05-07">May 7 1888</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">22</container>
+			<unittitle>Herbert S. “Bert” Owen’s Birthday Run - “Follow-my-leader – The Ravine” (photograph by Max Hansmann - cyanotype - no negative)</unittitle>
+			<unitdate type="inclusive" normal="1888-05-07">May 7 1888</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">23</container>
+			<unittitle>Capital Bicycle ClubHouse - Exterior shot (photograph by Max Hansmann - cyanotype - negative 154419)</unittitle>
+			<unitdate type="inclusive" normal="1889">1889</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">24</container>
+			<unittitle>Capital Bicycle ClubHouse - Exterior shot (photograph by Max Hansmann - negative 154649)</unittitle>
+			<unitdate type="inclusive" normal="1889">1889</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">25</container>
+			<unittitle>Capital Bicycle ClubHouse - Hall and Reading Room of Clubhouse (photograph by Max Hansmann - no negative)</unittitle>
+			<unitdate type="inclusive" normal="1889">1889</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">26</container>
+			<unittitle>Capital Bicycle ClubHouse - Exterior shot (photograph by Max Hansmann - no negative)</unittitle>
+			<unitdate type="inclusive" normal="1889">1889</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">27</container>
+			<unittitle>Capital Bicycle ClubHouse - Exterior shot (photograph by Max Hansmann - negative 6511)</unittitle>
+			<unitdate type="inclusive" normal="1889">1889</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">28</container>
+			<unittitle>Portraits – 1880’s - Wallace Crossman (G.W. Davis Photograph Studio- negative 824)</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">29</container>
+			<unittitle>Portraits – 1880’s - Herbert S. “Bert” Owen (The American Photographic Studio- negative 1190)</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">30</container>
+			<unittitle>Portraits – 1880’s - Unknown (Gen. Prince Artistic Portraits- negative 6320)</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">31</container>
+			<unittitle>Portraits – 1880’s - Abner Y. Dunnington (Clinedinst Studios- negative 6321)</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">32</container>
+			<unittitle>Portraits – 1880’s - Unknown (photographer unknown - negative 6322)</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">33</container>
+			<unittitle>Portraits – 1880’s - Unknown (photographer unknown - negative 6323)</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">34</container>
+			<unittitle>Portraits – 1880’s - Clarence G. Allen (G.W. Davis- negative 6324)</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">35</container>
+			<unittitle>Portraits – 1880’s - W.F. Morsell (Rice Studio- negative 6325)</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">36</container>
+			<unittitle>Portraits – 1880’s - E.H. Fowler (photographer unknown - negative 6326)</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">37</container>
+			<unittitle>Portraits – 1880’s - George Ruoff (Rice Studio- negative 6327)</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">38</container>
+			<unittitle>Portraits – 1880’s - C.H. Wilkins (photographer unknown - negative 6328)</unittitle>
+			<unitdate type="inclusive" normal="1883">1883</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">39</container>
+			<unittitle>Portraits – 1880’s - J. West Wagner (photographer unknown - negative 6329)</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">40</container>
+			<unittitle>Portraits – 1880’s - Geu. A. Warren (N.Y. Photo Co.- negative 6330)</unittitle>
+			<unitdate type="inclusive" normal="1884">1884</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">41</container>
+			<unittitle>Portraits – 1880’s - Portrait unknown (Johnson Bros. Studios- negative 6331)</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">42</container>
+			<unittitle>Portraits – 1880’s - Portrait unknown (E. Glenton Studio- negative 6332)</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">43</container>
+			<unittitle>Portraits – 1880’s - Portrait unknown (G. W. Davis- negative 6333)</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">44</container>
+			<unittitle>Portraits – 1880’s - Portrait unknown (photographer unknown - negative 6334)</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">45</container>
+			<unittitle>Portraits – 1880’s - John Sevinborne (G. W. Davis- no negative)</unittitle>
+			<unitdate type="inclusive" normal="1881">1881</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">46</container>
+			<unittitle>Portraits – 1880’s - Howell Stewart (signed) - (Cabinet Portrait Studio- no negative)</unittitle>
+			<unitdate type="inclusive" normal="1883">1883</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">47</container>
+			<unittitle>Portraits – 1880’s - Warren Seely (G.W. Davis Studio- no negative)</unittitle>
+			<unitdate type="inclusive" normal="1883">1883</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">48</container>
+			<unittitle>Portraits – 1880’s - T.F. Schmuder (signed) (Lardner and Co.- no negative)</unittitle>
+			<unitdate type="inclusive" normal="1885">1885</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">49</container>
+			<unittitle>Portraits – 1880’s - Warren Seely (Bodie Photographic Art Studio- no negative)</unittitle>
+			<unitdate type="inclusive" normal="1888">1888</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">50</container>
+			<unittitle>Portraits – 1880’s - Rex Smith (signed) (New York Photo Company- no negative)</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">51</container>
+			<unittitle>Portraits – 1880’s - Fred Shaffert (C.M. Bell Artist- no negative)</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">52</container>
+			<unittitle>Portraits – 1880’s - P.M. Harris (signed) (Pronner Photo- no negative)</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">53</container>
+			<unittitle>Portraits – 1880’s - E.H. Shipton (Owen Studio- no negative)</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">54</container>
+			<unittitle>Portraits – 1880’s - Elmer D. Sharretts (Rice Studio- no negative)</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">1</container>
+			<unittitle>“On night train from Hagerstown Maryland” (photograph by Max Hansmann - no negative)</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">2</container>
+			<unittitle>Unidentified outing (photographer unknown - negative 7561)</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">3</container>
+			<unittitle>Star - Evening and Sunday (Rudolph Kauffmann reproductions) - C. Allen (G.W. Davis- negative 6324)</unittitle>
+			<unitdate type="inclusive" normal="1926">1926</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">4</container>
+			<unittitle>Star - Evening and Sunday (Rudolph Kauffmann reproductions) - Portrait unknown (no negative)</unittitle>
+			<unitdate type="inclusive" normal="1926">1926</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">5</container>
+			<unittitle>Star - Evening and Sunday (Rudolph Kauffmann reproductions) - C. Allen - L.W. Seely - M. Hansmann - Natural Bridge Tour (photograph by Max Hansmann - negative 14028)</unittitle>
+			<unitdate type="inclusive" normal="1926">1926</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">6</container>
+			<unittitle>Star - Evening and Sunday (Rudolph Kauffmann reproductions) - Duplicate (photograph by Max Hansmann - negative 14028)</unittitle>
+			<unitdate type="inclusive" normal="1926">1926</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">7</container>
+			<unittitle>Star - Evening and Sunday (Rudolph Kauffmann reproductions) - Cabin John Bridge (photograph by Max Hansmann - negative 9233)</unittitle>
+			<unitdate type="inclusive" normal="1926">1926</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">8</container>
+			<unittitle>Star - Evening and Sunday (Rudolph Kauffmann reproductions) - “The Celebrated Cow-Boy Band” (photograph by Max Hansmann - negative 6378)</unittitle>
+			<unitdate type="inclusive" normal="1926">1926</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">9</container>
+			<unittitle>Mounted Star rotogravures - Herbert S. “Bert” Owen’s Birthday Run (photograph by Max Hansmann - duplicate- negative 7560)</unittitle>
+			<unitdate type="inclusive" normal="1926">1926</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">10</container>
+			<unittitle>Mounted Star rotogravures - “Capital Bicycle Club in review in front of Arlington Hotel” (photographer unknown - negative 6382)</unittitle>
+			<unitdate type="inclusive" normal="1926">1926</unitdate>
+		</did>
+	</c02>
+</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 2: Memorabilia, 1880-1929</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">1</container>
+				<unittitle>Capital Bicycle Club Scrapbook</unittitle>
+				<unitdate type="inclusive" normal="1880-06/1890-01">June 1880 - January 1890</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">5</container>
+				<container type="Folder">1</container>
+				<unittitle>Papers and Clippings of Capital Bicycle Club - Scrapbook organized by Washington Public Library</unittitle>
+				<unitdate type="inclusive" normal="1891-10-03/1929-01-31">October 3 1891 – January 31 1929</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">6</container>
+				<container type="Folder">1</container>
+				<unittitle>Assorted clippings and articles - Newspaper notices of Natural Bridge Tour</unittitle>
+				<unitdate type="inclusive" normal="1882">1882</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">6</container>
+				<container type="Folder">2</container>
+				<unittitle>Assorted clippings and articles - “A Tour to the Natural Bridge” The Wheelman</unittitle>
+				<unitdate type="inclusive" normal="1883-08">August 1883</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">6</container>
+				<container type="Folder">3</container>
+				<unittitle>Assorted clippings and articles - “The Capital and the Capital Club” - The Wheelman</unittitle>
+				<unitdate type="inclusive" normal="1883-11">November 1883</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">6</container>
+				<container type="Folder">4</container>
+				<unittitle>Assorted clippings and articles - “Columbia Bicycle Prize Cup” clipping from The Wheelman</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">6</container>
+				<container type="Folder">5</container>
+				<unittitle>Assorted clippings and articles - “Presentation of the Cat” transcript from The Republic</unittitle>
+				<unitdate type="inclusive" normal="1883-01-27">January 27 1883</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">6</container>
+				<container type="Folder">6</container>
+				<unittitle>L. Warren Seely manuscript “Presentation of the Cat”</unittitle>
+				<unitdate type="inclusive" normal="1883">1883</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">6</container>
+				<container type="Folder">7</container>
+				<unittitle>Programs - Eleventh Anniversary Banquet of Capital Bicycle Club</unittitle>
+				<unitdate type="inclusive" normal="1890-01-31">January 31 1890</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">6</container>
+				<container type="Folder">8</container>
+				<unittitle>Programs - Leap Year Entertainment</unittitle>
+				<unitdate type="inclusive" normal="1892-02-29">February 29 1892</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">6</container>
+				<container type="Folder">9</container>
+				<unittitle>Assorted papers</unittitle>
+				<unitdate type="inclusive" normal="1892/1940">1892-1940</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">6</container>
+				<container type="Folder">10</container>
+				<unittitle>Assorted papers - Ticket to Annual Excursion to Marshall Hall and Indian Head</unittitle>
+				<unitdate type="inclusive" normal="1892-07-26">July 26 1892</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">6</container>
+				<container type="Folder">11</container>
+				<unittitle>Assorted papers - Directory</unittitle>
+				<unitdate type="inclusive" normal="1907-05-06">May 6 1907</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">6</container>
+				<container type="Folder">12</container>
+				<unittitle>Assorted papers - Dinner list</unittitle>
+				<unitdate type="inclusive" normal="1929-01-15">January 15 1929</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">6</container>
+				<container type="Folder">13</container>
+				<unittitle>Assorted papers - List from Max Hansmann’s stationary for “61st Capital Bicycle Club Birthday"</unittitle>
+				<unitdate type="inclusive" normal="1940-01-31">January 31 1940</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">6</container>
+				<container type="Folder">14</container>
+				<unittitle>Assorted papers - Blank membership certificate</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">6</container>
+				<container type="Folder">15</container>
+				<unittitle>Exhibit sign with labels</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 3: Official Records, 1881-1911</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">7</container>
+				<container type="Folder">1</container>
+				<unittitle>“T: Record”</unittitle>
+				<unitdate type="inclusive" normal="1881-10/1884-04">October 1881 – April 1884</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">8</container>
+				<container type="Folder">1</container>
+				<unittitle>“T: Record”</unittitle>
+				<unitdate type="inclusive" normal="1884-05/1885-12">May 1884 – December 1885</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">9</container>
+				<container type="Folder">1</container>
+				<unittitle>“T: Record”</unittitle>
+				<unitdate type="inclusive" normal="1886-01/1895-10">January 1886 – October 1895</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">9</container>
+				<container type="Folder">2</container>
+				<unittitle>“T: Letters”</unittitle>
+				<unitdate type="inclusive" normal="1890">1890</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">10</container>
+				<container type="Folder">1</container>
+				<unittitle>“T: Record”</unittitle>
+				<unitdate type="inclusive" normal="1897-05/1911-07">May 1897 – July 1911</unitdate>
+			</did>
+		</c02>
+	</c01>
+</dsc>
+</archdesc>
+</ead>

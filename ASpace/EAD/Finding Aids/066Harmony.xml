@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type="text/xml" href="I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/eadcbs6rev.xsl"?><!DOCTYPE ead PUBLIC "-//Society of American Archivists//DTD ead.dtd (Encoded Archival Description (EAD) Version 1.0)//EN" "I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/ead.dtd">
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" repositoryencoding="iso15511" relatedencoding="MARC21">
+	<eadid mainagencycode="DWP" countrycode="US" url="http://washingtoniana.dclibrary.org">066Harmony</eadid>
+<filedesc>
+<titlestmt>
+	<titleproper encodinganalog="245$a">Columbian Harmony and Payne Cemetery</titleproper>
+	<subtitle>An inventory of Columbian Harmony and Payne Cemetery Ledgers at DC Public Library</subtitle>
+	<author encodinganalog="245$c">Finding aid prepared by Ryan P. Semmes.</author>
+</titlestmt>
+<publicationstmt>
+<publisher encodinganalog="260$b">DC Public Library, Special Collections</publisher>
+	<date type="publication" encodinganalog="260$c" normal="2006-05">2006-05</date>
+<address><addressline>901 G Street NW</addressline><addressline>DC Public Library</addressline><addressline>Washington, D.C. 20009</addressline></address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation encodinganalog="500">EAD encoded by Paul Kelly on
+	<date normal="2017-04-21">2017-04-21</date>
+</creation>
+<langusage>English</langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory" relatedencoding="MARC21">
+<did id="a1">
+<head>Descriptive Summary</head>
+<repository label="Repository:" encodinganalog="852$a"><corpname>DC Public Library, Special Collections</corpname></repository>
+	<unitdate encodinganalog="260$c" label="Dates:" type="inclusive" normal="1901/1959">1901-1959</unitdate>
+	<unittitle label="Title:" encodinganalog="245$a">Columbian Harmony and Payne Cemetery Ledgers Collection</unittitle>
+<physdesc label="Extent:" encodinganalog="300$a"><extent>16 linear feet; 8 boxes</extent></physdesc>
+<unitid encodinganalog="090" label="Collection Number:" countrycode="US" repositorycode="DCU">066</unitid>
+<langmaterial encodinganalog="041" label="Language:"><language langcode="eng">English</language></langmaterial>
+</did>
+	
+<dsc type="combined" id="a23">
+<head>Detailed Description of the Collection</head>
+<c01 level="series">
+   <did>
+	<unittitle>Series 1</unittitle>
+    </did>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">1</container>
+			<unittitle>Columbian Harmony Ledger</unittitle>
+			<unitdate type="inclusive" normal="1901-07-06/1901-07-06">July 6 1901-April 17 1903</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">1</container>
+			<unittitle>Columbian Harmony Ledger</unittitle>
+			<unitdate type="inclusive" normal="1903-04-16/1903-04-16">April 16 1903-December 31 1904</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">1</container>
+			<unittitle>Columbian Harmony Ledger</unittitle>
+			<unitdate type="inclusive" normal="1904-12-30/1904-12-30">December 30 1904-July 8 1906</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">1</container>
+			<unittitle>Columbian Harmony Ledger</unittitle>
+			<unitdate type="inclusive" normal="1906-07-10/1906-07-10">July 10 1906-September 30 1912</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">2</container>
+			<unittitle>Columbian Harmony Ledger</unittitle>
+			<unitdate type="inclusive" normal="1910-07-01/1910-07-01">July 1 1910-September 30 1914</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">1</container>
+			<unittitle>Columbian Harmony Ledger</unittitle>
+			<unitdate type="inclusive" normal="1912-10-01/1912-10-01">October 1 1912-March 4 1931</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">1</container>
+			<unittitle>Columbian Harmony Ledger</unittitle>
+			<unitdate type="inclusive" normal="1931-03-25/1931-03-25">March 25 1931-October 31 1941</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">2</container>
+			<unittitle>Columbian Harmony Ledger</unittitle>
+			<unitdate type="inclusive" normal="1941-11-03/1941-11-03">November 3 1941-July 30 1953</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">1</container>
+			<unittitle>Columbian Harmony Ledger</unittitle>
+			<unitdate type="inclusive" normal="1953-08-25/1953-08-25">August 25 1953-December 21 1959</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">1</container>
+			<unittitle>Payne Cemetery Ledger</unittitle>
+			<unitdate type="inclusive" normal="1932-07-20/1932-07-20">July 20 1932-February 20 1952</unitdate>
+		</did>
+	</c02>
+</c01>
+</dsc>
+</archdesc>
+</ead>

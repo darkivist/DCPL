@@ -1,0 +1,1589 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type="text/xml" href="I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/eadcbs6rev.xsl"?><!DOCTYPE ead PUBLIC "-//Society of American Archivists//DTD ead.dtd (Encoded Archival Description (EAD) Version 1.0)//EN" "I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/ead.dtd">
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" repositoryencoding="iso15511" relatedencoding="MARC21">
+	<eadid mainagencycode="DWP" countrycode="US" url="http://washingtoniana.dclibrary.org">034NationalBallet</eadid>
+<filedesc>
+<titlestmt>
+	<titleproper encodinganalog="245$a">National Ballet</titleproper>
+	<subtitle>An inventory of National Ballet at DC Public Library</subtitle>
+<author encodinganalog="245$c">Finding aid prepared by Leroy Graham/Faye Haskins.</author>
+</titlestmt>
+<publicationstmt>
+<publisher encodinganalog="260$b">DC Public Library, Special Collections</publisher>
+	<date type="publication" encodinganalog="260$c" normal="1991-10">1991-10</date>
+<address><addressline>901 G Street NW</addressline><addressline>DC Public Library</addressline><addressline>Washington, D.C. 20009</addressline></address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation encodinganalog="500">EAD encoded by Paul Kelly on
+	<date normal="2017-04-20">2017-04-20</date>
+</creation>
+<langusage>English</langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory" relatedencoding="MARC21">
+<did id="a1">
+<head>Descriptive Summary</head>
+<repository label="Repository:" encodinganalog="852$a"><corpname>DC Public Library, Special Collections</corpname></repository>
+	<unitdate encodinganalog="260$c" label="Dates:" type="inclusive" normal="1962/1974">1962-1974</unitdate>
+	<unittitle label="Title:" encodinganalog="245$a">National Ballet Records</unittitle>
+<physdesc label="Extent:" encodinganalog="300$a"><extent>50 linear feet; 91 boxes</extent></physdesc>
+<unitid encodinganalog="090" label="Collection Number:" countrycode="US" repositorycode="DCU">034</unitid>
+<langmaterial encodinganalog="041" label="Language:"><language langcode="eng">English</language></langmaterial>
+</did>
+	
+<dsc type="combined" id="a23">
+<head>Detailed Description of the Collection</head>
+<c01 level="series">
+   <did>
+   	<unittitle>Series 1:Trustee Minutes, 1964-1974</unittitle>
+    </did>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">1</container>
+			<unittitle>Minutes</unittitle>
+			<unitdate type="inclusive" normal="1964/1974">1964-1974</unitdate>
+		</did>
+	</c02>
+</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 2: Ballets Performed, 1962-1974</unittitle>
+		</did>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">1</container>
+			<unittitle>Bachianas</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">2</container>
+			<unittitle>Bartok Concerto</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">3</container>
+			<unittitle>Cinderella</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">1</container>
+			<unittitle>Cinderella</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">1</container>
+			<unittitle>Concerto Baroceo</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">2</container>
+			<unittitle>Coppelia</unittitle>
+			<unitdate type="inclusive" normal="1969">1969</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">3</container>
+			<unittitle>Le Corgaaire</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">4</container>
+			<unittitle>Cinderella</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">1</container>
+			<unittitle>Cinderella</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">2</container>
+			<unittitle>Combat</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">3</container>
+			<unittitle>Con Amore</unittitle>
+			<unitdate type="inclusive" normal="1968/1969">1968-1969</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">1</container>
+			<unittitle>Don Quixote</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">2</container>
+			<unittitle>Early Voyagers</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">3</container>
+			<unittitle>Eaters of Darkness</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">4</container>
+			<unittitle>Four Temperaments</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">1</container>
+			<unittitle>Giselle</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">1</container>
+			<unittitle>Graduation Ball</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">2</container>
+			<unittitle>Harlequinade</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">3</container>
+			<unittitle>Homage</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">1</container>
+			<unittitle>Jeu de Cartes</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">2</container>
+			<unittitle>Jungle</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">1</container>
+			<unittitle>Midsummer Nights Dream</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">2</container>
+			<unittitle>Nutcracker</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">1</container>
+			<unittitle>Nutcracker</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">2</container>
+			<unittitle>Out of Darkness</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">3</container>
+			<unittitle>Paquita</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">1</container>
+			<unittitle>Paquita</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">2</container>
+			<unittitle>Pas de Quatre</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">3</container>
+			<unittitle>Peter and the Wolf</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">1</container>
+			<unittitle>Prodigal Son</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">2</container>
+			<unittitle>Rhythm 3</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">3</container>
+			<unittitle>Seranade</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">1</container>
+			<unittitle>Serenade</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">2</container>
+			<unittitle>Sleeping Beauty</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">1</container>
+			<unittitle>Sleeping Beauty</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">2</container>
+			<unittitle>La Sonnambula</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">3</container>
+			<unittitle>Swan Lake</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">1</container>
+			<unittitle>Swan Lake</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">17</container>
+			<container type="Folder">1</container>
+			<unittitle>La Sylphide</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">18</container>
+			<container type="Folder">1</container>
+			<unittitle>La Sylphide</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">18</container>
+			<container type="Folder">2</container>
+			<unittitle>Three Preludes</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">18</container>
+			<container type="Folder">3</container>
+			<unittitle>Tribute</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">18</container>
+			<container type="Folder">4</container>
+			<unittitle>Through the Edge</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">19</container>
+			<container type="Folder">1</container>
+			<unittitle>Variations for Four</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">19</container>
+			<container type="Folder">2</container>
+			<unittitle>Chronology of National Ballet repertory by Debra Devoe</unittitle>
+			<unitdate type="inclusive" normal="1962/1967">1962-1967</unitdate>
+		</did>
+	</c02>
+	</c01>
+	
+	<c01 level="series">
+		<did>
+			<unittitle>Series 3: Biographical Files, 1972-1974</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">20</container>
+				<container type="Folder">1</container>
+				<unittitle>Leslie Adres - Marilyn Burr</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">21</container>
+				<container type="Folder">1</container>
+				<unittitle>Marilyn Barr - Joanne Danto</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">22</container>
+				<container type="Folder">1</container>
+				<unittitle>Ottavio Derosa (conductor) - Peter Farmer</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">23</container>
+				<container type="Folder">1</container>
+				<unittitle>Dame Margot Fonteyn</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">24</container>
+				<container type="Folder">1</container>
+				<unittitle>Frederic Franklin (co-artistic director) - Edward Haynes</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">25</container>
+				<container type="Folder">1</container>
+				<unittitle>Paul Higginbotham - Desmond Kelly</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">26</container>
+				<container type="Folder">1</container>
+				<unittitle>Christina Knoblach (principal dancer) - Kevin McKenzie</unittitle>
+				<unitdate type="inclusive" normal="1972/1973">1972-1973</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">27</container>
+				<container type="Folder">1</container>
+				<unittitle>Roni Mahler - Dennis Pool</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">28</container>
+				<container type="Folder">1</container>
+				<unittitle>Andrea Price – Frederic Strobel</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">29</container>
+				<container type="Folder">1</container>
+				<unittitle>Robert Troll – Elizabeth Wade</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">30</container>
+				<container type="Folder">1</container>
+				<unittitle>Biographies and critics quotes for use by the press</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">30</container>
+				<container type="Folder">2</container>
+				<unittitle>Biographies and critics quotes for use by the press</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">30</container>
+				<container type="Folder">3</container>
+				<unittitle>Advance Sheets</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 4: Programs and Promotional Material, 1963-1972</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">31</container>
+				<container type="Folder">1</container>
+				<unittitle>Untitled</unittitle>
+				<unitdate type="inclusive" normal="1963/1968">1963-1968</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">32</container>
+				<container type="Folder">1</container>
+				<unittitle>Untitled</unittitle>
+				<unitdate type="inclusive" normal="1968-11/1969-03">November 1968-March 1969</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">33</container>
+				<container type="Folder">1</container>
+				<unittitle>Untitled</unittitle>
+				<unitdate type="inclusive" normal="1969-04/1970-03">April 1969-March 1970</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">34</container>
+				<container type="Folder">1</container>
+				<unittitle>Untitled</unittitle>
+				<unitdate type="inclusive" normal="1971-10/1972-01">October 1971-January 1972</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">35</container>
+				<container type="Folder">1</container>
+				<unittitle>Untitled</unittitle>
+				<unitdate type="inclusive">26390</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 5: Traveling Performances, 1973-1974</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">36</container>
+				<container type="Folder">1</container>
+				<unittitle>Untitled</unittitle>
+				<unitdate type="inclusive" normal="1973/1974">1973-1974</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">37</container>
+				<container type="Folder">1</container>
+				<unittitle>Akron, OH -</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">38</container>
+				<container type="Folder">1</container>
+				<unittitle>Carbondale, IL -</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">39</container>
+				<container type="Folder">1</container>
+				<unittitle>Greensboro, NC -</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">40</container>
+				<container type="Folder">1</container>
+				<unittitle>Lawton, OK -</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">41</container>
+				<container type="Folder">1</container>
+				<unittitle>Muncie, IN -</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">42</container>
+				<container type="Folder">1</container>
+				<unittitle>Olean, NY -</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">43</container>
+				<container type="Folder">1</container>
+				<unittitle>San Antonio, TX -</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">44</container>
+				<container type="Folder">1</container>
+				<unittitle>Torrence, CA -</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 6: Publicity, 1963-1975</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">45</container>
+				<container type="Folder">1</container>
+				<unittitle>Advertising Book</unittitle>
+				<unitdate type="inclusive" normal="1963/1965">1963-1965</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">45</container>
+				<container type="Folder">2</container>
+				<unittitle>Advertising Book</unittitle>
+				<unitdate type="inclusive" normal="1973/1975">1973-1975</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">46</container>
+				<container type="Folder">1</container>
+				<unittitle>Ballerina: National Ballet News</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">46</container>
+				<container type="Folder">2</container>
+				<unittitle>Subscription flyers</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">46</container>
+				<container type="Folder">3</container>
+				<unittitle>Press releases</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">46</container>
+				<container type="Folder">4</container>
+				<unittitle>Clippings</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 7: Stage Direction, ca. 1962-1974</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">47</container>
+				<container type="Folder">1</container>
+				<unittitle>Bachianas  -</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">48</container>
+				<container type="Folder">1</container>
+				<unittitle>Creation  -</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">49</container>
+				<container type="Folder">1</container>
+				<unittitle>Night  -</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">50</container>
+				<container type="Folder">1</container>
+				<unittitle>Tnago-Chikane -</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 8: Audiovisual Materials, ca. 1964-1974</unittitle>
+		</did>
+		<c02 level="subseries">
+			<did>
+				<unittitle>Subseries 1: Audio and Video Recordings, ca. 1964-1974</unittitle>
+			</did>	
+	<c03 level="file">
+		<did>
+			<container type="Box">51</container>
+			<container type="Folder">1</container>
+			<unittitle>Bachianas</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">51</container>
+			<container type="Folder">2</container>
+			<unittitle>Eaters of Darkness</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">51</container>
+			<container type="Folder">3</container>
+			<unittitle>Creation of the World</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">51</container>
+			<container type="Folder">4</container>
+			<unittitle>Early Voyagers</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">51</container>
+			<container type="Folder">5</container>
+			<unittitle>Dance in Brilliant</unittitle>
+			<unitdate type="inclusive" normal="1971">1971</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">51</container>
+			<container type="Folder">6</container>
+			<unittitle>Don Quixote</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">51</container>
+			<container type="Folder">7</container>
+			<unittitle>Giselle</unittitle>
+			<unitdate type="inclusive" normal="1970">1970</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">52</container>
+			<container type="Folder">1</container>
+			<unittitle>Creation</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">53</container>
+			<container type="Folder">1</container>
+			<unittitle>Homage</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">53</container>
+			<container type="Folder">2</container>
+			<unittitle>Legend of the Pearl</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">53</container>
+			<container type="Folder">3</container>
+			<unittitle>Night</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">53</container>
+			<container type="Folder">4</container>
+			<unittitle>Nutcracker</unittitle>
+			<unitdate type="inclusive" normal="1967">1967</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">54</container>
+			<container type="Folder">1</container>
+			<unittitle>Homage</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">54</container>
+			<container type="Folder">2</container>
+			<unittitle>Jeu de Cartes</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">54</container>
+			<container type="Folder">3</container>
+			<unittitle>Jungle</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">55</container>
+			<container type="Folder">1</container>
+			<unittitle>Prodigal Son</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">55</container>
+			<container type="Folder">2</container>
+			<unittitle>Raymonda</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">55</container>
+			<container type="Folder">3</container>
+			<unittitle>Serenade</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">55</container>
+			<container type="Folder">4</container>
+			<unittitle>Seeds</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">55</container>
+			<container type="Folder">5</container>
+			<unittitle>La Peri and Fanfare</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">55</container>
+			<container type="Folder">6</container>
+			<unittitle>The Mountain Folk</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">56</container>
+			<container type="Folder">1</container>
+			<unittitle>Sleeping Beauty</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">56</container>
+			<container type="Folder">2</container>
+			<unittitle>La Sommnabula</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">56</container>
+			<container type="Folder">3</container>
+			<unittitle>Streetcar</unittitle>
+			<unitdate type="inclusive" normal="1974">1974</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">57</container>
+			<container type="Folder">1</container>
+			<unittitle>Swan Lake</unittitle>
+			<unitdate type="inclusive" normal="1971">1971</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">57</container>
+			<container type="Folder">2</container>
+			<unittitle>Sylphide</unittitle>
+			<unitdate type="inclusive" normal="1964">1964</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">58</container>
+			<container type="Folder">1</container>
+			<unittitle>Temperament</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">58</container>
+			<container type="Folder">2</container>
+			<unittitle>Tribute</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">58</container>
+			<container type="Folder">3</container>
+			<unittitle>Variations for Four</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">59</container>
+			<container type="Folder">1</container>
+			<unittitle>Witchboy</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">59</container>
+			<container type="Folder">2</container>
+			<unittitle>Cinderella rehearsal</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">59</container>
+			<container type="Folder">3</container>
+			<unittitle>Serenade</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">59</container>
+			<container type="Folder">4</container>
+			<unittitle>Idyll</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">59</container>
+			<container type="Folder">5</container>
+			<unittitle>Symphony Variations</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">59</container>
+			<container type="Folder">6</container>
+			<unittitle>White House tape</unittitle>
+			<unitdate type="inclusive" normal="1964">1964</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">59</container>
+			<container type="Folder">7</container>
+			<unittitle>Ralph Black interview by Dean Dalton</unittitle>
+			<unitdate type="inclusive" normal="1972-09-17">9/17/72</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">59</container>
+			<container type="Folder">8</container>
+			<unittitle>Anton Dolin</unittitle>
+			<unitdate type="inclusive" normal="1972-11-14">11/14/72</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">59</container>
+			<container type="Folder">9</container>
+			<unittitle>Airshow Spotlight</unittitle>
+			<unitdate type="inclusive" normal="1972-06-06">June 6 1972</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">59</container>
+			<container type="Folder">10</container>
+			<unittitle>Preview featuring Frederic Franklin interview</unittitle>
+			<unitdate type="inclusive" normal="1972">1972</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">59</container>
+			<container type="Folder">11</container>
+			<unittitle>Patrick Hayes Commentary</unittitle>
+			<unitdate type="inclusive" normal="1972-02-27">2/27/72</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">59</container>
+			<container type="Folder">12</container>
+			<unittitle>Tony Randall radio spot</unittitle>
+			<unitdate type="inclusive" normal="1973-05-16">5/16/73</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">60</container>
+			<container type="Folder">1</container>
+			<unittitle>Cinderella</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">60</container>
+			<container type="Folder">2</container>
+			<unittitle>Homage</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">60</container>
+			<container type="Folder">3</container>
+			<unittitle>Nutcracker</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">60</container>
+			<container type="Folder">4</container>
+			<unittitle>Jeu de Cartes</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">60</container>
+			<container type="Folder">5</container>
+			<unittitle>USAF Symphony (Coppelia</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">61</container>
+			<container type="Folder">1</container>
+			<unittitle>WTTG video film tape</unittitle>
+			<unitdate type="inclusive" normal="1973-02">February 1973</unitdate>
+		</did>
+	</c03>
+		</c02>
+		<c02 level="subseries">
+			<did>
+				<unittitle>Subseries 2: Microfilm, ca. 1971</unittitle>
+			</did>	
+			<c03 level="file">
+				<did>
+					<container type="Box">62</container>
+					<container type="Folder">1</container>
+					<unittitle>Bartok (2 containers)</unittitle>
+					<unitdate type="inclusive">Undated</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">62</container>
+					<container type="Folder">2</container>
+					<unittitle>Black Swan</unittitle>
+					<unitdate type="inclusive">Undated</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">62</container>
+					<container type="Folder">3</container>
+					<unittitle>Cinderella (6 containers)</unittitle>
+					<unitdate type="inclusive">Undated</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">62</container>
+					<container type="Folder">4</container>
+					<unittitle>Copelia</unittitle>
+					<unitdate type="inclusive">Undated</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">62</container>
+					<container type="Folder">5</container>
+					<unittitle>Con Amore</unittitle>
+					<unitdate type="inclusive">Undated</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">62</container>
+					<container type="Folder">6</container>
+					<unittitle>Pas de Deux</unittitle>
+					<unitdate type="inclusive">Undated</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">63</container>
+					<container type="Folder">1</container>
+					<unittitle>Othello</unittitle>
+					<unitdate type="inclusive">Undated</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">63</container>
+					<container type="Folder">2</container>
+					<unittitle>Ottavio</unittitle>
+					<unitdate type="inclusive">Undated</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">63</container>
+					<container type="Folder">3</container>
+					<unittitle>Paquita  and Raymonda (4 containers)</unittitle>
+					<unitdate type="inclusive">Undated</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">63</container>
+					<container type="Folder">4</container>
+					<unittitle>Paquita and Seeds (2 boxes)</unittitle>
+					<unitdate type="inclusive">Undated</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">63</container>
+					<container type="Folder">5</container>
+					<unittitle>La Sylphide</unittitle>
+					<unitdate type="inclusive">Undated</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">63</container>
+					<container type="Folder">6</container>
+					<unittitle>Witch Boy (2 boxes)</unittitle>
+					<unitdate type="inclusive">Undated</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">63</container>
+					<container type="Folder">7</container>
+					<unittitle>Unidentified</unittitle>
+					<unitdate type="inclusive">Undated</unitdate>
+				</did>
+			</c03>
+		</c02>
+		<c02 level="subseries">
+			<did>
+				<unittitle>Subseries 3: Photographs, ca. 1970s</unittitle>
+			</did>	
+			<c03 level="file">
+				<did>
+					<container type="Box">64</container>
+					<container type="Folder">1</container>
+					<unittitle>4 Ballerinas (Barr, Fulton, Lipinski, and Le Comte with Frederick Franklin)</unittitle>
+					<unitdate type="inclusive">Undated</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">64</container>
+					<container type="Folder">2</container>
+					<unittitle>Photo album,</unittitle>
+					<unitdate type="inclusive">Undated</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">64</container>
+					<container type="Folder">3</container>
+					<unittitle>Snapshots and proofsheets</unittitle>
+					<unitdate type="inclusive">Undated</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">64</container>
+					<container type="Folder">4</container>
+					<unittitle>Kennedy Center</unittitle>
+					<unitdate type="inclusive">Undated</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">64</container>
+					<container type="Folder">5</container>
+					<unittitle>Photographs, snapshots, and proofsheets</unittitle>
+					<unitdate type="inclusive">Undated</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">65</container>
+					<container type="Folder">1</container>
+					<unittitle>Photographs, snapshots, and proof sheets</unittitle>
+					<unitdate type="inclusive">Undated</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">66</container>
+					<container type="Folder">1</container>
+					<unittitle>Photographs, snapshots, and proof sheets</unittitle>
+					<unitdate type="inclusive">Undated</unitdate>
+				</did>
+			</c03>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 9: Administration, 1966-1974</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">67</container>
+				<container type="Folder">1</container>
+				<unittitle>Brochures  - Petty Cash</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">68</container>
+				<container type="Folder">1</container>
+				<unittitle>Press book  - Travel orders</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">69</container>
+				<container type="Folder">1</container>
+				<unittitle>Printed Matter</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 10: Stage Design, ca. 1962-1974</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">70</container>
+				<container type="Folder">1</container>
+				<unittitle>Hanging Plots and board studies for: Nutcracker, Graduation Ball, Concerto Baccaccio, Coppelia, Gisele, Homage, Les Sylphide, Prodigal Son, Swan Lake, Tango,  and Witch Boy</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">71</container>
+				<container type="Folder">1</container>
+				<unittitle>Line plots, set design, etc. for Streetcar, La Sonnambula, Cinderella, Les Sylphide</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">72</container>
+				<container type="Folder">1</container>
+				<unittitle>Line plots, set design, etc. for Bartok Concerto, Blossom, Jacob’s Pillow, Jungle, La Sonnambula, Meadow Brook, and Water Study</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 11: Musical Scores, ca. 1962-1974</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">73</container>
+				<container type="Folder">1</container>
+				<unittitle>Legend of the Pearl</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">74</container>
+				<container type="Folder">1</container>
+				<unittitle>Legend of the Pearl</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">75</container>
+				<container type="Folder">1</container>
+				<unittitle>Legend of the Pearl</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">76</container>
+				<container type="Folder">1</container>
+				<unittitle>Othello</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">77</container>
+				<container type="Folder">1</container>
+				<unittitle>Othello</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">78</container>
+				<container type="Folder">1</container>
+				<unittitle>Le Maure De Venise (Othello)</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">79</container>
+				<container type="Folder">1</container>
+				<unittitle>Raymonda</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">80</container>
+				<container type="Folder">1</container>
+				<unittitle>Romeo and Juliet</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">81</container>
+				<container type="Folder">1</container>
+				<unittitle>A Streetcar Named Desire</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">82</container>
+				<container type="Folder">1</container>
+				<unittitle>Touch and Go (Dance Variation for Piano)</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">83</container>
+				<container type="Folder">1</container>
+				<unittitle>Touch and Go (Dance Variation for Piano)</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">84</container>
+				<container type="Folder">1</container>
+				<unittitle>Witchboy</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">85</container>
+				<container type="Folder">1</container>
+				<unittitle>Witchboy</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">86</container>
+				<container type="Folder">1</container>
+				<unittitle>Miscellaneous</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">87</container>
+				<container type="Folder">1</container>
+				<unittitle>Miscellaneous</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">88</container>
+				<container type="Folder">1</container>
+				<unittitle>Miscellaneous</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">89</container>
+				<container type="Folder">1</container>
+				<unittitle>Miscellaneous</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 12: Scrapbooks, 1940, 1962-1974</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">91</container>
+				<container type="Folder">1</container>
+				<unittitle>Scrapbooks</unittitle>
+				<unitdate type="inclusive" normal="1940/1949" certainty="approximate">1940s</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">91</container>
+				<container type="Folder">2</container>
+				<unittitle>Scrapbooks</unittitle>
+				<unitdate type="inclusive" normal="1940/1949" certainty="approximate">1940s</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">92</container>
+				<container type="Folder">1</container>
+				<unittitle>Unboxed scrapbooks</unittitle>
+				<unitdate type="inclusive" normal="1962/1963">1962-1963</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">92</container>
+				<container type="Folder">2</container>
+				<unittitle>Unboxed scrapbooks</unittitle>
+				<unitdate type="inclusive" normal="1963/1964">1963-1964</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">92</container>
+				<container type="Folder">3</container>
+				<unittitle>Unboxed scrapbooks</unittitle>
+				<unitdate type="inclusive" normal="1964/1965">1964-1965</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">92</container>
+				<container type="Folder">4</container>
+				<unittitle>Unboxed scrapbooks</unittitle>
+				<unitdate type="inclusive" normal="1966/1967">1966-1967</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">92</container>
+				<container type="Folder">5</container>
+				<unittitle>Unboxed scrapbooks</unittitle>
+				<unitdate type="inclusive" normal="1967/1968">1967-1968</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">92</container>
+				<container type="Folder">6</container>
+				<unittitle>Unboxed scrapbooks</unittitle>
+				<unitdate type="inclusive" normal="1969/1970">1969-1970</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">92</container>
+				<container type="Folder">7</container>
+				<unittitle>Unboxed scrapbooks</unittitle>
+				<unitdate type="inclusive" normal="1969/1971">1969-1971</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">92</container>
+				<container type="Folder">8</container>
+				<unittitle>Unboxed scrapbooks</unittitle>
+				<unitdate type="inclusive" normal="1972">1972</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">92</container>
+				<container type="Folder">9</container>
+				<unittitle>Unboxed scrapbooks</unittitle>
+				<unitdate type="inclusive" normal="1973/1974">1973-1974</unitdate>
+			</did>
+		</c02>
+	</c01>
+</dsc>
+</archdesc>
+</ead>

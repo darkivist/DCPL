@@ -1,0 +1,644 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type="text/xml" href="I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/eadcbs6rev.xsl"?><!DOCTYPE ead PUBLIC "-//Society of American Archivists//DTD ead.dtd (Encoded Archival Description (EAD) Version 1.0)//EN" "I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/ead.dtd">
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" repositoryencoding="iso15511" relatedencoding="MARC21">
+	<eadid mainagencycode="DWP" countrycode="US" url="http://washingtoniana.dclibrary.org">052Petworth</eadid>
+<filedesc>
+<titlestmt>
+	<titleproper encodinganalog="245$a">Petworth Women’s Club</titleproper>
+	<subtitle>An inventory of Petworth Women’s Club at DC Public Library</subtitle>
+	<author encodinganalog="245$c">Finding aid prepared by DC Public Library.</author>
+</titlestmt>
+<publicationstmt>
+<publisher encodinganalog="260$b">DC Public Library, Special Collections</publisher>
+	<date type="publication" encodinganalog="260$c" normal="1999">1999</date>
+<address><addressline>901 G Street NW</addressline><addressline>DC Public Library</addressline><addressline>Washington, D.C. 20009</addressline></address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation encodinganalog="500">EAD encoded by Paul Kelly on
+	<date normal="2017-04-20">2017-04-20</date>
+</creation>
+<langusage>English</langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory" relatedencoding="MARC21">
+<did id="a1">
+<head>Descriptive Summary</head>
+<repository label="Repository:" encodinganalog="852$a"><corpname>DC Public Library, Special Collections</corpname></repository>
+	<unitdate encodinganalog="260$c" label="Dates:" type="inclusive" normal="1914/1964">1914-1964</unitdate>
+	<unittitle label="Title:" encodinganalog="245$a">Petworth Women’s Club Collection</unittitle>
+<physdesc label="Extent:" encodinganalog="300$a"><extent>3.5 linear feet; 10 boxes</extent></physdesc>
+<unitid encodinganalog="090" label="Collection Number:" countrycode="US" repositorycode="DCU">052</unitid>
+<langmaterial encodinganalog="041" label="Language:"><language langcode="eng">English</language></langmaterial>
+</did>
+	
+<dsc type="combined" id="a23">
+<head>Detailed Description of the Collection</head>
+<c01 level="series">
+   <did>
+   	<unittitle>Series 1: Programs, 1920-1939; 1964</unittitle>
+    </did>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">1</container>
+			<unittitle>Annual banquet programs</unittitle>
+			<unitdate type="inclusive">1920, 1922-1937</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">2</container>
+			<unittitle>Children’s Patriotic Parade - List of Entries</unittitle>
+			<unitdate type="inclusive" normal="1924">1924</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">3</container>
+			<unittitle>Allegiance Luncheon - Woman’s National Committee for Law Enforcement</unittitle>
+			<unitdate type="inclusive" normal="1926">1926</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">4</container>
+			<unittitle>Lee Kedrick Lecture Bureau</unittitle>
+			<unitdate type="inclusive" normal="1928">1928</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">5</container>
+			<unittitle>Annual Luncheon of the DC Federation of Women’s Clubs</unittitle>
+			<unitdate type="inclusive" normal="1931">1931</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">6</container>
+			<unittitle>Silver Anniversary Program</unittitle>
+			<unitdate type="inclusive" normal="1939">1939</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">7</container>
+			<unittitle>Announcement of officers</unittitle>
+			<unitdate type="inclusive">1931, 1964</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">8</container>
+			<unittitle>Invitation to House and Embassy Tour</unittitle>
+			<unitdate type="inclusive" normal="1950">1950</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">9</container>
+			<unittitle>Golden Anniversary Luncheon program</unittitle>
+			<unitdate type="inclusive" normal="1964">1964</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">10</container>
+			<unittitle>Harvest Dinner and Bazaar</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">11</container>
+			<unittitle>An Evening in Old Japan by the Petworth Woman’s Club</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 2: Yearbooks, 1921-1959</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">1</container>
+				<container type="Folder">12</container>
+				<unittitle>Yearbooks</unittitle>
+				<unitdate type="inclusive" normal="1921/1959">1921-1959</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 3: Sections and Committees, 1915-1933</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">2</container>
+				<container type="Folder">1</container>
+				<unittitle>Art Club</unittitle>
+				<unitdate type="inclusive" normal="1925">1925</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">2</container>
+				<container type="Folder">2</container>
+				<unittitle>Art Section</unittitle>
+				<unitdate type="inclusive">1921-1922, 1925-1926, 1930-1931</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">2</container>
+				<container type="Folder">3</container>
+				<unittitle>Civic Section</unittitle>
+				<unitdate type="inclusive" normal="1915/1932">1915-1932</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">2</container>
+				<container type="Folder">4</container>
+				<unittitle>Educational Section</unittitle>
+				<unitdate type="inclusive" normal="1927/1933">1927-1933</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">2</container>
+				<container type="Folder">5</container>
+				<unittitle>Executive Committee Meeting Minutes</unittitle>
+				<unitdate type="inclusive" normal="1920/1922">1920-1922</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">2</container>
+				<container type="Folder">6</container>
+				<unittitle>Home Section Minutes</unittitle>
+				<unitdate type="inclusive">1921-1926, 1932-1933</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">2</container>
+				<container type="Folder">7</container>
+				<unittitle>Hospitality Committee</unittitle>
+				<unitdate type="inclusive">1920-1927, 1932-1933</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">2</container>
+				<container type="Folder">8</container>
+				<unittitle>Literary Club</unittitle>
+				<unitdate type="inclusive" normal="1918/1925">1918-1925</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">2</container>
+				<container type="Folder">9</container>
+				<unittitle>Literature Section</unittitle>
+				<unitdate type="inclusive" normal="1926/1933">1926-1933</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">2</container>
+				<container type="Folder">10</container>
+				<unittitle>Music Section</unittitle>
+				<unitdate type="inclusive">1914-1915, 1922-1926, 1931-1932</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">2</container>
+				<container type="Folder">11</container>
+				<unittitle>Philanthropic Section</unittitle>
+				<unitdate type="inclusive" normal="1919/1933">1919-1933</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">2</container>
+				<container type="Folder">12</container>
+				<unittitle>Visiting Nurses Committee</unittitle>
+				<unitdate type="inclusive" normal="1931/1932">1931-1932</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">2</container>
+				<container type="Folder">13</container>
+				<unittitle>Yearbook Committee</unittitle>
+				<unitdate type="inclusive" normal="1922/1925">1922-1925</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">1</container>
+				<unittitle>Committee Reports - General</unittitle>
+				<unitdate type="inclusive" normal="1914/1955">1914-1955</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">2</container>
+				<unittitle>Committee Reports - General</unittitle>
+				<unitdate type="inclusive" normal="1914/1955">1914-1955</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">3</container>
+				<unittitle>Committee Reports - General</unittitle>
+				<unitdate type="inclusive" normal="1914/1955">1914-1955</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">4</container>
+				<unittitle>Committee Reports - General</unittitle>
+				<unitdate type="inclusive" normal="1914/1955">1914-1955</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">5</container>
+				<unittitle>Committee Reports - General</unittitle>
+				<unitdate type="inclusive" normal="1914/1955">1914-1955</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 4: General Files, 1916-1964</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">6</container>
+				<unittitle>Presidential Address</unittitle>
+				<unitdate type="inclusive" normal="1918">1918</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">7</container>
+				<unittitle>Correspondence</unittitle>
+				<unitdate type="inclusive" normal="1916/1922">1916-1922</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">8</container>
+				<unittitle>Correspondence re Petworth School</unittitle>
+				<unitdate type="inclusive" normal="1916/1922">1916-1922</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">9</container>
+				<unittitle>Correspondence</unittitle>
+				<unitdate type="inclusive" normal="1924/1926">1924-1926</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">10</container>
+				<unittitle>Correspondence</unittitle>
+				<unitdate type="inclusive" normal="1927/1935">1927-1935</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">1</container>
+				<unittitle>Public School Association Meeting Minutes</unittitle>
+				<unitdate type="inclusive" normal="1922/1927">1922-1927</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">2</container>
+				<unittitle>Officers’ reports</unittitle>
+				<unitdate type="inclusive" normal="1922">1922</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">3</container>
+				<unittitle>Correspondence</unittitle>
+				<unitdate type="inclusive" normal="1925/1935">1925-1935</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">4</container>
+				<unittitle>Corresponding Secretary’s reports</unittitle>
+				<unitdate type="inclusive" normal="1925/1926">1925-1926</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">5</container>
+				<unittitle>President Edith Phelps’ papers</unittitle>
+				<unitdate type="inclusive" normal="1924/1926">1924-1926</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">6</container>
+				<unittitle>Clippings</unittitle>
+				<unitdate type="inclusive" normal="1926">1926</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">7</container>
+				<unittitle>Financial materials</unittitle>
+				<unitdate type="inclusive" normal="1927/1933">1927-1933</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">8</container>
+				<unittitle>Society Hygiene Society of D.C.</unittitle>
+				<unitdate type="inclusive" normal="1930/1939" certainty="approximate">1930s</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">9</container>
+				<unittitle>D.C. Federation of Women’s Clubs meeting minutes</unittitle>
+				<unitdate type="inclusive" normal="1931/1933">1931-1933</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">10</container>
+				<unittitle>Membership lists</unittitle>
+				<unitdate type="inclusive" normal="1931/1932">1931-1932</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">11</container>
+				<unittitle>Resolutions</unittitle>
+				<unitdate type="inclusive" normal="1932">1932</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">12</container>
+				<unittitle>WWII misc.</unittitle>
+				<unitdate type="inclusive" normal="1940/1945">1940-1945</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">13</container>
+				<unittitle>Correspondence</unittitle>
+				<unitdate type="inclusive" normal="1949/1950">1949-1950</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">14</container>
+				<unittitle>Club documents</unittitle>
+				<unitdate type="inclusive" normal="1950/1951">1950-1951</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">15</container>
+				<unittitle>Awards and certificates</unittitle>
+				<unitdate type="inclusive">1958-1964, 1936</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">16</container>
+				<unittitle>Petworth Tribune - Petworth Methodist Church</unittitle>
+				<unitdate type="inclusive" normal="1961">1961</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">17</container>
+				<unittitle>History</unittitle>
+				<unitdate type="inclusive" normal="1964">1964</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 5: Meeting Minutes, 1914-1964</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">5</container>
+				<container type="Folder">1</container>
+				<unittitle>Meeting Minutes (bound volume)</unittitle>
+				<unitdate type="inclusive" normal="1915/1931">1915-1931</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">5</container>
+				<container type="Folder">2</container>
+				<unittitle>Meeting Minutes (bound volume)</unittitle>
+				<unitdate type="inclusive" normal="1915/1931">1915-1931</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">5</container>
+				<container type="Folder">3</container>
+				<unittitle>Meeting Minutes</unittitle>
+				<unitdate type="inclusive" normal="1915/1931">1915-1931</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">5</container>
+				<container type="Folder">4</container>
+				<unittitle>Meeting Minutes</unittitle>
+				<unitdate type="inclusive" normal="1915/1931">1915-1931</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">5</container>
+				<container type="Folder">5</container>
+				<unittitle>Meeting Minutes</unittitle>
+				<unitdate type="inclusive" normal="1915/1931">1915-1931</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">5</container>
+				<container type="Folder">6</container>
+				<unittitle>Meeting Minutes</unittitle>
+				<unitdate type="inclusive" normal="1915/1931">1915-1931</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">6</container>
+				<container type="Folder">1</container>
+				<unittitle>Meeting Minutes (bound volume)</unittitle>
+				<unitdate type="inclusive" normal="1940/1964">1940-1964</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">6</container>
+				<container type="Folder">2</container>
+				<unittitle>Meeting Minutes (bound volume)</unittitle>
+				<unitdate type="inclusive" normal="1940/1964">1940-1964</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">6</container>
+				<container type="Folder">3</container>
+				<unittitle>Meeting Minutes (bound volume)</unittitle>
+				<unitdate type="inclusive" normal="1940/1964">1940-1964</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">6</container>
+				<container type="Folder">4</container>
+				<unittitle>Meeting Minutes (bound volume)</unittitle>
+				<unitdate type="inclusive" normal="1940/1964">1940-1964</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">6</container>
+				<container type="Folder">5</container>
+				<unittitle>Meeting Minutes (bound volume)</unittitle>
+				<unitdate type="inclusive" normal="1940/1964">1940-1964</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">6</container>
+				<container type="Folder">6</container>
+				<unittitle>Meeting Minutes (bound volume)</unittitle>
+				<unitdate type="inclusive" normal="1940/1964">1940-1964</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">6</container>
+				<container type="Folder">7</container>
+				<unittitle>Meeting Minutes (bound volume)</unittitle>
+				<unitdate type="inclusive" normal="1940/1964">1940-1964</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">6</container>
+				<container type="Folder">8</container>
+				<unittitle>Meeting Minutes</unittitle>
+				<unitdate type="inclusive" normal="1940/1964">1940-1964</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">6</container>
+				<container type="Folder">9</container>
+				<unittitle>Meeting Minutes</unittitle>
+				<unitdate type="inclusive" normal="1940/1964">1940-1964</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 6: Financial Records, 1915-1954</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">7</container>
+				<container type="Folder">1</container>
+				<unittitle>Ledger books</unittitle>
+				<unitdate type="inclusive" normal="1915/1926">1915-1926</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">8</container>
+				<container type="Folder">1</container>
+				<unittitle>Ledger books</unittitle>
+				<unitdate type="inclusive" normal="1930/1948">1930-1948</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">9</container>
+				<container type="Folder">1</container>
+				<unittitle>Ledger books</unittitle>
+				<unitdate type="inclusive" normal="1949/1954">1949-1954</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 7: Clippings, 1924-1949</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">10</container>
+				<container type="Folder">1</container>
+				<unittitle>Clippings</unittitle>
+				<unitdate type="inclusive" normal="1924/1949">1924-1949</unitdate>
+			</did>
+		</c02>
+	</c01>
+</dsc>
+</archdesc>
+</ead>

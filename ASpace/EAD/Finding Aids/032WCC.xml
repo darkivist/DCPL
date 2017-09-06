@@ -1,0 +1,442 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type="text/xml" href="I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/eadcbs6rev.xsl"?><!DOCTYPE ead PUBLIC "-//Society of American Archivists//DTD ead.dtd (Encoded Archival Description (EAD) Version 1.0)//EN" "I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/ead.dtd">
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" repositoryencoding="iso15511" relatedencoding="MARC21">
+	<eadid mainagencycode="DWP" countrycode="US" url="http://washingtoniana.dclibrary.org">032WCC</eadid>
+<filedesc>
+<titlestmt>
+	<titleproper encodinganalog="245$a">Women's City Club</titleproper>
+	<subtitle>An inventory of Women's City Club at DC Public Library</subtitle>
+<author encodinganalog="245$c">Finding aid prepared by Leroy Graham/Faye Haskins.</author>
+</titlestmt>
+<publicationstmt>
+<publisher encodinganalog="260$b">DC Public Library, Special Collections</publisher>
+	<date type="publication" encodinganalog="260$c" normal="1998-09">1998-09</date>
+<address><addressline>901 G Street NW</addressline><addressline>DC Public Library</addressline><addressline>Washington, D.C. 20009</addressline></address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation encodinganalog="500">EAD encoded by Paul Kelly on
+	<date normal="2017-04-20">2017-04-20</date>
+</creation>
+<langusage>English</langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory" relatedencoding="MARC21">
+<did id="a1">
+<head>Descriptive Summary</head>
+<repository label="Repository:" encodinganalog="852$a"><corpname>DC Public Library, Special Collections</corpname></repository>
+	<unitdate encodinganalog="260$c" label="Dates:" type="inclusive" normal="1919/1974">1919-1974</unitdate>
+	<unittitle label="Title:" encodinganalog="245$a">Women's City Club Records</unittitle>
+<physdesc label="Extent:" encodinganalog="300$a"><extent>11 linear feet; 20 boxes</extent></physdesc>
+<unitid encodinganalog="090" label="Collection Number:" countrycode="US" repositorycode="DCU">032</unitid>
+<langmaterial encodinganalog="041" label="Language:"><language langcode="eng">English</language></langmaterial>
+</did>
+	
+<dsc type="combined" id="a23">
+<head>Detailed Description of the Collection</head>
+<c01 level="series">
+   <did>
+   	<unittitle>Series 1: Meeting Minutes, 1919-1982</unittitle>
+    </did>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">1</container>
+			<unittitle>Untitled</unittitle>
+			<unitdate type="inclusive" normal="1919/1921">1919-1921</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">1</container>
+			<unittitle>Untitled</unittitle>
+			<unitdate type="inclusive" normal="1921/1923">1921-1923</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">1</container>
+			<unittitle>Untitled</unittitle>
+			<unitdate type="inclusive" normal="1923/1926">1923-1926</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">1</container>
+			<unittitle>Untitled</unittitle>
+			<unitdate type="inclusive" normal="1925/1929">1925-1929</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">1</container>
+			<unittitle>Untitled</unittitle>
+			<unitdate type="inclusive" normal="1929/1932">1929-1932</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">1</container>
+			<unittitle>Untitled</unittitle>
+			<unitdate type="inclusive" normal="1931/1934">1931-1934</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">1</container>
+			<unittitle>Untitled</unittitle>
+			<unitdate type="inclusive" normal="1934/1938">1934-1938</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">1</container>
+			<unittitle>Untitled</unittitle>
+			<unitdate type="inclusive" normal="1938/1944">1938-1944</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">1</container>
+			<unittitle>Untitled</unittitle>
+			<unitdate type="inclusive" normal="1944/1950">1944-1950</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">1</container>
+			<unittitle>Untitled</unittitle>
+			<unitdate type="inclusive" normal="1944/1954">1944-1954</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">1</container>
+			<unittitle>Untitled</unittitle>
+			<unitdate type="inclusive" normal="1954/1960">1954-1960</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">1</container>
+			<unittitle>Untitled</unittitle>
+			<unitdate type="inclusive" normal="1963/1972">1963-1972</unitdate>
+		</did>
+	</c02>
+</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 2: Administrative Materials, 1940-1974</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">13</container>
+				<container type="Folder">1</container>
+				<unittitle>History</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">13</container>
+				<container type="Folder">2</container>
+				<unittitle>Columbia Lighthouse for the Blind report</unittitle>
+				<unitdate type="inclusive" normal="1972">1972</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">13</container>
+				<container type="Folder">3</container>
+				<unittitle>General files</unittitle>
+				<unitdate type="inclusive" normal="1972/1980">1972-1980</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">13</container>
+				<container type="Folder">4</container>
+				<unittitle>Clippings</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">13</container>
+				<container type="Folder">5</container>
+				<unittitle>Financial records</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">14</container>
+				<container type="Folder">1</container>
+				<unittitle>Financial records</unittitle>
+				<unitdate type="inclusive" normal="1936/1948">1936-1948</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">14</container>
+				<container type="Folder">2</container>
+				<unittitle>Club bulletins and yearbooks</unittitle>
+				<unitdate type="inclusive" normal="1948/1952">1948-1952</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">14</container>
+				<container type="Folder">3</container>
+				<unittitle>By-laws and articles of incorporation</unittitle>
+				<unitdate type="inclusive" normal="1949/1952">1949-1952</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">14</container>
+				<container type="Folder">4</container>
+				<unittitle>Nominations</unittitle>
+				<unitdate type="inclusive" normal="1949/1952">1949-1952</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">14</container>
+				<container type="Folder">5</container>
+				<unittitle>House rules</unittitle>
+				<unitdate type="inclusive" normal="1952/1954">1952-1954</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">14</container>
+				<container type="Folder">6</container>
+				<unittitle>Correspondence and reports</unittitle>
+				<unitdate type="inclusive" normal="1950/1959" certainty="approximate">1950s</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 3: Photographs, 1919-1974</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">15</container>
+				<container type="Folder">1</container>
+				<unittitle>Miss Ellen Spencer Mussey</unittitle>
+				<unitdate type="inclusive" normal="1919">1919</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">15</container>
+				<container type="Folder">2</container>
+				<unittitle>Mrs. Mabel Lyman Swormstedt</unittitle>
+				<unitdate type="inclusive" normal="1923/1924">1923-1924</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">15</container>
+				<container type="Folder">3</container>
+				<unittitle>Dr. A. Frances Toye</unittitle>
+				<unitdate type="inclusive" normal="1924/1926">1924-1926</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">15</container>
+				<container type="Folder">4</container>
+				<unittitle>Dearn Grace Hayes Riley</unittitle>
+				<unitdate type="inclusive" normal="1926/1928">1926-1928</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">15</container>
+				<container type="Folder">5</container>
+				<unittitle>Euterpe Fitzgerald Chance</unittitle>
+				<unitdate type="inclusive" normal="1928/1930">1928-1930</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">16</container>
+				<container type="Folder">1</container>
+				<unittitle>Mrs. Glaydes Middlemiss</unittitle>
+				<unitdate type="inclusive" normal="1940/1962">1940-1962</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">16</container>
+				<container type="Folder">2</container>
+				<unittitle>Mrs. Lee Corbin</unittitle>
+				<unitdate type="inclusive" normal="1930/1932">1930-1932</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">16</container>
+				<container type="Folder">3</container>
+				<unittitle>Pearle Mesta</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 4: Scrapbooks and Memorabilia, 1925-1968</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">16</container>
+				<container type="Folder">4</container>
+				<unittitle>Community Improvement Award Certificate</unittitle>
+				<unitdate type="inclusive" normal="1972/1974">1972-1974</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">16</container>
+				<container type="Folder">5</container>
+				<unittitle>Sign</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">17</container>
+				<container type="Folder">1</container>
+				<unittitle>Scrapbooks</unittitle>
+				<unitdate type="inclusive" normal="1925/1926">1925-1926</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">17</container>
+				<container type="Folder">2</container>
+				<unittitle>Scrapbooks</unittitle>
+				<unitdate type="inclusive" normal="1936/1938">1936-1938</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">17</container>
+				<container type="Folder">3</container>
+				<unittitle>Scrapbooks</unittitle>
+				<unitdate type="inclusive" normal="1938">1938</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">17</container>
+				<container type="Folder">4</container>
+				<unittitle>Scrapbooks</unittitle>
+				<unitdate type="inclusive" normal="1941">1941</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">17</container>
+				<container type="Folder">5</container>
+				<unittitle>Scrapbooks</unittitle>
+				<unitdate type="inclusive" normal="1942/1946">1942-1946</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">17</container>
+				<container type="Folder">6</container>
+				<unittitle>Scrapbooks</unittitle>
+				<unitdate type="inclusive" normal="1947">1947</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">18</container>
+				<container type="Folder">1</container>
+				<unittitle>Scrapbooks</unittitle>
+				<unitdate type="inclusive" normal="1948">1948</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">18</container>
+				<container type="Folder">2</container>
+				<unittitle>Scrapbooks</unittitle>
+				<unitdate type="inclusive" normal="1964/1968">1964-1968</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">18</container>
+				<container type="Folder">3</container>
+				<unittitle>Register of Sunday Tea Guests</unittitle>
+				<unitdate type="inclusive" normal="1940">1940</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">18</container>
+				<container type="Folder">4</container>
+				<unittitle>Collection of original poems</unittitle>
+				<unitdate type="inclusive" normal="1943">1943</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 5: Oversize</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">19</container>
+				<container type="Folder">1</container>
+				<unittitle>Oversized scrapbook</unittitle>
+				<unitdate type="inclusive" normal="1930/1936">1930-1936</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">20</container>
+				<container type="Folder">1</container>
+				<unittitle>Receipt books</unittitle>
+				<unitdate type="inclusive" normal="1962/1974">1962-1974</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">20</container>
+				<container type="Folder">2</container>
+				<unittitle>Framed photograph of Dorothy B. Marvin</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">20</container>
+				<container type="Folder">3</container>
+				<unittitle>Framed photograph of unidentified woman</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+	</c01>
+</dsc>
+</archdesc>
+</ead>

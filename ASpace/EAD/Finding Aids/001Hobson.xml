@@ -1,0 +1,5557 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type="text/xml" href="I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/eadcbs6rev.xsl"?><!DOCTYPE ead PUBLIC "-//Society of American Archivists//DTD ead.dtd (Encoded Archival Description (EAD) Version 1.0)//EN" "I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/ead.dtd">
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" repositoryencoding="iso15511" relatedencoding="MARC21">
+	<eadid mainagencycode="DWP" countrycode="US" url="http://washingtoniana.dclibrary.org">001Hobson</eadid>
+<filedesc>
+<titlestmt>
+	<titleproper encodinganalog="245$a">Julius Hobson</titleproper>
+	<subtitle>An inventory of the Julius Hobson Papers at DC Public Library</subtitle>
+	<author encodinganalog="245$c">Finding aid prepared by Faye Haskins/Leroy Graham.</author>
+</titlestmt>
+<publicationstmt>
+<publisher encodinganalog="260$b">DC Public Library, Special Collections</publisher>
+	<date type="publication" encodinganalog="260$c" normal="1989-11-22">1989-11-22</date>
+<address><addressline>901 G Street NW</addressline><addressline>DC Public Library</addressline><addressline>Washington, D.C. 20009</addressline></address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation encodinganalog="500">EAD encoded by Paul Kelly on
+	<date normal="2017-04-19">2017-04-19</date>
+</creation>
+<langusage>English</langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory" relatedencoding="MARC21">
+<did id="a1">
+<head>Descriptive Summary</head>
+<repository label="Repository:" encodinganalog="852$a"><corpname>DC Public Library, Special Collections</corpname></repository>
+	<unitdate encodinganalog="260$c" label="Dates:" type="inclusive" normal="1960/1977">1960-1977</unitdate>
+	<unittitle label="Title:" encodinganalog="245$a">Julius Hobson Papers</unittitle>
+<physdesc label="Extent:" encodinganalog="300$a"><extent>107 boxes</extent></physdesc>
+<unitid encodinganalog="090" label="Collection Number:" countrycode="US" repositorycode="DCU">001</unitid>
+<langmaterial encodinganalog="041" label="Language:"><language langcode="eng">English</language></langmaterial>
+</did>
+	
+<dsc type="combined" id="a23">
+<head>Detailed Description of the Collection</head>
+<c01 level="series">
+   <did>
+   	<unittitle>Series 1: CORE, 1961-1964</unittitle>
+    </did>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">1</container>
+			<unittitle>Correspondence</unittitle>
+			<unitdate type="inclusive" normal="1963/1964">1963-1964</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">2</container>
+			<unittitle>Correspondence</unittitle>
+			<unitdate type="inclusive" normal="1963/1964">1963-1964</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">3</container>
+			<unittitle>Correspondence</unittitle>
+			<unitdate type="inclusive" normal="1963/1964">1963-1964</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">4</container>
+			<unittitle>Correspondence</unittitle>
+			<unitdate type="inclusive" normal="1963/1964">1963-1964</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">5</container>
+			<unittitle>Miscellaneous Correspondence</unittitle>
+			<unitdate type="inclusive" normal="1963/1964">1963-1964</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">6</container>
+			<unittitle>Memoranda</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">7</container>
+			<unittitle>Minutes</unittitle>
+			<unitdate type="inclusive" normal="1964">1964</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">1</container>
+			<container type="Folder">8</container>
+			<unittitle>Conventions</unittitle>
+			<unitdate type="inclusive" normal="1964">1964</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">1</container>
+			<unittitle>Financial Receipts</unittitle>
+			<unitdate type="inclusive" normal="1963">1963</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">2</container>
+			<unittitle>Constitution</unittitle>
+			<unitdate type="inclusive" normal="1962/1964">1962-1964</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">3</container>
+			<unittitle>Membership Lists</unittitle>
+			<unitdate type="inclusive" normal="1964">1964</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">4</container>
+			<unittitle>Bulletins (Benjamin Franklin University)</unittitle>
+			<unitdate type="inclusive" normal="1963">1963</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">5</container>
+			<unittitle>Miscellaneous Papers</unittitle>
+			<unitdate type="inclusive" normal="1962/1964">1962-1964</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">6</container>
+			<unittitle>Miscellaneous Papers</unittitle>
+			<unitdate type="inclusive" normal="1962/1964">1962-1964</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">2</container>
+			<container type="Folder">7</container>
+			<unittitle>Printed material</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+</c01>
+<c01 level="series">
+	<did>
+		<unittitle>Series 2: Associated Community Teams (ACT), 1964-1969</unittitle>
+	</did>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">1</container>
+			<unittitle>Correspondence</unittitle>
+			<unitdate type="inclusive" normal="1964/1969">1964-1969</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">2</container>
+			<unittitle>Correspondence</unittitle>
+			<unitdate type="inclusive" normal="1964/1969">1964-1969</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">3</container>
+			<unittitle>Correspondence</unittitle>
+			<unitdate type="inclusive" normal="1964/1969">1964-1969</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">4</container>
+			<unittitle>Correspondence</unittitle>
+			<unitdate type="inclusive" normal="1964/1969">1964-1969</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">5</container>
+			<unittitle>Correspondence</unittitle>
+			<unitdate type="inclusive" normal="1964/1969">1964-1969</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">6</container>
+			<unittitle>Correspondence</unittitle>
+			<unitdate type="inclusive" normal="1964/1969">1964-1969</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">7</container>
+			<unittitle>Correspondence</unittitle>
+			<unitdate type="inclusive" normal="1964/1969">1964-1969</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">8</container>
+			<unittitle>Correspondence</unittitle>
+			<unitdate type="inclusive" normal="1964/1969">1964-1969</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">9</container>
+			<unittitle>Correspondence</unittitle>
+			<unitdate type="inclusive" normal="1964/1969">1964-1969</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">3</container>
+			<container type="Folder">10</container>
+			<unittitle>Media Editorials</unittitle>
+			<unitdate type="inclusive" normal="1965/1966">1965-1966</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">1</container>
+			<unittitle>Black Power</unittitle>
+			<unitdate type="inclusive" normal="1965/1966">1965-1966</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">2</container>
+			<unittitle>Police</unittitle>
+			<unitdate type="inclusive" normal="1960/1968">1960-1968</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">3</container>
+			<unittitle>Hobson Testimony and interviews</unittitle>
+			<unitdate type="inclusive" normal="1965/1967">1965-1967</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">4</container>
+			<unittitle>Brief Analysis of Nixon Crime Bill</unittitle>
+			<unitdate type="inclusive" normal="1969">1969</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">5</container>
+			<unittitle>Memoranda</unittitle>
+			<unitdate type="inclusive" normal="1964/1967">1964-1967</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">6</container>
+			<unittitle>Minutes</unittitle>
+			<unitdate type="inclusive" normal="1965/1966">1965-1966</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">7</container>
+			<unittitle>Newsletters</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">8</container>
+			<unittitle>Black United Front</unittitle>
+			<unitdate type="inclusive" normal="1968/1969">1968-1969</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">4</container>
+			<container type="Folder">9</container>
+			<unittitle>Commission on Negro History and Culture Testimony</unittitle>
+			<unitdate type="inclusive" normal="1968">1968</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">1</container>
+			<unittitle>Bankruptcy: “Debtor’s Remedies Manual,” ca. 1967</unittitle>
+			<unitdate type="inclusive" normal="1967">1967</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">2</container>
+			<unittitle>Bankruptcy: “Freedom From Debt Through Bankruptcy”</unittitle>
+			<unitdate type="inclusive" normal="1965/1968">1965-1968</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">5</container>
+			<container type="Folder">3</container>
+			<unittitle>Bankruptcy: miscellaneous</unittitle>
+			<unitdate type="inclusive" normal="1964/1968">1964-1968</unitdate>
+		</did>
+	</c02>
+</c01>
+<c01 level="series">
+	<did>
+		<unittitle>Hobson v. Hansen, 1965-1977</unittitle>
+	</did>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">1</container>
+			<unittitle>Correspondence</unittitle>
+			<unitdate type="inclusive" normal="1965/1977">1965-1977</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">2</container>
+			<unittitle>Correspondence</unittitle>
+			<unitdate type="inclusive" normal="1965/1977">1965-1977</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">3</container>
+			<unittitle>Correspondence</unittitle>
+			<unitdate type="inclusive" normal="1965/1977">1965-1977</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">6</container>
+			<container type="Folder">4</container>
+			<unittitle>Correspondence</unittitle>
+			<unitdate type="inclusive" normal="1965/1977">1965-1977</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">1</container>
+			<unittitle>Correspondence</unittitle>
+			<unitdate type="inclusive" normal="1965/1969">1965-1969</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">2</container>
+			<unittitle>Correspondence</unittitle>
+			<unitdate type="inclusive" normal="1965/1969">1965-1969</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">3</container>
+			<unittitle>Correspondence</unittitle>
+			<unitdate type="inclusive" normal="1965/1969">1965-1969</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">7</container>
+			<container type="Folder">4</container>
+			<unittitle>Correspondence</unittitle>
+			<unitdate type="inclusive" normal="1965/1969">1965-1969</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">1</container>
+			<unittitle>Court Documents</unittitle>
+			<unitdate type="inclusive" normal="1970">1970</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">2</container>
+			<unittitle>Court Documents</unittitle>
+			<unitdate type="inclusive" normal="1970">1970</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">3</container>
+			<unittitle>Court Documents</unittitle>
+			<unitdate type="inclusive" normal="1970">1970</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">8</container>
+			<container type="Folder">4</container>
+			<unittitle>Court Documents</unittitle>
+			<unitdate type="inclusive" normal="1970">1970</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">1</container>
+			<unittitle>Court Documents</unittitle>
+			<unitdate type="inclusive" normal="1970">1970</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">2</container>
+			<unittitle>Court Documents</unittitle>
+			<unitdate type="inclusive" normal="1970">1970</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">3</container>
+			<unittitle>Court Documents</unittitle>
+			<unitdate type="inclusive" normal="1970">1970</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">4</container>
+			<unittitle>Court Documents</unittitle>
+			<unitdate type="inclusive" normal="1970">1970</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">9</container>
+			<container type="Folder">5</container>
+			<unittitle>Court Documents</unittitle>
+			<unitdate type="inclusive" normal="1970">1970</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">1</container>
+			<unittitle>Plaintiff Exhibits</unittitle>
+			<unitdate type="inclusive" normal="1964/1966">1964-1966</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">2</container>
+			<unittitle>Appellate</unittitle>
+			<unitdate type="inclusive" normal="1967">1967</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">3</container>
+			<unittitle>Hansen Appeal</unittitle>
+			<unitdate type="inclusive" normal="1967/1968">1967-1968</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">4</container>
+			<unittitle>Three Judge Court Appeal</unittitle>
+			<unitdate type="inclusive" normal="1967/1968">1967-1968</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">5</container>
+			<unittitle>Court of Appeal file</unittitle>
+			<unitdate type="inclusive" normal="1966/1968">1966-1968</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">6</container>
+			<unittitle>Motion to Intervene Court of Appeals</unittitle>
+			<unitdate type="inclusive" normal="1962/1968">1962-1968</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">10</container>
+			<container type="Folder">7</container>
+			<unittitle>Hobson v. Hansen</unittitle>
+			<unitdate type="inclusive" normal="1965/1966">1965-1966</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">1</container>
+			<unittitle>Statistical Information</unittitle>
+			<unitdate type="inclusive" normal="1962/1974">1962-1974</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">2</container>
+			<unittitle>Statistical Information</unittitle>
+			<unitdate type="inclusive" normal="1962/1974">1962-1974</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">11</container>
+			<container type="Folder">3</container>
+			<unittitle>Statistical Information</unittitle>
+			<unitdate type="inclusive" normal="1962/1974">1962-1974</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">1</container>
+			<unittitle>Episcopal Church Grant</unittitle>
+			<unitdate type="inclusive" normal="1967">1967</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">2</container>
+			<unittitle>Post-Decretal</unittitle>
+			<unitdate type="inclusive" normal="1965/1970">1965-1970</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">3</container>
+			<unittitle>Chart G</unittitle>
+			<unitdate type="inclusive" normal="1969">1969</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">4</container>
+			<unittitle>Misc. Notes</unittitle>
+			<unitdate type="inclusive" normal="1951">1951</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">12</container>
+			<container type="Folder">5</container>
+			<unittitle>Board of Education Response to Decision</unittitle>
+			<unitdate type="inclusive" normal="1967">1967</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">1</container>
+			<unittitle>Supreme Court</unittitle>
+			<unitdate type="inclusive" normal="1966/1967">1966-1967</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">2</container>
+			<unittitle>An Evaluation of Hobson v. Hanson National Capital Area Civil Liberties Defense and Educational Fund</unittitle>
+			<unitdate type="inclusive" normal="1968">1968</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">3</container>
+			<unittitle>Miscellaneous reports</unittitle>
+			<unitdate type="inclusive" normal="1969/1971">1969-1971</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">13</container>
+			<container type="Folder">4</container>
+			<unittitle>Announcement</unittitle>
+			<unitdate type="inclusive" normal="1967/1971">1967-1971</unitdate>
+		</did>
+	</c02>
+</c01>
+<c01 level="series">
+	<did>
+		<unittitle>Series 4: Board of Education, 1963-1971</unittitle>
+	</did>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">1</container>
+			<unittitle>Correspondence</unittitle>
+			<unitdate type="inclusive" normal="1969">1969</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">2</container>
+			<unittitle>Correspondence</unittitle>
+			<unitdate type="inclusive" normal="1969">1969</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">14</container>
+			<container type="Folder">3</container>
+			<unittitle>Correspondence</unittitle>
+			<unitdate type="inclusive" normal="1969">1969</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">1</container>
+			<unittitle>Correspondence</unittitle>
+			<unitdate type="inclusive" normal="1969">1969</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">2</container>
+			<unittitle>Miscellaneous</unittitle>
+			<unitdate type="inclusive" normal="1969">1969</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">15</container>
+			<container type="Folder">3</container>
+			<unittitle>Hobson v. Hewlett</unittitle>
+			<unitdate type="inclusive" normal="1967/1969">1967-1969</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">1</container>
+			<unittitle>Passing and Failing Marks received by Junior and Senior High School</unittitle>
+			<unitdate type="inclusive" normal="1959/1969">1959-1969</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">2</container>
+			<unittitle>Student rights</unittitle>
+			<unitdate type="inclusive" normal="1968">1968</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">3</container>
+			<unittitle>Black history culture studies - Swahli</unittitle>
+			<unitdate type="inclusive" normal="1968/1970">1968-1970</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">16</container>
+			<container type="Folder">4</container>
+			<unittitle>Unions</unittitle>
+			<unitdate type="inclusive" normal="1963/1969">1963-1969</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">17</container>
+			<container type="Folder">1</container>
+			<unittitle>Campaign literature</unittitle>
+			<unitdate type="inclusive" normal="1968">1968</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">17</container>
+			<container type="Folder">2</container>
+			<unittitle>Miller teacher supportive evidence</unittitle>
+			<unitdate type="inclusive" normal="1968/1970">1968-1970</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">17</container>
+			<container type="Folder">3</container>
+			<unittitle>School data-teacher assignment and library curriculum</unittitle>
+			<unitdate type="inclusive" normal="1969">1969</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">17</container>
+			<container type="Folder">4</container>
+			<unittitle>News releases and newsletters</unittitle>
+			<unitdate type="inclusive" normal="1969/1972">1969-1972</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">17</container>
+			<container type="Folder">5</container>
+			<unittitle>Programs</unittitle>
+			<unitdate type="inclusive" normal="1968/1970">1968-1970</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">17</container>
+			<container type="Folder">6</container>
+			<unittitle>Clippings</unittitle>
+			<unitdate type="inclusive" normal="1967/1971">1967-1971</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">18</container>
+			<container type="Folder">1</container>
+			<unittitle>Memoranda</unittitle>
+			<unitdate type="inclusive" normal="1968/1970">1968-1970</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">18</container>
+			<container type="Folder">2</container>
+			<unittitle>Meetings</unittitle>
+			<unitdate type="inclusive" normal="1969/1970">1969-1970</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">18</container>
+			<container type="Folder">3</container>
+			<unittitle>Statements to Board</unittitle>
+			<unitdate type="inclusive" normal="1967/1969">1967-1969</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">18</container>
+			<container type="Folder">4</container>
+			<unittitle>Statistical information</unittitle>
+			<unitdate type="inclusive" normal="1968/1971">1968-1971</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">19</container>
+			<container type="Folder">1</container>
+			<unittitle>Reports and proposals</unittitle>
+			<unitdate type="inclusive" normal="1952/1971">1952-1971</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">19</container>
+			<container type="Folder">2</container>
+			<unittitle>Reports and proposals</unittitle>
+			<unitdate type="inclusive" normal="1952/1971">1952-1971</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">19</container>
+			<container type="Folder">3</container>
+			<unittitle>Reports and proposals</unittitle>
+			<unitdate type="inclusive" normal="1952/1971">1952-1971</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">19</container>
+			<container type="Folder">4</container>
+			<unittitle>Reports and proposals</unittitle>
+			<unitdate type="inclusive" normal="1952/1971">1952-1971</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">20</container>
+			<container type="Folder">1</container>
+			<unittitle>Hobson v. Hansen‑Decision and Reaction</unittitle>
+			<unitdate type="inclusive" normal="1950/1968">1950‑1968</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">20</container>
+			<container type="Folder">2</container>
+			<unittitle>Hobson v. Hansen‑Decision and Reaction</unittitle>
+			<unitdate type="inclusive" normal="1950/1968">1950‑1968</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">20</container>
+			<container type="Folder">3</container>
+			<unittitle>School Board Tuition Grant Clark Plan</unittitle>
+			<unitdate type="inclusive" normal="1969/1973">1969-1973</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">20</container>
+			<container type="Folder">4</container>
+			<unittitle>School Board Tuition Grant Clark Plan</unittitle>
+			<unitdate type="inclusive" normal="1969/1973">1969-1973</unitdate>
+		</did>
+	</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 5: Washington Institute for Quality Education (WIQE), 1968-1972</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">21</container>
+				<container type="Folder">1</container>
+				<unittitle>Correspondence</unittitle>
+				<unitdate type="inclusive" normal="1967/1970">1967-1970</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">21</container>
+				<container type="Folder">2</container>
+				<unittitle>Correspondence</unittitle>
+				<unitdate type="inclusive" normal="1967/1970">1967-1970</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">22</container>
+				<container type="Folder">1</container>
+				<unittitle>Correspondence</unittitle>
+				<unitdate type="inclusive" normal="1971/1973">1971-1973</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">22</container>
+				<container type="Folder">2</container>
+				<unittitle>Correspondence</unittitle>
+				<unitdate type="inclusive" normal="1971/1973">1971-1973</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">22</container>
+				<container type="Folder">3</container>
+				<unittitle>Correspondence</unittitle>
+				<unitdate type="inclusive" normal="1971/1973">1971-1973</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">22</container>
+				<container type="Folder">4</container>
+				<unittitle>Memoranda</unittitle>
+				<unitdate type="inclusive" normal="1968/1975">1968-1975</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">23</container>
+				<container type="Folder">1</container>
+				<unittitle>Manual of Organization</unittitle>
+				<unitdate type="inclusive" normal="1968">1968</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">23</container>
+				<container type="Folder">2</container>
+				<unittitle>Chronological Files</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">23</container>
+				<container type="Folder">3</container>
+				<unittitle>Chronological Files</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">23</container>
+				<container type="Folder">4</container>
+				<unittitle>Chronological Files</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">23</container>
+				<container type="Folder">5</container>
+				<unittitle>Chronological Files</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">23</container>
+				<container type="Folder">6</container>
+				<unittitle>Bylaws</unittitle>
+				<unitdate type="inclusive" normal="1968">1968</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">23</container>
+				<container type="Folder">7</container>
+				<unittitle>Extracts from Minutes Book</unittitle>
+				<unitdate type="inclusive" normal="1969">1969</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">23</container>
+				<container type="Folder">8</container>
+				<unittitle>Miscellaneous</unittitle>
+				<unitdate type="inclusive" normal="1968/1974">1968-1974</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">23</container>
+				<container type="Folder">9</container>
+				<unittitle>Miscellaneous</unittitle>
+				<unitdate type="inclusive" normal="1968/1974">1968-1974</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">24</container>
+				<container type="Folder">1</container>
+				<unittitle>Statements and Testimonies</unittitle>
+				<unitdate type="inclusive" normal="1968/1971">1968-1971</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">24</container>
+				<container type="Folder">2</container>
+				<unittitle>Articles</unittitle>
+				<unitdate type="inclusive" normal="1967/1974">1967-1974</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">24</container>
+				<container type="Folder">3</container>
+				<unittitle>Proposals</unittitle>
+				<unitdate type="inclusive" normal="1968/1973">1968-1973</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">24</container>
+				<container type="Folder">4</container>
+				<unittitle>Proposals</unittitle>
+				<unitdate type="inclusive" normal="1968/1973">1968-1973</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">24</container>
+				<container type="Folder">5</container>
+				<unittitle>Hugh J. Scott Transfer Controversy</unittitle>
+				<unitdate type="inclusive" normal="1972">1972</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">25</container>
+				<container type="Folder">1</container>
+				<unittitle>The Damned Children</unittitle>
+				<unitdate type="inclusive" normal="1970">1970</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">25</container>
+				<container type="Folder">2</container>
+				<unittitle>Publication Draft Material</unittitle>
+				<unitdate type="inclusive" normal="1960/1971">1960-1971</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">25</container>
+				<container type="Folder">3</container>
+				<unittitle>Financial Records</unittitle>
+				<unitdate type="inclusive" normal="1971/1972">1971-1972</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 6: Federal Job Discrimination, 1963-1978</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">26</container>
+				<container type="Folder">1</container>
+				<unittitle>Correspondence</unittitle>
+				<unitdate type="inclusive" normal="1968/1973">1968-1973</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">26</container>
+				<container type="Folder">2</container>
+				<unittitle>Correspondence</unittitle>
+				<unitdate type="inclusive" normal="1968/1973">1968-1973</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">26</container>
+				<container type="Folder">3</container>
+				<unittitle>Correspondence</unittitle>
+				<unitdate type="inclusive" normal="1968/1973">1968-1973</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">26</container>
+				<container type="Folder">4</container>
+				<unittitle>Correspondence</unittitle>
+				<unitdate type="inclusive" normal="1968/1973">1968-1973</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">26</container>
+				<container type="Folder">5</container>
+				<unittitle>Correspondence</unittitle>
+				<unitdate type="inclusive" normal="1968/1973">1968-1973</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">26</container>
+				<container type="Folder">6</container>
+				<unittitle>Correspondence</unittitle>
+				<unitdate type="inclusive" normal="1968/1973">1968-1973</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">26</container>
+				<container type="Folder">7</container>
+				<unittitle>Correspondence</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">26</container>
+				<container type="Folder">8</container>
+				<unittitle>Uncle Sam Is A Bigot</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">27</container>
+				<container type="Folder">1</container>
+				<unittitle>Chairman Macy</unittitle>
+				<unitdate type="inclusive" normal="1967/1972">1967-1972</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">27</container>
+				<container type="Folder">2</container>
+				<unittitle>J.W.H. Statements</unittitle>
+				<unitdate type="inclusive" normal="1968/1969">1968-1969</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">27</container>
+				<container type="Folder">3</container>
+				<unittitle>Fact Sheets</unittitle>
+				<unitdate type="inclusive" normal="1968">1968</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">27</container>
+				<container type="Folder">4</container>
+				<unittitle>Miscellaneous Papers</unittitle>
+				<unitdate type="inclusive" normal="1968/1972">1968-1972</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">27</container>
+				<container type="Folder">5</container>
+				<unittitle>Miscellaneous Papers</unittitle>
+				<unitdate type="inclusive" normal="1968/1972">1968-1972</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">27</container>
+				<container type="Folder">6</container>
+				<unittitle>Miscellaneous Correspondence</unittitle>
+				<unitdate type="inclusive" normal="1963/1970">1963-1970</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">28</container>
+				<container type="Folder">1</container>
+				<unittitle>Scrapbook‑‑Critical Letters of Uncle Sam Is A Bigot</unittitle>
+				<unitdate type="inclusive" normal="1968">1968</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">28</container>
+				<container type="Folder">2</container>
+				<unittitle>Scrapbook--Individual Complaints</unittitle>
+				<unitdate type="inclusive" normal="1967/1968">1967-1968</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">28</container>
+				<container type="Folder">3</container>
+				<unittitle>Scrapbook- Pursued Cases</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">28</container>
+				<container type="Folder">4</container>
+				<unittitle>Scrapbook- Pursued Cases</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">29</container>
+				<container type="Folder">1</container>
+				<unittitle>Hobson v. Robert E. Hampton</unittitle>
+				<unitdate type="inclusive" normal="1969">1969</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">29</container>
+				<container type="Folder">2</container>
+				<unittitle>Complaints for Injunctive and Declaratory Relief</unittitle>
+				<unitdate type="inclusive" normal="1969-07">July 1969</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">29</container>
+				<container type="Folder">3</container>
+				<unittitle>Affidavit Files</unittitle>
+				<unitdate type="inclusive" normal="1970/1971">1970-1971</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">29</container>
+				<container type="Folder">4</container>
+				<unittitle>Court Documents Filed</unittitle>
+				<unitdate type="inclusive" normal="1969">1969</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">29</container>
+				<container type="Folder">5</container>
+				<unittitle>Plaintiff's Authorization Form‑‑Congressman William F. Ryan</unittitle>
+				<unitdate type="inclusive" normal="1968/1969">1968-1969</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">29</container>
+				<container type="Folder">6</container>
+				<unittitle>Hobson v. Hampton</unittitle>
+				<unitdate type="inclusive" normal="1969">1969</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">30</container>
+				<container type="Folder">1</container>
+				<unittitle>Petitions from Federal Employees Protesting Job Discrimination</unittitle>
+				<unitdate type="inclusive" normal="1968">1968</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">30</container>
+				<container type="Folder">2</container>
+				<unittitle>Discrimination in Federal Employment‑‑Authorization of Hobson to Represent</unittitle>
+				<unitdate type="inclusive" normal="1968/1978">1968-1978</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">31</container>
+				<container type="Folder">1</container>
+				<unittitle>Congressional File</unittitle>
+				<unitdate type="inclusive" normal="1969/1970">1969-1970</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">31</container>
+				<container type="Folder">2</container>
+				<unittitle>Memoranda</unittitle>
+				<unitdate type="inclusive" normal="1968/1971">1968-1971</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">31</container>
+				<container type="Folder">3</container>
+				<unittitle>Statistical Information</unittitle>
+				<unitdate type="inclusive" normal="1968/1970">1968-1970</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">31</container>
+				<container type="Folder">4</container>
+				<unittitle>Cases by Precedent by State</unittitle>
+				<unitdate type="inclusive" normal="1967/1969">1967-1969</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">32</container>
+				<container type="Folder">1</container>
+				<unittitle>Miscellaneous Papers</unittitle>
+				<unitdate type="inclusive" normal="1965/1970">1965-1970</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">32</container>
+				<container type="Folder">2</container>
+				<unittitle>Miscellaneous Papers</unittitle>
+				<unitdate type="inclusive" normal="1965/1970">1965-1970</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">32</container>
+				<container type="Folder">2</container>
+				<unittitle>Joseph T. Watkins and District Government Discrimination</unittitle>
+				<unitdate type="inclusive" normal="1968/1978">1968-1978</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 7: Statehood Party/Home Rule, 1970-1976</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">33</container>
+				<container type="Folder">1</container>
+				<unittitle>Correspondence</unittitle>
+				<unitdate type="inclusive" normal="1971">1971</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">33</container>
+				<container type="Folder">2</container>
+				<unittitle>Memoranda</unittitle>
+				<unitdate type="inclusive" normal="1970/1971">1970-1971</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">33</container>
+				<container type="Folder">3</container>
+				<unittitle>Local Community Press</unittitle>
+				<unitdate type="inclusive" normal="1971">1971</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">34</container>
+				<container type="Folder">1</container>
+				<unittitle>Court Documents</unittitle>
+				<unitdate type="inclusive" normal="1966/1976">1966-1976</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">34</container>
+				<container type="Folder">2</container>
+				<unittitle>Clippings</unittitle>
+				<unitdate type="inclusive" normal="1966/1977">1966-1977</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">34</container>
+				<container type="Folder">3</container>
+				<unittitle>Home Rule Miscellaneous Papers</unittitle>
+				<unitdate type="inclusive" normal="1970/1976">1970-1976</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 8: Fair Housing/Transportation Campaigns, 1965-1972</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">35</container>
+				<container type="Folder">1</container>
+				<unittitle>Open (Fair) Housing</unittitle>
+				<unitdate type="inclusive" normal="1969">1969</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">35</container>
+				<container type="Folder">2</container>
+				<unittitle>Transportation‑‑ Case Material‑‑DC Transit</unittitle>
+				<unitdate type="inclusive" normal="1972">1972</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">35</container>
+				<container type="Folder">3</container>
+				<unittitle>Transportation</unittitle>
+				<unitdate type="inclusive" normal="1965/1971">1965-1971</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">35</container>
+				<container type="Folder">4</container>
+				<unittitle>Report</unittitle>
+				<unitdate type="inclusive" normal="1969/1970">1969-1970</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">35</container>
+				<container type="Folder">5</container>
+				<unittitle>Miscellaneous Papers</unittitle>
+				<unitdate type="inclusive" normal="1965/1971">1965-1971</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 9: Media Fairness Campaign, 1969-1972</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">36</container>
+				<container type="Folder">1</container>
+				<unittitle>Correspondence</unittitle>
+				<unitdate type="inclusive" normal="1969/1972">1969-1972</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">36</container>
+				<container type="Folder">2</container>
+				<unittitle>FCC Documents‑‑DC Media Companies</unittitle>
+				<unitdate type="inclusive" normal="1969/1972">1969-1972</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">36</container>
+				<container type="Folder">3</container>
+				<unittitle>Miscellaneous Papers</unittitle>
+				<unitdate type="inclusive" normal="1969">1969</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 10: Peoples Party/Peace and Anti-War Movement, 1967-1973</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">37</container>
+				<container type="Folder">1</container>
+				<unittitle>Correspondence</unittitle>
+				<unitdate type="inclusive" normal="1967/1973">1967-1973</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">37</container>
+				<container type="Folder">2</container>
+				<unittitle>Memoranda</unittitle>
+				<unitdate type="inclusive" normal="1969/1972">1969-1972</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">37</container>
+				<container type="Folder">3</container>
+				<unittitle>Miscellaneous Papers I</unittitle>
+				<unitdate type="inclusive" normal="1969/1972">1969-1972</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">37</container>
+				<container type="Folder">4</container>
+				<unittitle>Miscellaneous Papers I</unittitle>
+				<unitdate type="inclusive" normal="1969/1972">1969-1972</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">37</container>
+				<container type="Folder">5</container>
+				<unittitle>Hobson Court Petition</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 11: City Council Correspondence, 1974-1977</unittitle>
+		</did>
+	<c02 level="file">
+		<did>
+			<container type="Box">38</container>
+			<container type="Folder">1</container>
+			<unittitle>"A”</unittitle>
+			<unitdate type="inclusive" normal="1975/1977">1975-1977</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">38</container>
+			<container type="Folder">2</container>
+			<unittitle>Abramowitz</unittitle>
+			<unitdate type="inclusive" normal="1974/1975">1974-1975</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">38</container>
+			<container type="Folder">3</container>
+			<unittitle>"B"</unittitle>
+			<unitdate type="inclusive" normal="1975">1975</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">38</container>
+			<container type="Folder">4</container>
+			<unittitle>"C"</unittitle>
+			<unitdate type="inclusive" normal="1975/1976">1975-1976</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">38</container>
+			<container type="Folder">5</container>
+			<unittitle>"D"</unittitle>
+			<unitdate type="inclusive" normal="1975/1977">1975-1977</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">38</container>
+			<container type="Folder">6</container>
+			<unittitle>Dellum</unittitle>
+			<unitdate type="inclusive" normal="1975">1975</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">38</container>
+			<container type="Folder">7</container>
+			<unittitle>Diggs</unittitle>
+			<unitdate type="inclusive" normal="1973/1975">1973-1975</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">39</container>
+			<container type="Folder">1</container>
+			<unittitle>"E"</unittitle>
+			<unitdate type="inclusive" normal="1975/1977">1975-1977</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">39</container>
+			<container type="Folder">2</container>
+			<unittitle>Events Attended</unittitle>
+			<unitdate type="inclusive" normal="1975">1975</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">39</container>
+			<container type="Folder">3</container>
+			<unittitle>"F"</unittitle>
+			<unitdate type="inclusive" normal="1975/1976">1975-1976</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">39</container>
+			<container type="Folder">4</container>
+			<unittitle>Fauntroy</unittitle>
+			<unitdate type="inclusive" normal="1975">1975</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">39</container>
+			<container type="Folder">5</container>
+			<unittitle>Federal City Club</unittitle>
+			<unitdate type="inclusive" normal="1974/1975">1974-1975</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">39</container>
+			<container type="Folder">6</container>
+			<unittitle>"G"</unittitle>
+			<unitdate type="inclusive" normal="1975/1976">1975-1976</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">39</container>
+			<container type="Folder">7</container>
+			<unittitle>"H"</unittitle>
+			<unitdate type="inclusive" normal="1975/1976">1975-1976</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">40</container>
+			<container type="Folder">1</container>
+			<unittitle>Hobson Council Memoranda</unittitle>
+			<unitdate type="inclusive" normal="1975">1975</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">40</container>
+			<container type="Folder">2</container>
+			<unittitle>"I"</unittitle>
+			<unitdate type="inclusive" normal="1975/1976">1975-1976</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">40</container>
+			<container type="Folder">3</container>
+			<unittitle>"J "</unittitle>
+			<unitdate type="inclusive" normal="1975/1976">1975-1976</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">40</container>
+			<container type="Folder">4</container>
+			<unittitle>"K"</unittitle>
+			<unitdate type="inclusive" normal="1975/1976">1975-1976</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">40</container>
+			<container type="Folder">5</container>
+			<unittitle>"L"</unittitle>
+			<unitdate type="inclusive" normal="1975/1977">1975-1977</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">40</container>
+			<container type="Folder">6</container>
+			<unittitle>Massage Parlors</unittitle>
+			<unitdate type="inclusive" normal="1977">1977</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">40</container>
+			<container type="Folder">7</container>
+			<unittitle>Mc</unittitle>
+			<unitdate type="inclusive" normal="1975/1976">1975-1976</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">41</container>
+			<container type="Folder">1</container>
+			<unittitle>"N"</unittitle>
+			<unitdate type="inclusive" normal="1975/1976">1975-1976</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">41</container>
+			<container type="Folder">2</container>
+			<unittitle>News Release</unittitle>
+			<unitdate type="inclusive" normal="1975/1976">1975-1976</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">41</container>
+			<container type="Folder">3</container>
+			<unittitle>"O"</unittitle>
+			<unitdate type="inclusive" normal="1976">1976</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">41</container>
+			<container type="Folder">4</container>
+			<unittitle>"P"</unittitle>
+			<unitdate type="inclusive" normal="1975/1976">1975-1976</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">41</container>
+			<container type="Folder">5</container>
+			<unittitle>Personnel</unittitle>
+			<unitdate type="inclusive" normal="1975">1975</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">41</container>
+			<container type="Folder">6</container>
+			<unittitle>"Q"</unittitle>
+			<unitdate type="inclusive" normal="1975/1976">1975-1976</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">41</container>
+			<container type="Folder">7</container>
+			<unittitle>"R"</unittitle>
+			<unitdate type="inclusive" normal="1975/1976">1975-1976</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">42</container>
+			<container type="Folder">1</container>
+			<unittitle>"S"</unittitle>
+			<unitdate type="inclusive" normal="1975/1976">1975-1976</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">42</container>
+			<container type="Folder">2</container>
+			<unittitle>Staff Memoranda</unittitle>
+			<unitdate type="inclusive" normal="1975">1975</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">42</container>
+			<container type="Folder">3</container>
+			<unittitle>"T"</unittitle>
+			<unitdate type="inclusive" normal="1975/1976">1975-1976</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">42</container>
+			<container type="Folder">4</container>
+			<unittitle>Tirana</unittitle>
+			<unitdate type="inclusive" normal="1975">1975</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">42</container>
+			<container type="Folder">5</container>
+			<unittitle>"U"</unittitle>
+			<unitdate type="inclusive" normal="1975">1975</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">42</container>
+			<container type="Folder">6</container>
+			<unittitle>"V"</unittitle>
+			<unitdate type="inclusive" normal="1975/1976">1975-1976</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">42</container>
+			<container type="Folder">7</container>
+			<unittitle>"W"</unittitle>
+			<unitdate type="inclusive" normal="1975/1977">1975-1977</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">43</container>
+			<container type="Folder">1</container>
+			<unittitle>Washington</unittitle>
+			<unitdate type="inclusive" normal="1975/1977">1975-1977</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">43</container>
+			<container type="Folder">2</container>
+			<unittitle>"XYZ"</unittitle>
+			<unitdate type="inclusive" normal="1975/1977">1975-1977</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">44</container>
+			<container type="Folder">1</container>
+			<unittitle>Chronological Files</unittitle>
+			<unitdate type="inclusive" normal="01/1975-12">January-December 1975</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">45</container>
+			<container type="Folder">1</container>
+			<unittitle>Chronological Files</unittitle>
+			<unitdate type="inclusive" normal="1976">1976</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">46</container>
+			<container type="Folder">1</container>
+			<unittitle>Chronological Files</unittitle>
+			<unitdate type="inclusive" normal="1976-10/1977-03">October 1976-March 1977</unitdate>
+		</did>
+	</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 12: Topical Files, 1973-1977</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">47</container>
+				<container type="Folder">1</container>
+				<unittitle>Committee on Education</unittitle>
+				<unitdate type="inclusive" normal="1976/1977">1976-1977</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">47</container>
+				<container type="Folder">2</container>
+				<unittitle>Committee on Education</unittitle>
+				<unitdate type="inclusive" normal="1975">1975</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">48</container>
+				<container type="Folder">1</container>
+				<unittitle>Correspondence</unittitle>
+				<unitdate type="inclusive" normal="1974/1977">1974-1977</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">48</container>
+				<container type="Folder">2</container>
+				<unittitle>Programs</unittitle>
+				<unitdate type="inclusive" normal="1976">1976</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">48</container>
+				<container type="Folder">3</container>
+				<unittitle>Statements</unittitle>
+				<unitdate type="inclusive" normal="1974/1976">1974-1976</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">48</container>
+				<container type="Folder">4</container>
+				<unittitle>School Cost Center Reporting Resolution</unittitle>
+				<unitdate type="inclusive" normal="1976">1976</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">48</container>
+				<container type="Folder">5</container>
+				<unittitle>Returnable Beverage Container Law</unittitle>
+				<unitdate type="inclusive" normal="1975">1975</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">48</container>
+				<container type="Folder">6</container>
+				<unittitle>Resource Recovery Facility</unittitle>
+				<unitdate type="inclusive" normal="1975">1975</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">48</container>
+				<container type="Folder">7</container>
+				<unittitle>Police Surveillance</unittitle>
+				<unitdate type="inclusive" normal="1975">1975</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">48</container>
+				<container type="Folder">8</container>
+				<unittitle>Contributors to Campaign</unittitle>
+				<unitdate type="inclusive" normal="1973">1973</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">48</container>
+				<container type="Folder">9</container>
+				<unittitle>The Inaugural Event</unittitle>
+				<unitdate type="inclusive" normal="1977">1977</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">49</container>
+				<container type="Folder">1</container>
+				<unittitle>Correspondence Log</unittitle>
+				<unitdate type="inclusive" normal="1975/1976">1975-1976</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">49</container>
+				<container type="Folder">2</container>
+				<unittitle>Constituent Service Records</unittitle>
+				<unitdate type="inclusive" normal="1975/1976">1975-1976</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">49</container>
+				<container type="Folder">3</container>
+				<unittitle>Council Calendar</unittitle>
+				<unitdate type="inclusive" normal="1975/1976">1975-1976</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">50</container>
+				<container type="Folder">1</container>
+				<unittitle>Certificates Hobson Awarded (Blank)</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">51</container>
+				<container type="Folder">1</container>
+				<unittitle>Letterhead Paper and Envelopes (Small)</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">51</container>
+				<container type="Folder">2</container>
+				<unittitle>Business Cards</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 13: Freedom of Information Privacy Act Request, 1969-1970; 1976-1977</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">52</container>
+				<container type="Folder">1</container>
+				<unittitle>Julius W. Hobson's FOIA Request I and II</unittitle>
+				<unitdate type="inclusive" normal="1976">1976</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">52</container>
+				<container type="Folder">2</container>
+				<unittitle>Julius W. Hobson's FOIA Request I and II</unittitle>
+				<unitdate type="inclusive" normal="1976">1976</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">52</container>
+				<container type="Folder">3</container>
+				<unittitle>Freedom of Information Privacy Act Request I</unittitle>
+				<unitdate type="inclusive" normal="1976/1977">1976-1977</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">52</container>
+				<container type="Folder">4</container>
+				<unittitle>Freedom of Information Privacy Act Request I</unittitle>
+				<unitdate type="inclusive" normal="1976/1977">1976-1977</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">53</container>
+				<container type="Folder">1</container>
+				<unittitle>Hobson v. Wilson</unittitle>
+				<unitdate type="inclusive" normal="1976">1976</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">53</container>
+				<container type="Folder">2</container>
+				<unittitle>Tina C. Hobson</unittitle>
+				<unitdate type="inclusive" normal="1976">1976</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">53</container>
+				<container type="Folder">3</container>
+				<unittitle>Miscellaneous Papers</unittitle>
+				<unitdate type="inclusive" normal="1969/1970">1969-1970</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 14: Hobson v. Wilson, 1969-1983</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">53</container>
+				<container type="Folder">1</container>
+				<unittitle>American Civil Liberties Union Law Suit</unittitle>
+				<unitdate type="inclusive" normal="1976">1976</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">54</container>
+				<container type="Folder">1</container>
+				<unittitle>Hobson v. Wilson (82‑2160) Vol. I</unittitle>
+				<unitdate type="inclusive" normal="1982/1983">1982-1983</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">54</container>
+				<container type="Folder">2</container>
+				<unittitle>Hobson v. Wilson (82‑2159) Vol. II</unittitle>
+				<unitdate type="inclusive" normal="1982/1983">1982-1983</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">54</container>
+				<container type="Folder">3</container>
+				<unittitle>Research Motions N.O.V. and New Trial and Misc.</unittitle>
+				<unitdate type="inclusive" normal="1977/1983">1977-1983</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">54</container>
+				<container type="Folder">4</container>
+				<unittitle>Hobson v. Wilson (Post‑Trial Pleading Vol. I)</unittitle>
+				<unitdate type="inclusive" normal="1981/1982">1981-1982</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">54</container>
+				<container type="Folder">5</container>
+				<unittitle>Hobson v. Wilson (Post Trial Pleading Vol. II)</unittitle>
+				<unitdate type="inclusive" normal="1982">1982</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">54</container>
+				<container type="Folder">6</container>
+				<unittitle>Hobson Attorney Fees Discovery</unittitle>
+				<unitdate type="inclusive" normal="1982">1982</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">55</container>
+				<container type="Folder">1</container>
+				<unittitle>Extra copies of pleading</unittitle>
+				<unitdate type="inclusive" normal="1982">1982</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">55</container>
+				<container type="Folder">2</container>
+				<unittitle>Hobson‑Temp. file (Trial)</unittitle>
+				<unitdate type="inclusive" normal="1982">1982</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">55</container>
+				<container type="Folder">3</container>
+				<unittitle>Office Expenses</unittitle>
+				<unitdate type="inclusive" normal="1984">1984</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">55</container>
+				<container type="Folder">4</container>
+				<unittitle>Attorneys' Fees Application‑Work Sheets</unittitle>
+				<unitdate type="inclusive" normal="1981">1981</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">55</container>
+				<container type="Folder">5</container>
+				<unittitle>Research‑damages</unittitle>
+				<unitdate type="inclusive" normal="1983">1983</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">55</container>
+				<container type="Folder">6</container>
+				<unittitle>Research‑Injunction (with Reference Material)</unittitle>
+				<unitdate type="inclusive" normal="1982">1982</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">55</container>
+				<container type="Folder">7</container>
+				<unittitle>Pre‑trial Memo</unittitle>
+				<unitdate type="inclusive" normal="1981">1981</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">55</container>
+				<container type="Folder">8</container>
+				<unittitle>Bar Complaint</unittitle>
+				<unitdate type="inclusive" normal="1982">1982</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">55</container>
+				<container type="Folder">9</container>
+				<unittitle>Trial Memos (Legal Issues)</unittitle>
+				<unitdate type="inclusive" normal="1981">1981</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">55</container>
+				<container type="Folder">10</container>
+				<unittitle>Robert Wall</unittitle>
+				<unitdate type="inclusive" normal="1981">1981</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">55</container>
+				<container type="Folder">11</container>
+				<unittitle>Oral Arguments</unittitle>
+				<unitdate type="inclusive" normal="1981">1981</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">55</container>
+				<container type="Folder">12</container>
+				<unittitle>Material for Research‑Hobson Appeal</unittitle>
+				<unitdate type="inclusive" normal="1981/1983">1981-1983</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">55</container>
+				<container type="Folder">13</container>
+				<unittitle>Jury Instructions and Special Verdict Form‑‑Parties Submissions</unittitle>
+				<unitdate type="inclusive" normal="1983">1983</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">55</container>
+				<container type="Folder">14</container>
+				<unittitle>Misc. Papers</unittitle>
+				<unitdate type="inclusive" normal="1981/1984">1981-1984</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">56</container>
+				<container type="Folder">1</container>
+				<unittitle>Court Transcript (Vol. I)</unittitle>
+				<unitdate type="inclusive" normal="1983">1983</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">57</container>
+				<container type="Folder">1</container>
+				<unittitle>Court Transcript (Vol. II)</unittitle>
+				<unitdate type="inclusive" normal="1983">1983</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">58</container>
+				<container type="Folder">1</container>
+				<unittitle>Court Transcript (Vol. III)</unittitle>
+				<unitdate type="inclusive" normal="1978">1978</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">59</container>
+				<container type="Folder">1</container>
+				<unittitle>Court Transcript (Vol. IV) Exhibitions</unittitle>
+				<unitdate type="inclusive" normal="1968">1968</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">59</container>
+				<container type="Folder">2</container>
+				<unittitle>Tina Hobson v. Wilson</unittitle>
+				<unitdate type="inclusive" normal="1981">1981</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">60</container>
+				<container type="Folder">1</container>
+				<unittitle>Motions by Defendants (Vol. 12)</unittitle>
+				<unitdate type="inclusive" normal="1981-09/1981-10">September‑October 1981</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">60</container>
+				<container type="Folder">2</container>
+				<unittitle>Motions by Plaintiffs (Vol. 13)</unittitle>
+				<unitdate type="inclusive" normal="1981-10/1981-11">October‑November 1981</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">60</container>
+				<container type="Folder">3</container>
+				<unittitle>Exhibits to Plaintiffs Pre‑Trial Brief Vol. 13A</unittitle>
+				<unitdate type="inclusive" normal="1981">1981</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">61</container>
+				<container type="Folder">1</container>
+				<unittitle>Hobson Pleading Vol. 14</unittitle>
+				<unitdate type="inclusive" normal="1981-10-29/1981-11">October 29‑November 1981</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">61</container>
+				<container type="Folder">2</container>
+				<unittitle>Hobson Pleading Vol. 15</unittitle>
+				<unitdate type="inclusive" normal="1981-11">November 1981</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">61</container>
+				<container type="Folder">3</container>
+				<unittitle>Miscellaneous court Motions</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 15: University Teacher, 1968-1975</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">62</container>
+				<container type="Folder">1</container>
+				<unittitle>Correspondence</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">62</container>
+				<container type="Folder">2</container>
+				<unittitle>Course Outlines</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">62</container>
+				<container type="Folder">3</container>
+				<unittitle>Roll Books</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">62</container>
+				<container type="Folder">4</container>
+				<unittitle>Miscellaneous Papers</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">63</container>
+				<container type="Folder">1</container>
+				<unittitle>Student papers (restricted)</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">64</container>
+				<container type="Folder">1</container>
+				<unittitle>Student papers (restricted)</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">65</container>
+				<container type="Folder">1</container>
+				<unittitle>Student papers (restricted)</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">66</container>
+				<container type="Folder">1</container>
+				<unittitle>Student papers (restricted)</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+	</c01>
+<c01 level="series">
+	<did>
+		<unittitle>Series 16: Personal, 1957-1977</unittitle>
+	</did>
+		<c02 level="subseries">
+		<did>
+			<unittitle>Subseries 1: Awards and memorabilia, 1957-1972</unittitle>
+		</did>	
+			<c03 level="file">
+				<did>
+					<container type="Box">67</container>
+					<container type="Folder">1</container>
+					<unittitle>An Evening to Honor Julius W. Hobson</unittitle>
+					<unitdate type="inclusive">Undated</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">67</container>
+					<container type="Folder">2</container>
+					<unittitle>Julius Hobson</unittitle>
+					<unitdate type="inclusive">Undated</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">67</container>
+					<container type="Folder">3</container>
+					<unittitle>Second Annual Institute on Employment Programs</unittitle>
+					<unitdate type="inclusive">Undated</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">67</container>
+					<container type="Folder">4</container>
+					<unittitle>Malcolm X metal plaque</unittitle>
+					<unitdate type="inclusive">Undated</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">67</container>
+					<container type="Folder">5</container>
+					<unittitle>License plate and license</unittitle>
+					<unitdate type="inclusive">Undated</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">67</container>
+					<container type="Folder">6</container>
+					<unittitle>Greeting cards</unittitle>
+					<unitdate type="inclusive">Undated</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">67</container>
+					<container type="Folder">7</container>
+					<unittitle>Buttons and maps</unittitle>
+					<unitdate type="inclusive">Undated</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">67</container>
+					<container type="Folder">8</container>
+					<unittitle>Campaign memorabilia</unittitle>
+					<unitdate type="inclusive">Undated</unitdate>
+				</did>
+			</c03>
+	</c02>
+	<c02 level="subseries">
+		<did>
+			<unittitle>Subseries 2: Illness 1972-1977</unittitle>
+		</did>	
+		<c03 level="file">
+			<did>
+				<container type="Box">68</container>
+				<container type="Folder">1</container>
+				<unittitle>Personal correspondence</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">68</container>
+				<container type="Folder">2</container>
+				<unittitle>Personal correspondence</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">68</container>
+				<container type="Folder">3</container>
+				<unittitle>Personal correspondence</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">68</container>
+				<container type="Folder">4</container>
+				<unittitle>Personal correspondence</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">68</container>
+				<container type="Folder">5</container>
+				<unittitle>Miscellaneous</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">69</container>
+				<container type="Folder">1</container>
+				<unittitle>Correspondence</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">69</container>
+				<container type="Folder">2</container>
+				<unittitle>Correspondence</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">69</container>
+				<container type="Folder">3</container>
+				<unittitle>Correspondence</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">69</container>
+				<container type="Folder">4</container>
+				<unittitle>Miscellaneous papers</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">70</container>
+				<container type="Folder">1</container>
+				<unittitle>Medication Charts</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">70</container>
+				<container type="Folder">2</container>
+				<unittitle>Medication Dosages</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">70</container>
+				<container type="Folder">3</container>
+				<unittitle>Insurance Claims and Nursing Care</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">70</container>
+				<container type="Folder">4</container>
+				<unittitle>Clinic File</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c03>
+	</c02>
+	<c02 level="subseries">
+		<did>
+			<unittitle>Subseries 3: Death, 1977-1978</unittitle>
+		</did>	
+		<c03 level="file">
+			<did>
+				<container type="Box">71</container>
+				<container type="Folder">1</container>
+				<unittitle>Correspondence</unittitle>
+				<unitdate type="inclusive" normal="1977/1978">1977-1978</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">71</container>
+				<container type="Folder">2</container>
+				<unittitle>Sympathy Cards</unittitle>
+				<unitdate type="inclusive" normal="1977">1977</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">71</container>
+				<container type="Folder">3</container>
+				<unittitle>Memorial Statements and Affairs</unittitle>
+				<unitdate type="inclusive" normal="1977">1977</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">71</container>
+				<container type="Folder">4</container>
+				<unittitle>The Julius Hobson Memorial Summer in the Park</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">72</container>
+				<container type="Folder">1</container>
+				<unittitle>Copies of Condolence Messages</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">72</container>
+				<container type="Folder">2</container>
+				<unittitle>Copies of Condolence Messages</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">72</container>
+				<container type="Folder">3</container>
+				<unittitle>Memorial service program</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">72</container>
+				<container type="Folder">4</container>
+				<unittitle>Clippings</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c03>
+	</c02>
+</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 18: Biography, 1961-1970</unittitle>
+		</did>
+	<c02 level="file">
+		<did>
+			<container type="Box">73</container>
+			<container type="Folder">1</container>
+			<unittitle>Black Pride Manuscript</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">73</container>
+			<container type="Folder">2</container>
+			<unittitle>Book autographed to wife and stepson (2 copies)</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">73</container>
+			<container type="Folder">3</container>
+			<unittitle>David Eaton Interview</unittitle>
+			<unitdate type="inclusive" normal="1974">1974</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">73</container>
+			<container type="Folder">4</container>
+			<unittitle>Conversation with Marilyn Robinson</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">73</container>
+			<container type="Folder">5</container>
+			<unittitle>Christopher Jencks Controversy‑Tape and Transcription</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">73</container>
+			<container type="Folder">6</container>
+			<unittitle>The Beginning of the Struggle</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">73</container>
+			<container type="Folder">7</container>
+			<unittitle>Interview for Washington Round Table</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">74</container>
+			<container type="Folder">1</container>
+			<unittitle>“Renew American: Hobson the Great Gadfly” (videotaped interview by</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">74</container>
+			<container type="Folder">2</container>
+			<unittitle>Marilyn Robinson)</unittitle>
+			<unitdate type="inclusive" normal="1970/1979" certainty="approximate">1970s</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">75</container>
+			<container type="Folder">1</container>
+			<unittitle>FBI Papers</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">75</container>
+			<container type="Folder">2</container>
+			<unittitle>FBI/Government Spying</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">75</container>
+			<container type="Folder">3</container>
+			<unittitle>CSC (Federal Job Discrimination)</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">75</container>
+			<container type="Folder">4</container>
+			<unittitle>Newspaper Articles after Death</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">76</container>
+			<container type="Folder">1</container>
+			<unittitle>Personal/Family/Awards</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">76</container>
+			<container type="Folder">2</container>
+			<unittitle>Testimonials</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">76</container>
+			<container type="Folder">3</container>
+			<unittitle>Memorials</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">77</container>
+			<container type="Folder">1</container>
+			<unittitle>Jencks Tape</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">77</container>
+			<container type="Folder">2</container>
+			<unittitle>Education</unittitle>
+			<unitdate type="inclusive" normal="1967/1971">1967-1971</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">77</container>
+			<container type="Folder">3</container>
+			<unittitle>Education</unittitle>
+			<unitdate type="inclusive" normal="1967/1971">1967-1971</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">78</container>
+			<container type="Folder">1</container>
+			<unittitle>Publications</unittitle>
+			<unitdate type="inclusive" normal="1963">1963</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">78</container>
+			<container type="Folder">2</container>
+			<unittitle>Television/Radio</unittitle>
+			<unitdate type="inclusive" normal="1965/1966">1965-1966</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">78</container>
+			<container type="Folder">3</container>
+			<unittitle>Biographical</unittitle>
+			<unitdate type="inclusive" normal="1964/1969">1964-1969</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">79</container>
+			<container type="Folder">1</container>
+			<unittitle>Education and School Bd. charts</unittitle>
+			<unitdate type="inclusive" normal="1961/1969">1961-1969</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">79</container>
+			<container type="Folder">2</container>
+			<unittitle>Walter Fauntroy</unittitle>
+			<unitdate type="inclusive" normal="1967">1967</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">79</container>
+			<container type="Folder">3</container>
+			<unittitle>Desegregation DC</unittitle>
+			<unitdate type="inclusive" normal="1962/1966">1962-1966</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">79</container>
+			<container type="Folder">4</container>
+			<unittitle>Education‑Youth Meetings</unittitle>
+			<unitdate type="inclusive" normal="1969">1969</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">79</container>
+			<container type="Folder">5</container>
+			<unittitle>Economic protection (bankruptcy)</unittitle>
+			<unitdate type="inclusive" normal="1967">1967</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">79</container>
+			<container type="Folder">6</container>
+			<unittitle>Equal employment opportunity</unittitle>
+			<unitdate type="inclusive" normal="1969/1970">1969-1970</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">80</container>
+			<container type="Folder">1</container>
+			<unittitle>General Bibliography</unittitle>
+			<unitdate type="inclusive" normal="1972/1974">1972-1974</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">80</container>
+			<container type="Folder">2</container>
+			<unittitle>Disposition of Papers</unittitle>
+			<unitdate type="inclusive" normal="1975/1978">1975-1978</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">80</container>
+			<container type="Folder">3</container>
+			<unittitle>Women's Issues</unittitle>
+			<unitdate type="inclusive" normal="1968/1970">1968-1970</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">80</container>
+			<container type="Folder">4</container>
+			<unittitle>Transportation in DC (Freeway and Rate Hike fights)</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">80</container>
+			<container type="Folder">5</container>
+			<unittitle>Peace</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">80</container>
+			<container type="Folder">6</container>
+			<unittitle>Police</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">81</container>
+			<container type="Folder">1</container>
+			<unittitle>Race - Civil Rights</unittitle>
+			<unitdate type="inclusive" normal="1964/1969">1964-1969</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">81</container>
+			<container type="Folder">2</container>
+			<unittitle>Race - Civil Rights</unittitle>
+			<unitdate type="inclusive" normal="1964/1969">1964-1969</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">81</container>
+			<container type="Folder">3</container>
+			<unittitle>CORE</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">81</container>
+			<container type="Folder">4</container>
+			<unittitle>ACT</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">81</container>
+			<container type="Folder">5</container>
+			<unittitle>Housing</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 19: Clippings, 1957-1982</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">82</container>
+				<container type="Folder">1</container>
+				<unittitle>Clippings</unittitle>
+				<unitdate type="inclusive" normal="1957">1957</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">82</container>
+				<container type="Folder">2</container>
+				<unittitle>Clippings</unittitle>
+				<unitdate type="inclusive" normal="1960/1967">1960-1967</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">83</container>
+				<container type="Folder">1</container>
+				<unittitle>Clippings</unittitle>
+				<unitdate type="inclusive" normal="1968/1970">1968-1970</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">83</container>
+				<container type="Folder">2</container>
+				<unittitle>Clippings</unittitle>
+				<unitdate type="inclusive" normal="1968/1970">1968-1970</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">83</container>
+				<container type="Folder">3</container>
+				<unittitle>Clippings</unittitle>
+				<unitdate type="inclusive" normal="1969">1969</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">83</container>
+				<container type="Folder">4</container>
+				<unittitle>Clippings</unittitle>
+				<unitdate type="inclusive" normal="1969">1969</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">83</container>
+				<container type="Folder">5</container>
+				<unittitle>Clippings</unittitle>
+				<unitdate type="inclusive" normal="1970">1970</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">84</container>
+				<container type="Folder">1</container>
+				<unittitle>Clippings</unittitle>
+				<unitdate type="inclusive" normal="1971/1977">1971-1977</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">84</container>
+				<container type="Folder">2</container>
+				<unittitle>Clippings</unittitle>
+				<unitdate type="inclusive" normal="1971/1977">1971-1977</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">84</container>
+				<container type="Folder">3</container>
+				<unittitle>Clippings</unittitle>
+				<unitdate type="inclusive" normal="1971/1977">1971-1977</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">84</container>
+				<container type="Folder">4</container>
+				<unittitle>Clippings</unittitle>
+				<unitdate type="inclusive" normal="1971/1977">1971-1977</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">84</container>
+				<container type="Folder">5</container>
+				<unittitle>Clippings</unittitle>
+				<unitdate type="inclusive" normal="1971/1977">1971-1977</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">84</container>
+				<container type="Folder">6</container>
+				<unittitle>Clippings</unittitle>
+				<unitdate type="inclusive" normal="1971/1977">1971-1977</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">84</container>
+				<container type="Folder">7</container>
+				<unittitle>Clippings</unittitle>
+				<unitdate type="inclusive" normal="1971/1977">1971-1977</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">84</container>
+				<container type="Folder">8</container>
+				<unittitle>Clippings</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">84</container>
+				<container type="Folder">9</container>
+				<unittitle>Clippings</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">84</container>
+				<container type="Folder">10</container>
+				<unittitle>Clippings</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">85</container>
+				<container type="Folder">1</container>
+				<unittitle>Handwritten log of clippings</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 20: Printed Materials, 1922-1976</unittitle>
+		</did>
+		<c02 level="subseries">
+			<did>
+				<unittitle>Subseries 1: Periodicals, 1959-1973</unittitle>
+			</did>	
+			<c03 level="file">
+				<did>
+					<container type="Box">86</container>
+					<container type="Folder">1</container>
+					<unittitle>Administratative Leadership thru Government Workers News</unittitle>
+					<unitdate type="inclusive">Undated</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">87</container>
+					<container type="Folder">1</container>
+					<unittitle>Grass Roots thru Jet</unittitle>
+					<unitdate type="inclusive">Undated</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">88</container>
+					<container type="Folder">1</container>
+					<unittitle>Journal of Negro Education thru The Reporter</unittitle>
+					<unitdate type="inclusive">Undated</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">89</container>
+					<container type="Folder">1</container>
+					<unittitle>Pangolin thru Saturday Review</unittitle>
+					<unitdate type="inclusive">Undated</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">90</container>
+					<container type="Folder">1</container>
+					<unittitle>Society Security Bulletin thru Women Strike for Peace Memo</unittitle>
+					<unitdate type="inclusive">Undated</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">91</container>
+					<container type="Folder">1</container>
+					<unittitle>The D.C. Gazette</unittitle>
+					<unitdate type="inclusive" normal="1971/1972">1971-1972</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">91</container>
+					<container type="Folder">2</container>
+					<unittitle>The Capitol Hill Spectator</unittitle>
+					<unitdate type="inclusive" normal="1968-11-20">November 20 1968</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">91</container>
+					<container type="Folder">3</container>
+					<unittitle>The Southern Patriot</unittitle>
+					<unitdate type="inclusive" normal="1966-10">October 1966</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">91</container>
+					<container type="Folder">4</container>
+					<unittitle>The Southern Patriot</unittitle>
+					<unitdate type="inclusive" normal="1970-03">March 1970</unitdate>
+				</did>
+			</c03>
+		</c02>
+		<c02 level="subseries">
+			<did>
+				<unittitle>Subseries 2: Reports, 1961-1970, 1984</unittitle>
+			</did>	
+	<c03 level="file">
+		<did>
+			<container type="Box">92</container>
+			<container type="Folder">1</container>
+			<unittitle>Alinsky</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">92</container>
+			<container type="Folder">2</container>
+			<unittitle>A Chronology of Violence and Intimidation in Mississippi since 1961</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">92</container>
+			<container type="Folder">3</container>
+			<unittitle>CORE</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">92</container>
+			<container type="Folder">4</container>
+			<unittitle>The Day They Marched</unittitle>
+			<unitdate type="inclusive" normal="1963">1963</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">92</container>
+			<container type="Folder">5</container>
+			<unittitle>Martin Luther King: The Search for Justice</unittitle>
+			<unitdate type="inclusive" normal="1968">1968</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">92</container>
+			<container type="Folder">6</container>
+			<unittitle>Biography of Martin Luther King</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">92</container>
+			<container type="Folder">7</container>
+			<unittitle>Law Center for Constitutional Rights - 1st Annual Report</unittitle>
+			<unitdate type="inclusive" normal="1967">1967</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">92</container>
+			<container type="Folder">8</container>
+			<unittitle>Lawyers Committee for Civil Rights Under Law 10-Year Report</unittitle>
+			<unitdate type="inclusive" normal="1963">1963</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">92</container>
+			<container type="Folder">9</container>
+			<unittitle>NAACP - How the National Association for the Advancement of Color People Began</unittitle>
+			<unitdate type="inclusive" normal="1914">1914</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">92</container>
+			<container type="Folder">10</container>
+			<unittitle>NAACP - Adam Where art Thou?: The NAACP and Adam Clayton Powell</unittitle>
+			<unitdate type="inclusive" normal="1963">1963</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">92</container>
+			<container type="Folder">11</container>
+			<unittitle>NAACP - Target for 1963: Goals of the Fight for Freedom</unittitle>
+			<unitdate type="inclusive" normal="1963">1963</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">92</container>
+			<container type="Folder">12</container>
+			<unittitle>NAACP - 55th Annual Convention</unittitle>
+			<unitdate type="inclusive" normal="1964">1964</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">92</container>
+			<container type="Folder">13</container>
+			<unittitle>National Editorial Board of News and Letters - American Civilization on Trial: The Negro as Touchstone of History</unittitle>
+			<unitdate type="inclusive" normal="1963-05">May 1963</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">92</container>
+			<container type="Folder">14</container>
+			<unittitle>The Negro American in Paperback (2 copies)</unittitle>
+			<unitdate type="inclusive" normal="1968">1968</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">92</container>
+			<container type="Folder">15</container>
+			<unittitle>Paul Robeson memorial service program - Shiloh Baptist Church</unittitle>
+			<unitdate type="inclusive" normal="1976-04-30">April 30 1976</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">92</container>
+			<container type="Folder">16</container>
+			<unittitle>Socialist Workers Party - The Case for a Black Party</unittitle>
+			<unitdate type="inclusive" normal="1968">1968</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">92</container>
+			<container type="Folder">17</container>
+			<unittitle>Upjohn Institute - Civil Rights</unittitle>
+			<unitdate type="inclusive" normal="1966">1966</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">92</container>
+			<container type="Folder">18</container>
+			<unittitle>U.S. Commission on Civil Rights - Justice: 1961 Commission on Civil Rights Report</unittitle>
+			<unitdate type="inclusive" normal="1961">1961</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">92</container>
+			<container type="Folder">19</container>
+			<unittitle>U.S. Commission on Civil Rights - Hearings Held in Memphis Tennessee</unittitle>
+			<unitdate type="inclusive" normal="1962-06-25/1962-06-26">June 25-26 1962</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">93</container>
+			<container type="Folder">1</container>
+			<unittitle>U.S. Commission on Civil Rights - U.S. Commission on Civil Rights - U.S. Commission on Civil Rights</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">93</container>
+			<container type="Folder">2</container>
+			<unittitle>U.S. Commission on Civil Rights - U.S. Commission on Civil Rights - Civil Rights: Report of the U.S. Commission on Civil Rights</unittitle>
+			<unitdate type="inclusive" normal="1963">1963</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">93</container>
+			<container type="Folder">3</container>
+			<unittitle>U.S. Commission on Civil Rights - Reports on Apprenticeship by the Advisory Committees [to the Commission]</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">93</container>
+			<container type="Folder">4</container>
+			<unittitle>U.S. Commission on Civil Rights - Civil Rights under Federal Programs: An Analysis of Title VI</unittitle>
+			<unitdate type="inclusive" normal="1965-01">January 1965</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">93</container>
+			<container type="Folder">5</container>
+			<unittitle>U.S. Commission on Civil Rights - Enforcement: A Report on Equal Protection in the South</unittitle>
+			<unitdate type="inclusive" normal="1965">1965</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">93</container>
+			<container type="Folder">6</container>
+			<unittitle>U.S. Commission on Civil Rights - Hearings Before the Commission . . . Vol. I - Voting - held in Jackson MS</unittitle>
+			<unitdate type="inclusive" normal="1965">1965</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">93</container>
+			<container type="Folder">7</container>
+			<unittitle>U.S. Commission on Civil Rights - Assassination and Political Violence</unittitle>
+			<unitdate type="inclusive" normal="1969-10">October 1969</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">93</container>
+			<container type="Folder">8</container>
+			<unittitle>U.S. Commission on Civil Rights - The Mexican American</unittitle>
+			<unitdate type="inclusive" normal="1968">1968</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">93</container>
+			<container type="Folder">9</container>
+			<unittitle>U.S. Commission on Civil Rights - Political Participation</unittitle>
+			<unitdate type="inclusive" normal="1968">1968</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">93</container>
+			<container type="Folder">10</container>
+			<unittitle>U.S. Commission on Civil Rights - cycle to nowhere by Paul Good</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">93</container>
+			<container type="Folder">11</container>
+			<unittitle>U.S. Commission on Civil Rights - Index: Federal Civil Rights Enforcement Effort</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">94</container>
+			<container type="Folder">1</container>
+			<unittitle>U.S. Congress - Civil Rights Act</unittitle>
+			<unitdate type="inclusive" normal="1964-07-02">July 2 1964</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">94</container>
+			<container type="Folder">2</container>
+			<unittitle>U.S. Congress - Hearings … regarding the Civil Rights of Persons . . . Series No. 4 Part II</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">94</container>
+			<container type="Folder">3</container>
+			<unittitle>U.S. Congress - Civil Rights: A Staff Report of the Committee on the Judiciary</unittitle>
+			<unitdate type="inclusive" normal="1976">1976</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">94</container>
+			<container type="Folder">4</container>
+			<unittitle>The Report of a Survey of the Public Schools of D.C.</unittitle>
+			<unitdate type="inclusive" normal="1949">1949</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">94</container>
+			<container type="Folder">5</container>
+			<unittitle>Civil Rights in the Nation’s Capital: A Report on a Decade of Progress</unittitle>
+			<unitdate type="inclusive" normal="1959">1959</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">94</container>
+			<container type="Folder">6</container>
+			<unittitle>Untitled</unittitle>
+			<unitdate type="inclusive" normal="1967/1968">1967-1968</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">94</container>
+			<container type="Folder">7</container>
+			<unittitle>Directory: Board of Education - Administrative and Supervisory Staff</unittitle>
+			<unitdate type="inclusive" normal="1969">1969</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">94</container>
+			<container type="Folder">8</container>
+			<unittitle>D.C. Teachers College - A Report: Seminar on Public School Adult Education</unittitle>
+			<unitdate type="inclusive" normal="1968">1968</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">94</container>
+			<container type="Folder">9</container>
+			<unittitle>D.C. Public Schools - The Guidance Dispatch - Department of Pupil Personnel</unittitle>
+			<unitdate type="inclusive" normal="1969">1969</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">94</container>
+			<container type="Folder">10</container>
+			<unittitle>D.C. Public Schools - Facts and Figures</unittitle>
+			<unitdate type="inclusive" normal="1968/1969">1968-1969</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">95</container>
+			<container type="Folder">1</container>
+			<unittitle>D.C. Public Schools - Summary Report - A Comprehensive Plan for Public Higher Education in D.C.</unittitle>
+			<unitdate type="inclusive" normal="1972">1972</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">95</container>
+			<container type="Folder">2</container>
+			<unittitle>D.C. City Council - First Annual Report of D.C. City Council</unittitle>
+			<unitdate type="inclusive" normal="1969">1969</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">95</container>
+			<container type="Folder">3</container>
+			<unittitle>Advisers on Equal Employment - Equal Employment in the Nation’s Capital</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">95</container>
+			<container type="Folder">4</container>
+			<unittitle>D.C. Citizens for Better Public Education - Toward Better Schools: A Summary of the Passow Report</unittitle>
+			<unitdate type="inclusive" normal="1967">1967</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">95</container>
+			<container type="Folder">5</container>
+			<unittitle>D.C. Citizens for Better Public Education - Financing the D.C. Public Schools</unittitle>
+			<unitdate type="inclusive" normal="1971">1971</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">95</container>
+			<container type="Folder">6</container>
+			<unittitle>DCCBPE - A Study of Educational Resource Allocation In A Major Urban School District: The Case of Washington D.C.</unittitle>
+			<unitdate type="inclusive" normal="1973-04-13">April 13 1973</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">95</container>
+			<container type="Folder">7</container>
+			<unittitle>National Capital Civil Liberties Union - A Police Department in Trouble: Racial Discrimination and Misconduct in the Police Department of Washington D.C.</unittitle>
+			<unitdate type="inclusive" normal="1968">1968</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">95</container>
+			<container type="Folder">8</container>
+			<unittitle>D.C. EEO - Staffing Patterns in the Government of D.C.</unittitle>
+			<unitdate type="inclusive" normal="1972">1972</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">95</container>
+			<container type="Folder">9</container>
+			<unittitle>Urban Studies Program - The City is a Classroom by Lawrence Smith et al.</unittitle>
+			<unitdate type="inclusive" normal="1968">1968</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">95</container>
+			<container type="Folder">10</container>
+			<unittitle>U.S. Congress - Antipoverty in the District of Columbia - Hearing by Task Force on Antipoverty in D.C.</unittitle>
+			<unitdate type="inclusive" normal="1966-03-14">March 14 1966</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">95</container>
+			<container type="Folder">11</container>
+			<unittitle>U.S. Congress - A Task Force Study of the Public School System in D.C. As it Relates to the War on Poverty</unittitle>
+			<unitdate type="inclusive" normal="1966-06">June 1966</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">96</container>
+			<container type="Folder">1</container>
+			<unittitle>U.S. Congress - Investigation of the Schools and Poverty in D.C. - Hearing by Task Force on Antipoverty in D.C</unittitle>
+			<unitdate type="inclusive">October,January 1966</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">96</container>
+			<container type="Folder">2</container>
+			<unittitle>Center for Sociological Research - Jerome Manis - A Study of Migrant Education</unittitle>
+			<unitdate type="inclusive" normal="1957">1957</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">96</container>
+			<container type="Folder">3</container>
+			<unittitle>Journal of Intergroup Relations - “Public School Segregation and Integration in the North”</unittitle>
+			<unitdate type="inclusive" normal="1963">1963</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">96</container>
+			<container type="Folder">4</container>
+			<unittitle>Leadership Conference on Civil Rights - Federally Supported Discrimination</unittitle>
+			<unitdate type="inclusive" normal="1961">1961</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">96</container>
+			<container type="Folder">5</container>
+			<unittitle>U.S. Department of Agriculture - Economic Factors Influencing Educational Attainments and Aspirations of Farm Youth - 1964</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">96</container>
+			<container type="Folder">6</container>
+			<unittitle>Strategy for Change: A Report on the Model School Division</unittitle>
+			<unitdate type="inclusive" normal="1966">1966</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">96</container>
+			<container type="Folder">7</container>
+			<unittitle>UNESCO - Report on Methods and Means Utilized in Cuba to Eliminate Illiteracy</unittitle>
+			<unitdate type="inclusive" normal="1965">1965</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">96</container>
+			<container type="Folder">8</container>
+			<unittitle>NEA - Second National NEA-PRandR Conference on Civil and Human Rights Education</unittitle>
+			<unitdate type="inclusive" normal="1965">1965</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">96</container>
+			<container type="Folder">9</container>
+			<unittitle>NAACP - Is it Helping Poor Children?</unittitle>
+			<unitdate type="inclusive" normal="1966">1966</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">96</container>
+			<container type="Folder">10</container>
+			<unittitle>Responsive Environment Center Program</unittitle>
+			<unitdate type="inclusive" normal="1968">1968</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">96</container>
+			<container type="Folder">11</container>
+			<unittitle>Presbyterian Church - An Open Letter: The Public and Its Education</unittitle>
+			<unitdate type="inclusive" normal="1969">1969</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">96</container>
+			<container type="Folder">12</container>
+			<unittitle>Polytechnic High School had a problem</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">96</container>
+			<container type="Folder">13</container>
+			<unittitle>Institute of Human Relations - Blueprint for Action: Integration in Education</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">96</container>
+			<container type="Folder">14</container>
+			<unittitle>U.S. Commission on Civil Rights - Problems of Segregation and Desegregation of Public Schools</unittitle>
+			<unitdate type="inclusive" normal="1962">1962</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">96</container>
+			<container type="Folder">15</container>
+			<unittitle>U.S. Commission on Civil Rights - Public Education: Staff Report</unittitle>
+			<unitdate type="inclusive" normal="1964">1964</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">96</container>
+			<container type="Folder">16</container>
+			<unittitle>U.S. Commission on Civil Rights - Federal Rights under School Desegregation Law</unittitle>
+			<unitdate type="inclusive" normal="1966">1966</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">96</container>
+			<container type="Folder">17</container>
+			<unittitle>U.S. Commission on Civil Rights - Equal Educational Opportunity in America’s Cities: Problems and Programs for Change</unittitle>
+			<unitdate type="inclusive" normal="1967">1967</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">96</container>
+			<container type="Folder">18</container>
+			<unittitle>U.S. Commission on Civil Rights - A Time to Listen - A Time to Act</unittitle>
+			<unitdate type="inclusive" normal="1967">1967</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">97</container>
+			<container type="Folder">1</container>
+			<unittitle>U.S. Commission on Civil Rights - Racial Isolation in the Public Schools (Summary and full report)</unittitle>
+			<unitdate type="inclusive" normal="1967">1967</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">97</container>
+			<container type="Folder">2</container>
+			<unittitle>U.S. Commission on Civil Rights - Schools Can be Desegregated</unittitle>
+			<unitdate type="inclusive" normal="1967">1967</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">97</container>
+			<container type="Folder">3</container>
+			<unittitle>U.S. Department of HEW - State Curriculum Guides in Science</unittitle>
+			<unitdate type="inclusive" normal="1960">1960</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">97</container>
+			<container type="Folder">4</container>
+			<unittitle>U.S. Department of HEW - Effects of Ability Grouping in Schools Related to … Differences in … Motivation</unittitle>
+			<unitdate type="inclusive" normal="1963">1963</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">97</container>
+			<container type="Folder">5</container>
+			<unittitle>U.S. Department of HEW - Equality of Educational Opportunity</unittitle>
+			<unitdate type="inclusive" normal="1966">1966</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">97</container>
+			<container type="Folder">6</container>
+			<unittitle>U.S. Congress -</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">97</container>
+			<container type="Folder">7</container>
+			<unittitle>U.S. Congress - Books for School and the Treatment of Minorities - Hearings before Ad hoc Subcommittee on De Facto school desegregation</unittitle>
+			<unitdate type="inclusive" normal="1966">1966</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">97</container>
+			<container type="Folder">8</container>
+			<unittitle>U.S. Congress - A Compilation of Federal Education Laws</unittitle>
+			<unitdate type="inclusive" normal="1969">1969</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">98</container>
+			<container type="Folder">1</container>
+			<unittitle>U.S. Congress - Hearings before the Select Committee on Equal Educational Opportunity</unittitle>
+			<unitdate type="inclusive" normal="1970">1970</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">98</container>
+			<container type="Folder">2</container>
+			<unittitle>U.S. Congress - Equal Educational Opportunity, Parts 1A, 1B, and 2</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">98</container>
+			<container type="Folder">3</container>
+			<unittitle>U.S. Congress - Desegregation Under Law, Parts 3A and 3B</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">98</container>
+			<container type="Folder">4</container>
+			<unittitle>U.S. Congress - Inequality in School Finance, Parts 16A, 16B, and 16D-1</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">99</container>
+			<container type="Folder">1</container>
+			<unittitle>U.S. Congress - Inequality in School Finance, Parts 16D-2 and 18</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">99</container>
+			<container type="Folder">2</container>
+			<unittitle>U.S. Congress - A Compendium of Statutes Administered by . . . Office of Education - Committee on Education and Labor</unittitle>
+			<unitdate type="inclusive" normal="1965-07">July 1965</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">99</container>
+			<container type="Folder">3</container>
+			<unittitle>U.S. Congress - Laws Relating to Federal Corrupt Practices and Political Activities</unittitle>
+			<unitdate type="inclusive" normal="1968-09">September 1968</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">99</container>
+			<container type="Folder">4</container>
+			<unittitle>U.S. Congress - Congressional Record</unittitle>
+			<unitdate type="inclusive">5/5/1975, 6/26/1967</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">99</container>
+			<container type="Folder">5</container>
+			<unittitle>U.S. Congress - Congressional Record Digest</unittitle>
+			<unitdate type="inclusive" normal="1963-03-15">March 15 1963</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">100</container>
+			<container type="Folder">1</container>
+			<unittitle>Equal Opportunity in Employment: A Call to the Churches.</unittitle>
+			<unitdate type="inclusive" normal="1966">1966</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">100</container>
+			<container type="Folder">2</container>
+			<unittitle>Herbert E. Striner 1984 and Beyond: The World of Work</unittitle>
+			<unitdate type="inclusive" normal="1984">1984</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">100</container>
+			<container type="Folder">3</container>
+			<unittitle>Herbert E. Striner - Continuing Education as a National Investement</unittitle>
+			<unitdate type="inclusive" normal="1972">1972</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">100</container>
+			<container type="Folder">4</container>
+			<unittitle>U.S. Civil Service Commission- Study of Minority Group Employment in the Federal Government</unittitle>
+			<unitdate type="inclusive" normal="1965/1971">1965-1971</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">101</container>
+			<container type="Folder">1</container>
+			<unittitle>U.S. Civil Service Commission - Monthly Report of Federal Employment</unittitle>
+			<unitdate type="inclusive" normal="1967-10">October 1967</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">101</container>
+			<container type="Folder">2</container>
+			<unittitle>U.S. Civil Service Commission - Conducting Hearings on Employee Appeals</unittitle>
+			<unitdate type="inclusive" normal="1968">1968</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">101</container>
+			<container type="Folder">3</container>
+			<unittitle>U.S. Civil Service Commission - Monthly report on Federal Participation in Economic and Educational Opportunity Programs</unittitle>
+			<unitdate type="inclusive" normal="1968">1968</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">101</container>
+			<container type="Folder">4</container>
+			<unittitle>U.S. Department of Labor - Exploding the Myths: Expanding Employment Opportunities for Career Women</unittitle>
+			<unitdate type="inclusive" normal="1966">1966</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">101</container>
+			<container type="Folder">5</container>
+			<unittitle>U.S. Department of Labor - Negro Women in the Population and in the Labor Force</unittitle>
+			<unitdate type="inclusive" normal="1967">1967</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">101</container>
+			<container type="Folder">6</container>
+			<unittitle>U.S. Department of Labor - Federal Work Injuries</unittitle>
+			<unitdate type="inclusive" normal="1968">1968</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">101</container>
+			<container type="Folder">7</container>
+			<unittitle>U.S. Department of Labor - Federal Work Injury Facts</unittitle>
+			<unitdate type="inclusive" normal="1969">1969</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">101</container>
+			<container type="Folder">8</container>
+			<unittitle>U.S. Department of Labor - Employment Outlook for Tomorrow’s Jobs</unittitle>
+			<unitdate type="inclusive" normal="1968/1969">1968-1969</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">101</container>
+			<container type="Folder">9</container>
+			<unittitle>U.S. Congress - Equal Employment Opportunity Hearings</unittitle>
+			<unitdate type="inclusive" normal="1963">1963</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">101</container>
+			<container type="Folder">10</container>
+			<unittitle>U.S. Congress - Title 5 - U.S. Code - Government Organization and Employees</unittitle>
+			<unitdate type="inclusive" normal="1966">1966</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">101</container>
+			<container type="Folder">11</container>
+			<unittitle>U.S. Congress - Equal Employment Opportunities Enforcement Act Hearings (2 copies)</unittitle>
+			<unitdate type="inclusive" normal="1969">1969</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">101</container>
+			<container type="Folder">12</container>
+			<unittitle>U.S. Congress - Equal Employment Opportunities Enforcement Act of 1970</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">101</container>
+			<container type="Folder">13</container>
+			<unittitle>U.S. Congress - Equal Employment Opportunities Enforcement Act of 1971</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">101</container>
+			<container type="Folder">14</container>
+			<unittitle>U.S. Congress - Migrant Farm Worker in America</unittitle>
+			<unitdate type="inclusive" normal="1961">1961</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">102</container>
+			<container type="Folder">1</container>
+			<unittitle>AFL-CIO - The Southern Labor Story</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">102</container>
+			<container type="Folder">2</container>
+			<unittitle>Americans for Democratic Action - A Program for Americans</unittitle>
+			<unitdate type="inclusive" normal="1968/1969">1968-1969</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">102</container>
+			<container type="Folder">3</container>
+			<unittitle>Black Economic Research Center - Report of Activities</unittitle>
+			<unitdate type="inclusive" normal="1970/1971">1970-1971</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">102</container>
+			<container type="Folder">4</container>
+			<unittitle>Center for Democratic Institutions - Fund for the Republic - Consumers of Abundance</unittitle>
+			<unitdate type="inclusive" normal="1961">1961</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">102</container>
+			<container type="Folder">5</container>
+			<unittitle>Health and Welfare Council of the National Capital Area - Telling It Like It Is!</unittitle>
+			<unitdate type="inclusive" normal="1966">1966</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">102</container>
+			<container type="Folder">6</container>
+			<unittitle>Health and Welfare Council of the National Capital Area - Poverty’s Children</unittitle>
+			<unitdate type="inclusive" normal="1966">1966</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">102</container>
+			<container type="Folder">7</container>
+			<unittitle>Health and Welfare Council of the National Capital Area - Perspectives on Poverty</unittitle>
+			<unitdate type="inclusive" normal="1967">1967</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">102</container>
+			<container type="Folder">8</container>
+			<unittitle>Edward S. Herman</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">102</container>
+			<container type="Folder">9</container>
+			<unittitle>A. Philip Randolph Institute - A Freedom Budget for All Americans</unittitle>
+			<unitdate type="inclusive" normal="1966">1966</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">102</container>
+			<container type="Folder">10</container>
+			<unittitle>The Serpent’s Wisdom: An Interfaith Multi-Discipline Guide . . .</unittitle>
+			<unitdate type="inclusive" normal="1968">1968</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">102</container>
+			<container type="Folder">11</container>
+			<unittitle>Upjohn Institute for Employment</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">102</container>
+			<container type="Folder">12</container>
+			<unittitle>University of Maryland School of Social Work - VISTA Training Program</unittitle>
+			<unitdate type="inclusive" normal="1966">1966</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">102</container>
+			<container type="Folder">13</container>
+			<unittitle>U.S. Congress - 1966 Amendments to the Economic Opportunity Act of 1964 - Hearings</unittitle>
+			<unitdate type="inclusive" normal="1966">1966</unitdate>
+		</did>
+	</c03>
+		</c02>
+		<c02 level="subseries">
+			<did>
+				<unittitle>Subseries 3: Court Papers, 1967-1970</unittitle>
+			</did>	
+			<c03 level="file">
+				<did>
+					<container type="Box">103</container>
+					<container type="Folder">1</container>
+					<unittitle>Hobson v. Hansen - Opinion by Hon. Skelly Wright - U.S. District Court</unittitle>
+					<unitdate type="inclusive" normal="1967-06-19">June 19 1967</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">103</container>
+					<container type="Folder">2</container>
+					<unittitle>Carl Smuck v. Hobson/Hansen v. Hobson - U.S. Court of Appeals pleadings</unittitle>
+					<unitdate type="inclusive" normal="1968/1969">1968-1969</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">103</container>
+					<container type="Folder">3</container>
+					<unittitle>Hobson v. Gasch - Memorandum for the Respondent in Opposition - Supreme Court of the U.S. - October term</unittitle>
+					<unitdate type="inclusive" normal="1966">1966</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">103</container>
+					<container type="Folder">4</container>
+					<unittitle>Hobson v. Board of Election for D.C.</unittitle>
+					<unitdate type="inclusive">Undated</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">103</container>
+					<container type="Folder">5</container>
+					<unittitle>Hobson v. Wilson</unittitle>
+					<unitdate type="inclusive">Undated</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">103</container>
+					<container type="Folder">6</container>
+					<unittitle>Keyes v. School Dist. No. One</unittitle>
+					<unitdate type="inclusive">Undated</unitdate>
+				</did>
+			</c03>
+		</c02>
+		<c02 level="subseries">
+			<did>
+				<unittitle>Subseries 4: Reprints, 1946-1969</unittitle>
+			</did>	
+			<c03 level="file">
+				<did>
+					<container type="Box">104</container>
+					<container type="Folder">1</container>
+					<unittitle>American Sociological Review - “Sociological Theory and Race Relations” by Franklin Frazier</unittitle>
+					<unitdate type="inclusive" normal="1947-06">June 1947</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">104</container>
+					<container type="Folder">2</container>
+					<unittitle>Amherst College Alumni News - “The Freedom Riders”</unittitle>
+					<unitdate type="inclusive" normal="1961-08">August 1961</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">104</container>
+					<container type="Folder">3</container>
+					<unittitle>Levone Bennett Jr. - “Stockely Carmichael: Architect of Black Power”</unittitle>
+					<unitdate type="inclusive" normal="1966-07">July 1966</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">104</container>
+					<container type="Folder">4</container>
+					<unittitle>Freedomways - “The Contours of the ‘Black Revolution’ in the 1970s” by J.H. O’Dell</unittitle>
+					<unitdate type="inclusive" normal="1970">1970</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">104</container>
+					<container type="Folder">5</container>
+					<unittitle>Harvard Law Review - “Seniority and Testing Under Fair Employment Laws” by George Cooper and Richard B. Sobol</unittitle>
+					<unitdate type="inclusive" normal="1969-06">June 1969</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">104</container>
+					<container type="Folder">6</container>
+					<unittitle>Journal of Intergroup Relations - “The Successful Sit-Ins in a Border City: A Study in Social Causation” by August Meier</unittitle>
+					<unitdate type="inclusive" normal="1961">1961</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">104</container>
+					<container type="Folder">7</container>
+					<unittitle>Journal of Negro Education - “The Relationship between Test Intelligence of Third Grade "</unittitle>
+					<unitdate type="inclusive">Undated</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">104</container>
+					<container type="Folder">8</container>
+					<unittitle>Negro Children and the Occupations of Their Parents by Mary Robinson and Max Meenes</unittitle>
+					<unitdate type="inclusive" normal="1947">1947</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">104</container>
+					<container type="Folder">9</container>
+					<unittitle>Journal of Negro History - “The Status of the Free Negro in Charleston… and Descendant" by Horace Fitchett</unittitle>
+					<unitdate type="inclusive" normal="1947-10">October 1947</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">104</container>
+					<container type="Folder">10</container>
+					<unittitle>Journal of Social Issues - “The War on Poverty-Political Pornography” by Saul D. Alinsky</unittitle>
+					<unitdate type="inclusive" normal="1965">1965</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">104</container>
+					<container type="Folder">11</container>
+					<unittitle>Liberation - “Rifle Squads or the Beloved Community” by A. J. Muste</unittitle>
+					<unitdate type="inclusive" normal="1964-05">May 1964</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">104</container>
+					<container type="Folder">12</container>
+					<unittitle>The New Republic - “Black Chutzpah” by John Osborne</unittitle>
+					<unitdate type="inclusive" normal="1968-04">April 1968</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">104</container>
+					<container type="Folder">13</container>
+					<unittitle>Monthly Review - “Marxian Socialism: Power Elite or Ruling Class” by Paul Sweezy</unittitle>
+					<unitdate type="inclusive" normal="1956">1956</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">104</container>
+					<container type="Folder">14</container>
+					<unittitle>Rutgers Law Review - “The Constitutional Right of Negro Freedom” by Arthur Kinoy</unittitle>
+					<unitdate type="inclusive" normal="1967">1967</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">104</container>
+					<container type="Folder">15</container>
+					<unittitle>Social Forces - “An Analysis of Statistics on Negro Illegitimacy in the United States” by Franklin Frazier</unittitle>
+					<unitdate type="inclusive" normal="1932-12">Dec. 1932</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">104</container>
+					<container type="Folder">16</container>
+					<unittitle>Social Forces - “Children and Income in Negro Families” by Franklin Frazier</unittitle>
+					<unitdate type="inclusive" normal="1946-12">Dec. 1946</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">104</container>
+					<container type="Folder">17</container>
+					<unittitle>Southwest Review - “Separate But No Equal: The Sweatt Case” by Charles H. Thompson</unittitle>
+					<unitdate type="inclusive" normal="1948">1948</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">104</container>
+					<container type="Folder">18</container>
+					<unittitle>Triumph - “Betrayal in the Schools” by Martha White Washington</unittitle>
+					<unitdate type="inclusive">Jan. 1969</unitdate>
+				</did>
+			</c03>
+		</c02>
+		<c02 level="subseries">
+			<did>
+				<unittitle>Subseries 5: Books, 1922-1976</unittitle>
+			</did>	
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">19</container>
+			<unittitle>Joseph and Stewart Alsop - We Accuse!: The Story of the Mis­carriage of American Justice in the Case of J. Robert Oppen­heimer</unittitle>
+			<unitdate type="inclusive" normal="1954">1954</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">20</container>
+			<unittitle>Herbert Aptheker - American Negro Slave Revolts</unittitle>
+			<unitdate type="inclusive" normal="1964">1964</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">21</container>
+			<unittitle>Herbert Aptheker - A Documentary History of the Negro People in the United States</unittitle>
+			<unitdate type="inclusive" normal="1965">1965</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">22</container>
+			<unittitle>Jocelyn Arundel - Simba of the White Mane</unittitle>
+			<unitdate type="inclusive" normal="1958">1958</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">23</container>
+			<unittitle>Wallace W. Atwood and Helen Goss Thomas - Nations Beyond the Seas</unittitle>
+			<unitdate type="inclusive" normal="1930">1930</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">24</container>
+			<unittitle>James Baldwin - The Fire Next Time</unittitle>
+			<unitdate type="inclusive" normal="1963">1963</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">25</container>
+			<unittitle>Floyd B. Barbour - ed. - The Black Power Revolt</unittitle>
+			<unitdate type="inclusive" normal="1968">1968</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">26</container>
+			<unittitle>Berg</unittitle>
+			<unitdate type="inclusive" normal="1970">1970</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">27</container>
+			<unittitle>Albert P. Blaustein and Robert L. Zangrando - Civil Rights and the American Negro</unittitle>
+			<unitdate type="inclusive" normal="1969">1969</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">28</container>
+			<unittitle>Guy L. Bond - Down Our Way</unittitle>
+			<unitdate type="inclusive" normal="1962">1962</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">29</container>
+			<unittitle>Guy L. Bond - Once Upon A Storytime</unittitle>
+			<unitdate type="inclusive" normal="1962">1962</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">30</container>
+			<unittitle>Guy L. Bond - Stories from Everywhere</unittitle>
+			<unitdate type="inclusive" normal="1962">1962</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">31</container>
+			<unittitle>Simeon Booker - Black Man's America</unittitle>
+			<unitdate type="inclusive" normal="1964">1964</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">32</container>
+			<unittitle>Malcom Boyd - Free to Live</unittitle>
+			<unitdate type="inclusive" normal="1967">1967</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">33</container>
+			<unittitle>James Bowman et al. - ed - Of Education and Human Community</unittitle>
+			<unitdate type="inclusive" normal="1971">1971</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">34</container>
+			<unittitle>Henry W. Boynton - ed. - Selected Poems</unittitle>
+			<unitdate type="inclusive" normal="1922">1922</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">35</container>
+			<unittitle>Frederick K. Branom - Geography of Our World</unittitle>
+			<unitdate type="inclusive" normal="1929">1929</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">36</container>
+			<unittitle>William F. Brazziel - Quality Education for All Americans</unittitle>
+			<unitdate type="inclusive" normal="1974">1974</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">37</container>
+			<unittitle>Robert H. Bremner - From the Depths: The Discovery of Poverty in the United States</unittitle>
+			<unitdate type="inclusive" normal="1964">1964</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">38</container>
+			<unittitle>H. Rap Brown - Die Nigger Die!</unittitle>
+			<unitdate type="inclusive" normal="1969">1969</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">39</container>
+			<unittitle>Joseph C. Brown et al. - Champion Arithmetics</unittitle>
+			<unitdate type="inclusive" normal="1933">1933</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">40</container>
+			<unittitle>Caedmon Records - Alexander Pope</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">41</container>
+			<unittitle>Stokely Carmichael and Charles V. Hamilton - Black Power</unittitle>
+			<unitdate type="inclusive" normal="1967">1967</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">42</container>
+			<unittitle>Jack Carpenter - Destination Tomorrow</unittitle>
+			<unitdate type="inclusive" normal="1972">1972</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">43</container>
+			<unittitle>Lewis Carroll - Alice in Wonderland</unittitle>
+			<unitdate type="inclusive" normal="1946">1946</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">44</container>
+			<unittitle>Edna W. Chandler - Cowboy Sam</unittitle>
+			<unitdate type="inclusive" normal="1958">1958</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">45</container>
+			<unittitle>Che Guevera - Socialism and Man</unittitle>
+			<unitdate type="inclusive" normal="1966">1966</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">46</container>
+			<unittitle>Kenneth B. Clark - Negro Protest: James Baldwin</unittitle>
+			<unitdate type="inclusive" normal="1963">1963</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">47</container>
+			<unittitle>Kenneth B. Clark - A Possible Reality</unittitle>
+			<unitdate type="inclusive" normal="1972">1972</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">48</container>
+			<unittitle>Eldridge Cleaver - Soul on Ice</unittitle>
+			<unitdate type="inclusive" normal="1968">1968</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">49</container>
+			<unittitle>Contact Washington: An Educator’s Directory</unittitle>
+			<unitdate type="inclusive" normal="1966">1966</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">50</container>
+			<unittitle>Arthur W. Cook - Africa: Past and Present</unittitle>
+			<unitdate type="inclusive" normal="1965">1965</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">51</container>
+			<unittitle>Basil Davidson - Which Way Africa?: The Search for a New Society</unittitle>
+			<unitdate type="inclusive" normal="1967">1967</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">52</container>
+			<unittitle>Basil Davidson - The African Slave Trade</unittitle>
+			<unitdate type="inclusive" normal="1961">1961</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">53</container>
+			<unittitle>Angela Y. Davis - If They Come in the Morning: Voices of Resistance</unittitle>
+			<unitdate type="inclusive" normal="1971">1971</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">54</container>
+			<unittitle>Dialogue from the Ghetto</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">55</container>
+			<unittitle>Henry M. Dressler - A Call for World Revolution: To Establish Perfected Society for All Mankind in the Brotherhood of Man</unittitle>
+			<unitdate type="inclusive" normal="1996">1996</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">56</container>
+			<unittitle>Ivar Berg - Education and Jobs: The Great Training Robbery</unittitle>
+			<unitdate type="inclusive" normal="1970">1970</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">57</container>
+			<unittitle>W.E.B. DuBois - The Souls of Black Folk</unittitle>
+			<unitdate type="inclusive" normal="1961">1961</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">58</container>
+			<unittitle>Fletcher Durell - The New Day Arithmetics</unittitle>
+			<unitdate type="inclusive" normal="1931">1931</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">59</container>
+			<unittitle>Clements Dutt - Fundamentals of Marxism‑Leninism</unittitle>
+			<unitdate type="inclusive" normal="1961">1961</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">60</container>
+			<unittitle>Charles P. Emerson - Livinq at Our Best: Book Two</unittitle>
+			<unitdate type="inclusive" normal="1936">1936</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">61</container>
+			<unittitle>The Face of Red China: The First Television Report by CBS</unittitle>
+			<unitdate type="inclusive" normal="1958-12">December 1958</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">62</container>
+			<unittitle>Frantz Fanon - Toward the African Revolution</unittitle>
+			<unitdate type="inclusive" normal="1967">1967</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">63</container>
+			<unittitle>Dorothy Canfield Fisher - A Fair World for All</unittitle>
+			<unitdate type="inclusive" normal="1966">1966</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">64</container>
+			<unittitle>Michael J. Flax - Blacks and Whites</unittitle>
+			<unitdate type="inclusive" normal="1971">1971</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">65</container>
+			<unittitle>John E. Fleming - The Lengthening Shadow of Slavery</unittitle>
+			<unitdate type="inclusive" normal="1976">1976</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">66</container>
+			<unittitle>Osmond K. Fraenkel - The Supreme Court and Civil Liberties</unittitle>
+			<unitdate type="inclusive" normal="1963">1963</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">67</container>
+			<unittitle>John Hope Franklin - From Slavery to Freedom</unittitle>
+			<unitdate type="inclusive" normal="1947">1947</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">68</container>
+			<unittitle>The Fraser Institute - Rent Control: A Popular Paradox</unittitle>
+			<unitdate type="inclusive" normal="1975">1975</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">69</container>
+			<unittitle>Eli Ginzberg - The Negro Challenge to the Business Community</unittitle>
+			<unitdate type="inclusive" normal="1964">1964</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">70</container>
+			<unittitle>Hugh Davis Graham - Violence in America: Historical and Com­parative Perspective</unittitle>
+			<unitdate type="inclusive" normal="1969">1969</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">71</container>
+			<unittitle>Alexander Gray -The Development of Economic Doctrine</unittitle>
+			<unitdate type="inclusive" normal="1946">1946</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">72</container>
+			<unittitle>Dick Gregory - From the Back of the Bus</unittitle>
+			<unitdate type="inclusive" normal="1962">1962</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">73</container>
+			<unittitle>Dick Gregory - Nigger</unittitle>
+			<unitdate type="inclusive" normal="1964">1964</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">74</container>
+			<unittitle>William H. Grier and Price M. Cobbs - The Jesus Bag</unittitle>
+			<unitdate type="inclusive" normal="1971">1971</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">75</container>
+			<unittitle>Janet Harris and Julius Hobson - Black Pride: A People’s Struggle</unittitle>
+			<unitdate type="inclusive" normal="1969">1969</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">76</container>
+			<unittitle>Alex Haley - The Autobiography of Malcolm X (Autographed by Hobson)</unittitle>
+			<unitdate type="inclusive" normal="1964">1964</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">77</container>
+			<unittitle>Alex Haley - Roots</unittitle>
+			<unitdate type="inclusive" normal="1976">1976</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">78</container>
+			<unittitle>John Hines - Our Friends in Africa (2 copies)</unittitle>
+			<unitdate type="inclusive" normal="1964">1964</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">79</container>
+			<unittitle>John Hines - The Adventures of Annancy</unittitle>
+			<unitdate type="inclusive" normal="1968">1968</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">80</container>
+			<unittitle>John Hines - The Genius of Benjamin Banneker</unittitle>
+			<unitdate type="inclusive" normal="1968">1968</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">81</container>
+			<unittitle>John Holt - How Children Fail</unittitle>
+			<unitdate type="inclusive" normal="1964">1964</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">82</container>
+			<unittitle>W. Lee Hansen - Benefits</unittitle>
+			<unitdate type="inclusive" normal="1969">1969</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">83</container>
+			<unittitle>Janet Harris - The Long Freedom Road: The Civil Rights Story</unittitle>
+			<unitdate type="inclusive" normal="1967">1967</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">84</container>
+			<unittitle>Alger Hiss - In the Court of Public Opinion</unittitle>
+			<unitdate type="inclusive" normal="1957">1957</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">85</container>
+			<unittitle>Charles F. Horne - Europe: The Mother of America</unittitle>
+			<unitdate type="inclusive" normal="1930">1930</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">86</container>
+			<unittitle>Leo Huberman and Sybil May - The ABC of Socialism</unittitle>
+			<unitdate type="inclusive" normal="1953">1953</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">87</container>
+			<unittitle>Leo Huberman - Man's Worldly Goods</unittitle>
+			<unitdate type="inclusive" normal="1936">1936</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">88</container>
+			<unittitle>Langston Hughes and Arna Bontemp eds. - The Book of Negro Folklore</unittitle>
+			<unitdate type="inclusive" normal="1958">1958</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">89</container>
+			<unittitle>Ellsworth Huntington et al.- Living Geography</unittitle>
+			<unitdate type="inclusive" normal="1935">1935</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">90</container>
+			<unittitle>George L. Jackson - Blood in my Eye</unittitle>
+			<unitdate type="inclusive" normal="1972">1972</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">91</container>
+			<unittitle>Christopher Jencks - Inequality</unittitle>
+			<unitdate type="inclusive" normal="1972">1972</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">92</container>
+			<unittitle>Jesse J. Johnson - The Black Soldier Documented (1619‑1815)</unittitle>
+			<unitdate type="inclusive" normal="1969">1969</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">93</container>
+			<unittitle>Jesse J. Johnson - A Pictorial History of Black Soldiers (1619‑1969) in Peace and War</unittitle>
+			<unitdate type="inclusive" normal="1970">1970</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">94</container>
+			<unittitle>Maldwyn A. Jones - American Immigration</unittitle>
+			<unitdate type="inclusive" normal="1960">1960</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">95</container>
+			<unittitle>Abram Kardiner - The Mark of Oppression: Explorations in the American Negro</unittitle>
+			<unitdate type="inclusive" normal="1963">1963</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">96</container>
+			<unittitle>Joseph F. Kauffman - Education</unittitle>
+			<unitdate type="inclusive" normal="1966">1966</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">97</container>
+			<unittitle>James F. Kirham et al. - Assassination and Political Violence</unittitle>
+			<unitdate type="inclusive" normal="1969">1969</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">98</container>
+			<unittitle>Ellis 0. Knox - Democracy and the District of Columbia Public Schools: A Study of Recently Integrated Public Schools (Hobson listed as secretary‑treasurer on dust jacket of Steer­ing Com. of Citizens Against Defamation.)</unittitle>
+			<unitdate type="inclusive" normal="1957">1957</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">99</container>
+			<unittitle>Jonathan Kozol - Death at an Early Age: The Destruction of the Hearts and Minds of Negro Children in the Boston Public Schools</unittitle>
+			<unitdate type="inclusive" normal="1967">1967</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">100</container>
+			<unittitle>Jonathan Kozol - Free Schools</unittitle>
+			<unitdate type="inclusive" normal="1972">1972</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">101</container>
+			<unittitle>Ferdinand Kuhn - Commodore Perry and the opening of Japan</unittitle>
+			<unitdate type="inclusive" normal="1955">1955</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">102</container>
+			<unittitle>Harold Lamb - Genghis Khan and the Mongol Horde (illus. by Elton Fax)</unittitle>
+			<unitdate type="inclusive" normal="1954">1954</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">103</container>
+			<unittitle>Charles R. Larson ed. - Prejudice</unittitle>
+			<unitdate type="inclusive" normal="1971">1971</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">104</container>
+			<unittitle>Kenneth Lasson - Proudly We Hail: Profile of Public Citizens in Action (Includes Hobson</unittitle>
+			<unitdate type="inclusive" normal="1975">1975</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">105</container>
+			<unittitle>Betsy Levin et al.</unittitle>
+			<unitdate type="inclusive" normal="1973">1973</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">106</container>
+			<unittitle>C.Day Lewis - The Collected Poems of Wilfred Owen</unittitle>
+			<unitdate type="inclusive" normal="1963">1963</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">107</container>
+			<unittitle>Hylan Lewis - Blackways of Kent</unittitle>
+			<unitdate type="inclusive" normal="1955">1955</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">108</container>
+			<unittitle>Max Lerner ed - The Portable Veblen</unittitle>
+			<unitdate type="inclusive" normal="1970">1970</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">109</container>
+			<unittitle>Richard A. Lester - Economics of Labor</unittitle>
+			<unitdate type="inclusive" normal="1946">1946</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">110</container>
+			<unittitle>Lincoln Filene Center for Citizenship and Public Affairs - Negro Self‑Concept: Implication for School and Citizenship</unittitle>
+			<unitdate type="inclusive" normal="1965">1965</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">111</container>
+			<unittitle>C. Eric Lincoln - The Black Muslims in America</unittitle>
+			<unitdate type="inclusive" normal="1961">1961</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">112</container>
+			<unittitle>Louis E. Lomax - The Reluctant African</unittitle>
+			<unitdate type="inclusive" normal="1960">1960</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">113</container>
+			<unittitle>Louis E. Lomax - When the Word is Given</unittitle>
+			<unitdate type="inclusive" normal="1963">1963</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">114</container>
+			<unittitle>Alan Lomax ed. - 300 Years of Black Poetry</unittitle>
+			<unitdate type="inclusive" normal="1970">1970</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">115</container>
+			<unittitle>Albert Luthuli - Let My People Go</unittitle>
+			<unitdate type="inclusive" normal="1962">1962</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">116</container>
+			<unittitle>W. R. McConnell - Living in the Americas</unittitle>
+			<unitdate type="inclusive" normal="1930">1930</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">117</container>
+			<unittitle>May McNeer - War Chief of the Seminoles</unittitle>
+			<unitdate type="inclusive" normal="1954">1954</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">118</container>
+			<unittitle>Clarence Major - The New Black Poetry</unittitle>
+			<unitdate type="inclusive" normal="1969">1969</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">119</container>
+			<unittitle>F. Ray Marshall - The Negro and Apprenticeship</unittitle>
+			<unitdate type="inclusive" normal="1967">1967</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">120</container>
+			<unittitle>Karl Marx - Capital - Vol. 3</unittitle>
+			<unitdate type="inclusive" normal="1975">1975</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">121</container>
+			<unittitle>Karl Marx - The Communist Manifesto</unittitle>
+			<unitdate type="inclusive" normal="1970">1970</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">122</container>
+			<unittitle>Karl Marx - The Grundrisse</unittitle>
+			<unitdate type="inclusive" normal="1971">1971</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">123</container>
+			<unittitle>David Mermelstein ed. - Economics</unittitle>
+			<unitdate type="inclusive" normal="1970">1970</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">124</container>
+			<unittitle>George R. Metcalf - Black Profiles</unittitle>
+			<unitdate type="inclusive" normal="1968">1968</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">125</container>
+			<unittitle>Merle Miller - Plain Speaking: An Oral Biography of Harry Truman</unittitle>
+			<unitdate type="inclusive" normal="1973">1973</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">126</container>
+			<unittitle>C. Wright Mills - White Collar</unittitle>
+			<unitdate type="inclusive" normal="1956">1956</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">127</container>
+			<unittitle>C. Wright Mills - The Power Elite</unittitle>
+			<unitdate type="inclusive" normal="1959">1959</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">128</container>
+			<unittitle>Frederick Morteller and Daniel P. Moynihan - On Equality of Educational Opportunity</unittitle>
+			<unitdate type="inclusive" normal="1972">1972</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">129</container>
+			<unittitle>Pauli Murray - Dark Testament and Other Poems</unittitle>
+			<unitdate type="inclusive" normal="1970">1970</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">130</container>
+			<unittitle>Elijah Muhammad - Message to the Blackman in America</unittitle>
+			<unitdate type="inclusive" normal="1965">1965</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">131</container>
+			<unittitle>N. P. Neilson - Physical Education for Elementary Schools</unittitle>
+			<unitdate type="inclusive" normal="1932">1932</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">132</container>
+			<unittitle>William L. Nida - Explorers and Pioneers</unittitle>
+			<unitdate type="inclusive" normal="1935">1935</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">133</container>
+			<unittitle>Kwame Nkruma - I Speak Of Freedom: A Statement of Africa</unittitle>
+			<unitdate type="inclusive" normal="1961">1961</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">134</container>
+			<unittitle>Roland Oliver - A Short History of Africa</unittitle>
+			<unitdate type="inclusive" normal="1969">1969</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">135</container>
+			<unittitle>The Oxford Book of American Verse</unittitle>
+			<unitdate type="inclusive">1950 and 1939</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">136</container>
+			<unittitle>Charles E. Osgood - An Alternative to War or Surrender</unittitle>
+			<unitdate type="inclusive" normal="1964">1964</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">137</container>
+			<unittitle>James Peck - Freedom Ride</unittitle>
+			<unitdate type="inclusive" normal="1962">1962</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">138</container>
+			<unittitle>Tillie S. Pine and Joseph Levine - The Egyptians Knew</unittitle>
+			<unitdate type="inclusive" normal="1964">1964</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">139</container>
+			<unittitle>Harry and David Posen - But Not Next Door</unittitle>
+			<unitdate type="inclusive" normal="1962">1962</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">140</container>
+			<unittitle>Dudley Randall - The Black Poets</unittitle>
+			<unitdate type="inclusive" normal="1972">1972</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">141</container>
+			<unittitle>Randall Dudley - For Malcom X: Poems of the Life and Death of Malcolm X</unittitle>
+			<unitdate type="inclusive" normal="1965">1965</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">142</container>
+			<unittitle>Saunders Redding - The Negro</unittitle>
+			<unitdate type="inclusive" normal="1967">1967</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">143</container>
+			<unittitle>Quentin Reynolds - The Battle of Britain</unittitle>
+			<unitdate type="inclusive" normal="1953">1953</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">144</container>
+			<unittitle>Mendel Rivers - Essential Works of Marxism</unittitle>
+			<unitdate type="inclusive" normal="1965">1965</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">145</container>
+			<unittitle>Samuel J. Roker - Vox Nigri</unittitle>
+			<unitdate type="inclusive" normal="1963">1963</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">146</container>
+			<unittitle>Reed Sarralt - The Ordeal of Desegregation: The First Decade</unittitle>
+			<unitdate type="inclusive" normal="1966">1966</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">147</container>
+			<unittitle>Ann Herbert Scott - Sam</unittitle>
+			<unitdate type="inclusive" normal="1967">1967</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">148</container>
+			<unittitle>Robert Service - Ballads of a Bohemian</unittitle>
+			<unitdate type="inclusive" normal="1944">1944</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">149</container>
+			<unittitle>Robert Service - Collected Poems</unittitle>
+			<unitdate type="inclusive" normal="1961">1961</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">150</container>
+			<unittitle>Peter S. Seymour - Together We Walk</unittitle>
+			<unitdate type="inclusive" normal="1971">1971</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">151</container>
+			<unittitle>Charles E. Silberman - Crisis in Black and White</unittitle>
+			<unitdate type="inclusive" normal="1964">1964</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">152</container>
+			<unittitle>Jerome Skolnick and Elliott Currie - Crisis in American Institutions - 2nd edit</unittitle>
+			<unitdate type="inclusive" normal="1973">1973</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">153</container>
+			<unittitle>Agnes Smedley - The Great Road: The Life and Times of Chuteh</unittitle>
+			<unitdate type="inclusive" normal="1956">1956</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">154</container>
+			<unittitle>Social Change and the Mental Health of Children</unittitle>
+			<unitdate type="inclusive" normal="1973">1973</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">155</container>
+			<unittitle>Alexander Solzhenitsyn</unittitle>
+			<unitdate type="inclusive" normal="1972-08-14">August 14 1972</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">156</container>
+			<unittitle>Stephen Spender - Selected Poems</unittitle>
+			<unitdate type="inclusive" normal="1964">1964</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">157</container>
+			<unittitle>Chuck Stone - Black Political Power in America</unittitle>
+			<unitdate type="inclusive" normal="1968">1968</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">158</container>
+			<unittitle>Paul M‑Sweezy - The Theory of Capitalist Development</unittitle>
+			<unitdate type="inclusive" normal="1942">1942</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">159</container>
+			<unittitle>A Time to Listen A Time to Act: Voices from the Ghettos of the Nation's Cities (Hobson cited within)</unittitle>
+			<unitdate type="inclusive" normal="1967">1967</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">160</container>
+			<unittitle>M. B. Tolson - Harlem Gallery - Book I - The Curator</unittitle>
+			<unitdate type="inclusive" normal="1965">1965</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">161</container>
+			<unittitle>A Treasury of the World's Best Loved Poems</unittitle>
+			<unitdate type="inclusive" normal="1961">1961</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">162</container>
+			<unittitle>Urban American Inc. - One Year Later: An Assessment of the Nation’s Response to the Crisis Describe the National Commission on Civil Disorders</unittitle>
+			<unitdate type="inclusive" normal="1969">1969</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">163</container>
+			<unittitle>Edward Wakin - Black Fighting Men in U.S. History</unittitle>
+			<unitdate type="inclusive" normal="1971">1971</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">164</container>
+			<unittitle>Washington: An Educator's Directory</unittitle>
+			<unitdate type="inclusive" normal="1966">1966</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">165</container>
+			<unittitle>Arthur I. Waskow - The Freedom Seder</unittitle>
+			<unitdate type="inclusive" normal="1969">1969</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">166</container>
+			<unittitle>Gerald Weinstein - Toward Humanistic Education: A Curriculum of Affect</unittitle>
+			<unitdate type="inclusive" normal="1970">1970</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">167</container>
+			<unittitle>Irvin Wiley and Hirst D. Milhollen - Embattled Confederates</unittitle>
+			<unitdate type="inclusive" normal="1964">1964</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">168</container>
+			<unittitle>C. Vann Woodward - The Strange Career of Jim Crow</unittitle>
+			<unitdate type="inclusive" normal="1966">1966</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">169</container>
+			<unittitle>Kathleeen Wright - The Other American</unittitle>
+			<unitdate type="inclusive" normal="1969">1969</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">170</container>
+			<unittitle>Whitney M. Young</unittitle>
+			<unitdate type="inclusive" normal="1969">1969</unitdate>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container type="Box">104</container>
+			<container type="Folder">171</container>
+			<unittitle>K. Zilliacus - A New Birth of Freedom</unittitle>
+			<unitdate type="inclusive" normal="1958">1958</unitdate>
+		</did>
+	</c03>
+		</c02>
+	</c01>
+		<c01 level="series">
+			<did>
+				<unittitle>Series 21: Photographs and oversized items, ca. 1965-1977</unittitle>
+			</did>
+			<c02 level="file">
+				<did>
+					<container type="Box">105</container>
+					<container type="Folder">1</container>
+					<unittitle>Oversized mounted photographs</unittitle>
+					<unitdate type="inclusive">Undated</unitdate>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container type="Box">106</container>
+					<container type="Folder">1</container>
+					<unittitle>Oversized mounted photographs</unittitle>
+					<unitdate type="inclusive">Undated</unitdate>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container type="Box">107</container>
+					<container type="Folder">1</container>
+					<unittitle>Oversized photographs, negatives, x-rays, and campaign memorabilia</unittitle>
+					<unitdate type="inclusive">Undated</unitdate>
+				</did>
+			</c02>
+</c01>
+</dsc>
+</archdesc>
+</ead>

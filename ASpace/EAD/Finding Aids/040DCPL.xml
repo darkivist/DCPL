@@ -1,0 +1,2056 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type="text/xml" href="I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/eadcbs6rev.xsl"?><!DOCTYPE ead PUBLIC "-//Society of American Archivists//DTD ead.dtd (Encoded Archival Description (EAD) Version 1.0)//EN" "I:/_Kelly/ArchivesSpace/EAD Tests/New Folder/ead.dtd">
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" repositoryencoding="iso15511" relatedencoding="MARC21">
+	<eadid mainagencycode="DWP" countrycode="US" url="http://washingtoniana.dclibrary.org">040DCPL</eadid>
+<filedesc>
+<titlestmt>
+	<titleproper encodinganalog="245$a">DC Public Library</titleproper>
+	<subtitle>An inventory of DC Public Library at DC Public Library</subtitle>
+<author encodinganalog="245$c">Finding aid prepared by Faye Haskins.</author>
+</titlestmt>
+<publicationstmt>
+<publisher encodinganalog="260$b">DC Public Library, Special Collections</publisher>
+	<date type="publication" encodinganalog="260$c" normal="2005-10">2005-10</date>
+<address><addressline>901 G Street NW</addressline><addressline>DC Public Library</addressline><addressline>Washington, D.C. 20009</addressline></address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation encodinganalog="500">EAD encoded by Paul Kelly on
+	<date normal="2017-04-20">2017-04-20</date>
+</creation>
+<langusage>English</langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory" relatedencoding="MARC21">
+<did id="a1">
+<head>Descriptive Summary</head>
+<repository label="Repository:" encodinganalog="852$a"><corpname>DC Public Library, Special Collections</corpname></repository>
+	<unitdate encodinganalog="260$c" label="Dates:" type="inclusive" normal="1896/1970">1896-1970</unitdate>
+	<unittitle label="Title:" encodinganalog="245$a">DC Public Library Records</unittitle>
+<physdesc label="Extent:" encodinganalog="300$a"><extent>142 boxes</extent></physdesc>
+<unitid encodinganalog="090" label="Collection Number:" countrycode="US" repositorycode="DCU">040</unitid>
+<langmaterial encodinganalog="041" label="Language:"><language langcode="eng">English</language></langmaterial>
+</did>
+	
+<dsc type="combined" id="a23">
+<head>Detailed Description of the Collection</head>
+<c01 level="series">
+   <did>
+   	<unittitle>Series 1: Audio Visual and Electronic Records, 1903-2000</unittitle>
+    </did>
+	<c02 level="subseries">
+		<did>
+			<unittitle>Subseries 1: Photographs, 1903-2000</unittitle>
+		</did>	
+		<c03 level="file">
+			<did>
+				<container type="Box">1</container>
+				<container type="Folder">1</container>
+				<unittitle>Central Library/Carnegie</unittitle>
+				<unitdate type="inclusive">1903-1925, 1940</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">2</container>
+				<container type="Folder">1</container>
+				<unittitle>Central Library/Carnegie</unittitle>
+				<unitdate type="inclusive" normal="1950/1963">1950-1963</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">3</container>
+				<container type="Folder">1</container>
+				<unittitle>Central Library/Carnegie</unittitle>
+				<unitdate type="inclusive" normal="1950/1963">1950-1963</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">4</container>
+				<container type="Folder">1</container>
+				<unittitle>Central Library/Carnegie</unittitle>
+				<unitdate type="inclusive" normal="1950/1963">1950-1963</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">5</container>
+				<container type="Folder">1</container>
+				<unittitle>Central Library/Carnegie</unittitle>
+				<unitdate type="inclusive" normal="1950/1963">1950-1963</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">7</container>
+				<container type="Folder">1</container>
+				<unittitle>Martin Luther King Jr. Memorial Library</unittitle>
+				<unitdate type="inclusive" normal="1970/1980">1970-1980</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">8</container>
+				<container type="Folder">1</container>
+				<unittitle>Martin Luther King Jr. Memorial Library</unittitle>
+				<unitdate type="inclusive" normal="1970/1980">1970-1980</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">9</container>
+				<container type="Folder">1</container>
+				<unittitle>Branches</unittitle>
+				<unitdate type="inclusive" normal="1911/1962">1911-1962</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">10</container>
+				<container type="Folder">1</container>
+				<unittitle>Woodridge</unittitle>
+				<unitdate type="inclusive" normal="1958/1988">1958-1988</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">11</container>
+				<container type="Folder">1</container>
+				<unittitle>Exhibits and Program scrapbooks</unittitle>
+				<unitdate type="inclusive" normal="1950/1969" certainty="approximate">1950-1960s</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">12</container>
+				<container type="Folder">1</container>
+				<unittitle>Traceries Report re history of DCPL buildings</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">13</container>
+				<container type="Folder">1</container>
+				<unittitle>Snapshots and others photos</unittitle>
+				<unitdate type="inclusive">1970-192000</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">14</container>
+				<container type="Folder">1</container>
+				<unittitle>Booz Allen Photos of Carnegie</unittitle>
+				<unitdate type="inclusive" normal="1960/1969" certainty="approximate">1960s</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">14</container>
+				<container type="Folder">2</container>
+				<unittitle>Boxes 15-29</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">14</container>
+				<container type="Folder">3</container>
+				<unittitle>Green collection of photos</unittitle>
+				<unitdate type="inclusive" normal="1970/1989" certainty="approximate">1970-1980s</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">16</container>
+				<container type="Folder">1</container>
+				<unittitle>Green collection of photos</unittitle>
+				<unitdate type="inclusive" normal="1970/1989" certainty="approximate">1970-1980s</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">17</container>
+				<container type="Folder">1</container>
+				<unittitle>Green collection of photos</unittitle>
+				<unitdate type="inclusive" normal="1970/1989" certainty="approximate">1970-1980s</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">18</container>
+				<container type="Folder">1</container>
+				<unittitle>Green collection of photos</unittitle>
+				<unitdate type="inclusive" normal="1970/1989" certainty="approximate">1970-1980s</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">19</container>
+				<container type="Folder">1</container>
+				<unittitle>Green collection of photos</unittitle>
+				<unitdate type="inclusive" normal="1970/1989" certainty="approximate">1970-1980s</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">20</container>
+				<container type="Folder">1</container>
+				<unittitle>Green collection of photos</unittitle>
+				<unitdate type="inclusive" normal="1970/1989" certainty="approximate">1970-1980s</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">21</container>
+				<container type="Folder">1</container>
+				<unittitle>Green collection of photos</unittitle>
+				<unitdate type="inclusive" normal="1970/1989" certainty="approximate">1970-1980s</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">22</container>
+				<container type="Folder">1</container>
+				<unittitle>Green collection of photos</unittitle>
+				<unitdate type="inclusive" normal="1970/1989" certainty="approximate">1970-1980s</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">23</container>
+				<container type="Folder">1</container>
+				<unittitle>Green collection of photos</unittitle>
+				<unitdate type="inclusive" normal="1970/1989" certainty="approximate">1970-1980s</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">24</container>
+				<container type="Folder">1</container>
+				<unittitle>Green collection of photos</unittitle>
+				<unitdate type="inclusive" normal="1970/1989" certainty="approximate">1970-1980s</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">25</container>
+				<container type="Folder">1</container>
+				<unittitle>Green collection of photos</unittitle>
+				<unitdate type="inclusive" normal="1970/1989" certainty="approximate">1970-1980s</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">26</container>
+				<container type="Folder">1</container>
+				<unittitle>Green collection of photos</unittitle>
+				<unitdate type="inclusive" normal="1970/1989" certainty="approximate">1970-1980s</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">27</container>
+				<container type="Folder">1</container>
+				<unittitle>Green collection of photos</unittitle>
+				<unitdate type="inclusive" normal="1970/1989" certainty="approximate">1970-1980s</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">28</container>
+				<container type="Folder">1</container>
+				<unittitle>Green collection of photos</unittitle>
+				<unitdate type="inclusive" normal="1970/1989" certainty="approximate">1970-1980s</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">29</container>
+				<container type="Folder">1</container>
+				<unittitle>Green collection of photos</unittitle>
+				<unitdate type="inclusive" normal="1970/1989" certainty="approximate">1970-1980s</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">30</container>
+				<container type="Folder">1</container>
+				<unittitle>Homework Helpers</unittitle>
+				<unitdate type="inclusive" normal="2000">2000</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">31</container>
+				<container type="Folder">1</container>
+				<unittitle>Historic photos</unittitle>
+				<unitdate type="inclusive" normal="1910/1949" certainty="approximate">1910-1940s</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">32</container>
+				<container type="Folder">1</container>
+				<unittitle>Bowerman photo scrapbook</unittitle>
+				<unitdate type="inclusive" normal="1926/1945">1926-1945</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">33</container>
+				<container type="Folder">1</container>
+				<unittitle>Reva Jones’ party</unittitle>
+				<unitdate type="inclusive" normal="1980/1989" certainty="approximate">1980s</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">34</container>
+				<container type="Folder">1</container>
+				<unittitle>Leadership Awards</unittitle>
+				<unitdate type="inclusive" normal="1988">1988</unitdate>
+			</did>
+		</c03>
+	</c02>
+	<c02 level="subseries">
+		<did>
+			<unittitle>Subseries 3: Audio, Videotapes and CDs, 1978-2004</unittitle>
+		</did>	
+		<c03 level="file">
+			<did>
+				<container type="Box">121</container>
+				<container type="Folder">1</container>
+				<unittitle>DC Historical Studies Conference audio recordings</unittitle>
+				<unitdate type="inclusive" normal="1978/1988">1978-1988</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">122</container>
+				<container type="Folder">1</container>
+				<unittitle>DC Historical Studies Conference audio recordings</unittitle>
+				<unitdate type="inclusive" normal="1978/1988">1978-1988</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">124</container>
+				<container type="Folder">1</container>
+				<unittitle>DC Historical Studies Conference video recordings</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c03>
+		<c03 level="file">
+			<did>
+				<container type="Box">214</container>
+				<container type="Folder">1</container>
+				<unittitle>CDs of PowerPoint Presentation of DCPL History/narrative/original slides/index to Board meeting minutes prepared by Roxanna Deane</unittitle>
+				<unitdate type="inclusive" normal="1988/2004">1988-2004</unitdate>
+			</did>
+		</c03>
+	</c02>
+</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 2:Free Public Library Records, 1898-1899</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">35</container>
+				<container type="Folder">1</container>
+				<unittitle>Free Public Library accession book</unittitle>
+				<unitdate type="inclusive" normal="1896/1899">1896-1899</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">36</container>
+				<container type="Folder">1</container>
+				<unittitle>Register of Borrowers</unittitle>
+				<unitdate type="inclusive" normal="1898/1899">1898-1899</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">37</container>
+				<container type="Folder">1</container>
+				<unittitle>Book fund</unittitle>
+				<unitdate type="inclusive" normal="1898">1898</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">37</container>
+				<container type="Folder">2</container>
+				<unittitle>Boxes 38-40</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">37</container>
+				<container type="Folder">3</container>
+				<unittitle>Bills, vouchers</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">39</container>
+				<container type="Folder">1</container>
+				<unittitle>Bills, vouchers</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">40</container>
+				<container type="Folder">1</container>
+				<unittitle>Bills, vouchers</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 3: Central Library Operations</unittitle>
+		</did>
+		<c02 level="subseries">
+			<did>
+				<unittitle>Subseries 1: Carnegie Library, Mt. Vernon Square, 1907- 1970</unittitle>
+			</did>	
+			<c03 level="file">
+				<did>
+					<container type="Box">41</container>
+					<container type="Folder">1</container>
+					<unittitle>Operational records and correspondence</unittitle>
+					<unitdate type="inclusive" normal="1895/1914">1895-1914</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">42</container>
+					<container type="Folder">1</container>
+					<unittitle>Operational records and correspondence</unittitle>
+					<unitdate type="inclusive" normal="1895/1914">1895-1914</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">43</container>
+					<container type="Folder">1</container>
+					<unittitle>Operational records and correspondence</unittitle>
+					<unitdate type="inclusive" normal="1895/1914">1895-1914</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">44</container>
+					<container type="Folder">1</container>
+					<unittitle>Operational records and correspondence</unittitle>
+					<unitdate type="inclusive" normal="1895/1914">1895-1914</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">45</container>
+					<container type="Folder">1</container>
+					<unittitle>Operational records and correspondence</unittitle>
+					<unitdate type="inclusive" normal="1895/1914">1895-1914</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">46</container>
+					<container type="Folder">1</container>
+					<unittitle>Operational records and correspondence</unittitle>
+					<unitdate type="inclusive" normal="1895/1914">1895-1914</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">47</container>
+					<container type="Folder">1</container>
+					<unittitle>List of items in cornerstone</unittitle>
+					<unitdate type="inclusive">Undated</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">48</container>
+					<container type="Folder">1</container>
+					<unittitle>Statistics and day book</unittitle>
+					<unitdate type="inclusive" normal="1940">1940</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">49</container>
+					<container type="Folder">1</container>
+					<unittitle>Books lists and exhibit record</unittitle>
+					<unitdate type="inclusive">Undated</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">50</container>
+					<container type="Folder">1</container>
+					<unittitle>Accession books</unittitle>
+					<unitdate type="inclusive" normal="1897/1904">1897-1904</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">51</container>
+					<container type="Folder">1</container>
+					<unittitle>Accession books</unittitle>
+					<unitdate type="inclusive" normal="1897/1904">1897-1904</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">52</container>
+					<container type="Folder">1</container>
+					<unittitle>Accession books</unittitle>
+					<unitdate type="inclusive" normal="1897/1904">1897-1904</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">53</container>
+					<container type="Folder">1</container>
+					<unittitle>Accession books</unittitle>
+					<unitdate type="inclusive" normal="1897/1904">1897-1904</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">54</container>
+					<container type="Folder">1</container>
+					<unittitle>Accession books</unittitle>
+					<unitdate type="inclusive" normal="1897/1904">1897-1904</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">55</container>
+					<container type="Folder">1</container>
+					<unittitle>Accession books</unittitle>
+					<unitdate type="inclusive" normal="1897/1904">1897-1904</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">56</container>
+					<container type="Folder">1</container>
+					<unittitle>Accession books</unittitle>
+					<unitdate type="inclusive" normal="1897/1904">1897-1904</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">57</container>
+					<container type="Folder">1</container>
+					<unittitle>Accession books</unittitle>
+					<unitdate type="inclusive" normal="1897/1904">1897-1904</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">58</container>
+					<container type="Folder">1</container>
+					<unittitle>Payroll ledgers</unittitle>
+					<unitdate type="inclusive">Undated</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">59</container>
+					<container type="Folder">1</container>
+					<unittitle>Budget books</unittitle>
+					<unitdate type="inclusive" normal="1900/1908">1900-1908</unitdate>
+				</did>
+			</c03>
+		</c02>
+		<c02 level="subseries">
+			<did>
+				<unittitle>Subseries 2: Martin Luther King Memorial Library, 1950-1975</unittitle>
+			</did>	
+			<c03 level="file">
+				<did>
+					<container type="Box">76</container>
+					<container type="Folder">1</container>
+					<unittitle>MLK Library Planning</unittitle>
+					<unitdate type="inclusive" normal="1960/1973">1960-1973</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">77</container>
+					<container type="Folder">1</container>
+					<unittitle>MLK Library Planning</unittitle>
+					<unitdate type="inclusive" normal="1960/1973">1960-1973</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">78</container>
+					<container type="Folder">1</container>
+					<unittitle>MLK Library Planning</unittitle>
+					<unitdate type="inclusive" normal="1960/1973">1960-1973</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">79</container>
+					<container type="Folder">1</container>
+					<unittitle>MLK Library vendor contracts</unittitle>
+					<unitdate type="inclusive">Undated</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">80</container>
+					<container type="Folder">1</container>
+					<unittitle>MLK Library vendor contracts</unittitle>
+					<unitdate type="inclusive">Undated</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">81</container>
+					<container type="Folder">1</container>
+					<unittitle>MLK Library vendor contracts</unittitle>
+					<unitdate type="inclusive">Undated</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">82</container>
+					<container type="Folder">1</container>
+					<unittitle>MLK Library vendor contracts</unittitle>
+					<unitdate type="inclusive">Undated</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">83</container>
+					<container type="Folder">1</container>
+					<unittitle>MLK Library vendor contracts</unittitle>
+					<unitdate type="inclusive">Undated</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">84</container>
+					<container type="Folder">1</container>
+					<unittitle>MLK Library vendor contracts</unittitle>
+					<unitdate type="inclusive">Undated</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">85</container>
+					<container type="Folder">1</container>
+					<unittitle>MLK move</unittitle>
+					<unitdate type="inclusive">Undated</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">86</container>
+					<container type="Folder">1</container>
+					<unittitle>Booz, Allen and Hamilton reports</unittitle>
+					<unitdate type="inclusive">Undated</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="Box">87</container>
+					<container type="Folder">1</container>
+					<unittitle>Central Library Planning</unittitle>
+					<unitdate type="inclusive">Undated</unitdate>
+				</did>
+			</c03>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 4: Directors Files, 1905-1975</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">60</container>
+				<container type="Folder">1</container>
+				<unittitle>Sarah Bowerman Memorial Association</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">61</container>
+				<container type="Folder">1</container>
+				<unittitle>Policy and Program files of J. Peterson</unittitle>
+				<unitdate type="inclusive" normal="1955/1975">1955-1975</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">62</container>
+				<container type="Folder">1</container>
+				<unittitle>Policy and Program files of J. Peterson</unittitle>
+				<unitdate type="inclusive" normal="1955/1975">1955-1975</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">63</container>
+				<container type="Folder">1</container>
+				<unittitle>Policy and Program files of J. Peterson</unittitle>
+				<unitdate type="inclusive" normal="1955/1975">1955-1975</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">64</container>
+				<container type="Folder">1</container>
+				<unittitle>Policy and Program files of J. Peterson</unittitle>
+				<unitdate type="inclusive" normal="1955/1975">1955-1975</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">65</container>
+				<container type="Folder">1</container>
+				<unittitle>Policy and Program files of J. Peterson</unittitle>
+				<unitdate type="inclusive" normal="1955/1975">1955-1975</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">66</container>
+				<container type="Folder">1</container>
+				<unittitle>Director’s topical files</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">67</container>
+				<container type="Folder">1</container>
+				<unittitle>Director’s topical files</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">68</container>
+				<container type="Folder">1</container>
+				<unittitle>Director’s topical files</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">69</container>
+				<container type="Folder">1</container>
+				<unittitle>Director’s topical files</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">70</container>
+				<container type="Folder">1</container>
+				<unittitle>Director’s topical files</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">71</container>
+				<container type="Folder">1</container>
+				<unittitle>Director’s topical files</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">72</container>
+				<container type="Folder">1</container>
+				<unittitle>Director’s files - MLK operations</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">73</container>
+				<container type="Folder">1</container>
+				<unittitle>Director’s files - MLK operations</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">74</container>
+				<container type="Folder">1</container>
+				<unittitle>Director’s files - MLK operations</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">75</container>
+				<container type="Folder">1</container>
+				<unittitle>Director’s files - MLK operations</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 5: Branch Building, 1965-1978</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">88</container>
+				<container type="Folder">1</container>
+				<unittitle>Branch building program</unittitle>
+				<unitdate type="inclusive" normal="1965/1978">1965-1978</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">89</container>
+				<container type="Folder">1</container>
+				<unittitle>Branch building program</unittitle>
+				<unitdate type="inclusive" normal="1965/1978">1965-1978</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">90</container>
+				<container type="Folder">1</container>
+				<unittitle>Branch building program</unittitle>
+				<unitdate type="inclusive" normal="1965/1978">1965-1978</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">91</container>
+				<container type="Folder">1</container>
+				<unittitle>Branch building program</unittitle>
+				<unitdate type="inclusive" normal="1965/1978">1965-1978</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">97</container>
+				<container type="Folder">1</container>
+				<unittitle>Branch building program</unittitle>
+				<unitdate type="inclusive" normal="1965/1978">1965-1978</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">92</container>
+				<container type="Folder">1</container>
+				<unittitle>Southwest branch</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">93</container>
+				<container type="Folder">1</container>
+				<unittitle>Palisades</unittitle>
+				<unitdate type="inclusive" normal="1970/1979" certainty="approximate">1970s</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">99</container>
+				<container type="Folder">1</container>
+				<unittitle>Master Plan for branch libraries</unittitle>
+				<unitdate type="inclusive" normal="2003">2003</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 7: Departmental, Division and Branch Reports, 1943-1979</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">94</container>
+				<container type="Folder">1</container>
+				<unittitle>Branches reports and statistics</unittitle>
+				<unitdate type="inclusive" normal="1940/1980" certainty="approximate">1940s-1980</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">95</container>
+				<container type="Folder">1</container>
+				<unittitle>Branches correspondence</unittitle>
+				<unitdate type="inclusive" normal="1965/1976">1965-1976</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">96</container>
+				<container type="Folder">1</container>
+				<unittitle>Branches correspondence</unittitle>
+				<unitdate type="inclusive" normal="1965/1976">1965-1976</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">141</container>
+				<container type="Folder">1</container>
+				<unittitle>Sociology Department reports</unittitle>
+				<unitdate type="inclusive" normal="1943/1968">1943-1968</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">152</container>
+				<container type="Folder">1</container>
+				<unittitle>Departmental reports</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">153</container>
+				<container type="Folder">1</container>
+				<unittitle>Departmental reports</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">154</container>
+				<container type="Folder">1</container>
+				<unittitle>Departmental reports</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">155</container>
+				<container type="Folder">1</container>
+				<unittitle>Departmental reports</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">156</container>
+				<container type="Folder">1</container>
+				<unittitle>Departmental reports</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">Shelved</container>
+				<container type="Folder">1</container>
+				<unittitle>Complete Reports and Statistics</unittitle>
+				<unitdate type="inclusive" normal="1920/1955">1920-1955</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">Shelved</container>
+				<container type="Folder">2</container>
+				<unittitle>Children’s Services monthly reports (3 vols.)</unittitle>
+				<unitdate type="inclusive" normal="1975/1979">1975-1979</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 8: Board of Trustees Records, 1896-1978</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">100</container>
+				<container type="Folder">1</container>
+				<unittitle>Trustees correspondence</unittitle>
+				<unitdate type="inclusive" normal="1947/1974">1947-1974</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">101</container>
+				<container type="Folder">1</container>
+				<unittitle>Trustees correspondence</unittitle>
+				<unitdate type="inclusive" normal="1947/1974">1947-1974</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">102</container>
+				<container type="Folder">1</container>
+				<unittitle>Trustees correspondence</unittitle>
+				<unitdate type="inclusive" normal="1947/1974">1947-1974</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">103</container>
+				<container type="Folder">1</container>
+				<unittitle>Trustees correspondence</unittitle>
+				<unitdate type="inclusive" normal="1947/1974">1947-1974</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">Shelved</container>
+				<container type="Folder">1</container>
+				<unittitle>Minutes of Board of Trustees Meetings bound</unittitle>
+				<unitdate type="inclusive" normal="1896/1973">1896-1973</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">Shelved</container>
+				<container type="Folder">2</container>
+				<unittitle>Annual reports and minutes bound</unittitle>
+				<unitdate type="inclusive" normal="1949/1978">1949-1978</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">Shelved</container>
+				<container type="Folder">3</container>
+				<unittitle>Index to Board minutes</unittitle>
+				<unitdate type="inclusive" normal="1896/2004">1896-2004</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 9: Project Files, ca. 1960s</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">143</container>
+				<container type="Folder">1</container>
+				<unittitle>OPAC</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">145</container>
+				<container type="Folder">1</container>
+				<unittitle>Technology Task Force</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">Shelved</container>
+				<container type="Folder">1</container>
+				<unittitle>Air Balance Corporation ABC</unittitle>
+				<unitdate type="inclusive" normal="1976">1976</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">Shelved</container>
+				<container type="Folder">2</container>
+				<unittitle>Anti-Poverty Program CMH</unittitle>
+				<unitdate type="inclusive" normal="1964">1964</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">Shelved</container>
+				<container type="Folder">3</container>
+				<unittitle>Book Selection/ Joe Y. Lee</unittitle>
+				<unitdate type="inclusive" normal="1968">1968</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">Shelved</container>
+				<container type="Folder">4</container>
+				<unittitle>Community Programs CMH</unittitle>
+				<unitdate type="inclusive" normal="1970">1970</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">Shelved</container>
+				<container type="Folder">5</container>
+				<unittitle>Cost Accounting and Reporting</unittitle>
+				<unitdate type="inclusive" normal="1974">1974</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">Shelved</container>
+				<container type="Folder">6</container>
+				<unittitle>Design Study to</unittitle>
+				<unitdate type="inclusive" normal="1973">1973</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">Shelved</container>
+				<container type="Folder">7</container>
+				<unittitle>Develop a Cost Feasibility Study of Combined</unittitle>
+				<unitdate type="inclusive" normal="1973/1974">1973-1974</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">Shelved</container>
+				<container type="Folder">8</container>
+				<unittitle>File of all Completed Work Kelly Nichole</unittitle>
+				<unitdate type="inclusive" normal="1989">1989</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">Shelved</container>
+				<container type="Folder">9</container>
+				<unittitle>Improved Service to the Public Program</unittitle>
+				<unitdate type="inclusive" normal="1969">1969</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">Shelved</container>
+				<container type="Folder">10</container>
+				<unittitle>Innovative Interface Inc.</unittitle>
+				<unitdate type="inclusive" normal="1986">1986</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">Shelved</container>
+				<container type="Folder">11</container>
+				<unittitle>Labor Distribution System</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">Shelved</container>
+				<container type="Folder">12</container>
+				<unittitle>Library Service in D.C. DR. Blanche</unittitle>
+				<unitdate type="inclusive" normal="1978">1978</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">Shelved</container>
+				<container type="Folder">13</container>
+				<unittitle>Model Cities ( Vols. I and II)</unittitle>
+				<unitdate type="inclusive" normal="1970">1970</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">Shelved</container>
+				<container type="Folder">14</container>
+				<unittitle>Research Design for Library</unittitle>
+				<unitdate type="inclusive" normal="1969">1969</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">Shelved</container>
+				<container type="Folder">15</container>
+				<unittitle>RIF Hardy Franklin</unittitle>
+				<unitdate type="inclusive" normal="1993">1993</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">Shelved</container>
+				<container type="Folder">16</container>
+				<unittitle>Sample Letters/ Dr. F Summer</unittitle>
+				<unitdate type="inclusive" normal="1976">1976</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">Shelved</container>
+				<container type="Folder">17</container>
+				<unittitle>Sanitation Audit Reports MLK</unittitle>
+				<unitdate type="inclusive" normal="1974">1974</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">Shelved</container>
+				<container type="Folder">18</container>
+				<unittitle>Study of Central Facilities</unittitle>
+				<unitdate type="inclusive" normal="1961">1961</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">Shelved</container>
+				<container type="Folder">19</container>
+				<unittitle>Survey of Handling of Supplies</unittitle>
+				<unitdate type="inclusive" normal="1975">1975</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">Shelved</container>
+				<container type="Folder">20</container>
+				<unittitle>Survey Report Public Library</unittitle>
+				<unitdate type="inclusive" normal="1945">1945</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">Shelved</container>
+				<container type="Folder">21</container>
+				<unittitle>DCPL Programs and Activities</unittitle>
+				<unitdate type="inclusive" normal="1972">1972</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">Shelved</container>
+				<container type="Folder">22</container>
+				<unittitle>Management Improvement</unittitle>
+				<unitdate type="inclusive" normal="1970">1970</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">Shelved</container>
+				<container type="Folder">23</container>
+				<unittitle>Pub Reinforced Binding</unittitle>
+				<unitdate type="inclusive" normal="1966">1966</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">Shelved</container>
+				<container type="Folder">24</container>
+				<unittitle>D.C. Reorganization Model Cities</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">Shelved</container>
+				<container type="Folder">25</container>
+				<unittitle>Policies and Procedures</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 10: Scrapbooks, 1896-1956</unittitle>
+		</did>
+	<c02 level="file">
+		<did>
+			<container type="Box">157</container>
+			<container type="Folder">1</container>
+			<unittitle>Annual or biennial scrapbooks</unittitle>
+			<unitdate type="inclusive" normal="1896/1956">1896-1956</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">158</container>
+			<container type="Folder">1</container>
+			<unittitle>Annual or biennial scrapbooks</unittitle>
+			<unitdate type="inclusive" normal="1896/1956">1896-1956</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">159</container>
+			<container type="Folder">1</container>
+			<unittitle>Annual or biennial scrapbooks</unittitle>
+			<unitdate type="inclusive" normal="1896/1956">1896-1956</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">160</container>
+			<container type="Folder">1</container>
+			<unittitle>Annual or biennial scrapbooks</unittitle>
+			<unitdate type="inclusive" normal="1896/1956">1896-1956</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">162</container>
+			<container type="Folder">1</container>
+			<unittitle>Annual or biennial scrapbooks</unittitle>
+			<unitdate type="inclusive" normal="1896/1956">1896-1956</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">162</container>
+			<container type="Folder">2</container>
+			<unittitle>Annual or biennial scrapbooks</unittitle>
+			<unitdate type="inclusive" normal="1896/1956">1896-1956</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">163</container>
+			<container type="Folder">1</container>
+			<unittitle>Annual or biennial scrapbooks</unittitle>
+			<unitdate type="inclusive" normal="1896/1956">1896-1956</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">164</container>
+			<container type="Folder">1</container>
+			<unittitle>Annual or biennial scrapbooks</unittitle>
+			<unitdate type="inclusive" normal="1896/1956">1896-1956</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">165</container>
+			<container type="Folder">1</container>
+			<unittitle>Annual or biennial scrapbooks</unittitle>
+			<unitdate type="inclusive" normal="1896/1956">1896-1956</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">167</container>
+			<container type="Folder">1</container>
+			<unittitle>Annual or biennial scrapbooks</unittitle>
+			<unitdate type="inclusive" normal="1896/1956">1896-1956</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">168</container>
+			<container type="Folder">1</container>
+			<unittitle>Annual or biennial scrapbooks</unittitle>
+			<unitdate type="inclusive" normal="1896/1956">1896-1956</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">169</container>
+			<container type="Folder">1</container>
+			<unittitle>Annual or biennial scrapbooks</unittitle>
+			<unitdate type="inclusive" normal="1896/1956">1896-1956</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">170</container>
+			<container type="Folder">1</container>
+			<unittitle>Annual or biennial scrapbooks</unittitle>
+			<unitdate type="inclusive" normal="1896/1956">1896-1956</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">171</container>
+			<container type="Folder">1</container>
+			<unittitle>Annual or biennial scrapbooks</unittitle>
+			<unitdate type="inclusive" normal="1896/1956">1896-1956</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">172</container>
+			<container type="Folder">1</container>
+			<unittitle>Annual or biennial scrapbooks</unittitle>
+			<unitdate type="inclusive" normal="1896/1956">1896-1956</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">173</container>
+			<container type="Folder">1</container>
+			<unittitle>Annual or biennial scrapbooks</unittitle>
+			<unitdate type="inclusive" normal="1896/1956">1896-1956</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">174</container>
+			<container type="Folder">1</container>
+			<unittitle>Annual or biennial scrapbooks</unittitle>
+			<unitdate type="inclusive" normal="1896/1956">1896-1956</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">175</container>
+			<container type="Folder">1</container>
+			<unittitle>Annual or biennial scrapbooks</unittitle>
+			<unitdate type="inclusive" normal="1896/1956">1896-1956</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">176</container>
+			<container type="Folder">1</container>
+			<unittitle>Annual or biennial scrapbooks</unittitle>
+			<unitdate type="inclusive" normal="1896/1956">1896-1956</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">177</container>
+			<container type="Folder">1</container>
+			<unittitle>Annual or biennial scrapbooks</unittitle>
+			<unitdate type="inclusive" normal="1896/1956">1896-1956</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">178</container>
+			<container type="Folder">1</container>
+			<unittitle>Annual or biennial scrapbooks</unittitle>
+			<unitdate type="inclusive" normal="1896/1956">1896-1956</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">179</container>
+			<container type="Folder">1</container>
+			<unittitle>Annual or biennial scrapbooks</unittitle>
+			<unitdate type="inclusive" normal="1896/1956">1896-1956</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">180</container>
+			<container type="Folder">1</container>
+			<unittitle>Annual or biennial scrapbooks</unittitle>
+			<unitdate type="inclusive" normal="1896/1956">1896-1956</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">181</container>
+			<container type="Folder">1</container>
+			<unittitle>Annual or biennial scrapbooks</unittitle>
+			<unitdate type="inclusive" normal="1896/1956">1896-1956</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">182</container>
+			<container type="Folder">1</container>
+			<unittitle>Annual or biennial scrapbooks</unittitle>
+			<unitdate type="inclusive" normal="1896/1956">1896-1956</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">183</container>
+			<container type="Folder">1</container>
+			<unittitle>Annual or biennial scrapbooks</unittitle>
+			<unitdate type="inclusive" normal="1896/1956">1896-1956</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">184</container>
+			<container type="Folder">1</container>
+			<unittitle>Annual or biennial scrapbooks</unittitle>
+			<unitdate type="inclusive" normal="1896/1956">1896-1956</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">185</container>
+			<container type="Folder">1</container>
+			<unittitle>Annual or biennial scrapbooks</unittitle>
+			<unitdate type="inclusive" normal="1896/1956">1896-1956</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">186</container>
+			<container type="Folder">1</container>
+			<unittitle>Annual or biennial scrapbooks</unittitle>
+			<unitdate type="inclusive" normal="1896/1956">1896-1956</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">187</container>
+			<container type="Folder">1</container>
+			<unittitle>Annual or biennial scrapbooks</unittitle>
+			<unitdate type="inclusive" normal="1896/1956">1896-1956</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">188</container>
+			<container type="Folder">1</container>
+			<unittitle>Annual or biennial scrapbooks</unittitle>
+			<unitdate type="inclusive" normal="1896/1956">1896-1956</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">189</container>
+			<container type="Folder">1</container>
+			<unittitle>Annual or biennial scrapbooks</unittitle>
+			<unitdate type="inclusive" normal="1896/1956">1896-1956</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">190</container>
+			<container type="Folder">1</container>
+			<unittitle>Annual or biennial scrapbooks</unittitle>
+			<unitdate type="inclusive" normal="1896/1956">1896-1956</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">191</container>
+			<container type="Folder">1</container>
+			<unittitle>Annual or biennial scrapbooks</unittitle>
+			<unitdate type="inclusive" normal="1896/1956">1896-1956</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">192</container>
+			<container type="Folder">1</container>
+			<unittitle>Annual or biennial scrapbooks</unittitle>
+			<unitdate type="inclusive" normal="1896/1956">1896-1956</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">193</container>
+			<container type="Folder">1</container>
+			<unittitle>Annual or biennial scrapbooks</unittitle>
+			<unitdate type="inclusive" normal="1896/1956">1896-1956</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">194</container>
+			<container type="Folder">1</container>
+			<unittitle>Annual or biennial scrapbooks</unittitle>
+			<unitdate type="inclusive" normal="1896/1956">1896-1956</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">195</container>
+			<container type="Folder">1</container>
+			<unittitle>Annual or biennial scrapbooks</unittitle>
+			<unitdate type="inclusive" normal="1896/1956">1896-1956</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">196</container>
+			<container type="Folder">1</container>
+			<unittitle>Annual or biennial scrapbooks</unittitle>
+			<unitdate type="inclusive" normal="1896/1956">1896-1956</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">197</container>
+			<container type="Folder">1</container>
+			<unittitle>Annual or biennial scrapbooks</unittitle>
+			<unitdate type="inclusive" normal="1896/1956">1896-1956</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">198</container>
+			<container type="Folder">1</container>
+			<unittitle>Annual or biennial scrapbooks</unittitle>
+			<unitdate type="inclusive" normal="1896/1956">1896-1956</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">199</container>
+			<container type="Folder">1</container>
+			<unittitle>Annual or biennial scrapbooks</unittitle>
+			<unitdate type="inclusive" normal="1896/1956">1896-1956</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">200</container>
+			<container type="Folder">1</container>
+			<unittitle>Annual or biennial scrapbooks</unittitle>
+			<unitdate type="inclusive" normal="1896/1956">1896-1956</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">201</container>
+			<container type="Folder">1</container>
+			<unittitle>Annual or biennial scrapbooks</unittitle>
+			<unitdate type="inclusive" normal="1896/1956">1896-1956</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">202</container>
+			<container type="Folder">1</container>
+			<unittitle>Annual or biennial scrapbooks</unittitle>
+			<unitdate type="inclusive" normal="1896/1956">1896-1956</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">203</container>
+			<container type="Folder">1</container>
+			<unittitle>Annual or biennial scrapbooks</unittitle>
+			<unitdate type="inclusive" normal="1896/1956">1896-1956</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">204</container>
+			<container type="Folder">1</container>
+			<unittitle>Annual or biennial scrapbooks</unittitle>
+			<unitdate type="inclusive" normal="1896/1956">1896-1956</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">205</container>
+			<container type="Folder">1</container>
+			<unittitle>Annual or biennial scrapbooks</unittitle>
+			<unitdate type="inclusive" normal="1896/1956">1896-1956</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">206</container>
+			<container type="Folder">1</container>
+			<unittitle>Annual or biennial scrapbooks</unittitle>
+			<unitdate type="inclusive" normal="1896/1956">1896-1956</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">207</container>
+			<container type="Folder">1</container>
+			<unittitle>Clara Herbert and George Bowerman scrapbooks</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container type="Box">208</container>
+			<container type="Folder">1</container>
+			<unittitle>Clara Herbert and George Bowerman scrapbooks</unittitle>
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+	</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 12: Procedural Orders, 1967-1972</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">Shelf</container>
+				<container type="Folder">1</container>
+				<unittitle>4 Binders</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 13: Administrative Orders, 1948-1970</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">209</container>
+				<container type="Folder">1</container>
+				<unittitle>Administrative Orders and background files</unittitle>
+				<unitdate type="inclusive" normal="1948/1970">1948-1970</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">210</container>
+				<container type="Folder">1</container>
+				<unittitle>Administrative Orders and background files</unittitle>
+				<unitdate type="inclusive" normal="1948/1970">1948-1970</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">211</container>
+				<container type="Folder">1</container>
+				<unittitle>Administrative Orders and background files</unittitle>
+				<unitdate type="inclusive" normal="1948/1970">1948-1970</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">212</container>
+				<container type="Folder">1</container>
+				<unittitle>Administrative Orders and background files</unittitle>
+				<unitdate type="inclusive" normal="1948/1970">1948-1970</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">Shelf</container>
+				<container type="Folder">1</container>
+				<unittitle>1 binder</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 14: Questionnaires, 1947-1972</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">Shelf</container>
+				<container type="Folder">1</container>
+				<unittitle>10 three-ring notebooks</unittitle>
+				<unitdate type="inclusive" normal="1947/1972">1947-1972</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 15: Washingtoniana Division Records, 1920-2005</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">109</container>
+				<container type="Folder">1</container>
+				<unittitle>Day books</unittitle>
+				<unitdate type="inclusive" normal="1933/1956">1933-1956</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">110</container>
+				<container type="Folder">1</container>
+				<unittitle>Day books</unittitle>
+				<unitdate type="inclusive" normal="1933/1956">1933-1956</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">111</container>
+				<container type="Folder">1</container>
+				<unittitle>Record of Gifts</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">112</container>
+				<container type="Folder">1</container>
+				<unittitle>Administrative Records</unittitle>
+				<unitdate type="inclusive" normal="1928/1971">1928-1971</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">114</container>
+				<container type="Folder">1</container>
+				<unittitle>Administrative records</unittitle>
+				<unitdate type="inclusive" normal="1987/2004">1987-2004</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">115</container>
+				<container type="Folder">1</container>
+				<unittitle>Administrative records</unittitle>
+				<unitdate type="inclusive" normal="1987/2004">1987-2004</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">113</container>
+				<container type="Folder">1</container>
+				<unittitle>Division History</unittitle>
+				<unitdate type="inclusive" normal="1980">1980</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">118</container>
+				<container type="Folder">1</container>
+				<unittitle>Division History</unittitle>
+				<unitdate type="inclusive" normal="1980">1980</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">116</container>
+				<container type="Folder">1</container>
+				<unittitle>GRF Key documents</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">117</container>
+				<container type="Folder">1</container>
+				<unittitle>GRF Key documents</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">119</container>
+				<container type="Folder">1</container>
+				<unittitle>Scrapbook</unittitle>
+				<unitdate type="inclusive" normal="1905/1945">1905-1945</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">120</container>
+				<container type="Folder">1</container>
+				<unittitle>Program flyers</unittitle>
+				<unitdate type="inclusive" normal="1995">1995</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">121</container>
+				<container type="Folder">1</container>
+				<unittitle>Historical Studies conference brochures/flyers/records</unittitle>
+				<unitdate type="inclusive" normal="1978/2005">1978-2005</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">122</container>
+				<container type="Folder">1</container>
+				<unittitle>Historical Studies conference brochures/flyers/records</unittitle>
+				<unitdate type="inclusive" normal="1978/2005">1978-2005</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">123</container>
+				<container type="Folder">1</container>
+				<unittitle>Historical Studies conference brochures/flyers/records</unittitle>
+				<unitdate type="inclusive" normal="1978/2005">1978-2005</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">125</container>
+				<container type="Folder">1</container>
+				<unittitle>Historical Studies conference brochures/flyers/records</unittitle>
+				<unitdate type="inclusive" normal="1978/2005">1978-2005</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">143</container>
+				<container type="Folder">1</container>
+				<unittitle>Historical Studies conference brochures/flyers/records</unittitle>
+				<unitdate type="inclusive" normal="1978/2005">1978-2005</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">126</container>
+				<container type="Folder">1</container>
+				<unittitle>Oral History Research Center records and Dr. Greenlee’s files</unittitle>
+				<unitdate type="inclusive" normal="1980/1989" certainty="approximate">1980s</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">127</container>
+				<container type="Folder">1</container>
+				<unittitle>Oral History Research Center records and Dr. Greenlee’s files</unittitle>
+				<unitdate type="inclusive" normal="1980/1989" certainty="approximate">1980s</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">128</container>
+				<container type="Folder">1</container>
+				<unittitle>Oral History Research Center records and Dr. Greenlee’s files</unittitle>
+				<unitdate type="inclusive" normal="1980/1989" certainty="approximate">1980s</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 17: Publications, 1997-current</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">137</container>
+				<container type="Folder">1</container>
+				<unittitle>Flyers, posters, and other DCPL publications</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">138</container>
+				<container type="Folder">1</container>
+				<unittitle>Flyers, posters, and other DCPL publications</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">140</container>
+				<container type="Folder">1</container>
+				<unittitle>Flyers, posters, and other DCPL publications</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">139</container>
+				<container type="Folder">1</container>
+				<unittitle>Your Library Bulletin </unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">141</container>
+				<container type="Folder">1</container>
+				<unittitle>Marketing publications</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">142</container>
+				<container type="Folder">1</container>
+				<unittitle>Beyond Words</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series 18: Maps and Architectural Drawings, 1903-2003</unittitle>
+		</did>
+		<c02 level="file">
+			<did>
+				<container type="Box">Drawer 1</container>
+				<container type="Folder">1</container>
+				<unittitle>Maps with Library building locations</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">Drawer 2</container>
+				<container type="Folder">1</container>
+				<unittitle>Central Library - Mt. Vernon Square</unittitle>
+				<unitdate type="inclusive" normal="1900/1936">1900-1936</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">Drawer 3</container>
+				<container type="Folder">1</container>
+				<unittitle>Downtown Central Library - 901 G Street</unittitle>
+				<unitdate type="inclusive" normal="1965/1966">1965-1966</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">Drawer 4</container>
+				<container type="Folder">1</container>
+				<unittitle>Downtown Central Library - 901 G Street</unittitle>
+				<unitdate type="inclusive" normal="1965/1966">1965-1966</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">Drawer 5</container>
+				<container type="Folder">1</container>
+				<unittitle>Advertisement for Central Library and MLK</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">Drawer 5</container>
+				<container type="Folder">2</container>
+				<unittitle>Drawing of opening ceremony for Carnegie Library</unittitle>
+				<unitdate type="inclusive" normal="1903">1903</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">Drawer 6</container>
+				<container type="Folder">1</container>
+				<unittitle>Drawings for proposed renovation of MLK</unittitle>
+				<unitdate type="inclusive" normal="2003">2003</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">Drawer 7</container>
+				<container type="Folder">1</container>
+				<unittitle>Branch and MLK Library blueprints</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">Drawer 8</container>
+				<container type="Folder">1</container>
+				<unittitle>Branch and MLK Library blueprints</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">Drawer 9</container>
+				<container type="Folder">1</container>
+				<unittitle>Branch and MLK Library blueprints</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container type="Box">Drawer 10</container>
+				<container type="Folder">1</container>
+				<unittitle>Branch and MLK Library blueprints</unittitle>
+				<unitdate type="inclusive">Undated</unitdate>
+			</did>
+		</c02>
+	</c01>
+</dsc>
+</archdesc>
+</ead>
