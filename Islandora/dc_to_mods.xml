@@ -1,0 +1,71 @@
+<!-- For Prefix -->
+
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+
+<!-- For Row Template -->
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+      <titleInfo>
+         <title>{{jsonize(cells["Title"].value).replace('"', '')}}</title>
+      </titleInfo>
+      <name>
+         <namePart>{{jsonize(cells["Creator-Printer"].value).replace('"', '')}}</namePart>
+         <role>
+            <roleTerm type="text">creator</roleTerm>
+         </role>
+         <namePart>{{jsonize(cells["Contributors"].value).replace('"', '')}}</namePart>
+         <role>
+            <roleTerm type="text">contributor</roleTerm>
+         </role>
+      </name>
+      <genre>{{jsonize(cells["name_of_genre/type_column"].value).replace('"', '')}}</genre>
+      <subject>
+         <cartographics>
+            <coordinates>{{jsonize(cells["Spatial Location"].value).replace('"', '')}}</coordinates>
+         </cartographics>
+         <hierarchicalGeographic>
+            <city>{{jsonize(cells["Location"].value).replace('"', '')}}</city>
+            <citySection>{{jsonize(cells["Neighborhood"].value).replace('"', '')}}</citySection>
+         </hierarchicalGeographic> 
+         <topic>{{jsonize(cells["Subject"].value).replace('"', '')}}</topic>
+      </subject>
+      <note>{{jsonize(cells["Description"].value).replace('"', '')}}</note>
+      <note>{{jsonize(cells["Notes"].value).replace('"', '')}}</note>
+      <originInfo>
+         <dateCaptured>{{jsonize(cells["Date Digital"].value).replace('"', '')}}</dateCaptured>
+         <dateCreated>{{jsonize(cells["Date Original"].value).replace('"', '')}}</dateCreated>
+         <dateOther>{{jsonize(cells["Date Depicted"].value).replace('"', '')}}</dateOther>
+         <place>{{jsonize(cells["Location Published"].value).replace('"', '')}}</place>
+         <publisher>{{jsonize(cells["Creator-Publisher"].value).replace('"', '')}}</publisher>
+      </originInfo>
+      <physicalDescription>
+         <extent>{{jsonize(cells["Format Extent"].value).replace('"', '')}}</extent>
+         <form>{{jsonize(cells["Medium"].value).replace('"', '')}}</form>
+         <internetMediaType>{{jsonize(cells["Format Medium"].value).replace('"', '')}}</internetMediaType>
+      </physicalDescription>
+      <relatedItem type="original">
+         <titleInfo>
+            <title>{{jsonize(cells["Source"].value).replace('"', '')}}</title>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>{{jsonize(cells["Collection Name"].value).replace('"', '')}}</title>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="local">{{jsonize(cells["File Name"].value).replace('"', '')}}</identifier>
+      <language>
+         <languageTerm type="code">{{jsonize(cells["Language"].value).replace('"', '')}}</languageTerm>
+      </language>
+      <accessCondition>{{jsonize(cells["Rights Identifier"].value).replace('"', '')}}</accessCondition>
+      <accessCondition>{{jsonize(cells["Rights Statement"].value).replace('"', '')}}</accessCondition>
+      <accessCondition>{{jsonize(cells["Rights Holder"].value).replace('"', '')}}</accessCondition>
+      <typeOfResource>{{jsonize(cells["Type"].value).replace('"', '')}}</typeOfResource>
+   </mods>
+
+<!-- Don't put anything in Row Separator -->
+
+<!-- For Suffix -->
+
+</modsCollection>
