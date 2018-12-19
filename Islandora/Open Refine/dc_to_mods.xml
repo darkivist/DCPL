@@ -26,7 +26,7 @@
          </cartographics>
          <hierarchicalGeographic>
             <city>{{jsonize(cells["Location"].value).replace('"', '')}}</city>
-            <citySection>{{jsonize(cells["Neighborhood"].value).replace('"', '')}}</citySection>
+               {{if(isBlank(cells["Neighborhood"].value),"","<citySection>"+jsonize(cells["Neighborhood"].value).replace('"', '')+"</citySection>")}}
          </hierarchicalGeographic> 
          <topic>{{jsonize(cells["Subject"].value).replace('"', '')}}</topic>
       </subject>
