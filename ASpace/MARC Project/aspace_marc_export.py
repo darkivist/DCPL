@@ -8,12 +8,12 @@ import os
 
 start_time = datetime.now()
 
-#enter aspace api endpoint and admin credentials here
+#enter aspace api endpoint and admin credentials
 aspace_url = 'http://localhost:8089'
 username = 'admin'
 password = 'admin'
 
-#enter pathway to directory where xml will be saved here
+#enter pathway to directory where xml will be saved
 marc_directory = '/Users/admin/desktop/marc'
 
 if not os.path.exists(marc_directory):
@@ -49,6 +49,7 @@ print "Script end time:", end_time.strftime("%Y-%m-%d %H:%M:%S %p")
 print "Script running time:", end_time - start_time
 
 exporter_stats = "Script start time: " + start_time.strftime("%Y-%m-%d %H:%M:%S %p") + "\n" + "Script end time: " +  end_time.strftime("%Y-%m-%d %H:%M:%S %p") + "\n" + "Script running time: " + str(end_time - start_time)
+#enter pathway to directory where stats will be saved
 stats_file = open('/Users/admin/desktop/marc/export_stats/export_stats.txt','w')
 stats_file.write(exporter_stats)
 stats_file.close()
