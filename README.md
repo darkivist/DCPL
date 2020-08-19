@@ -1,2 +1,2 @@
 # DCPL
-Mostly XML, some python, some PHP.
+ This is a catch-all space for code produced in my work for DCPL Special Collections. 
