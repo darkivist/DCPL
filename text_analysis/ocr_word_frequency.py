@@ -1,3 +1,5 @@
+#add stopwords to the corpus at /users/insert_username_here/nltk_data/corpora/stopwords/english
+
 from collections import Counter
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
