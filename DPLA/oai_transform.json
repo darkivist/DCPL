@@ -1,0 +1,204 @@
+[
+  {
+    "op": "core/column-move",
+    "columnName": "metadata - oai_dc:dc - identifier",
+    "index": 0,
+    "description": "Move column metadata - oai_dc:dc - identifier to position 0"
+  },
+  {
+    "op": "core/multivalued-cell-join",
+    "columnName": "metadata - oai_dc:dc - dc:rights",
+    "keyColumnName": "metadata - oai_dc:dc - identifier",
+    "separator": ";",
+    "description": "Join multi-valued cells in column metadata - oai_dc:dc - dc:rights"
+  },
+  {
+    "op": "core/column-split",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "metadata - oai_dc:dc - dc:rights",
+    "guessCellType": true,
+    "removeOriginalColumn": true,
+    "mode": "separator",
+    "separator": ";",
+    "regex": false,
+    "maxColumns": 3,
+    "description": "Split column metadata - oai_dc:dc - dc:rights by separator"
+  },
+  {
+    "op": "core/multivalued-cell-join",
+    "columnName": "metadata - oai_dc:dc - dc:format",
+    "keyColumnName": "metadata - oai_dc:dc - identifier",
+    "separator": ";",
+    "description": "Join multi-valued cells in column metadata - oai_dc:dc - dc:format"
+  },
+  {
+    "op": "core/column-split",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "metadata - oai_dc:dc - dc:format",
+    "guessCellType": true,
+    "removeOriginalColumn": true,
+    "mode": "separator",
+    "separator": ";",
+    "regex": false,
+    "maxColumns": 2,
+    "description": "Split column metadata - oai_dc:dc - dc:format by separator"
+  },
+  {
+    "op": "core/multivalued-cell-join",
+    "columnName": "metadata - oai_dc:dc - dc:identifier",
+    "keyColumnName": "metadata - oai_dc:dc - identifier",
+    "separator": ";",
+    "description": "Join multi-valued cells in column metadata - oai_dc:dc - dc:identifier"
+  },
+  {
+    "op": "core/column-split",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "metadata - oai_dc:dc - dc:identifier",
+    "guessCellType": true,
+    "removeOriginalColumn": true,
+    "mode": "separator",
+    "separator": ";",
+    "regex": false,
+    "maxColumns": 3,
+    "description": "Split column metadata - oai_dc:dc - dc:identifier by separator"
+  },
+  {
+    "op": "core/multivalued-cell-join",
+    "columnName": "metadata - oai_dc:dc - dc:coverage",
+    "keyColumnName": "metadata - oai_dc:dc - identifier",
+    "separator": ";",
+    "description": "Join multi-valued cells in column metadata - oai_dc:dc - dc:coverage"
+  },
+  {
+    "op": "core/column-split",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "metadata - oai_dc:dc - dc:coverage",
+    "guessCellType": true,
+    "removeOriginalColumn": true,
+    "mode": "separator",
+    "separator": ";",
+    "regex": false,
+    "maxColumns": 3,
+    "description": "Split column metadata - oai_dc:dc - dc:coverage by separator"
+  },
+  {
+    "op": "core/multivalued-cell-join",
+    "columnName": "metadata - oai_dc:dc - dc:date",
+    "keyColumnName": "metadata - oai_dc:dc - identifier",
+    "separator": ";",
+    "description": "Join multi-valued cells in column metadata - oai_dc:dc - dc:date"
+  },
+  {
+    "op": "core/column-split",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "metadata - oai_dc:dc - dc:date",
+    "guessCellType": true,
+    "removeOriginalColumn": true,
+    "mode": "separator",
+    "separator": ";",
+    "regex": false,
+    "maxColumns": 3,
+    "description": "Split column metadata - oai_dc:dc - dc:date by separator"
+  },
+  {
+    "op": "core/multivalued-cell-join",
+    "columnName": "metadata - oai_dc:dc - dc:description",
+    "keyColumnName": "metadata - oai_dc:dc - identifier",
+    "separator": ";",
+    "description": "Join multi-valued cells in column metadata - oai_dc:dc - dc:description"
+  },
+  {
+    "op": "core/multivalued-cell-join",
+    "columnName": "metadata - oai_dc:dc - dc:subject",
+    "keyColumnName": "metadata - oai_dc:dc - identifier",
+    "separator": ";",
+    "description": "Join multi-valued cells in column metadata - oai_dc:dc - dc:subject"
+  },
+  {
+    "op": "core/column-split",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "metadata - oai_dc:dc - dc:subject",
+    "guessCellType": true,
+    "removeOriginalColumn": true,
+    "mode": "separator",
+    "separator": ";",
+    "regex": false,
+    "maxColumns": 3,
+    "description": "Split column metadata - oai_dc:dc - dc:subject by separator"
+  },
+  {
+    "op": "core/multivalued-cell-join",
+    "columnName": "metadata - oai_dc:dc - dc:type",
+    "keyColumnName": "metadata - oai_dc:dc - identifier",
+    "separator": ";",
+    "description": "Join multi-valued cells in column metadata - oai_dc:dc - dc:type"
+  },
+  {
+    "op": "core/column-split",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "metadata - oai_dc:dc - identifier",
+          "expression": "value",
+          "columnName": "metadata - oai_dc:dc - identifier",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [],
+          "selectBlank": true,
+          "selectError": false
+        }
+      ],
+      "mode": "record-based"
+    },
+    "columnName": "metadata - oai_dc:dc - dc:type",
+    "guessCellType": true,
+    "removeOriginalColumn": true,
+    "mode": "separator",
+    "separator": ";",
+    "regex": false,
+    "maxColumns": 2,
+    "description": "Split column metadata - oai_dc:dc - dc:type by separator"
+  },
+  {
+    "op": "core/multivalued-cell-join",
+    "columnName": "metadata - oai_dc:dc - dc:relation",
+    "keyColumnName": "metadata - oai_dc:dc - identifier",
+    "separator": ";",
+    "description": "Join multi-valued cells in column metadata - oai_dc:dc - dc:relation"
+  },
+  {
+    "op": "core/column-split",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "metadata - oai_dc:dc - dc:relation",
+    "guessCellType": true,
+    "removeOriginalColumn": true,
+    "mode": "separator",
+    "separator": ";",
+    "regex": false,
+    "maxColumns": 2,
+    "description": "Split column metadata - oai_dc:dc - dc:relation by separator"
+  }
+]
