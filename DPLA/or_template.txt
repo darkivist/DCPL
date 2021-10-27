@@ -1,0 +1,35 @@
+<!-- For Prefix -->
+
+<?xml version="1.0" encoding="UTF-8"?>
+<mapCollection xmlns="http://digital.library.wisc.edu/1711.dl/DC-DPLA" xmlns:dc_qual="http://digital.library.wisc.edu/1711.dl/DC-DPLA" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dct="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://digital.library.wisc.edu/1711.dl/DC-DPLA http://digital.library.wisc.edu/1711.dl/DC-DPLA-Schema">
+
+<!-- For Row Template -->
+<metadata>
+<dc_qual:qualifieddc xmlns="http://digital.library.wisc.edu/1711.dl/DC-DPLA" xmlns:dc_qual="http://digital.library.wisc.edu/1711.dl/DC-DPLA" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dct="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://digital.library.wisc.edu/1711.dl/DC-DPLA http://digital.library.wisc.edu/1711.dl/DC-DPLA-Schema">
+      <dc:title>{{jsonize(cells["metadata - oai_dc:dc - dc:title"].value).replace('"', '')}}</dc:title>
+      <dc:creator>{{jsonize(cells["metadata - oai_dc:dc - dc:creator"].value).replace('"', '')}}</dc:creator>
+      <dc:contributor>{{jsonize(cells["metadata - oai_dc:dc - dc:contributor"].value).replace('"', '')}}</dc:contributor>
+      <dc:subject>{{jsonize(cells["metadata - oai_dc:dc - dc:subject 1"].value).replace('"', '')}}</dc:subject>
+      <dc:description>{{jsonize(cells["metadata - oai_dc:dc - dc:description"].value).replace('"', '')}}</dc:description>
+      <dc:publisher>{{jsonize(cells["metadata - oai_dc:dc - dc:publisher"].value).replace('"', '')}}</dc:publisher>
+      <dc:date>{{jsonize(cells["metadata - oai_dc:dc - dc:date 2"].value).replace('"', '')}}</dc:date>
+      <dc:type xsi:type="dct:DCMIType">{{jsonize(cells["metadata - oai_dc:dc - dc:format 2"].value).replace('"', '')}}</dc:type>
+      <dc:format>{{jsonize(cells["metadata - oai_dc:dc - dc:format 1"].value).replace('"', '')}}</dc:format>
+      <dc:identifier>{{jsonize(cells["metadata - oai_dc:dc - dc:identifier 1"].value).replace('"', '')}}</dc:identifier>
+      <dc:identifier>{{jsonize(cells["metadata - oai_dc:dc - dc:identifier 2"].value).replace('"', '')}}</dc:identifier>
+      <dc:identifier>{{jsonize(cells["metadata - oai_dc:dc - dc:identifier 3"].value).replace('"', '')}}</dc:identifier>
+      <dc:language xsi:type="dct:ISO639-2">eng</dc:language>
+      <dct:isPartOf>{{jsonize(cells["metadata - oai_dc:dc - dc:relation 1"].value).replace('"', '')}}</dct:isPartOf>
+      <dc:rights>{{jsonize(cells["metadata - oai_dc:dc - dc:rights 2"].value).replace('"', '')}}</dc:rights>
+      <edm:rights>{{jsonize(cells["metadata - oai_dc:dc - dc:rights 1"].value).replace('"', '')}}</edm:rights>
+      <edm:preview>{{jsonize(cells["metadata - oai_dc:dc - dc:identifier.thumbnail"].value).replace('"', '')}}</edm:preview>
+      <edm:isShownAt>{{jsonize(cells["metadata - oai_dc:dc - identifier"].value).replace('"', '')}}</edm:isShownAt>
+      <edm:provider>District Digital</edm:provider>
+      <edm:dataProvider>DC Public Library</edm:dataProvider>
+</dc_qual:qualifieddc>      
+</metadata>
+<!-- Don't put anything in Row Separator -->
+
+<!-- For Suffix -->
+
+</mapCollection>
